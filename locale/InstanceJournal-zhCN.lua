@@ -647,6 +647,16 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65113 = "克罗纳"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65113 =
         "克罗纳尔曾经是一位骄傲的时间线捍卫者，但他却违背了他对青铜龙军团的神圣誓言，与无限者结盟。现在，他已经变成了以前的自己的扭曲外壳，他挥舞着一把“陈旧的长矛”，这是他在过去的冲突中从一位人类英雄手中夺取的武器，他不知疲倦地致力于粉碎他曾经发誓要保护的历史。"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_13737 = "致死打击"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_13737 = "造成物理伤害，并使受到的治疗降低50%，持续5秒。\n\n治疗应准备应对坦克受到的治疗减少。"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_22067 = "反射"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_22067 = "将法术反射回施法者，持续10秒。\n\n反射生效期间，停止对克罗纳尔施放攻击性法术。"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_12887 = "横扫猛击"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_12887 = "对附近敌人造成物理伤害并将其击退。"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_18328 = "破胆怒吼"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_18328 = "使20码内敌人的移动速度降低60%，持续60秒。"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_28131 = "激怒"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_28131 = "造成的伤害提高25%，攻击速度提高40%。\n\n治疗应准备应对坦克受到的额外伤害。"
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "埃皮达姆"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "随着沼泽内的时间异常加剧，来自跨越时间界限的生物被吸引到冲突中。埃皮达姆是无限意志的预兆，利用其扭曲现实的力量吸取沼泽的精华，并显现出困扰破碎时间线的腐化之沙。"

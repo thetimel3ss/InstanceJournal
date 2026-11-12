@@ -54,7 +54,7 @@ BM.Links = {
     }
 }
 BM.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "65113",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "chronar" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "chronar" .. IMPF,
@@ -64,6 +64,42 @@ BM.Bosses = {
         MapCoordinateY = 27.4,
         MapId = IZI.BM2,
         MapIsBelow = true,
+        Abilities = {
+            [1] = {
+                Id = "13737",
+                Icon = "Ability_Warrior_SavageBlow",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_13737,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_13737,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [2] = {
+                Id = "22067",
+                Icon = "Spell_Shadow_Teleport",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_22067,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_22067,
+                Flags = {IMAF.Magic, IMAF.Important}
+            },
+            [3] = {
+                Id = "12887",
+                Icon = "Ability_Devour",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_12887,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_12887
+            },
+            [4] = {
+                Id = "18328",
+                Icon = "Ability_Warrior_WarCry",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_18328,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_18328
+            },
+            [5] = {
+                -- TODO: Confirm the exact health threshold for Enrage.
+                Id = "28131",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_28131,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_28131,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[61016], DropChance = 17},
             [2] = {IJDB.I[61018], DropChance = 17},

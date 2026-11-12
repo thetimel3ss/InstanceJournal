@@ -475,6 +475,16 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65113 = "Chronar"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65113 =
         "Einst ein stolzer Verteidiger der Zeitwege, brach Chronar seinen heiligen Eid gegenüber dem Bronzenen Drachenschwarm, um sich mit dem Unendlichen zu verbünden. Jetzt ist er eine verdrehte Hülle seines früheren Ichs und schwingt einen „zeitverschlissenen Speer“, eine Waffe, die er in einem vergangenen Konflikt einem menschlichen Helden abgenommen hat, während er unermüdlich daran arbeitet, genau die Geschichte zu zerstören, die er einst zu schützen geschworen hat."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_13737 = "Tödlicher Stoß"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_13737 = "Verursacht körperlichen Schaden und verringert erhaltene Heilung 5 Sekunden lang um 50%.\n\nHeiler sollten sich auf verringerte Heilung beim Tank vorbereiten."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_22067 = "Reflexion"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_22067 = "Wirft Zauber 10 Sekunden lang auf ihre Wirker zurück.\n\nWirkt keine offensiven Zauber auf Chronar, solange Reflexion aktiv ist."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_12887 = "Weitreichender Schlag"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_12887 = "Fügt nahen Gegnern körperlichen Schaden zu und stößt sie zurück."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_18328 = "Lähmender Ruf"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_18328 = "Verringert das Bewegungstempo von Gegnern im Umkreis von 20 Metern 60 Sekunden lang um 60%."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_28131 = "Wutanfall"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_28131 = "Erhöht den verursachten Schaden um 25% und das Angriffstempo um 40%.\n\nHeiler sollten sich auf erhöhten Schaden beim Tank vorbereiten."
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Epidamu"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "Während sich die zeitlichen Anomalien im Morast verschärfen, werden Kreaturen jenseits der Zeitgrenzen von dem Konflikt angezogen. Epidamu dient als Vorbote des Willens des Unendlichen und nutzt seine realitätsverzerrenden Kräfte, um die Essenz des Sumpfes abzusaugen und den verdorbenen Sand zu manifestieren, der die zerbrochenen Zeitlinien heimsucht."

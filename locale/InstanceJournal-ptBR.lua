@@ -470,6 +470,16 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65113 = "Cronar"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65113 =
         "Outrora um orgulhoso defensor dos tempos, Chronar quebrou seus juramentos sagrados à Revoada Dragônica de Bronze para se associar ao Infinito. Agora uma casca distorcida do que era, ele empunha uma 'Lança Desgastada pelo Tempo', uma arma que ele reivindicou de um herói humano em um conflito passado, enquanto trabalha incansavelmente para destruir a própria história que uma vez jurou proteger."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_13737 = "Golpe Mortal"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_13737 = "Causa dano Físico e reduz a cura recebida em 50% por 5 segundos.\n\nHealers devem se preparar para a redução de cura no tank."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_22067 = "Reflexão"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_22067 = "Reflete feitiços de volta aos conjuradores por 10 segundos.\n\nPare de conjurar feitiços ofensivos contra Chronar enquanto Reflexão estiver ativa."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_12887 = "Pancada Abrangente"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_12887 = "Causa dano Físico aos inimigos próximos e os repele."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_18328 = "Grito Incapacitante"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_18328 = "Reduz a velocidade de movimento dos inimigos em até 20 metros em 60% por 60 segundos."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_28131 = "Enfurecer"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_28131 = "Aumenta o dano causado em 25% e a velocidade de ataque em 40%.\n\nHealers devem se preparar para o aumento de dano no tank."
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Epidamu"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "À medida que as anomalias temporais no pântano se intensificam, criaturas de além das fronteiras do tempo são atraídas para o conflito. Epidamu serve como um arauto da vontade do Infinito, usando seus poderes de distorcer a realidade para sugar a essência do pântano e manifestar a Areia Corrompida que assola as linhas do tempo quebradas."

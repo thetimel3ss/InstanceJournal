@@ -475,6 +475,16 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65113 = "cronar"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65113 =
         "Chronar, que alguna vez fue un orgulloso defensor de los tiempos, rompió sus juramentos sagrados al Vuelo de Bronce para asociarse con el Infinito. Ahora, una cáscara retorcida de lo que era antes, empuña una \"Lanza desgastada por el tiempo\", un arma que le quitó a un héroe humano en un conflicto pasado, mientras trabaja incansablemente para destruir la misma historia que una vez juró proteger."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_13737 = "Golpe mortal"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_13737 = "Inflige daño físico y reduce la sanación recibida un 50% durante 5 segundos.\n\nLos sanadores deben prepararse para una menor sanación sobre el tanque."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_22067 = "Reflejo"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_22067 = "Refleja los hechizos hacia sus lanzadores durante 10 segundos.\n\nDeja de lanzar hechizos ofensivos contra Chronar mientras Reflejo esté activo."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_12887 = "Embate de barrido"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_12887 = "Inflige daño físico a los enemigos cercanos y los repele."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_18328 = "Grito incapacitador"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_18328 = "Reduce la velocidad de movimiento de los enemigos en un radio de 20 metros un 60% durante 60 segundos."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_28131 = "Enfurecer"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_28131 = "Aumenta el daño infligido un 25% y la velocidad de ataque un 40%.\n\nLos sanadores deben prepararse para un mayor daño sobre el tanque."
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Epidamu"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "A medida que las anomalías temporales dentro del pantano se intensifican, criaturas de más allá de los límites del tiempo se ven atraídas al conflicto. Epidamu sirve como presagio de la voluntad del Infinito, utilizando sus poderes de distorsión de la realidad para extraer la esencia del pantano y manifestar la Arena Corrupta que plaga las líneas de tiempo rotas."

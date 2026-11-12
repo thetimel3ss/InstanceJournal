@@ -474,6 +474,16 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65113 = "Chronaire"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65113 =
         "Autrefois fier défenseur des voies temporelles, Chronar a rompu ses serments sacrés envers le Vol draconique de Bronze pour s'allier à l'Infini. Désormais une enveloppe tordue de lui-même, il brandit une «lance usée par le temps», une arme qu'il a récupérée auprès d'un héros humain lors d'un conflit passé, alors qu'il travaille sans relâche pour briser l'histoire même qu'il avait autrefois juré de protéger."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_13737 = "Frappe mortelle"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_13737 = "Inflige des dégâts physiques et réduit les soins reçus de 50% pendant 5 secondes.\n\nLes soigneurs doivent anticiper une réduction des soins sur le tank."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_22067 = "Réflexion"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_22067 = "Réfléchit les sorts vers leurs lanceurs pendant 10 secondes.\n\nCessez de lancer des sorts offensifs sur Chronar tant que Réflexion est active."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_12887 = "Frappe balayante"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_12887 = "Inflige des dégâts physiques aux ennemis proches et les repousse."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_18328 = "Cri incapacitant"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_18328 = "Réduit la vitesse de déplacement des ennemis dans un rayon de 20 mètres de 60% pendant 60 secondes."
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_NAME_28131 = "Enrager"
+    IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_28131 = "Augmente les dégâts infligés de 25% et la vitesse d'attaque de 40%.\n\nLes soigneurs doivent anticiper davantage de dégâts sur le tank."
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Épidamu"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "À mesure que les anomalies temporelles au sein du bourbier s’intensifient, des créatures au-delà des frontières du temps sont attirées par le conflit. Epidamu sert de précurseur de la volonté de l'Infini, utilisant ses pouvoirs de déformation de la réalité pour siphonner l'essence du marais et manifester le Sable Corrompu qui gangrène les lignes temporelles brisées."
