@@ -488,6 +488,14 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Epidamu"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "A medida que las anomalías temporales dentro del pantano se intensifican, criaturas de más allá de los límites del tiempo se ven atraídas al conflicto. Epidamu sirve como presagio de la voluntad del Infinito, utilizando sus poderes de distorsión de la realidad para extraer la esencia del pantano y manifestar la Arena Corrupta que plaga las líneas de tiempo rotas."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17287 = "Explosión mental"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17287 = "Inflige daño de las Sombras a un objetivo tras un lanzamiento de 1,5 segundos."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_9433 = "Explosión Arcana"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_9433 = "Inflige daño Arcano a los enemigos en un radio de 10 metros.\n\nLos jugadores a distancia y los sanadores deben permanecer fuera de este alcance."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17682 = "Drenar maná"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17682 = "Drena maná cada segundo durante 5 segundos.\n\nDisipa este efecto mágico inmediatamente."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_57102 = "Confluencia temporal"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_57102 = "Inflige daño Arcano cada segundo y aumenta la velocidad de ataque cuerpo a cuerpo del objetivo afectado un 20% durante 15 segundos."
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Avatar de arena a la deriva"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "Formado a partir del peso colectivo de posibilidades destrozadas, el Avatar de Arena a la Deriva es una construcción sin sentido del Vuelo Infinito. Actúa literalmente como un reloj de arena fatalista, que encarna la arena corrupta que se filtra de las heridas en la línea de tiempo, aplastando a cualquiera que busque reparar el daño crónico."

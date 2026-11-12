@@ -562,6 +562,14 @@ IJ_DB_DUNGEON_BM_BOSS_65113_ABILITY_EFFECT_28131 = "Increases damage dealt by 25
 IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Epidamu"
 IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
     "As the temporal anomalies within the morass intensify, creatures from across the boundaries of time are drawn to the conflict. Epidamu serves as a harbinger of the Infinite's will, using its reality-warping powers to siphon the essence of the swamp and manifest the Corrupted Sand that plagues the broken timelines."
+IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17287 = "Mind Blast"
+IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17287 = "Deals Shadow damage to a target after a 1.5-second cast."
+IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_9433 = "Arcane Explosion"
+IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_9433 = "Deals Arcane damage to enemies within 10 yards.\n\nRanged players and healers should remain outside this range."
+IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17682 = "Drain Mana"
+IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17682 = "Drains mana every second for 5 seconds.\n\nDispel this magic effect immediately."
+IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_57102 = "Temporal Conflux"
+IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_57102 = "Deals Arcane damage every second and increases the affected target's melee attack speed by 20% for 15 seconds."
 IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Drifting Avatar of Sand"
 IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
     "Formed from the collective weight of shattered possibilities, the Drifting Avatar of Sand is a mindless construct of the Infinite Dragonflight. It acts as a literal hourglass of doom, embodying the Corrupted Sand that leaks from the wounds in the timeline, crushing any who seek to repair the chronal damage."

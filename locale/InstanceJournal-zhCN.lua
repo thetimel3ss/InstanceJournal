@@ -660,6 +660,14 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "埃皮达姆"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "随着沼泽内的时间异常加剧，来自跨越时间界限的生物被吸引到冲突中。埃皮达姆是无限意志的预兆，利用其扭曲现实的力量吸取沼泽的精华，并显现出困扰破碎时间线的腐化之沙。"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17287 = "心灵震爆"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17287 = "施法1.5秒后对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_9433 = "魔爆术"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_9433 = "对10码内的敌人造成奥术伤害。\n\n远程玩家和治疗应保持在此范围之外。"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17682 = "吸取法力"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17682 = "每秒吸取法力值，持续5秒。\n\n立即驱散此魔法效果。"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_57102 = "时空涡流"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_57102 = "每秒造成奥术伤害，并使受影响目标的近战攻击速度提高20%，持续15秒。"
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "沙之漂流化身"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "沙之漂流化身由破碎的可能性的集体重量形成，是无限龙军团的无意识构造体。它就像一个真正的厄运沙漏，体现了从时间线的伤口中泄漏出来的腐化之​​沙，粉碎了任何试图修复时间损伤的人。"

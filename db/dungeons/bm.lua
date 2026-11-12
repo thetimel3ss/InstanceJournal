@@ -110,7 +110,7 @@ BM.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 1}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "61575",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "epidamu" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "epidamu" .. IMPF,
@@ -120,6 +120,35 @@ BM.Bosses = {
         MapCoordinateY = 17.2,
         MapId = IZI.BM2,
         MapIsBelow = true,
+        Abilities = {
+            [1] = {
+                Id = "17287",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17287,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17287
+            },
+            [2] = {
+                Id = "9433",
+                Icon = "Spell_Nature_WispSplode",
+                Name = IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_9433,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_9433,
+                Flags = {IMAF.Heal}
+            },
+            [3] = {
+                Id = "17682",
+                Icon = "Spell_Shadow_SiphonMana",
+                Name = IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17682,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17682,
+                Flags = {IMAF.Magic, IMAF.Important}
+            },
+            [4] = {
+                Id = "57102",
+                Icon = "Spell_Holy_BorrowedTime",
+                Name = IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_57102,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_57102,
+                Flags = {IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[50431], DropChance = 12},
             [2] = {IJDB.I[61032], DropChance = 12},

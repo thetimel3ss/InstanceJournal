@@ -483,6 +483,14 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Epidamu"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "À medida que as anomalias temporais no pântano se intensificam, criaturas de além das fronteiras do tempo são atraídas para o conflito. Epidamu serve como um arauto da vontade do Infinito, usando seus poderes de distorcer a realidade para sugar a essência do pântano e manifestar a Areia Corrompida que assola as linhas do tempo quebradas."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17287 = "Impacto Mental"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17287 = "Causa dano de Sombra a um alvo após um cast de 1,5 segundo."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_9433 = "Explosão Arcana"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_9433 = "Causa dano Arcano aos inimigos em até 10 metros.\n\nRanged e healers devem permanecer fora desse alcance."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17682 = "Drenar Mana"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17682 = "Drena mana a cada segundo por 5 segundos.\n\nDissipe este efeito mágico imediatamente."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_57102 = "Confluência Temporal"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_57102 = "Causa dano Arcano a cada segundo e aumenta a velocidade dos ataques corpo a corpo do alvo afetado em 20% por 15 segundos."
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Avatar à deriva da areia"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "Formado a partir do peso coletivo de possibilidades destruídas, o Avatar Drifting of Sand é uma construção estúpida da Revoada Dragônica Infinita. Ele atua como uma ampulheta literal da destruição, incorporando a Areia Corrompida que vaza das feridas na linha do tempo, esmagando qualquer um que tente reparar o dano crônico."

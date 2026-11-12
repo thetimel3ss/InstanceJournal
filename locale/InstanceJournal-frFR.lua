@@ -487,6 +487,14 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Épidamu"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "À mesure que les anomalies temporelles au sein du bourbier s’intensifient, des créatures au-delà des frontières du temps sont attirées par le conflit. Epidamu sert de précurseur de la volonté de l'Infini, utilisant ses pouvoirs de déformation de la réalité pour siphonner l'essence du marais et manifester le Sable Corrompu qui gangrène les lignes temporelles brisées."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17287 = "Attaque mentale"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17287 = "Inflige des dégâts d'Ombre à une cible après 1,5 seconde d'incantation."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_9433 = "Explosion des Arcanes"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_9433 = "Inflige des dégâts des Arcanes aux ennemis dans un rayon de 10 mètres.\n\nLes joueurs à distance et les soigneurs doivent rester hors de cette portée."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17682 = "Drain de mana"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17682 = "Draine du mana chaque seconde pendant 5 secondes.\n\nDissipez immédiatement cet effet magique."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_57102 = "Confluence temporelle"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_57102 = "Inflige des dégâts des Arcanes chaque seconde et augmente la vitesse d'attaque en mêlée de la cible affectée de 20% pendant 15 secondes."
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Avatar de sable à la dérive"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "Formé à partir du poids collectif de possibilités brisées, l'Avatar Dérivant de Sable est une construction insensée du Vol Dragon Infini. Il agit comme un sablier littéral de malheur, incarnant le sable corrompu qui s'échappe des blessures de la chronologie, écrasant tous ceux qui cherchent à réparer les dommages chroniques."

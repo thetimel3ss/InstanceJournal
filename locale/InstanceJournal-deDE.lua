@@ -488,6 +488,14 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61575 = "Epidamu"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61575 =
         "Während sich die zeitlichen Anomalien im Morast verschärfen, werden Kreaturen jenseits der Zeitgrenzen von dem Konflikt angezogen. Epidamu dient als Vorbote des Willens des Unendlichen und nutzt seine realitätsverzerrenden Kräfte, um die Essenz des Sumpfes abzusaugen und den verdorbenen Sand zu manifestieren, der die zerbrochenen Zeitlinien heimsucht."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17287 = "Gedankenschlag"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17287 = "Fügt einem Ziel nach 1,5 Sekunden Wirkzeit Schattenschaden zu."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_9433 = "Arkane Explosion"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_9433 = "Fügt Gegnern im Umkreis von 10 Metern Arkanschaden zu.\n\nFernkämpfer und Heiler sollten außerhalb dieser Reichweite bleiben."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_17682 = "Mana entziehen"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_17682 = "Entzieht 5 Sekunden lang jede Sekunde Mana.\n\nEntfernt diesen magischen Effekt sofort."
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_NAME_57102 = "Zeitlicher Zusammenfluss"
+    IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_57102 = "Verursacht jede Sekunde Arkanschaden und erhöht das Nahkampfangriffstempo des betroffenen Ziels 15 Sekunden lang um 20%."
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Treibender Avatar aus Sand"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "Der Drifting Avatar of Sand ist aus der kollektiven Last zerstörter Möglichkeiten entstanden und ein gedankenloses Konstrukt des Unendlichen Drachenschwarms. Es fungiert im wahrsten Sinne des Wortes als Sanduhr des Untergangs und verkörpert den verdorbenen Sand, der aus den Wunden in der Zeitleiste sickert und jeden zermalmt, der versucht, den chronischen Schaden zu reparieren."
