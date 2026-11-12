@@ -671,6 +671,10 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "沙之漂流化身"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "沙之漂流化身由破碎的可能性的集体重量形成，是无限龙军团的无意识构造体。它就像一个真正的厄运沙漏，体现了从时间线的伤口中泄漏出来的腐化之​​沙，粉碎了任何试图修复时间损伤的人。"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57103 = "沙尘冲击"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57103 = "对施法者前方锥形区域内的敌人造成自然伤害，并将其击退。\n\n让首领背对队伍。"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57104 = "致盲沙尘"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57104 = "使10码内的敌人迷惑，移动速度降低60%，并每3秒造成一次自然伤害，持续6秒。\n\n在2.5秒的施法期间远离首领，以避免此效果。"
     IJ_DB_DUNGEON_BM_BOSS_NAME_65116 = "时间领主伊波克洛诺斯"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65116 =
         "艾波克洛诺斯是无限之龙军团的高级战略家，负责监督对麦迪文仪式的战术攻击。他将时间的线性流动视为一个牢笼，并寻求解锁一个未来，避免军团的最终失败，相信他对过去的“修正”是为了多元宇宙的更大利益。"

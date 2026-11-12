@@ -499,6 +499,10 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Avatar de arena a la deriva"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "Formado a partir del peso colectivo de posibilidades destrozadas, el Avatar de Arena a la Deriva es una construcción sin sentido del Vuelo Infinito. Actúa literalmente como un reloj de arena fatalista, que encarna la arena corrupta que se filtra de las heridas en la línea de tiempo, aplastando a cualquiera que busque reparar el daño crónico."
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57103 = "Ráfaga de arena"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57103 = "Inflige daño de Naturaleza a los enemigos en un cono frente al taumaturgo y los repele.\n\nMantén al jefe de espaldas al grupo."
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57104 = "Arena cegadora"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57104 = "Desorienta a los enemigos en un radio de 10 metros, reduce su velocidad de movimiento un 60% e inflige daño de Naturaleza cada 3 segundos durante 6 segundos.\n\nAléjate durante el lanzamiento de 2,5 segundos para evitar el efecto."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65116 = "Señor del Tiempo Epochronos"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65116 =
         "Epochronos, estratega de alto rango del Vuelo Infinito, supervisa el asalto táctico al ritual de Medivh. Considera el flujo lineal del tiempo como una jaula y busca desbloquear un futuro en el que se evite la derrota final de la Legión, creyendo que sus \"correcciones\" al pasado son por el bien del multiverso."

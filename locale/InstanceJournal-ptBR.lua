@@ -494,6 +494,10 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Avatar à deriva da areia"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "Formado a partir do peso coletivo de possibilidades destruídas, o Avatar Drifting of Sand é uma construção estúpida da Revoada Dragônica Infinita. Ele atua como uma ampulheta literal da destruição, incorporando a Areia Corrompida que vaza das feridas na linha do tempo, esmagando qualquer um que tente reparar o dano crônico."
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57103 = "Rajada de Areia"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57103 = "Causa dano de Natureza aos inimigos em um cone à frente do lançador e os repele.\n\nMantenha o boss virado para longe do grupo."
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57104 = "Areia Cegante"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57104 = "Desorienta os inimigos em até 10 metros, reduz sua velocidade de movimento em 60% e causa dano de Natureza a cada 3 segundos por 6 segundos.\n\nAfaste-se durante o cast de 2,5 segundos para evitar o efeito."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65116 = "Senhor do Tempo Epochronos"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65116 =
         "Estrategista de alto escalão da Revoada Dragônica Infinita, Epochronos supervisiona o ataque tático ao ritual de Medivh. Ele vê o fluxo linear do tempo como uma gaiola e procura desbloquear um futuro onde a derrota final da Legião seja evitada, acreditando que suas 'correções' ao passado são para o bem maior do multiverso."

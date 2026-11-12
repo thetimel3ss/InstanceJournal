@@ -498,6 +498,10 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Avatar de sable à la dérive"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "Formé à partir du poids collectif de possibilités brisées, l'Avatar Dérivant de Sable est une construction insensée du Vol Dragon Infini. Il agit comme un sablier littéral de malheur, incarnant le sable corrompu qui s'échappe des blessures de la chronologie, écrasant tous ceux qui cherchent à réparer les dommages chroniques."
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57103 = "Souffle de sable"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57103 = "Inflige des dégâts de Nature aux ennemis dans un cône devant le lanceur et les repousse.\n\nMaintenez le boss dos au groupe."
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57104 = "Sable aveuglant"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57104 = "Désoriente les ennemis dans un rayon de 10 mètres, réduit leur vitesse de déplacement de 60% et inflige des dégâts de Nature toutes les 3 secondes pendant 6 secondes.\n\nÉloignez-vous pendant les 2,5 secondes d'incantation pour éviter cet effet."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65116 = "Epochronos, Seigneur du Temps"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65116 =
         "Stratège de haut rang du Vol draconique infini, Epochronos supervise l'assaut tactique du rituel de Medivh. Il considère l'écoulement linéaire du temps comme une cage et cherche à débloquer un avenir où la défaite ultime de la Légion sera évitée, estimant que ses « corrections » du passé sont pour le plus grand bien du multivers."

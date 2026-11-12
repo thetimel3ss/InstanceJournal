@@ -160,7 +160,7 @@ BM.Bosses = {
             [8] = {IJDB.I[61700], DropChance = 12}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "61316",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "avatar" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "avatar" .. IMPF,
@@ -169,6 +169,20 @@ BM.Bosses = {
         MapCoordinateX = 32.8,
         MapCoordinateY = 12.9,
         MapId = IZI.BM2,
+        Abilities = {
+            [1] = {
+                Id = "57103",
+                Icon = "Spell_Fire_WindsofWoe",
+                Name = IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57103,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57103
+            },
+            [2] = {
+                Id = "57104",
+                Icon = "Ability_Hibernation",
+                Name = IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57104,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57104
+            }
+        },
         Loot = {
             [1] = {IJDB.I[61015], DropChance = 14},
             [2] = {IJDB.I[61020], DropChance = 2},

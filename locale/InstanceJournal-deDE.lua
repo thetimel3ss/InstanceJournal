@@ -499,6 +499,10 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Treibender Avatar aus Sand"
     IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
         "Der Drifting Avatar of Sand ist aus der kollektiven Last zerstörter Möglichkeiten entstanden und ein gedankenloses Konstrukt des Unendlichen Drachenschwarms. Es fungiert im wahrsten Sinne des Wortes als Sanduhr des Untergangs und verkörpert den verdorbenen Sand, der aus den Wunden in der Zeitleiste sickert und jeden zermalmt, der versucht, den chronischen Schaden zu reparieren."
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57103 = "Sandstoß"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57103 = "Fügt Gegnern in einem kegelförmigen Bereich vor dem Zaubernden Naturschaden zu und stößt sie zurück.\n\nLasst den Boss von der Gruppe wegschauen."
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57104 = "Blendender Sand"
+    IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57104 = "Desorientiert Gegner im Umkreis von 10 Metern, verringert ihre Bewegungsgeschwindigkeit um 60% und verursacht 6 Sekunden lang alle 3 Sekunden Naturschaden.\n\nEntfernt euch während der Wirkzeit von 2,5 Sekunden, um den Effekt zu vermeiden."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65116 = "Zeitherr Epochronos"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65116 =
         "Als hochrangiger Stratege des Unendlichen Drachenschwarms überwacht Epochronos den taktischen Angriff auf Medivhs Ritual. Er betrachtet den linearen Fluss der Zeit als einen Käfig und versucht, eine Zukunft zu erschließen, in der die endgültige Niederlage der Legion abgewendet wird, da er glaubt, dass seine „Korrekturen“ der Vergangenheit dem größeren Wohl des Multiversums dienen."

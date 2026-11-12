@@ -573,6 +573,10 @@ IJ_DB_DUNGEON_BM_BOSS_61575_ABILITY_EFFECT_57102 = "Deals Arcane damage every se
 IJ_DB_DUNGEON_BM_BOSS_NAME_61316 = "Drifting Avatar of Sand"
 IJ_DB_DUNGEON_BM_BOSS_STORY_61316 =
     "Formed from the collective weight of shattered possibilities, the Drifting Avatar of Sand is a mindless construct of the Infinite Dragonflight. It acts as a literal hourglass of doom, embodying the Corrupted Sand that leaks from the wounds in the timeline, crushing any who seek to repair the chronal damage."
+IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57103 = "Sand Blast"
+IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57103 = "Deals Nature damage to enemies in a cone in front of the caster and knocks them back.\n\nKeep the boss facing away from the group."
+IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_NAME_57104 = "Blinding Sand"
+IJ_DB_DUNGEON_BM_BOSS_61316_ABILITY_EFFECT_57104 = "Disorients enemies within 10 yards, reduces their movement speed by 60%, and deals Nature damage every 3 seconds for 6 seconds.\n\nMove away during the 2.5-second cast to avoid the effect."
 IJ_DB_DUNGEON_BM_BOSS_NAME_65116 = "Time-Lord Epochronos"
 IJ_DB_DUNGEON_BM_BOSS_STORY_65116 =
     "A high-ranking strategist of the Infinite Dragonflight, Epochronos oversees the tactical assault on Medivh's ritual. He views the linear flow of time as a cage and seeks to unlock a future where the Legion's ultimate defeat is averted, believing that his 'corrections' to the past are for the greater good of the multiverse."
