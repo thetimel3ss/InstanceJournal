@@ -1557,6 +1557,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein, o Devorador"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "Ramstein é uma das abominações mais infames do Flagelo, um horror costurado a partir de numerosos cadáveres e fortalecido por uma fome incessante. Este monstro cometeu atrocidades indescritíveis contra inúmeras almas inocentes quando as forças do Flagelo invadiram Stratholme."
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_5568 = "Atropelar"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_5568 =
+        "Causa dano Físico aos inimigos em até 10 metros."
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_17307 = "Nocaute"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_17307 =
+        "Causa dano Físico, repele um alvo e o atordoa por 6 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Barão Rivendare"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "O Barão Rivendare é um poderoso cavaleiro da morte a serviço do Lich King, coordenando os esforços do Flagelo nas Terras Pestilentas. Governando a cidade de Stratholme, ele atualmente luta com agentes do Argent Dawn enviados a Stratholme para matá-lo."

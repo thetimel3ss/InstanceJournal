@@ -1561,6 +1561,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein le Gorgeur"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "Ramstein est l'une des abominations les plus infâmes du Fléau, une horreur assemblée à partir de nombreux cadavres et renforcée par une faim incessante. Ce monstre a commis des atrocités indescriptibles sur d'innombrables âmes innocentes lorsque les forces du Fléau ont envahi Stratholme."
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_5568 = "Piétinement"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_5568 =
+        "Inflige des dégâts physiques aux ennemis dans un rayon de 10 mètres."
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_17307 = "Assommer"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_17307 =
+        "Inflige des dégâts physiques, repousse une cible et l’étourdit pendant 6 secondes."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Baron Rivendare"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "Le baron Rivendare est un puissant chevalier de la mort au service du roi-liche, coordonnant les efforts du Fléau dans les Maleterres. Régnant sur la ville de Stratholme, il se bat actuellement avec les agents de l'Aube d'Argent envoyés à Stratholme pour le tuer."

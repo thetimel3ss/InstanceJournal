@@ -2735,6 +2735,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "吞咽者拉姆斯登"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "拉姆斯坦是天灾军团最臭名昭著的怪物之一，它是由无数尸体拼凑而成的恐怖怪物，并由无尽的饥饿赋予力量。当天灾军团占领斯坦索姆时，这个怪物对无数无辜的灵魂犯下了难以形容的暴行。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_5568 = "践踏"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_5568 =
+        "对10码内的敌人造成物理伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_17307 = "击昏"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_17307 =
+        "造成物理伤害，将一个目标击退并使其昏迷6秒。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "瑞文戴尔男爵"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "瑞文戴尔男爵是一名强大的死亡骑士，为巫妖王服务，协调天灾军团在瘟疫之地的行动。他统治着斯坦索姆市，目前正在与派往斯坦索姆刺杀他的银色黎明特工作战。"

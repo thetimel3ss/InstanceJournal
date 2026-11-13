@@ -1562,6 +1562,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein der Schlinger"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "Ramstein ist eine der berüchtigtsten Abscheulichkeiten der Geißel, ein Schrecken, der aus zahlreichen Leichen zusammengesetzt und von einem unaufhörlichen Hunger gestärkt wird. Dieses Monster verübte unaussprechliche Gräueltaten an unzähligen unschuldigen Seelen, als Truppen der Geißel Stratholme überrannten."
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_5568 = "Trampeln"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_5568 =
+        "Fügt Gegnern im Umkreis von 10 Metern körperlichen Schaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_17307 = "Knockout"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_17307 =
+        "Verursacht körperlichen Schaden, stößt ein Ziel zurück und betäubt es 6 Sekunden lang."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Baron Rivendare"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "Baron Rivendare ist ein mächtiger Todesritter im Dienste des Lichkönigs, der die Bemühungen der Geißel in den Pestländern koordiniert. Er herrscht über die Stadt Stratholme und kämpft derzeit mit Agenten der Argent Dawn, die nach Stratholme geschickt wurden, um ihn zu töten."

@@ -670,7 +670,7 @@ STRAT.Bosses = {
             [12] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [15] = { -- NOTE: Missing abilities
+    [15] = {
         Id = "10439",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "ramstein" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "ramstein" .. IMPF,
@@ -678,6 +678,21 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439,
         MapCoordinateX = 65.5,
         MapCoordinateY = 16.2,
+        Abilities = {
+            [1] = {
+                Id = "5568",
+                Icon = "Spell_Nature_NaturesWrath",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_5568,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_5568
+            },
+            [2] = {
+                Id = "17307",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_17307,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_17307,
+                Flags = {IMAF.Tank}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13372], DropChance = 14},
             [2] = {IJDB.I[13373], DropChance = 14},

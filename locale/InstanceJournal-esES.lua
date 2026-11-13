@@ -1561,6 +1561,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein el Gorger"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "Ramstein es una de las abominaciones más infames de la Plaga, un horror formado a partir de numerosos cadáveres y potenciado por un hambre incesante. Este monstruo cometió atrocidades indescriptibles en innumerables almas inocentes cuando las fuerzas de la Plaga invadieron Stratholme."
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_5568 = "Pisotear"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_5568 =
+        "Inflige daño Físico a los enemigos en un radio de 10 metros."
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_17307 = "Nocaut"
+    IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_17307 =
+        "Inflige daño físico, repele a un objetivo y lo aturde durante 6 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Barón Rivendare"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "El barón Rivendare es un poderoso caballero de la muerte al servicio del Rey Exánime y coordina los esfuerzos de la Plaga en las Tierras de la Peste. Gobierna la ciudad de Stratholme y actualmente lucha con agentes de Argent Dawn enviados a Stratholme para matarlo."

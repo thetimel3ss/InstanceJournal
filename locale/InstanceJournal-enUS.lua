@@ -2605,6 +2605,12 @@ IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17243 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein the Gorger"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
     "Ramstein is one of the Scourge's most infamous abominations, a horror stitched together from numerous corpses and empowered by a ceaseless hunger. This monster committed unspeakable atrocities on countless innocent souls when Scourge forces overran Stratholme."
+IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_5568 = "Trample"
+IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_5568 =
+    "Deals Physical damage to enemies within 10 yards."
+IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_NAME_17307 = "Knockout"
+IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_17307 =
+    "Deals Physical damage, knocks a target back and stuns them for 6 seconds."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Baron Rivendare"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
     "Baron Rivendare is a powerful death knight in the service of the Lich King, coordinating the efforts of the Scourge in the Plaguelands. Ruling over the city of Stratholme, he currently battles with agents of the Argent Dawn sent to Stratholme to kill him."
