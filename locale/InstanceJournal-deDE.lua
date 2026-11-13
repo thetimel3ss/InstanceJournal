@@ -1523,6 +1523,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nerub'enkan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "Nerub'enkan war ein furchterregender Krieger während des Spinnenkrieges. Letztendlich erlag sie ihren Wunden und wurde als gehorsame Dienerin der Geißel in den Untod erzogen. Jetzt bewacht die Nerubierin eine Zikkurat in Stratholme so erbittert, wie sie zu Lebzeiten ihr Zuhause verteidigte."
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_4962 = "Einhüllende Gespinste"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_4962 =
+        "Macht ein Ziel bewegungsunfähig und verringert sein Nahkampfangriffstempo 6 Sekunden lang."
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_6016 = "Rüstung durchstechen"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_6016 =
+        "Verringert die Rüstung eines Ziels 20 Sekunden lang um 50%."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baroness Anastari"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "Solange sie lebte, nahm sich Anastari, was sie wollte, koste es, was es wolle. Daran hat der Tod wenig geändert. Nachdem ihr die Seele aus dem Körper gerissen wurde, wurde Anastari zur Todesfee, und sie hat ihre Liebe zu materiellen Schmuckstücken zugunsten von Besitztümern weitaus unheimlicherer Art aufgegeben."

@@ -1522,6 +1522,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nérub'enkan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "Nerub'enkan était un redoutable guerrier pendant la Guerre de l'Araignée. Finalement, elle succomba à ses blessures et fut ressuscitée comme une servante obéissante du Fléau. Aujourd'hui, la nérubienne garde une ziggourat à Stratholme avec autant de férocité qu'elle a défendu sa maison de son vivant."
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_4962 = "Toiles enveloppantes"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_4962 =
+        "Immobilise une cible et réduit sa vitesse d’attaque en mêlée pendant 6 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_6016 = "Perce-armure"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_6016 =
+        "Réduit l'armure d'une cible de 50% pendant 20 secondes."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baronne Anastari"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "Pendant qu'elle vivait, Anastari prenait ce qu'elle voulait, quel qu'en soit le prix. La mort n’a pas fait grand-chose pour changer cela. Son âme arrachée de son corps, Anastari est devenue une banshee et elle a abandonné son amour des bibelots matériels au profit de possessions bien plus sinistres."

@@ -2566,6 +2566,12 @@ IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_EFFECT_14331 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nerub'enkan"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
     "Nerub'enkan was a fearsome warrior during the War of the Spider. Ultimately, she succumbed to her wounds and was raised into undeath as an obedient minion of the Scourge. Now the nerubian guards a ziggurat in Stratholme as fiercely as she defended her home in life."
+IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_4962 = "Encasing Webs"
+IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_4962 =
+    "Roots a target and reduces its melee attack speed for 6 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_6016 = "Pierce Armor"
+IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_6016 =
+    "Reduces a target's armor by 50% for 20 seconds."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baroness Anastari"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
     "While she lived, Anastari took what she wanted, no matter the cost. Death has done little to change that. Her soul ripped from her body, Anastari became a banshee, and she has abandoned her love of material trinkets in favor of possessions of a far more sinister kind."

@@ -1522,6 +1522,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nerub'enkan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "Nerub'enkan fue un temible guerrero durante la Guerra de la Araña. Al final, sucumbió a sus heridas y fue resucitada como un siervo obediente de la Plaga. Ahora la nerubiana protege un zigurat en Stratholme con tanta fiereza como defendió su hogar en vida."
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_4962 = "Redes envolventes"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_4962 =
+        "Inmoviliza a un objetivo y reduce su velocidad de ataque cuerpo a cuerpo durante 6 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_6016 = "Perforar armadura"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_6016 =
+        "Reduce la armadura de un objetivo un 50% durante 20 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baronesa Anastari"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "Mientras vivió, Anastari tomó lo que quiso, sin importar el costo. La muerte ha hecho poco para cambiar eso. Con el alma arrancada de su cuerpo, Anastari se convirtió en un alma en pena y abandonó su amor por las baratijas materiales en favor de posesiones de un tipo mucho más siniestro."

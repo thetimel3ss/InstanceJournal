@@ -2696,6 +2696,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "奈鲁布恩坎"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "尼鲁布坎 (奈鲁布恩坎) 是蜘蛛之战期间一位可怕的战士。最终，她因伤势过重而死亡，并作为天灾军团的顺从仆从复活为亡灵。现在，这位尼鲁布人像她生前保卫家园一样，守护着斯坦索姆的金字形神塔。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_4962 = "包围之网"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_4962 =
+        "使一个目标定身，并降低其近战攻击速度，持续6秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_6016 = "刺穿护甲"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_6016 =
+        "使一个目标的护甲值降低50%，持续20秒。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "安娜丝塔丽男爵夫人"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "在她活着的时候，阿纳斯塔里就得到了她想要的东西，不惜一切代价。死亡并没有改变这一点。她的灵魂从她的身体中被撕裂，阿纳斯塔里变成了女妖，她放弃了对物质饰品的热爱，转而追求一种更加险恶的财产。"

@@ -1518,6 +1518,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nerub'enkan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "Nerub'enkan foi um guerreiro temível durante a Guerra da Aranha. No final das contas, ela sucumbiu aos ferimentos e foi elevada à condição de morta-viva como uma serva obediente do Flagelo. Agora a nerubiana guarda um zigurate em Stratholme com a mesma ferocidade com que defendeu sua casa em vida."
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_4962 = "Teias Aprisionantes"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_4962 =
+        "Enraíza um alvo e reduz sua velocidade de ataque corpo a corpo por 6 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_6016 = "Perfurar Armadura"
+    IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_6016 =
+        "Reduz a armadura de um alvo em 50% por 20 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baronesa Anastari"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "Enquanto viveu, Anastari pegou o que quis, custe o que custar. A morte pouco fez para mudar isso. Com a alma arrancada de seu corpo, Anastari se tornou uma banshee e abandonou seu amor por bugigangas materiais em favor de bens de um tipo muito mais sinistro."

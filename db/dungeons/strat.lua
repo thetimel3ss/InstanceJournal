@@ -530,7 +530,7 @@ STRAT.Bosses = {
             [4] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [12] = { -- NOTE: Missing abilities
+    [12] = {
         Id = "10437",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "nerubenkan" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "nerubenkan" .. IMPF,
@@ -538,6 +538,21 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437,
         MapCoordinateX = 75.7,
         MapCoordinateY = 38.2,
+        Abilities = {
+            [1] = {
+                Id = "4962",
+                Icon = "Spell_Nature_EarthBind",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_4962,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_4962
+            },
+            [2] = {
+                Id = "6016",
+                Icon = "Spell_Shadow_VampiricAura",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_NAME_6016,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_6016,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[51217], DropChance = 5},
             [2] = {IJDB.I[13530], DropChance = 20},
