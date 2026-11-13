@@ -1035,6 +1035,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Observador de Runas"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "Um orc indescritível, raramente visto entre a população em geral do Alto Pináculo da Rocha Negra. Diz-se que ele possui muitos itens cobiçados que muitos gostariam de poder colocar em suas mãos, se ao menos pudessem encontrá-lo em primeiro lugar..."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_11972 = "Pancada com Escudo"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_11972 =
+        "Causa dano Físico a um alvo e interrompe o lançamento de feitiços."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_15749 = "Investida com Escudo"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_15749 =
+        "Investe contra um alvo, causando dano Físico e o repelindo."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_14516 = "Golpe"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_14516 =
+        "Causa dano Físico a um alvo."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Goraluk Bigorna Rachadura"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "Goraluk Anvilcrack é um ferreiro renomado. Infelizmente, ele vendeu sua alma ao sátiro Lorax, mas quebrou o acordo e fugiu para o Pico da Rocha Negra Superior com uma couraça coberta de runas."

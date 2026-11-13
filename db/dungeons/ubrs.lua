@@ -105,13 +105,33 @@ UBRS.Bosses = {
             [8] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "10509",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "jed" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "jed" .. IMPF,
         Name = IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509,
         Story = IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509,
         IsRare = true,
+        Abilities = {
+            [1] = {
+                Id = "11972",
+                Icon = "Ability_Warrior_ShieldBash",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_11972,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_11972
+            },
+            [2] = {
+                Id = "15749",
+                Icon = "Ability_Warrior_Charge",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_15749,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_15749
+            },
+            [3] = {
+                Id = "14516",
+                Icon = "Ability_Rogue_Ambush",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_14516,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_14516
+            }
+        },
         Loot = {
             [1] = {IJDB.I[12604], DropChance = 33}, 
             [2] = {IJDB.I[12605], DropChance = 33}, 

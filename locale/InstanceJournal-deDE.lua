@@ -1039,6 +1039,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Runewatcher"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "Ein schwer fassbarer Ork, der in der allgemeinen Bevölkerung der Oberen Schwarzfelsspitze selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_11972 = "Schildhieb"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_11972 =
+        "Fügt einem Ziel körperlichen Schaden zu und unterbricht das Zauberwirken."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_15749 = "Schildansturm"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_15749 =
+        "Stürmt ein Ziel an, verursacht körperlichen Schaden und stößt es zurück."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_14516 = "Schlag"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_14516 =
+        "Fügt einem Ziel körperlichen Schaden zu."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Goraluk Ambossriss"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "Goraluk Anvilcrack ist ein renommierter Schmied. Unglücklicherweise verkaufte er seine Seele an den Satyr Lorax, brach jedoch den Deal und rannte mit einem runenbedeckten Brustpanzer zur Oberen Schwarzfelsspitze davon."

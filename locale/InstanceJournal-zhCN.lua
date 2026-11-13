@@ -1818,6 +1818,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "杰德"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "难以捉摸的兽人，在黑石塔上层的普通民众中很少见到。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_11972 = "盾击"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_11972 =
+        "对一个目标造成物理伤害，并打断施法。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_15749 = "盾牌冲锋"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_15749 =
+        "冲向一个目标，造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_14516 = "打击"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_14516 =
+        "对一个目标造成物理伤害。"
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "古拉鲁克"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "戈拉鲁克·安维尔克拉克是一位著名的铁匠。不幸的是，他将自己的灵魂出卖给了萨特·洛拉克斯，但他打破了协议，带着满是符文的胸甲逃往黑石塔上层。"

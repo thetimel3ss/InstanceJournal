@@ -1038,6 +1038,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Observateur des Runes"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "Un orc insaisissable, rarement vu parmi la population générale de Upper Blackrock Spire. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_11972 = "Coup de bouclier"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_11972 =
+        "Inflige des dégâts physiques à une cible et interrompt son incantation."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_15749 = "Charge de bouclier"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_15749 =
+        "Charge une cible, lui inflige des dégâts physiques et la repousse."
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_14516 = "Frappe"
+    IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_14516 =
+        "Inflige des dégâts physiques à une cible."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Enclume Goraluk"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "Goraluk Anvilcrack est un forgeron renommé. Malheureusement, il a vendu son âme au satyre Lorax, mais a rompu l'accord et s'est enfui vers Upper Blackrock Spire avec un plastron recouvert de runes."

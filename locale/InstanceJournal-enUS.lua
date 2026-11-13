@@ -1725,6 +1725,15 @@ IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_10264 =
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Runewatcher"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
     "An elusive orc, rarely seen among the general population of Upper Blackrock Spire. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."
+IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_11972 = "Shield Bash"
+IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_11972 =
+    "Deals Physical damage to a target and interrupts spellcasting."
+IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_15749 = "Shield Charge"
+IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_15749 =
+    "Charges a target, dealing Physical damage and knocking them back."
+IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_NAME_14516 = "Strike"
+IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_14516 =
+    "Deals Physical damage to a target."
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Goraluk Anvilcrack"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
     "Goraluk Anvilcrack is a renowned blacksmith. Unfortunately, he sold his soul to the satyr Lorax, but broke the deal and ran away to Upper Blackrock Spire with a rune covered breastplate."
