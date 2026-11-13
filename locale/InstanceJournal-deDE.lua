@@ -1380,6 +1380,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10393 = "Schädel"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10393 =
         "Ein schwer fassbarer Skelettmagier, der in der Bevölkerung von Stratholme selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_16799 = "Frostblitz"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_16799 =
+        "Verursacht Frostschaden und verringert die Bewegungsgeschwindigkeit 4 Sekunden lang um 50%.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15499 = "Frostschock"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15499 =
+        "Verursacht Frostschaden und verringert die Bewegungsgeschwindigkeit 8 Sekunden lang um 50%.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15230 = "Arkanblitz"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15230 =
+        "Fügt einem Ziel Arkanschaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_12544 = "Frostrüstung"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_12544 =
+        "Erhöht die Rüstung. Nahkampfangreifer werden unterkühlt, wodurch ihre Bewegungsgeschwindigkeit 5 Sekunden lang um 30% und ihr Nahkampfangriffstempo um 25% verringert werden."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Herdsänger Forresten"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "Die Tötung von Stratholme forderte das Leben unzähliger Menschen, deren einziges Verbrechen darin bestand, sich in der dem Untergang geweihten Stadt aufzuhalten. Ein reisender Sänger und Piccolo-Spieler namens Forresten war ein solches Opfer. Er wandert weiterhin im Tod durch die Stadt und kann sein tragisches Schicksal nicht akzeptieren."

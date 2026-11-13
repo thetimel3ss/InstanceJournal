@@ -1379,6 +1379,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10393 = "Crâne"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10393 =
         "Un mage squelettique insaisissable, rarement vu parmi la population générale de Stratholme. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_16799 = "Éclair de givre"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_16799 =
+        "Inflige des dégâts de Givre et réduit la vitesse de déplacement de 50% pendant 4 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15499 = "Horion de givre"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15499 =
+        "Inflige des dégâts de Givre et réduit la vitesse de déplacement de 50% pendant 8 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15230 = "Éclair des Arcanes"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15230 =
+        "Inflige des dégâts des Arcanes à une cible."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_12544 = "Armure de givre"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_12544 =
+        "Augmente l’armure. Les attaquants en mêlée sont glacés, réduisant leur vitesse de déplacement de 30% et d’attaque en mêlée de 25% pendant 5 secondes."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Chanteur de foyer Forresten"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "L'abattage de Stratholme a coûté la vie à d'innombrables personnes dont le seul crime était de se trouver dans la ville condamnée. Un chanteur et joueur de piccolo ambulant nommé Forresten était l'une de ces victimes. Il continue d'errer dans la ville, mort, incapable d'accepter son destin tragique."

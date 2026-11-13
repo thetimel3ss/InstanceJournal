@@ -1375,6 +1375,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10393 = "crânio"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10393 =
         "Um esquivo mago esquelético, raramente visto entre a população geral de Stratholme. Diz-se que ele possui muitos itens cobiçados que muitos gostariam de poder colocar em suas mãos, se ao menos pudessem encontrá-lo em primeiro lugar..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_16799 = "Seta de Gelo"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_16799 =
+        "Causa dano de Gelo e reduz a velocidade de movimento em 50% por 4 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15499 = "Choque Gélido"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15499 =
+        "Causa dano de Gelo e reduz a velocidade de movimento em 50% por 8 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15230 = "Seta Arcana"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15230 =
+        "Causa dano Arcano a um alvo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_12544 = "Armadura Gélida"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_12544 =
+        "Aumenta a armadura. Atacantes corpo a corpo ficam resfriados, reduzindo sua velocidade de movimento em 30% e de ataque corpo a corpo em 25% por 5 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Cantor de Hearth Forresten"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "O abate de Stratholme ceifou a vida de inúmeras pessoas cujo único crime foi estar na cidade condenada. Um cantor viajante e flautista chamado Forresten foi uma dessas vítimas. Ele continua vagando pela cidade morto, incapaz de aceitar seu trágico destino."

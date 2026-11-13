@@ -6,6 +6,7 @@ All changes to this project will be documented in this file.
 
 ### Added
 
+- Added missing abilities to the bosses in `Stratholme`
 - Added missing abilities to the bosses in `Upper Blackrock Spire`
 - Added missing abilities to the bosses in `Black Morass`
 - Added missing abilities to the `Arc'Tiras` encounter in `Stormwind Vault`

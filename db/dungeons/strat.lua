@@ -36,7 +36,7 @@ STRAT.Entrances = {
     }
 }
 STRAT.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "10393",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "skul" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "skul" .. IMPF,
@@ -45,6 +45,34 @@ STRAT.Bosses = {
         MapCoordinateX = 56.4,
         MapCoordinateY = 84.9,
         IsRare = true,
+        Abilities = {
+            [1] = {
+                Id = "16799",
+                Icon = "Spell_Frost_FrostBolt02",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_16799,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_16799,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "15499",
+                Icon = "Spell_Frost_FrostShock",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15499,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15499,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "15230",
+                Icon = "Spell_Arcane_StarFire",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15230,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15230
+            },
+            [4] = {
+                Id = "12544",
+                Icon = "Spell_Frost_FrostArmor02",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_12544,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_12544
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13395], DropChance = 33}, 
             [2] = {IJDB.I[13394], DropChance = 33}, 

@@ -2553,6 +2553,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10393 = "斯库尔"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10393 =
         "难以捉摸的骷髅法师，在斯坦索姆的普通民众中很少见。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_16799 = "寒冰箭"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_16799 =
+        "造成冰霜伤害，并使移动速度降低50%，持续4秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15499 = "冰霜震击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15499 =
+        "造成冰霜伤害，并使移动速度降低50%，持续8秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15230 = "奥术箭"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15230 =
+        "对一个目标造成奥术伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_12544 = "霜甲术"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_12544 =
+        "提高护甲值。近战攻击者会受到冰冻效果，移动速度降低30%，近战攻击速度降低25%，持续5秒。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "弗雷斯特恩"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "斯坦索姆大屠杀夺去了无数人的生命，他们唯一的罪行就是在这座注定毁灭的城市里。一位名叫福雷斯顿的巡回歌手和短笛演奏家就是这样的受害者之一。他继续在死亡之城徘徊，无法接受自己的悲惨命运。"

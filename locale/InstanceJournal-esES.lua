@@ -1379,6 +1379,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10393 = "cráneo"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10393 =
         "Un mago esquelético esquivo, rara vez visto entre la población general de Stratholme. Se dice que posee muchos objetos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlo en primer lugar..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_16799 = "Descarga de Escarcha"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_16799 =
+        "Inflige daño de Escarcha y reduce la velocidad de movimiento un 50% durante 4 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15499 = "Choque de Escarcha"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15499 =
+        "Inflige daño de Escarcha y reduce la velocidad de movimiento un 50% durante 8 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15230 = "Descarga Arcana"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15230 =
+        "Inflige daño Arcano a un objetivo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_12544 = "Armadura de Escarcha"
+    IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_12544 =
+        "Aumenta la armadura. Enfría a los atacantes cuerpo a cuerpo, reduciendo su velocidad de movimiento un 30% y de ataque cuerpo a cuerpo un 25% durante 5 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Cantante del hogar Forresten"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "El sacrificio de Stratholme se cobró la vida de innumerables personas cuyo único delito fue estar en la ciudad condenada. Un cantante y flautín viajero llamado Forresten fue una de esas víctimas. Continúa vagando muerto por la ciudad, incapaz de aceptar su trágico destino."

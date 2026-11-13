@@ -2423,6 +2423,18 @@ IJ_DB_DUNGEON_STRAT_STORY =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10393 = "Skul"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10393 =
     "An elusive skeletal mage, rarely seen among the general population of Stratholme. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."
+IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_16799 = "Frostbolt"
+IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_16799 =
+    "Deals Frost damage and reduces movement speed by 50% for 4 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15499 = "Frost Shock"
+IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15499 =
+    "Deals Frost damage and reduces movement speed by 50% for 8 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_15230 = "Arcane Bolt"
+IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_15230 =
+    "Deals Arcane damage to a target."
+IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_NAME_12544 = "Frost Armor"
+IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_12544 =
+    "Increases armor. Melee attackers are chilled, reducing their movement speed by 30% and melee attack speed by 25% for 5 seconds."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Hearthsinger Forresten"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
     "The Culling of Stratholme claimed the lives of innumerable people whose only crime was being in the doomed city. A traveling singer and piccolo player named Forresten was one such victim. He continues to wander the city in death, unable to accept his tragic fate."
