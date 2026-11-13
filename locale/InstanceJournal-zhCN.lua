@@ -2611,6 +2611,9 @@ if GetLocale() == "zhCN" then
         "为施法者或一名盟友恢复全部生命值。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "红衣铸锤师"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "来自赤红军团的锤匠。人们对他知之甚少，只知道他非常保护自己的锻造计划。"
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_NAME_17445 = "熔化白骨"
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445 =
+        "造成火焰伤害，并使护甲值降低50%，持续20秒。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "炮手威利"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "作为血色十字军的首席炮手，威利无论在什么情况下都会使用他的大炮。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "档案管理员加尔福特"

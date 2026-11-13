@@ -1468,6 +1468,9 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Багровый Хаммерсмит"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 =
         "Кузнец из Багрового Легиона. О нем мало что известно, кроме того, что он очень защищает свои кузнечные планы."
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_NAME_17445 = "Плавление костей"
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445 =
+        "Наносит урон от огня и снижает броню на 50% на 20 сек."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Мастер-пушки Уилли"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 =
         "Главный артиллерист Алого ордена, Уилли будет использовать свои пушки независимо от обстоятельств."

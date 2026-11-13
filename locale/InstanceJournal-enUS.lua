@@ -2481,6 +2481,9 @@ IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310 =
     "Fully restores the health of the caster or an ally."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Crimson Hammersmith"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "A hammersmith from the Crimson Legion. Not much is known about him, other than he is very protective of his blacksmithing plans."
+IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_NAME_17445 = "Bone Smelt"
+IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445 =
+    "Deals Fire damage and reduces armor by 50% for 20 seconds."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Cannon Master Willey"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "The chief cannoneer of the Scarlet Crusade, Willey will use his cannons no matter the circumstance."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archivist Galford"

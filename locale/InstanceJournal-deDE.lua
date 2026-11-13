@@ -1438,6 +1438,9 @@ if GetLocale() == "deDE" then
         "Stellt die Gesundheit des Zaubernden oder eines Verbündeten vollständig wieder her."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Crimson Hammersmith"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "Ein Hammerschmied der Crimson Legion. Über ihn ist nicht viel bekannt, außer dass er seine Schmiedepläne sehr beschützt."
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_NAME_17445 = "Knochenschmelze"
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445 =
+        "Verursacht Feuerschaden und verringert die Rüstung 20 Sekunden lang um 50%."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Kanonenmeister Willey"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "Willey, der Chefkanonier des Scharlachroten Kreuzzugs, wird seine Kanonen unter allen Umständen einsetzen."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archivar Galford"

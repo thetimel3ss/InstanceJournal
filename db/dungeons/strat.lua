@@ -235,7 +235,7 @@ STRAT.Bosses = {
             [12] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "11120",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "hammersmith" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "hammersmith" .. IMPF,
@@ -243,6 +243,15 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120,
         MapCoordinateX = 29.8,
         MapCoordinateY = 73.5,
+        Abilities = {
+            [1] = {
+                Id = "17445",
+                Icon = "Spell_Shadow_RaiseDead",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_NAME_17445,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[18781], DropChance = 40}, 
             [2] = {IJDB.I[124], DropChance = 6}

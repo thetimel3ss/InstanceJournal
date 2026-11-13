@@ -1437,6 +1437,9 @@ if GetLocale() == "frFR" then
         "Rend tous ses points de vie au lanceur ou à un allié."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Forgeron cramoisi"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "A hammersmith from the Crimson Legion. On ne sait pas grand-chose de lui, à part qu'il est très protecteur envers ses projets de forge."
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_NAME_17445 = "Fonte des os"
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445 =
+        "Inflige des dégâts de Feu et réduit l’armure de 50% pendant 20 secondes."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Maître canonnier Willey"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "Canonnier en chef de la Croisade écarlate, Willey utilisera ses canons quelles que soient les circonstances."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archiviste Galford"

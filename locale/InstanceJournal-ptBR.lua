@@ -1433,6 +1433,9 @@ if GetLocale() == "ptBR" then
         "Restaura totalmente a vida do lançador ou de um aliado."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Martelo Carmesim"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "Um marteleiro da Legião Carmesim. Não se sabe muito sobre ele, exceto que ele é muito protetor em relação aos seus planos de ferreiro."
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_NAME_17445 = "Fundir Ossos"
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445 =
+        "Causa dano de Fogo e reduz a armadura em 50% por 20 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Mestre de Canhão Willey"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "O principal canhoneiro da Cruzada Escarlate, Willey usará seus canhões em qualquer circunstância."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Arquivista Galford"

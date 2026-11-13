@@ -1437,6 +1437,9 @@ if GetLocale() == "esES" then
         "Restaura por completo la salud del taumaturgo o de un aliado."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Martillo carmesí"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "Un herrero de la Crimson Legion. No se sabe mucho sobre él, aparte de que es muy protector con sus planes de herrería."
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_NAME_17445 = "Fundir huesos"
+    IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445 =
+        "Inflige daño de Fuego y reduce la armadura un 50% durante 20 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Maestro de cañón Willey"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "Willey, el principal artillero de la Cruzada Escarlata, utilizará sus cañones sin importar las circunstancias."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archivista Galford"
