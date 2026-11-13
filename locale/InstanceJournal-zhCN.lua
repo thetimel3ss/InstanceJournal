@@ -1830,6 +1830,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "古拉鲁克"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "戈拉鲁克·安维尔克拉克是一位著名的铁匠。不幸的是，他将自己的灵魂出卖给了萨特·洛拉克斯，但他打破了协议，带着满是符文的胸甲逃往黑石塔上层。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_6253 = "反手一击"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_6253 =
+        "使一个目标昏迷2秒。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_16172 = "裂颅"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_16172 =
+        "降低一个目标的耐力，持续20秒。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_15580 = "打击"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_15580 =
+        "对一个目标造成物理伤害。"
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "大酋长雷德·黑手"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "部落在第二次战争中战败后，第一任大酋长的儿子雷德·黑手将部族的残部带到黑石塔，与黑铁矮人争夺这座要塞的所有权。雷德将他的兽人与奈法利安和黑龙军团结盟，后者击溃了矮人并将他们驱逐出黑石上游。"

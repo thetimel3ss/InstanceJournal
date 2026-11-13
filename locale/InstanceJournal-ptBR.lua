@@ -1047,6 +1047,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Goraluk Bigorna Rachadura"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "Goraluk Anvilcrack é um ferreiro renomado. Infelizmente, ele vendeu sua alma ao sátiro Lorax, mas quebrou o acordo e fugiu para o Pico da Rocha Negra Superior com uma couraça coberta de runas."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_6253 = "Revés"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_6253 =
+        "Atordoa um alvo por 2 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_16172 = "Racha-crânio"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_16172 =
+        "Reduz o Vigor de um alvo por 20 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_15580 = "Golpe"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_15580 =
+        "Causa dano Físico a um alvo."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Chefe Guerreiro Rend Mão Negra"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "Depois que a Horda foi derrotada na Segunda Guerra, Rend Blackhand, filho do primeiro chefe guerreiro, trouxe os restos de seu clã para o Pico da Rocha Negra e lutou contra os anões Ferro Negro pela posse da fortaleza. Rend aliou seus orcs a Nefarian e à revoada negra, que derrotou os anões e os expulsou das partes superiores de Rocha Negra."

@@ -1051,6 +1051,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Goraluk Ambossriss"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "Goraluk Anvilcrack ist ein renommierter Schmied. Unglücklicherweise verkaufte er seine Seele an den Satyr Lorax, brach jedoch den Deal und rannte mit einem runenbedeckten Brustpanzer zur Oberen Schwarzfelsspitze davon."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_6253 = "Rückhand"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_6253 =
+        "Betäubt ein Ziel 2 Sekunden lang."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_16172 = "Kopfnuss"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_16172 =
+        "Verringert die Ausdauer eines Ziels 20 Sekunden lang."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_15580 = "Schlag"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_15580 =
+        "Fügt einem Ziel körperlichen Schaden zu."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Kriegshäuptling Rend Blackhand"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "Nachdem die Horde im Zweiten Krieg besiegt worden war, brachte Rend Blackhand, Sohn des ersten Kriegshäuptlings, die Überreste seines Clans zur Schwarzfelsspitze und kämpfte gegen die Dunkeleisenzwerge um den Besitz der Festung. Rend verbündete seine Orks mit Nefarian und dem schwarzen Drachenschwarm, der die Zwerge in die Flucht schlug und sie aus den oberen Gebieten von Schwarzfels vertrieb."

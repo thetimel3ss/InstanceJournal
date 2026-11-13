@@ -1737,6 +1737,15 @@ IJ_DB_DUNGEON_UBRS_BOSS_10509_ABILITY_EFFECT_14516 =
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Goraluk Anvilcrack"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
     "Goraluk Anvilcrack is a renowned blacksmith. Unfortunately, he sold his soul to the satyr Lorax, but broke the deal and ran away to Upper Blackrock Spire with a rune covered breastplate."
+IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_6253 = "Backhand"
+IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_6253 =
+    "Stuns a target for 2 seconds."
+IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_16172 = "Head Crack"
+IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_16172 =
+    "Reduces a target's Stamina for 20 seconds."
+IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_15580 = "Strike"
+IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_15580 =
+    "Deals Physical damage to a target."
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Warchief Rend Blackhand"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
     "After the Horde was defeated in the Second War, Rend Blackhand, son of the first warchief, brought the remnants of his clan to Blackrock Spire and fought the Dark Iron dwarves for possession of the stronghold. Rend allied his orcs with Nefarian and the black dragonflight, who routed the dwarves and expelled them from Blackrock's upper reaches."

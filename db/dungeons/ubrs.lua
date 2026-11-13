@@ -139,12 +139,32 @@ UBRS.Bosses = {
             [4] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "10899",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "goraluk" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "goraluk" .. IMPF,
         Name = IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899,
         Story = IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899,
+        Abilities = {
+            [1] = {
+                Id = "6253",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_6253,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_6253
+            },
+            [2] = {
+                Id = "16172",
+                Icon = "Ability_ThunderBolt",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_16172,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_16172
+            },
+            [3] = {
+                Id = "15580",
+                Icon = "Ability_Rogue_Ambush",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_15580,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_15580
+            }
+        },
         Loot = {
             [1] = {IJDB.I[18779], DropChance = 15},
             [2] = {IJDB.I[12728], DropChance = 14},

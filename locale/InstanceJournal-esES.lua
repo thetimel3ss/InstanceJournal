@@ -1050,6 +1050,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Yunquegrieta de Goraluk"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "Goraluk Anvilcrack es un herrero de renombre. Desafortunadamente, vendió su alma al sátiro Lorax, pero rompió el trato y escapó a Upper Blackrock Spire con una coraza cubierta de runas."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_6253 = "Revés"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_6253 =
+        "Aturde a un objetivo durante 2 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_16172 = "Rompecabezas"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_16172 =
+        "Reduce el aguante de un objetivo durante 20 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_15580 = "Golpe"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_15580 =
+        "Inflige daño Físico a un objetivo."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Jefe de Guerra Rend Puño Negro"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "Después de que la Horda fuera derrotada en la Segunda Guerra, Rend Blackhand, hijo del primer jefe de guerra, llevó los restos de su clan a Blackrock Spire y luchó contra los enanos Hierro Negro por la posesión de la fortaleza. Rend alió a sus orcos con Nefarian y el Vuelo Negro, quienes derrotaron a los enanos y los expulsaron de las zonas superiores de Roca Negra."

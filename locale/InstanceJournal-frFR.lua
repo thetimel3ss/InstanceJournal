@@ -1050,6 +1050,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10899 = "Enclume Goraluk"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10899 =
         "Goraluk Anvilcrack est un forgeron renommé. Malheureusement, il a vendu son âme au satyre Lorax, mais a rompu l'accord et s'est enfui vers Upper Blackrock Spire avec un plastron recouvert de runes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_6253 = "Revers"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_6253 =
+        "Étourdit une cible pendant 2 secondes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_16172 = "Brise-tête"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_16172 =
+        "Réduit l'Endurance d'une cible pendant 20 secondes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_NAME_15580 = "Frappe"
+    IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_15580 =
+        "Inflige des dégâts physiques à une cible."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Chef de guerre Rend Blackhand"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "Après la défaite de la Horde lors de la Seconde Guerre, Rend Blackhand, fils du premier chef de guerre, amena les restes de son clan à Blackrock Spire et combattit les nains Sombrefer pour prendre possession de la forteresse. Rend s'allia à ses orcs avec Nefarian et le Vol draconique noir, qui mirent en déroute les nains et les expulsèrent des hauteurs de Rochenoire."
