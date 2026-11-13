@@ -1749,6 +1749,36 @@ IJ_DB_DUNGEON_UBRS_BOSS_10899_ABILITY_EFFECT_15580 =
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Warchief Rend Blackhand"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
     "After the Horde was defeated in the Second War, Rend Blackhand, son of the first warchief, brought the remnants of his clan to Blackrock Spire and fought the Dark Iron dwarves for possession of the stronghold. Rend allied his orcs with Nefarian and the black dragonflight, who routed the dwarves and expelled them from Blackrock's upper reaches."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15754 = "Cleave"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15754 =
+    "Deals Physical damage to a target and nearby allies, affecting up to 3 targets."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15708 = "Mortal Strike"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15708 =
+    "Deals Physical damage and reduces healing received by 50% for 5 seconds."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13360 = "Knockdown"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13360 =
+    "Stuns a target for 2 seconds."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13736 = "Whirlwind"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13736 =
+    "Channels a whirlwind, dealing Physical damage to nearby enemies for 2 seconds.\n\nMove away while Whirlwind is active."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_8269 = "Enrage"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_8269 =
+    "Increases Physical damage dealt by 50 and melee attack speed by 60% for 120 seconds.\n\nHealers should prepare for increased damage on the tank."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10339 = "Gyth"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10339 =
+    "The encounter begins with Gyth. Rend dismounts and joins the fight when Gyth reaches approximately 20% health."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16390 = "Flame Breath"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16390 =
+    "Deals Fire damage to enemies in a cone in front of the caster.\n\nKeep the caster facing away from the group."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16359 = "Corrosive Acid Breath"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16359 =
+    "Deals Nature damage in a frontal cone, reduces armor by 160, and deals additional Nature damage every 5 seconds for 30 seconds."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16350 = "Freeze"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16350 =
+    "Deals Frost damage to enemies in a frontal cone, stunning them and dealing additional Frost damage every 3 seconds for 10 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10101 = "Knock Away"
+IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10101 =
+    "Deals Physical damage to a target and knocks them back."
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "The Beast"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
     "Nefarian's dragonkin take obscene delight in the barbaric torture of Ragnaros's captured minions. Despite suffering unimaginable agony, one core hound remained lucid enough to be retrained, and his ferocity makes him an ideal guard in the upper levels of Blackrock Spire."

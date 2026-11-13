@@ -1063,6 +1063,36 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Kriegshäuptling Rend Blackhand"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "Nachdem die Horde im Zweiten Krieg besiegt worden war, brachte Rend Blackhand, Sohn des ersten Kriegshäuptlings, die Überreste seines Clans zur Schwarzfelsspitze und kämpfte gegen die Dunkeleisenzwerge um den Besitz der Festung. Rend verbündete seine Orks mit Nefarian und dem schwarzen Drachenschwarm, der die Zwerge in die Flucht schlug und sie aus den oberen Gebieten von Schwarzfels vertrieb."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15754 = "Spalten"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15754 =
+        "Fügt einem Ziel und nahen Verbündeten körperlichen Schaden zu und trifft bis zu 3 Ziele."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15708 = "Tödlicher Stoß"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15708 =
+        "Verursacht körperlichen Schaden und verringert die erhaltene Heilung 5 Sekunden lang um 50%."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13360 = "Niederschlagen"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13360 =
+        "Betäubt ein Ziel 2 Sekunden lang."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13736 = "Wirbelwind"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13736 =
+        "Kanalisiert einen Wirbelwind und fügt nahen Gegnern 2 Sekunden lang körperlichen Schaden zu.\n\nEntfernt euch während Wirbelwind."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_8269 = "Wutanfall"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_8269 =
+        "Erhöht den verursachten körperlichen Schaden um 50 und das Nahkampfangriffstempo 120 Sekunden lang um 60%.\n\nHeiler sollten sich auf erhöhten Schaden beim Tank vorbereiten."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10339 = "Gyth"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10339 =
+        "Der Kampf beginnt mit Gyth. Bei ungefähr 20% Gesundheit von Gyth steigt Rend ab und greift in den Kampf ein."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16390 = "Flammenatem"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16390 =
+        "Fügt Gegnern in einem Kegel vor dem Zaubernden Feuerschaden zu.\n\nLasst ihn von der Gruppe wegschauen."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16359 = "Ätzender Säureatem"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16359 =
+        "Verursacht Naturschaden in einem frontalen Kegel, verringert die Rüstung um 160 und verursacht 30 Sekunden lang alle 5 Sekunden zusätzlichen Naturschaden."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16350 = "Einfrieren"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16350 =
+        "Fügt Gegnern in einem frontalen Kegel Frostschaden zu, betäubt sie und verursacht 10 Sekunden lang alle 3 Sekunden zusätzlichen Frostschaden.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10101 = "Wegschlagen"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10101 =
+        "Fügt einem Ziel körperlichen Schaden zu und stößt es zurück."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "Das Biest"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "Nefarians Drachensippen erfreuen sich an der barbarischen Folter der gefangenen Diener von Ragnaros. Trotz unvorstellbarer Qualen blieb ein Kernhund klar genug, um umgeschult zu werden, und seine Wildheit macht ihn zu einem idealen Wächter in den oberen Ebenen der Schwarzfelsspitze."

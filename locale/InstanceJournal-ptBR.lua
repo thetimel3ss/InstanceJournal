@@ -1059,6 +1059,36 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Chefe Guerreiro Rend Mão Negra"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "Depois que a Horda foi derrotada na Segunda Guerra, Rend Blackhand, filho do primeiro chefe guerreiro, trouxe os restos de seu clã para o Pico da Rocha Negra e lutou contra os anões Ferro Negro pela posse da fortaleza. Rend aliou seus orcs a Nefarian e à revoada negra, que derrotou os anões e os expulsou das partes superiores de Rocha Negra."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15754 = "Cutilada"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15754 =
+        "Causa dano Físico a um alvo e aliados próximos, afetando até 3 alvos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15708 = "Golpe Mortal"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15708 =
+        "Causa dano Físico e reduz a cura recebida em 50% por 5 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13360 = "Derrubar"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13360 =
+        "Atordoa um alvo por 2 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13736 = "Redemoinho"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13736 =
+        "Canaliza um redemoinho, causando dano Físico aos inimigos próximos por 2 segundos.\n\nAfaste-se enquanto Redemoinho estiver ativo."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_8269 =
+        "Aumenta o dano Físico causado em 50 e a velocidade dos ataques corpo a corpo em 60% por 120 segundos.\n\nHealers devem se preparar para o aumento de dano no tank."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10339 = "Gyth"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10339 =
+        "O confronto começa com Gyth. Rend desmonta e entra na luta quando Gyth chega a aproximadamente 20% de vida."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16390 = "Sopro Flamejante"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16390 =
+        "Causa dano de Fogo aos inimigos em um cone à frente do lançador.\n\nMantenha o lançador virado para longe do grupo."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16359 = "Sopro de Ácido Corrosivo"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16359 =
+        "Causa dano de Natureza em um cone frontal, reduz a armadura em 160 e causa dano de Natureza adicional a cada 5 segundos por 30 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16350 = "Congelar"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16350 =
+        "Causa dano de Gelo aos inimigos em um cone frontal, atordoando-os e causando dano de Gelo adicional a cada 3 segundos por 10 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10101 = "Repelir"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10101 =
+        "Causa dano Físico a um alvo e o repele."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "A Besta"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "Os dragonkin de Nefarian sentem prazer obsceno na tortura bárbara dos asseclas capturados de Ragnaros. Apesar de sofrer uma agonia inimaginável, um cão de caça permaneceu lúcido o suficiente para ser treinado novamente, e sua ferocidade faz dele um guarda ideal nos níveis superiores do Pico da Rocha Negra."

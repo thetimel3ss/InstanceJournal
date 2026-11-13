@@ -1842,6 +1842,36 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "大酋长雷德·黑手"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "部落在第二次战争中战败后，第一任大酋长的儿子雷德·黑手将部族的残部带到黑石塔，与黑铁矮人争夺这座要塞的所有权。雷德将他的兽人与奈法利安和黑龙军团结盟，后者击溃了矮人并将他们驱逐出黑石上游。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15754 = "顺劈斩"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15754 =
+        "对一个目标及其附近盟友造成物理伤害，最多影响3个目标。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15708 = "致死打击"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15708 =
+        "造成物理伤害，并使受到的治疗效果降低50%，持续5秒。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13360 = "击倒"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13360 =
+        "使一个目标昏迷2秒。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13736 = "旋风斩"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13736 =
+        "引导旋风，对附近敌人造成物理伤害，持续2秒。\n\n旋风期间远离首领。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_8269 = "激怒"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_8269 =
+        "使造成的物理伤害提高50点，近战攻击速度提高60%，持续120秒。\n\n治疗应准备应对坦克受到的更高伤害。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10339 = "盖斯"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10339 =
+        "战斗从盖斯开始。当盖斯的生命值降至约20%时，雷德下马并加入战斗。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16390 = "烈焰吐息"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16390 =
+        "对施法者前方锥形区域内的敌人造成火焰伤害。\n\n让施法者背对队伍。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16359 = "腐蚀酸液吐息"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16359 =
+        "对前方锥形区域内的敌人造成自然伤害，使护甲值降低160点，并每5秒造成额外自然伤害，持续30秒。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16350 = "冰冻"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16350 =
+        "对前方锥形区域内的敌人造成冰霜伤害，使其昏迷，并每3秒造成额外冰霜伤害，持续10秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10101 = "击飞"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10101 =
+        "对一个目标造成物理伤害，并将其击退。"
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "比斯巨兽"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "奈法利安的龙族对拉格纳罗斯俘虏的爪牙进行野蛮的折磨感到非常高兴。尽管承受着难以想象的痛苦，一只核心猎犬仍然保持清醒，可以接受重新训练，而他的凶猛使他成为黑石塔上层的理想守卫。"

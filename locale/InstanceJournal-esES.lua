@@ -1062,6 +1062,36 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Jefe de Guerra Rend Puño Negro"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "Después de que la Horda fuera derrotada en la Segunda Guerra, Rend Blackhand, hijo del primer jefe de guerra, llevó los restos de su clan a Blackrock Spire y luchó contra los enanos Hierro Negro por la posesión de la fortaleza. Rend alió a sus orcos con Nefarian y el Vuelo Negro, quienes derrotaron a los enanos y los expulsaron de las zonas superiores de Roca Negra."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15754 = "Rajar"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15754 =
+        "Inflige daño Físico a un objetivo y sus aliados cercanos, afectando hasta a 3 objetivos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15708 = "Golpe mortal"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15708 =
+        "Inflige daño Físico y reduce la sanación recibida un 50% durante 5 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13360 = "Derribo"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13360 =
+        "Aturde a un objetivo durante 2 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13736 = "Torbellino"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13736 =
+        "Canaliza un torbellino e inflige daño Físico a los enemigos cercanos durante 2 segundos.\n\nAléjate mientras Torbellino esté activo."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_8269 =
+        "Aumenta el daño Físico infligido en 50 y la velocidad de ataque cuerpo a cuerpo un 60% durante 120 segundos.\n\nLos sanadores deben prepararse para un mayor daño sobre el tanque."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10339 = "Gyth"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10339 =
+        "El encuentro comienza con Gyth. Rend desmonta y se une al combate cuando Gyth alcanza aproximadamente un 20% de salud."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16390 = "Aliento de llamas"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16390 =
+        "Inflige daño de Fuego a los enemigos en un cono frente al taumaturgo.\n\nMantén al taumaturgo de espaldas al grupo."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16359 = "Aliento de ácido corrosivo"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16359 =
+        "Inflige daño de Naturaleza en un cono frontal, reduce la armadura en 160 e inflige daño de Naturaleza adicional cada 5 segundos durante 30 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16350 = "Congelar"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16350 =
+        "Inflige daño de Escarcha a los enemigos en un cono frontal, los aturde e inflige daño de Escarcha adicional cada 3 segundos durante 10 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10101 = "Repeler"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10101 =
+        "Inflige daño Físico a un objetivo y lo repele."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "la bestia"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "Los dragonantes de Nefarian disfrutan obscenamente de la bárbara tortura de los secuaces capturados de Ragnaros. A pesar de sufrir una agonía inimaginable, un perro central permaneció lo suficientemente lúcido como para ser reentrenado, y su ferocidad lo convierte en un guardia ideal en los niveles superiores de Blackrock Spire."

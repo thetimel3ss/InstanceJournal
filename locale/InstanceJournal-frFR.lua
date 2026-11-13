@@ -1062,6 +1062,36 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429 = "Chef de guerre Rend Blackhand"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429 =
         "Après la défaite de la Horde lors de la Seconde Guerre, Rend Blackhand, fils du premier chef de guerre, amena les restes de son clan à Blackrock Spire et combattit les nains Sombrefer pour prendre possession de la forteresse. Rend s'allia à ses orcs avec Nefarian et le Vol draconique noir, qui mirent en déroute les nains et les expulsèrent des hauteurs de Rochenoire."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15754 = "Enchaînement"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15754 =
+        "Inflige des dégâts physiques à une cible et à ses alliés proches, touchant jusqu'à 3 cibles."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15708 = "Frappe mortelle"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15708 =
+        "Inflige des dégâts physiques et réduit les soins reçus de 50% pendant 5 secondes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13360 = "Renversement"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13360 =
+        "Étourdit une cible pendant 2 secondes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13736 = "Tourbillon"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13736 =
+        "Canalise un tourbillon infligeant des dégâts physiques aux ennemis proches pendant 2 secondes.\n\nÉloignez-vous pendant Tourbillon."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_8269 = "Enrager"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_8269 =
+        "Augmente les dégâts physiques infligés de 50 et la vitesse d'attaque en mêlée de 60% pendant 120 secondes.\n\nLes soigneurs doivent se préparer à des dégâts accrus sur le tank."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10339 = "Gyth"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10339 =
+        "Le combat commence avec Gyth. Rend descend de sa monture et rejoint le combat lorsque Gyth atteint environ 20% de ses points de vie."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16390 = "Souffle de flammes"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16390 =
+        "Inflige des dégâts de Feu aux ennemis dans un cône devant le lanceur.\n\nMaintenez le lanceur dos au groupe."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16359 = "Souffle d'acide corrosif"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16359 =
+        "Inflige des dégâts de Nature dans un cône frontal, réduit l'armure de 160 et inflige des dégâts de Nature supplémentaires toutes les 5 secondes pendant 30 secondes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16350 = "Gel"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16350 =
+        "Inflige des dégâts de Givre aux ennemis dans un cône frontal, les étourdit et inflige des dégâts de Givre supplémentaires toutes les 3 secondes pendant 10 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10101 = "Repousser"
+    IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10101 =
+        "Inflige des dégâts physiques à une cible et la repousse."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "La Bête"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "Les dragons de Nefarian prennent un plaisir obscène à la torture barbare des serviteurs capturés par Ragnaros. Malgré une agonie inimaginable, l'un des chiens de base est resté suffisamment lucide pour être recyclé, et sa férocité en fait un garde idéal dans les niveaux supérieurs de Blackrock Spire."

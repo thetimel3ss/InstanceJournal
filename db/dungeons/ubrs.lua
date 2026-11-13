@@ -177,12 +177,83 @@ UBRS.Bosses = {
             [9] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [5] = { -- NOTE: Missing abilities
+    [5] = {
         Id = "10429",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "rend" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "rend" .. IMPF,
         Name = IJ_DB_DUNGEON_UBRS_BOSS_NAME_10429,
         Story = IJ_DB_DUNGEON_UBRS_BOSS_STORY_10429,
+        Abilities = {
+            [1] = {
+                Id = "15754",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15754,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15754,
+                Flags = {IMAF.Tank}
+            },
+            [2] = {
+                Id = "15708",
+                Icon = "Ability_Warrior_SavageBlow",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_15708,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_15708,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [3] = {
+                Id = "13360",
+                Icon = "Ability_GolemThunderClap",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13360,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13360
+            },
+            [4] = {
+                -- The channel triggers Whirlwind damage (15589) after approximately 2 seconds.
+                Id = "13736",
+                Icon = "Ability_Whirlwind",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_13736,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_13736,
+                Flags = {IMAF.Important}
+            },
+            [5] = {
+                Id = "8269",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_8269,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_8269,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [6] = {
+                Id = "10339",
+                Icon = "INV_Misc_Head_Dragon_Black",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10339,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10339,
+                SubAbilities = {
+                    [1] = {
+                        Id = "16390",
+                        Icon = "Spell_Fire_Fire",
+                        Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16390,
+                        Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16390
+                    },
+                    [2] = {
+                        Id = "16359",
+                        Icon = "Spell_Nature_Acid_01",
+                        Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16359,
+                        Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16359
+                    },
+                    [3] = {
+                        Id = "16350",
+                        Icon = "Spell_Frost_Glacier",
+                        Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_16350,
+                        Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_16350,
+                        Flags = {IMAF.Magic}
+                    },
+                    [4] = {
+                        Id = "10101",
+                        Icon = "INV_Gauntlets_05",
+                        Name = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_NAME_10101,
+                        Effect = IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10101,
+                        Flags = {IMAF.Tank}
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[12587], DropChance = 23},
             [2] = {IJDB.I[12935], DropChance = 23},
