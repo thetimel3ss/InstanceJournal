@@ -1405,6 +1405,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "The Unforgiven"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "Lylia era uma lâmina de justiça entre seu povo. Depois que Arthas comandou suas forças para expurgar a cidade, sua sanidade foi destruída ao ver incontáveis ​​​​inocentes morrerem por suas mãos. Ela caiu sobre sua espada para escapar da loucura ao seu redor, e agora ela existe como um ser espectral para sempre negado a absolvição por seus atos hediondos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_NAME_14907 = "Nova Congelante"
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_EFFECT_14907 =
+        "Causa dano de Gelo aos inimigos em um raio de 10 metros e os enraíza por até 8 segundos.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy, o Cruel"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "Timmison era famoso por sua selvageria no campo de batalha. Alguns especulam que seu sadismo resultou do bullying incessante que sofreu quando criança. Agora renascido como uma monstruosidade do Flagelo, com a mente despedaçada, ele é atormentado por essas memórias, fazendo com que ele responda ao nome que antes odiava: Timmy."

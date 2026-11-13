@@ -125,7 +125,7 @@ STRAT.Bosses = {
             [6] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "10516",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "unforgiven" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "unforgiven" .. IMPF,
@@ -133,6 +133,15 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516,
         MapCoordinateX = 66.6,
         MapCoordinateY = 57.0,
+        Abilities = {
+            [1] = {
+                Id = "14907",
+                Icon = "Spell_Frost_FrostNova",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_NAME_14907,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_EFFECT_14907,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13404], DropChance = 20},
             [2] = {IJDB.I[13405], DropChance = 20},

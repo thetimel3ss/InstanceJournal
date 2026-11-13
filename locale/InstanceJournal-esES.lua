@@ -1409,6 +1409,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "El imperdonable"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "Lylia era una espada de justicia entre su pueblo. Después de que Arthas ordenara a sus fuerzas purgar la ciudad, su cordura quedó destrozada al ver morir a innumerables inocentes a manos de ella. Ella cayó sobre su espada para escapar de la locura que la rodea, y ahora existe como un ser espectral al que para siempre se le niega la absolución por sus actos atroces."
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_NAME_14907 = "Nova de Escarcha"
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_EFFECT_14907 =
+        "Inflige daño de Escarcha a los enemigos en un radio de 10 metros y los inmoviliza durante un máximo de 8 segundos.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy el Cruel"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "Timmison era famoso por su salvajismo en el campo de batalla. Algunos especulan que su sadismo se debió al incesante acoso que sufrió cuando era niño. Ahora renacido como una monstruosidad de la Plaga, con la mente destrozada, esos recuerdos lo atormentan, lo que le hace responder al nombre que una vez odió: Timmy."

@@ -2583,6 +2583,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "不可宽恕者"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "莉莉亚是她人民中的正义之刃。在阿尔萨斯指挥他的军队净化这座城市后，她的理智因看到无数无辜者死于她的手中而崩溃。她为了逃避周围的疯狂而倒在剑上，现在她作为一个幽灵而存在，永远无法因其令人发指的行为而得到赦免。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_NAME_14907 = "冰霜新星"
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_EFFECT_14907 =
+        "对10码内的敌人造成冰霜伤害，并使其定身，最多持续8秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "悲惨的提米"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "蒂米森因其在战场上的野蛮行为而臭名昭著。一些人推测他的虐待狂源于他小时候遭受的不断的欺凌。现在重生为天灾怪物，他的精神崩溃了，他被那些记忆折磨着，让他回答了他曾经厌恶的名字：蒂米。"

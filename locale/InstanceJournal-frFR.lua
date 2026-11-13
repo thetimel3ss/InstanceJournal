@@ -1409,6 +1409,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "L'Impardonné"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "Lylia était une lame de justice parmi son peuple. Après qu'Arthas ait ordonné à ses forces de purger la ville, sa raison a été détruite en voyant d'innombrables innocents mourir de ses mains. Elle est tombée sur son épée pour échapper à la folie qui l'entourait, et elle existe désormais en tant qu'être spectral à jamais privé d'absolution pour ses actes odieux."
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_NAME_14907 = "Nova de givre"
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_EFFECT_14907 =
+        "Inflige des dégâts de Givre aux ennemis à moins de 10 mètres et les immobilise pendant un maximum de 8 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy le cruel"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "Timmison était tristement célèbre pour sa sauvagerie sur le champ de bataille. Certains pensent que son sadisme proviendrait du harcèlement incessant qu'il a subi lorsqu'il était enfant. Renaît désormais sous la forme d'une monstruosité du Fléau, son esprit brisé, il est tourmenté par ces souvenirs, l'amenant à répondre au nom qu'il détestait autrefois : Timmy."

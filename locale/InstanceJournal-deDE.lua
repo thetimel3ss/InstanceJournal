@@ -1410,6 +1410,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "Denen man nicht vergibt"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "Lylia war unter ihrem Volk ein Symbol der Rechtschaffenheit. Nachdem Arthas seinen Streitkräften befohlen hatte, die Stadt zu säubern, wurde ihr geistiger Verstand zerstört, weil sie mit ansehen musste, wie unzählige Unschuldige durch ihre Hand starben. Sie fiel auf ihr Schwert, um dem Wahnsinn um sie herum zu entkommen, und existiert nun als gespenstisches Wesen, dem die Absolution für ihre abscheulichen Taten für immer verweigert wird."
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_NAME_14907 = "Frostnova"
+    IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_EFFECT_14907 =
+        "Verursacht Frostschaden bei Gegnern innerhalb von 10 Metern und macht sie bis zu 8 Sekunden lang bewegungsunfähig.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy der Grausame"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "Timmison war für seine Grausamkeit auf dem Schlachtfeld berüchtigt. Einige spekulieren, dass sein Sadismus auf das unaufhörliche Mobbing zurückzuführen sei, das er als Kind ertragen musste. Nun ist er als Geißelmonstrosität wiedergeboren, sein Geist ist zerschmettert, und diese Erinnerungen quälen ihn, was dazu führt, dass er auf den Namen antwortet, den er einst verabscheute: Timmy."

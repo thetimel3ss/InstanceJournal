@@ -2453,6 +2453,9 @@ IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16798 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "The Unforgiven"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
     "Lylia was a blade of righteousness among her people. After Arthas commanded his forces to purge the city, her sanity was ripped apart from seeing countless innocents die by her hand. She fell on her sword to escape the madness around her, and she now exists as a spectral being forever denied absolution for her heinous acts."
+IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_NAME_14907 = "Frost Nova"
+IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_EFFECT_14907 =
+    "Deals Frost damage to enemies within 10 yards and roots them for up to 8 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy the Cruel"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
     "Timmison was infamous for his savagery on the field of battle. Some speculate his sadism stemmed from the ceaseless bullying he endured as a child. Now reborn as a Scourge monstrosity, his mind shattered, he is tormented by those memories, causing him to answer to the name he once loathed: Timmy."
