@@ -2675,6 +2675,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "巴瑟拉斯镇长"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "在斯坦索姆大屠杀期间，巴瑟拉斯是被阿尔萨斯和他的军队清洗的无辜者之一。巫妖王最终将这位前任治安官从坟墓中复活，并命令这个巨大的不死怪物守卫他被毁的家园。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_10887 = "群体打击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_10887 =
+        "对10码内的敌人造成物理伤害，打断施法，并将其击退。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_14099 = "强力打击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_14099 =
+        "对一个目标造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16793 = "吸取打击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16793 =
+        "造成暗影伤害，并为施法者恢复生命值。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16791 = "狂怒"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16791 =
+        "反复提高造成的物理伤害和近战攻击速度，可叠加。\n\n治疗者应准备应对坦克受到的伤害持续增加。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "石脊"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "一种难以捉摸的石像鬼，在斯坦索姆的普通居民中很少见到。据说它拥有许多令人垂涎的物品，很多人都希望能亲手得到它们，如果他们能一开始就遇到它就好了……"

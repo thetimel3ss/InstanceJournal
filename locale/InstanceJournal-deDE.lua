@@ -1502,6 +1502,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Magistrat Barthilas"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "Barthilas gehörte zu den Unschuldigen, die von Arthas und seinen Truppen während der Tötung von Stratholme gesäubert wurden. Der Lichkönig erweckte schließlich den ehemaligen Richter aus dem Grab und befahl der riesigen untoten Monstrosität, sein zerstörtes Haus zu bewachen."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_10887 = "Massenprügel"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_10887 =
+        "Verursacht körperlichen Schaden bei Gegnern innerhalb von 10 Metern, unterbricht das Zauberwirken und stößt sie zurück."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_14099 = "Mächtiger Schlag"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_14099 =
+        "Fügt einem Ziel körperlichen Schaden zu und stößt es zurück."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16793 = "Entziehender Schlag"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16793 =
+        "Verursacht Schattenschaden und heilt den Zaubernden."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16791 = "Wütender Zorn"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16791 =
+        "Erhöht wiederholt den verursachten körperlichen Schaden und das Nahkampfangriffstempo. Stapelbar.\n\nHeiler sollten sich auf steigenden Schaden am Tank vorbereiten."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "Stonespine"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "Ein schwer fassbarer Wasserspeier, der in der Bevölkerung von Stratholme selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihnen nur überhaupt begegnen könnten ..."

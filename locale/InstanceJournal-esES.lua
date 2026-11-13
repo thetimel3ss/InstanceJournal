@@ -1501,6 +1501,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Magistrado Barthilas"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "Barthilas estaba entre los inocentes purgados por Arthas y sus fuerzas durante la matanza de Stratholme. El Rey Exánime finalmente resucitó al ex magistrado de la tumba y ordenó a la enorme monstruosidad no-muerta que protegiera su casa en ruinas."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_10887 = "Paliza de grupo"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_10887 =
+        "Inflige daño físico a los enemigos en un radio de 10 metros, interrumpe sus hechizos y los repele."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_14099 = "Golpe poderoso"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_14099 =
+        "Inflige daño Físico a un objetivo y lo repele."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16793 = "Golpe drenador"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16793 =
+        "Inflige daño físico y restaura salud al taumaturgo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16791 = "Ira furiosa"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16791 =
+        "Aumenta repetidamente el daño físico infligido y la velocidad de ataque cuerpo a cuerpo. Se acumula.\n\nLos sanadores deben prepararse para un daño creciente al tanque."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "espina de piedra"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "Una gárgola esquiva, rara vez vista entre la población general de Stratholme. Se dice que posee muchos artículos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlos en primer lugar..."

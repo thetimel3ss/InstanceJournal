@@ -2545,6 +2545,18 @@ IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17287 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Magistrate Barthilas"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
     "Barthilas was among those innocents purged by Arthas and his forces during the Culling of Stratholme. The Lich King eventually raised the former magistrate from the grave and commanded the hulking undead monstrosity to guard his ruined home."
+IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_10887 = "Crowd Pummel"
+IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_10887 =
+    "Deals Physical damage to enemies within 10 yards, interrupts spellcasting and knocks them back."
+IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_14099 = "Mighty Blow"
+IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_14099 =
+    "Deals Physical damage to a target and knocks them back."
+IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16793 = "Draining Blow"
+IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16793 =
+    "Deals Shadow damage and restores health to the caster."
+IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16791 = "Furious Anger"
+IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16791 =
+    "Repeatedly increases Physical damage dealt and melee attack speed. Stacks.\n\nHealers should prepare for increasing damage on the tank."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "Stonespine"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
     "An elusive gargoyle, rarely seen among the general population of Stratholme. It is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter it in the first place..."

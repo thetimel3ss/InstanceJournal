@@ -457,7 +457,7 @@ STRAT.Bosses = {
             [24] = {IJDB.I[13353], DropChance = 2}
         }
     },
-    [10] = { -- NOTE: Missing abilities
+    [10] = {
         Id = "10435",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "barthilas" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "barthilas" .. IMPF,
@@ -465,6 +465,35 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435,
         MapCoordinateX = 75.6,
         MapCoordinateY = 11.9,
+        Abilities = {
+            [1] = {
+                Id = "10887",
+                Icon = "INV_Gauntlets_04",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_10887,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_10887
+            },
+            [2] = {
+                Id = "14099",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_14099,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_14099,
+                Flags = {IMAF.Tank}
+            },
+            [3] = {
+                Id = "16793",
+                Icon = "Spell_Shadow_ChillTouch",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16793,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16793,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [4] = {
+                Id = "16791",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16791,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16791,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[12382], DropChance = 100},
             [2] = {IJDB.I[13376], DropChance = 17},

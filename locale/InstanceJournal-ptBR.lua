@@ -1497,6 +1497,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Magistrado Bartilas"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "Barthilas estava entre os inocentes expurgados por Arthas e suas forças durante o Extermínio de Stratholme. O Lich King finalmente ressuscitou o ex-magistrado do túmulo e ordenou que a enorme monstruosidade morta-viva guardasse sua casa em ruínas."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_10887 = "Soco na Multidão"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_10887 =
+        "Causa dano Físico aos inimigos em um raio de 10 metros, interrompe o lançamento de feitiços e os repele."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_14099 = "Golpe Poderoso"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_14099 =
+        "Causa dano Físico a um alvo e o repele."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16793 = "Golpe Drenante"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16793 =
+        "Causa dano de Sombra e restaura a vida do lançador."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16791 = "Ira Furiosa"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16791 =
+        "Aumenta repetidamente o dano Físico causado e a velocidade de ataque corpo a corpo. Acumula.\n\nOs curadores devem se preparar para o aumento do dano no tank."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "Espinha de Pedra"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "Uma gárgula indescritível, raramente vista entre a população em geral de Stratholme. Diz-se que possui muitos itens cobiçados que muitos gostariam de poder colocar as mãos, se ao menos pudessem encontrá-los em primeiro lugar..."

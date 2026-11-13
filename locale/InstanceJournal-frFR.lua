@@ -1501,6 +1501,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Magistrat Barthilas"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "Barthilas faisait partie des innocents purgés par Arthas et ses forces lors de l'abattage de Stratholme. Le roi-liche a finalement ressuscité l'ancien magistrat de la tombe et a ordonné à l'imposante monstruosité mort-vivante de garder sa maison en ruine."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_10887 = "Volée de coups collective"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_10887 =
+        "Inflige des dégâts physiques aux ennemis à moins de 10 mètres, interrompt leurs incantations et les repousse."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_14099 = "Coup puissant"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_14099 =
+        "Inflige des dégâts physiques à une cible et la repousse."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16793 = "Coup drainant"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16793 =
+        "Inflige des dégâts d'Ombre et rend des points de vie au lanceur."
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_NAME_16791 = "Colère furieuse"
+    IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16791 =
+        "Augmente de façon répétée les dégâts physiques infligés et la vitesse d’attaque en mêlée. Cumulable.\n\nLes soigneurs doivent se préparer à des dégâts croissants sur le tank."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "Colonne vertébrale"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "Une gargouille insaisissable, rarement vue parmi la population générale de Stratholme. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient les trouver en premier lieu..."
