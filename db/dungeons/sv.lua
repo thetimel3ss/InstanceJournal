@@ -237,26 +237,38 @@ SV.Bosses = {
         Story = IJ_DB_DUNGEON_SV_BOSS_STORY_80854,
         MapCoordinateX = 46.5,
         MapCoordinateY = 43.4,
+        -- OctoWoW logs show this spell set; the database NPC page still lists the former abilities.
         Abilities = {
             [1] = {
-                Id = "11700", 
-                Icon = "Spell_Shadow_LifeDrain02", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_NAME_11700, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_EFFECT_11700, 
-                Flags = {IMAF.Interruptible}
+                Id = "24222",
+                Icon = "Ability_Vanish",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_NAME_24222,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_EFFECT_24222,
+                Flags = {IMAF.Tank, IMAF.Important}
             },
             [2] = {
-                Id = "11668", 
-                Icon = "Spell_Fire_Immolation", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_NAME_11668, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_EFFECT_11668, 
-                Flags = {IMAF.Heal, IMAF.Magic}
+                Id = "46320",
+                Icon = "Ability_BackStab",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_NAME_46320,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_EFFECT_46320
             },
             [3] = {
-                Id = "1856", 
-                Icon = "Ability_Vanish", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_NAME_1856, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_EFFECT_1856
+                Id = "11286",
+                Icon = "Ability_Gouge",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_NAME_11286,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_EFFECT_11286
+            },
+            [4] = {
+                Id = "11294",
+                Icon = "Spell_Shadow_RitualOfSacrifice",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_NAME_11294,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_EFFECT_11294
+            },
+            [5] = {
+                Id = "17289",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_NAME_17289,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80854_ABILITY_EFFECT_17289
             }
         },
         Loot = {
