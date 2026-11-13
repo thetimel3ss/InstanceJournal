@@ -1570,6 +1570,24 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Baron Rivendare"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "Le baron Rivendare est un puissant chevalier de la mort au service du roi-liche, coordonnant les efforts du Fléau dans les Maleterres. Régnant sur la ville de Stratholme, il se bat actuellement avec les agents de l'Aube d'Argent envoyés à Stratholme pour le tuer."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15537 = "Trait de l’ombre"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15537 =
+        "Inflige des dégâts d'Ombre à une cible."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15284 = "Enchaînement"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15284 =
+        "Inflige des dégâts physiques à une cible et à ses alliés proches."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_19643 = "Frappe mortelle"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_19643 =
+        "Inflige des dégâts physiques et réduit les soins reçus de 50% pendant 5 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17467 = "Aura impie"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17467 =
+        "Inflige des dégâts d’Ombre aux ennemis à moins de 30 mètres toutes les 2 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17473 = "Réanimation morbide"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17473 =
+        "Invoque six Squelettes décérébrés.\n\nTuez-les rapidement avant qu’ils ne soient consumés par Pacte mortel."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17471 = "Pacte mortel"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17471 =
+        "Consume les squelettes invoqués encore en vie pour récupérer des points de vie."
 
     -- GC
     IJ_DB_DUNGEON_GC_NAME = "Ville de Gilnéas"

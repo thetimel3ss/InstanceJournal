@@ -2614,6 +2614,24 @@ IJ_DB_DUNGEON_STRAT_BOSS_10439_ABILITY_EFFECT_17307 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Baron Rivendare"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
     "Baron Rivendare is a powerful death knight in the service of the Lich King, coordinating the efforts of the Scourge in the Plaguelands. Ruling over the city of Stratholme, he currently battles with agents of the Argent Dawn sent to Stratholme to kill him."
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15537 = "Shadow Bolt"
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15537 =
+    "Deals Shadow damage to a target."
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15284 = "Cleave"
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15284 =
+    "Deals Physical damage to a target and nearby allies."
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_19643 = "Mortal Strike"
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_19643 =
+    "Deals Physical damage and reduces healing received by 50% for 5 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17467 = "Unholy Aura"
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17467 =
+    "Deals Shadow damage to enemies within 30 yards every 2 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17473 = "Raise Dead"
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17473 =
+    "Summons six Mindless Skeletons.\n\nKill them promptly before Death Pact consumes them."
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17471 = "Death Pact"
+IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17471 =
+    "Consumes surviving summoned skeletons to restore health."
 
 -- STRAT Loot
 IJ_LOOT_NAME_13395 = "Skul's Fingerbone Claws"

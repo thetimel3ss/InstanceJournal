@@ -1571,6 +1571,24 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Baron Rivendare"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "Baron Rivendare ist ein mächtiger Todesritter im Dienste des Lichkönigs, der die Bemühungen der Geißel in den Pestländern koordiniert. Er herrscht über die Stadt Stratholme und kämpft derzeit mit Agenten der Argent Dawn, die nach Stratholme geschickt wurden, um ihn zu töten."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15537 = "Schattenblitz"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15537 =
+        "Fügt einem Ziel Schattenschaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15284 = "Spalten"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15284 =
+        "Verursacht körperlichen Schaden bei einem Ziel und nahen Verbündeten."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_19643 = "Tödlicher Stoß"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_19643 =
+        "Verursacht körperlichen Schaden und verringert die erhaltene Heilung 5 Sekunden lang um 50%."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17467 = "Unheilige Aura"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17467 =
+        "Verursacht alle 2 Sekunden Schattenschaden bei Gegnern innerhalb von 30 Metern."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17473 = "Totenerweckung"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17473 =
+        "Beschwört sechs Hirnlose Skelette.\n\nTötet sie zügig, bevor Todespakt sie verzehrt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17471 = "Todespakt"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17471 =
+        "Verzehrt überlebende beschworene Skelette, um Gesundheit wiederherzustellen."
 
     -- GC
     IJ_DB_DUNGEON_GC_NAME = "Gilneas-Stadt"

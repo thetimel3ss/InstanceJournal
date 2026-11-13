@@ -2744,6 +2744,24 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "瑞文戴尔男爵"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "瑞文戴尔男爵是一名强大的死亡骑士，为巫妖王服务，协调天灾军团在瘟疫之地的行动。他统治着斯坦索姆市，目前正在与派往斯坦索姆刺杀他的银色黎明特工作战。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15537 = "暗影箭"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15537 =
+        "对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15284 = "顺劈斩"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15284 =
+        "对一个目标及其附近盟友造成物理伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_19643 = "致死打击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_19643 =
+        "造成物理伤害，并使受到的治疗效果降低50%，持续5秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17467 = "邪恶光环"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17467 =
+        "每2秒对30码内的敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17473 = "复活死尸"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17473 =
+        "召唤六只无脑的骷髅。\n\n在死亡契约吞噬它们之前迅速击杀。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17471 = "死亡契约"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17471 =
+        "吞噬仍然存活的召唤骷髅以恢复生命值。"
 
     -- STRAT Loot
     IJ_LOOT_NAME_13395 = "斯库尔的骨爪"

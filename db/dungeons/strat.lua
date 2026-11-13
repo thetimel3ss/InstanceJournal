@@ -705,7 +705,7 @@ STRAT.Bosses = {
             [9] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [16] = { -- NOTE: Missing abilities
+    [16] = {
         Id = "10440",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "rivendare" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "rivendare" .. IMPF,
@@ -713,6 +713,50 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440,
         MapCoordinateX = 60.2,
         MapCoordinateY = 16.6,
+        Abilities = {
+            [1] = {
+                Id = "15537",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15537,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15537
+            },
+            [2] = {
+                Id = "15284",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15284,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15284,
+                Flags = {IMAF.Tank}
+            },
+            [3] = {
+                Id = "19643",
+                Icon = "Ability_Warrior_SavageBlow",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_19643,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_19643,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [4] = {
+                Id = "17467",
+                Icon = "Spell_Shadow_UnholyStrength",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17467,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17467,
+                Flags = {IMAF.Heal}
+            },
+            [5] = {
+                Id = "17473",
+                Icon = "Spell_Shadow_RaiseDead",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17473,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17473,
+                Flags = {IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "17471",
+                        Icon = "Spell_Shadow_DeathPact",
+                        Name = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17471,
+                        Effect = IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17471
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[51217], DropChance = 100},
             [2] = {IJDB.I[22408], DropChance = 20},

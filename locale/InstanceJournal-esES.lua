@@ -1570,6 +1570,24 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Barón Rivendare"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "El barón Rivendare es un poderoso caballero de la muerte al servicio del Rey Exánime y coordina los esfuerzos de la Plaga en las Tierras de la Peste. Gobierna la ciudad de Stratholme y actualmente lucha con agentes de Argent Dawn enviados a Stratholme para matarlo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15537 = "Descarga de las Sombras"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15537 =
+        "Inflige daño de las Sombras a un objetivo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15284 = "Rajar"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15284 =
+        "Inflige daño físico a un objetivo y a sus aliados cercanos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_19643 = "Golpe mortal"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_19643 =
+        "Inflige daño Físico y reduce la sanación recibida un 50% durante 5 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17467 = "Aura profana"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17467 =
+        "Inflige daño de las Sombras a los enemigos en un radio de 30 metros cada 2 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17473 = "Levantar a los muertos"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17473 =
+        "Invoca a seis Esqueletos descerebrados.\n\nMatadlos rápidamente antes de que Pacto de la Muerte los consuma."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17471 = "Pacto de la Muerte"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17471 =
+        "Consume a los esqueletos invocados supervivientes para recuperar salud."
 
     -- GC
     IJ_DB_DUNGEON_GC_NAME = "ciudad de gilneas"

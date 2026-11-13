@@ -1602,6 +1602,24 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10440 = "Барон Ривендер"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10440 =
         "Барон Ривендер — могущественный рыцарь смерти на службе Короля-лича, координирующий усилия Плети в Чумных землях. Правя городом Стратхольм, он в настоящее время сражается с агентами Серебряного Рассвета, посланными в Стратхольм, чтобы убить его."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15537 = "Стрела Тьмы"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15537 =
+        "Наносит цели урон от темной магии."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_15284 = "Рассекающий удар"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_15284 =
+        "Наносит физический урон цели и находящимся рядом союзникам."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_19643 = "Смертельный удар"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_19643 =
+        "Наносит физический урон и снижает получаемое исцеление на 50% на 5 сек."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17467 = "Нечестивая аура"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17467 =
+        "Наносит урон от темной магии противникам в радиусе 30 м каждые 2 сек."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17473 = "Воскрешение мертвых"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17473 =
+        "Призывает шесть Безмозглых скелетов.\n\nБыстро убейте их, прежде чем Смертельный союз поглотит их."
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_NAME_17471 = "Смертельный союз"
+    IJ_DB_DUNGEON_STRAT_BOSS_10440_ABILITY_EFFECT_17471 =
+        "Поглощает выживших призванных скелетов, восстанавливая здоровье."
 
     -- GC
     IJ_DB_DUNGEON_GC_NAME = "Гилнеас Сити"
