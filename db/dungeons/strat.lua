@@ -80,7 +80,7 @@ STRAT.Bosses = {
             [4] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "10558",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "hearthsinger" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "hearthsinger" .. IMPF,
@@ -89,6 +89,33 @@ STRAT.Bosses = {
         MapCoordinateX = 72.5,
         MapCoordinateY = 66.0,
         IsRare = true,
+        Abilities = {
+            [1] = {
+                Id = "16100",
+                Icon = "Ability_Marksmanship",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16100,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16100
+            },
+            [2] = {
+                Id = "14443",
+                Icon = "Ability_UpgradeMoonGlaive",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_14443,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_14443
+            },
+            [3] = {
+                Id = "16244",
+                Icon = "Ability_Warrior_WarCry",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16244,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16244
+            },
+            [4] = {
+                Id = "16798",
+                Icon = "Spell_Shadow_SoothingKiss",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16798,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16798,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13378], DropChance = 20},
             [2] = {IJDB.I[13379], DropChance = 20},

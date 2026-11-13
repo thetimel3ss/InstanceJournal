@@ -1394,6 +1394,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Cantante del hogar Forresten"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "El sacrificio de Stratholme se cobró la vida de innumerables personas cuyo único delito fue estar en la ciudad condenada. Un cantante y flautín viajero llamado Forresten fue una de esas víctimas. Continúa vagando muerto por la ciudad, incapaz de aceptar su trágico destino."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16100 = "Disparar"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16100 =
+        "Inflige daño Físico a un objetivo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_14443 = "Multidisparo"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_14443 =
+        "Dispara a varios enemigos e inflige daño físico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16244 = "Grito desmoralizador"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16244 =
+        "Reduce en 20 el poder de ataque de los enemigos en un radio de 10 metros durante 30 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16798 = "Nana encantadora"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16798 =
+        "Duerme a un objetivo durante un máximo de 10 segundos.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "El imperdonable"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "Lylia era una espada de justicia entre su pueblo. Después de que Arthas ordenara a sus fuerzas purgar la ciudad, su cordura quedó destrozada al ver morir a innumerables inocentes a manos de ella. Ella cayó sobre su espada para escapar de la locura que la rodea, y ahora existe como un ser espectral al que para siempre se le niega la absolución por sus actos atroces."

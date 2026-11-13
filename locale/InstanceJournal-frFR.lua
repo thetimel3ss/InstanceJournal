@@ -1394,6 +1394,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Chanteur de foyer Forresten"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "L'abattage de Stratholme a coûté la vie à d'innombrables personnes dont le seul crime était de se trouver dans la ville condamnée. Un chanteur et joueur de piccolo ambulant nommé Forresten était l'une de ces victimes. Il continue d'errer dans la ville, mort, incapable d'accepter son destin tragique."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16100 = "Tir"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16100 =
+        "Inflige des dégâts physiques à une cible."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_14443 = "Flèches multiples"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_14443 =
+        "Tire sur plusieurs ennemis et inflige des dégâts des Arcanes."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16244 = "Cri démoralisant"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16244 =
+        "Réduit de 20 la puissance d’attaque des ennemis à moins de 10 mètres pendant 30 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16798 = "Berceuse enchantée"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16798 =
+        "Endort une cible pendant un maximum de 10 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "L'Impardonné"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "Lylia était une lame de justice parmi son peuple. Après qu'Arthas ait ordonné à ses forces de purger la ville, sa raison a été détruite en voyant d'innombrables innocents mourir de ses mains. Elle est tombée sur son épée pour échapper à la folie qui l'entourait, et elle existe désormais en tant qu'être spectral à jamais privé d'absolution pour ses actes odieux."

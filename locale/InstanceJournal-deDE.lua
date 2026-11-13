@@ -1395,6 +1395,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Herdsänger Forresten"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "Die Tötung von Stratholme forderte das Leben unzähliger Menschen, deren einziges Verbrechen darin bestand, sich in der dem Untergang geweihten Stadt aufzuhalten. Ein reisender Sänger und Piccolo-Spieler namens Forresten war ein solches Opfer. Er wandert weiterhin im Tod durch die Stadt und kann sein tragisches Schicksal nicht akzeptieren."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16100 = "Schießen"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16100 =
+        "Fügt einem Ziel körperlichen Schaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_14443 = "Mehrfachschuss"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_14443 =
+        "Schießt auf mehrere Gegner und verursacht Arkanschaden."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16244 = "Demoralisierender Ruf"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16244 =
+        "Verringert die Angriffskraft von Gegnern innerhalb von 10 Metern 30 Sekunden lang um 20."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16798 = "Bezauberndes Schlaflied"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16798 =
+        "Versetzt ein Ziel bis zu 10 Sekunden lang in Schlaf.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "Denen man nicht vergibt"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "Lylia war unter ihrem Volk ein Symbol der Rechtschaffenheit. Nachdem Arthas seinen Streitkräften befohlen hatte, die Stadt zu säubern, wurde ihr geistiger Verstand zerstört, weil sie mit ansehen musste, wie unzählige Unschuldige durch ihre Hand starben. Sie fiel auf ihr Schwert, um dem Wahnsinn um sie herum zu entkommen, und existiert nun als gespenstisches Wesen, dem die Absolution für ihre abscheulichen Taten für immer verweigert wird."

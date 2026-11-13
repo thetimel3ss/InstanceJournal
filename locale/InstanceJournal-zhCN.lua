@@ -2568,6 +2568,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "弗雷斯特恩"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "斯坦索姆大屠杀夺去了无数人的生命，他们唯一的罪行就是在这座注定毁灭的城市里。一位名叫福雷斯顿的巡回歌手和短笛演奏家就是这样的受害者之一。他继续在死亡之城徘徊，无法接受自己的悲惨命运。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16100 = "射击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16100 =
+        "对一个目标造成物理伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_14443 = "多重射击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_14443 =
+        "向多个敌人射击，造成奥术伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16244 = "挫志怒吼"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16244 =
+        "使10码内敌人的攻击强度降低20点，持续30秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16798 = "迷惑之歌"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16798 =
+        "使一个目标沉睡，最多持续10秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "不可宽恕者"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "莉莉亚是她人民中的正义之刃。在阿尔萨斯指挥他的军队净化这座城市后，她的理智因看到无数无辜者死于她的手中而崩溃。她为了逃避周围的疯狂而倒在剑上，现在她作为一个幽灵而存在，永远无法因其令人发指的行为而得到赦免。"

@@ -2438,6 +2438,18 @@ IJ_DB_DUNGEON_STRAT_BOSS_10393_ABILITY_EFFECT_12544 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Hearthsinger Forresten"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
     "The Culling of Stratholme claimed the lives of innumerable people whose only crime was being in the doomed city. A traveling singer and piccolo player named Forresten was one such victim. He continues to wander the city in death, unable to accept his tragic fate."
+IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16100 = "Shoot"
+IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16100 =
+    "Deals Physical damage to a target."
+IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_14443 = "Multi-Shot"
+IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_14443 =
+    "Fires at multiple enemies, dealing Arcane damage."
+IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16244 = "Demoralizing Shout"
+IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16244 =
+    "Reduces the attack power of enemies within 10 yards by 20 for 30 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16798 = "Enchanting Lullaby"
+IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16798 =
+    "Puts a target to sleep for up to 10 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "The Unforgiven"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
     "Lylia was a blade of righteousness among her people. After Arthas commanded his forces to purge the city, her sanity was ripped apart from seeing countless innocents die by her hand. She fell on her sword to escape the madness around her, and she now exists as a spectral being forever denied absolution for her heinous acts."

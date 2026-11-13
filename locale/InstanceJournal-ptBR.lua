@@ -1390,6 +1390,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10558 = "Cantor de Hearth Forresten"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10558 =
         "O abate de Stratholme ceifou a vida de inúmeras pessoas cujo único crime foi estar na cidade condenada. Um cantor viajante e flautista chamado Forresten foi uma dessas vítimas. Ele continua vagando pela cidade morto, incapaz de aceitar seu trágico destino."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16100 = "Disparar"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16100 =
+        "Causa dano Físico a um alvo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_14443 = "Tiro Múltiplo"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_14443 =
+        "Dispara contra vários inimigos, causando dano Arcano."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16244 = "Brado Desmoralizante"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16244 =
+        "Reduz o poder de ataque dos inimigos em um raio de 10 metros em 20 por 30 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_NAME_16798 = "Canção de Ninar Encantadora"
+    IJ_DB_DUNGEON_STRAT_BOSS_10558_ABILITY_EFFECT_16798 =
+        "Faz um alvo dormir por até 10 segundos.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10516 = "The Unforgiven"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10516 =
         "Lylia era uma lâmina de justiça entre seu povo. Depois que Arthas comandou suas forças para expurgar a cidade, sua sanidade foi destruída ao ver incontáveis ​​​​inocentes morrerem por suas mãos. Ela caiu sobre sua espada para escapar da loucura ao seu redor, e agora ela existe como um ser espectral para sempre negado a absolvição por seus atos hediondos."
