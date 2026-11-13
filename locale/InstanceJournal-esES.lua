@@ -1113,6 +1113,24 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Señor Valthalak"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "Valthalak, un noble dracónido y un brujo de inmenso poder, fue el ex general de Blackrock Spire antes de que Drakkisath llegara al poder. Fue asesinado por la compañía mercenaria Veiled Blade por su libro de hechizos, pero terminó vengándose incluso después de su muerte usando sus poderes nigrománticos."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27286 = "Cólera de las Sombras"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27286 =
+        "Inflige daño de las Sombras que salta entre objetivos cercanos y aumenta con cada salto.\n\nSeparaos para limitar los saltos."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27249 = "Invocar asesino espectral"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27249 =
+        "Invoca a dos Asesinos espectrales. Deja de invocarlos tras entrar en Enfurecer.\n\nDerrotad rápidamente a los enemigos adicionales."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27177 = "Profanar"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27177 =
+        "Un Asesino espectral canaliza un hechizo que aturde a un objetivo durante un máximo de 10 segundos.\n\nMatad al asesino para liberar a su objetivo."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_18663 = "Choque de las Sombras"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_18663 =
+        "Inflige daño de las Sombras a un objetivo."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_8269 =
+        "Con aproximadamente un 40% de salud, aumenta el daño físico infligido en 50 y la velocidad de ataque cuerpo a cuerpo un 60% durante 120 segundos.\n\nLos sanadores deben prepararse para el aumento de daño al tanque."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27383 = "Salva de descarga de las Sombras"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27383 =
+        "Hacia el final del combate, inflige repetidamente daño de las Sombras a los enemigos en un radio de 30 metros."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "General Drakkisath"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "Drakkisath, un estratega astuto y despiadado, comanda los ejércitos de Nefarian en la guerra con Ragnaros. Después de conseguir victorias contra los Hierro Negro, las fuerzas del general Drakkisath están posicionadas para expulsar a los enanos de la Montaña Roca Negra de una vez por todas."

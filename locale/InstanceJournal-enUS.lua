@@ -1800,6 +1800,24 @@ IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_15570 =
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Lord Valthalak"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
     "A drakonid noble and a warlock of immense power, Valthalak was the former General of Blackrock Spire before Drakkisath rose to power. He was slain by the Veiled Blade mercenary company for his spellbook, but ended up avenging himself even after his death using his necromantic powers."
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27286 = "Shadow Wrath"
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27286 =
+    "Deals Shadow damage that chains between nearby targets, increasing with each jump.\n\nSpread out to limit the chain."
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27249 = "Summon Spectral Assassin"
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27249 =
+    "Summons two Spectral Assassins. Stops summoning them after entering Enrage.\n\nDefeat the adds promptly."
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27177 = "Defile"
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27177 =
+    "A Spectral Assassin channels a spell that stuns a target for up to 10 seconds.\n\nKill the assassin to release its target."
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_18663 = "Shadow Shock"
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_18663 =
+    "Deals Shadow damage to a target."
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_8269 = "Enrage"
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_8269 =
+    "At approximately 40% health, increases Physical damage dealt by 50 and melee attack speed by 60% for 120 seconds.\n\nHealers should prepare for increased damage on the tank."
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27383 = "Shadow Bolt Volley"
+IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27383 =
+    "Near the end of the fight, repeatedly deals Shadow damage to enemies within 30 yards."
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "General Drakkisath"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
     "A cunning and ruthless strategist, Drakkisath commands Nefarian's armies in the war with Ragnaros. After securing victories against the Dark Irons, General Drakkisath's forces are positioned to drive the dwarves out of Blackrock Mountain once and for all."

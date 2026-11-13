@@ -334,12 +334,55 @@ UBRS.Bosses = {
             [13] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "16042",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "valthalak" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "valthalak" .. IMPF,
         Name = IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042,
         Story = IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042,
+        Abilities = {
+            [1] = {
+                Id = "27286",
+                Icon = "Spell_Shadow_SiphonMana",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27286,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27286
+            },
+            [2] = {
+                Id = "27249",
+                Icon = "Spell_Shadow_Charm",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27249,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27249,
+                Flags = {IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "27177",
+                        Icon = "Spell_Shadow_GatherShadows",
+                        Name = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27177,
+                        Effect = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27177
+                    },
+                    [2] = {
+                        Id = "18663",
+                        Icon = "Spell_Shadow_ShadowBolt",
+                        Name = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_18663,
+                        Effect = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_18663
+                    }
+                }
+            },
+            [3] = {
+                Id = "8269",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_8269,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_8269,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [4] = {
+                Id = "27383",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27383,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27383,
+                Flags = {IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[22302], DropChance = 25},
             [2] = {IJDB.I[22336], DropChance = 25},

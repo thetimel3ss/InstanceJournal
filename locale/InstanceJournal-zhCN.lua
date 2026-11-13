@@ -1893,6 +1893,24 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "瓦萨拉克"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "瓦尔塔拉克是一位龙族贵族和拥有巨大力量的术士，在达基萨斯掌权之前曾是黑石塔的前将军。他因魔法书而被面纱之刃佣兵团杀害，但死后仍利用死灵力量为自己报仇。"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27286 = "暗影之怒"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27286 =
+        "造成暗影伤害，并在附近目标之间跳跃，每次跳跃都会提高伤害。\n\n分散站位以减少跳跃次数。"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27249 = "召唤幽灵刺客"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27249 =
+        "召唤两名鬼灵刺客。进入狂怒后停止召唤。\n\n迅速消灭这些敌人。"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27177 = "亵渎"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27177 =
+        "鬼灵刺客引导法术，使一个目标昏迷，最多持续10秒。\n\n击杀刺客以解救其目标。"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_18663 = "暗影震击"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_18663 =
+        "对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_8269 = "狂怒"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_8269 =
+        "生命值降至约40%时，造成的物理伤害提高50点，近战攻击速度提高60%，持续120秒。\n\n治疗者应准备应对坦克受到的伤害增加。"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27383 = "暗影箭雨"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27383 =
+        "战斗接近结束时，反复对30码内的敌人造成暗影伤害。"
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "达基萨斯将军"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "达基萨斯是一位狡猾无情的战略家，他指挥奈法利安的军队与拉格纳罗斯作战。在取得对黑铁人的胜利后，达基萨斯将军的部队准备将矮人一劳永逸地赶出黑石山。"

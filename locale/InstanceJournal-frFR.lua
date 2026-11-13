@@ -1113,6 +1113,24 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Seigneur Valthalak"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "Noble drakonide et sorcier doté d'un immense pouvoir, Valthalak était l'ancien général de Blackrock Spire avant que Drakkisath n'accède au pouvoir. Il a été tué par la compagnie de mercenaires Veiled Blade pour son livre de sorts, mais a fini par se venger même après sa mort en utilisant ses pouvoirs nécromantiques."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27286 = "Courroux de l'ombre"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27286 =
+        "Inflige des dégâts d’Ombre qui rebondissent entre les cibles proches et augmentent à chaque rebond.\n\nEspacez-vous pour limiter les rebonds."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27249 = "Invocation d'un assassin spectral"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27249 =
+        "Invoque deux Assassins spectraux. Cesse de les invoquer après le début d’Enrager.\n\nÉliminez rapidement les ennemis supplémentaires."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27177 = "Profanation"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27177 =
+        "Un Assassin spectral canalise un sort qui étourdit une cible pendant un maximum de 10 secondes.\n\nTuez l’assassin pour libérer sa cible."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_18663 = "Horion de l'ombre"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_18663 =
+        "Inflige des dégâts d'Ombre à une cible."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_8269 = "Enrager"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_8269 =
+        "À environ 40% de ses points de vie, augmente les dégâts physiques infligés de 50 et la vitesse d’attaque en mêlée de 60% pendant 120 secondes.\n\nLes soigneurs doivent se préparer à une augmentation des dégâts sur le tank."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27383 = "Salve de Traits de l’ombre"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27383 =
+        "Vers la fin du combat, inflige à répétition des dégâts d’Ombre aux ennemis à moins de 30 mètres."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "Général Drakkisath"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "Stratège rusé et impitoyable, Drakkisath commande les armées de Nefarian dans la guerre contre Ragnaros. Après avoir remporté des victoires contre les Sombrefers, les forces du général Drakkisath sont en mesure de chasser les nains du Mont Rochenoire une fois pour toutes."

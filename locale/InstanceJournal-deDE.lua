@@ -1114,6 +1114,24 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Lord Valthalak"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "Valthalak, ein Adliger der Drakoniden und ein Hexenmeister von immenser Macht, war der ehemalige General der Schwarzfelsspitze, bevor Drakkisath an die Macht kam. Er wurde von der Söldnerkompanie Veiled Blade wegen seines Zauberbuchs getötet, rächte sich aber auch nach seinem Tod mit seinen nekromantischen Kräften."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27286 = "Schattenzorn"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27286 =
+        "Verursacht Schattenschaden, der auf nahe Ziele überspringt und mit jedem Sprung zunimmt.\n\nVerteilt euch, um die Sprünge zu begrenzen."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27249 = "Spektralen Assassinen beschwören"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27249 =
+        "Beschwört zwei Spektrale Assassinen. Nach Beginn von Wutanfall werden keine weiteren beschworen.\n\nBesiegt die zusätzlichen Gegner zügig."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27177 = "Entweihen"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27177 =
+        "Ein Spektraler Assassine kanalisiert einen Zauber, der ein Ziel bis zu 10 Sekunden lang betäubt.\n\nTötet den Assassinen, um sein Ziel zu befreien."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_18663 = "Schattenschock"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_18663 =
+        "Fügt einem Ziel Schattenschaden zu."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_8269 = "Wutanfall"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_8269 =
+        "Bei ungefähr 40% Gesundheit werden der verursachte körperliche Schaden um 50 und das Nahkampfangriffstempo 120 Sekunden lang um 60% erhöht.\n\nHeiler sollten sich auf erhöhten Schaden am Tank vorbereiten."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27383 = "Schattenblitzsalve"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27383 =
+        "Gegen Ende des Kampfes wird Gegnern innerhalb von 30 Metern wiederholt Schattenschaden zugefügt."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "General Drakkisath"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "Als gerissener und rücksichtsloser Stratege befehligt Drakkisath Nefarians Armeen im Krieg mit Ragnaros. Nachdem sie Siege gegen die Dunkeleisenzwerge errungen haben, sind die Streitkräfte von General Drakkisath in der Lage, die Zwerge ein für alle Mal aus dem Schwarzfels zu vertreiben."

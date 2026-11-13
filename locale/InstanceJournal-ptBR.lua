@@ -1110,6 +1110,24 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Senhor Valthalak"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "Um nobre draconídeo e um feiticeiro de imenso poder, Valthalak foi o ex-general do Pico da Rocha Negra antes de Drakkisath chegar ao poder. Ele foi morto pela companhia mercenária Veiled Blade por causa de seu livro de feitiços, mas acabou se vingando mesmo após sua morte usando seus poderes necromânticos."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27286 = "Ira Sombria"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27286 =
+        "Causa dano de Sombra que salta entre alvos próximos, aumentando a cada salto.\n\nEspalhem-se para limitar os saltos."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27249 = "Invocar Assassino Espectral"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27249 =
+        "Invoca dois Assassinos Espectrais. Para de invocá-los após entrar em Enfurecer.\n\nDerrotem os adds rapidamente."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27177 = "Profanar"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27177 =
+        "Um Assassino Espectral canaliza um feitiço que atordoa um alvo por até 10 segundos.\n\nMate o assassino para libertar seu alvo."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_18663 = "Choque Sombrio"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_18663 =
+        "Causa dano de Sombra a um alvo."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_8269 =
+        "Com aproximadamente 40% de vida, aumenta o dano Físico causado em 50 e a velocidade de ataque corpo a corpo em 60% por 120 segundos.\n\nOs curadores devem se preparar para o aumento do dano no tank."
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_NAME_27383 = "Saraivada de Setas Sombrias"
+    IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27383 =
+        "Perto do fim da luta, causa repetidamente dano de Sombra aos inimigos em um raio de 30 metros."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "General Drakkisath"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "Estrategista astuto e implacável, Drakkisath comanda os exércitos de Nefarian na guerra com Ragnaros. Depois de garantir vitórias contra os Dark Irons, as forças do General Drakkisath estão posicionadas para expulsar os anões da Montanha Rocha Negra de uma vez por todas."
