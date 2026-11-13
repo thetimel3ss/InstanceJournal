@@ -91,27 +91,33 @@ SV.Bosses = {
         Story = IJ_DB_DUNGEON_SV_BOSS_STORY_80852,
         MapCoordinateX = 68.6,
         MapCoordinateY = 90.1,
-        Abilities = { -- NOTE: Something about ice block?
+        -- OctoWoW logs show this spell set; the database NPC page still lists the former abilities.
+        Abilities = {
             [1] = {
-                Id = "5246", 
-                Icon = "Ability_GolemThunderClap", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_NAME_5246, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_EFFECT_5246, 
+                Id = "19717",
+                Icon = "Spell_Shadow_RainOfFire",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_NAME_19717,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_EFFECT_19717,
                 Flags = {IMAF.Important}
             },
             [2] = {
-                Id = "22859", 
-                Icon = "Ability_Warrior_SavageBlow", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_NAME_22859, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_EFFECT_22859, 
-                Flags = {IMAF.Heal}
+                Id = "25306",
+                Icon = "Spell_Fire_FlameBolt",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_NAME_25306,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_EFFECT_25306
             },
             [3] = {
-                Id = "22857", 
-                Icon = "Ability_Warrior_Challange", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_NAME_22857, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_EFFECT_22857, 
-                Flags = {IMAF.DPS, IMAF.Important}
+                Id = "18670",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_NAME_18670,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_EFFECT_18670
+            },
+            [4] = {
+                Id = "11958",
+                Icon = "Spell_Frost_Frost",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_NAME_11958,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80852_ABILITY_EFFECT_11958,
+                Flags = {IMAF.Important}
             }
         },
         Loot = {

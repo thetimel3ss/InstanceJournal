@@ -11,6 +11,7 @@ All changes to this project will be documented in this file.
 ### Changed
 
 - Updated boss abilities in `Stormwind Vault`
+- Expanded the lore of `Tham'Grarr` with his two heads and their personalities
 
 ## [1.4.7] - 2026-11-12
 
