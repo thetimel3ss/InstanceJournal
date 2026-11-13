@@ -1464,6 +1464,36 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Grande Cruzado Dathrohan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
         "O Grande Cruzado da Cruzada Escarlate, Saidan Dathrohan dá ordens do Bastião Escarlate em Stratholme. Rumores se espalharam sobre ele, colocando em dúvida suas verdadeiras intenções e até mesmo sua identidade..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phaseone = "Etapa Um"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phaseone =
+        "A luta começa contra o Grão-cruzado Dathrohan. Impacto Mental é usado nas duas etapas."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17281 = "Golpe do Cruzado"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17281 =
+        "Causa dano Físico e aumenta o dano Sagrado recebido em 30 por 30 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17284 = "Golpe Sagrado"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17284 =
+        "Causa dano Sagrado a um alvo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17286 = "Martelo do Cruzado"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17286 =
+        "Atordoa os inimigos em um raio de 20 metros por 4 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phasetwo = "Etapa Dois"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phasetwo =
+        "Com aproximadamente 40% de vida, Dathrohan se transforma em Balnazzar, recupera toda a vida e atordoa os jogadores próximos por 5 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17399 = "Choque Sombrio"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17399 =
+        "Causa dano de Sombra aos inimigos em até 15 metros."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_13704 = "Grito Psíquico"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_13704 =
+        "Faz os inimigos em um raio de 8 metros fugirem de medo por 6 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_12098 = "Sono"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_12098 =
+        "Faz um alvo dormir por até 20 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17405 = "Dominação"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17405 =
+        "Controla um alvo por até 15 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17287 = "Impacto Mental"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17287 =
+        "Causa dano de Sombra a um alvo."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Magistrado Bartilas"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "Barthilas estava entre os inocentes expurgados por Arthas e suas forças durante o Extermínio de Stratholme. O Lich King finalmente ressuscitou o ex-magistrado do túmulo e ordenou que a enorme monstruosidade morta-viva guardasse sua casa em ruínas."

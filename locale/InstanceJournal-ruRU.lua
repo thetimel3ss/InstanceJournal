@@ -1500,6 +1500,36 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Великий крестоносец Датрохан"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
         "Великий крестоносец Алого ордена Сайдан Датрохан отдает приказы из Бастиона Алого ордена в Стратхольме. О нем поползли слухи, ставящие под сомнение его истинные намерения и даже его личность..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phaseone = "Первый этап"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phaseone =
+        "Бой начинается с верховным рыцарем Датроханом. Взрыв разума применяется на обоих этапах."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17281 = "Удар воина Света"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17281 =
+        "Наносит физический урон и увеличивает получаемый урон от светлой магии на 30 на 30 сек.\n\nРассеивайте этот магический эффект."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17284 = "Священный удар"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17284 =
+        "Наносит цели урон от светлой магии."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17286 = "Молот воина Света"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17286 =
+        "Оглушает противников в радиусе 20 м на 4 сек.\n\nРассеивайте этот магический эффект."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phasetwo = "Второй этап"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phasetwo =
+        "Примерно при 40% здоровья Датрохан превращается в Бальназзара, полностью восстанавливает здоровье и оглушает находящихся рядом игроков на 5 сек."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17399 = "Теневой шок"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17399 =
+        "Наносит урон от темной магии противникам в радиусе 15 м."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_13704 = "Ментальный крик"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_13704 =
+        "Заставляет противников в радиусе 8 м бежать в страхе в течение 6 сек."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_12098 = "Сон"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_12098 =
+        "Погружает цель в сон на срок до 20 сек.\n\nРассеивайте этот магический эффект."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17405 = "Господство"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17405 =
+        "Подчиняет цель на срок до 15 сек."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17287 = "Взрыв разума"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17287 =
+        "Наносит цели урон от темной магии."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Мировой судья Бартилас"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "Бартилас был среди невиновных, очищенных Артасом и его войсками во время Очищения Стратхольма. В конце концов Король-лич поднял бывшего магистрата из могилы и приказал огромной нежити-чудовищу охранять его разрушенный дом."

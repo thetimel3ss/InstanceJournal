@@ -2512,6 +2512,36 @@ IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17293 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Grand Crusader Dathrohan"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
     "The Grand Crusader of the Scarlet Crusade, Saidan Dathrohan give orders from the Scarlet Bastion in Stratholme. Rumors spread about him, putting into question his true intents and even his identity..."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phaseone = "Stage One"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phaseone =
+    "The fight begins against Grand Crusader Dathrohan. Mind Blast is used in both stages."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17281 = "Crusader Strike"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17281 =
+    "Deals Physical damage and increases Holy damage taken by 30 for 30 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17284 = "Holy Strike"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17284 =
+    "Deals Holy damage to a target."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17286 = "Crusader's Hammer"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17286 =
+    "Stuns enemies within 20 yards for 4 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phasetwo = "Stage Two"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phasetwo =
+    "At approximately 40% health, Dathrohan transforms into Balnazzar, fully restores his health and stuns nearby players for 5 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17399 = "Shadow Shock"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17399 =
+    "Deals Shadow damage to enemies within 15 yards."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_13704 = "Psychic Scream"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_13704 =
+    "Causes enemies within 8 yards to flee in fear for 6 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_12098 = "Sleep"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_12098 =
+    "Puts a target to sleep for up to 20 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17405 = "Domination"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17405 =
+    "Controls a target for up to 15 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17287 = "Mind Blast"
+IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17287 =
+    "Deals Shadow damage to a target."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Magistrate Barthilas"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
     "Barthilas was among those innocents purged by Arthas and his forces during the Culling of Stratholme. The Lich King eventually raised the former magistrate from the grave and commanded the hulking undead monstrosity to guard his ruined home."

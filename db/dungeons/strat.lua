@@ -350,7 +350,7 @@ STRAT.Bosses = {
             [8] = {IJDB.I[51217], DropChance = 5}
         }
     },
-    [9] = { -- NOTE: Missing abilities
+    [9] = {
         Id = "10812",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "dathrohan" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "dathrohan" .. IMPF,
@@ -358,6 +358,78 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812,
         MapCoordinateX = 35.1,
         MapCoordinateY = 93.4,
+        Abilities = {
+            [1] = {
+                Id = "phaseone",
+                Icon = "Spell_Holy_SealOfMight",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phaseone,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phaseone,
+                SubAbilities = {
+                    [1] = {
+                        Id = "17281",
+                        Icon = "Spell_Holy_HolySmite",
+                        Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17281,
+                        Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17281,
+                        Flags = {IMAF.Magic, IMAF.Tank}
+                    },
+                    [2] = {
+                        Id = "17284",
+                        Icon = "Ability_ThunderBolt",
+                        Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17284,
+                        Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17284,
+                        Flags = {IMAF.Tank}
+                    },
+                    [3] = {
+                        Id = "17286",
+                        Icon = "Spell_Holy_SealOfMight",
+                        Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17286,
+                        Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17286,
+                        Flags = {IMAF.Magic}
+                    }
+                }
+            },
+            [2] = {
+                Id = "phasetwo",
+                Icon = "Spell_Shadow_Metamorphosis",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phasetwo,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phasetwo,
+                Flags = {IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "17399",
+                        Icon = "Spell_Shadow_ShadowBolt",
+                        Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17399,
+                        Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17399
+                    },
+                    [2] = {
+                        Id = "13704",
+                        Icon = "Spell_Shadow_PsychicScream",
+                        Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_13704,
+                        Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_13704
+                    },
+                    [3] = {
+                        Id = "12098",
+                        Icon = "Spell_Nature_Sleep",
+                        Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_12098,
+                        Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_12098,
+                        Flags = {IMAF.Magic}
+                    },
+                    [4] = {
+                        Id = "17405",
+                        Icon = "Spell_Shadow_ShadowWordDominate",
+                        Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17405,
+                        Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17405,
+                        Flags = {IMAF.Important}
+                    }
+                }
+            },
+            [3] = {
+                Id = "17287",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17287,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17287
+            }
+        },
         Loot = {
             [1] = {IJDB.I[51217], DropChance = 100},
             [2] = {IJDB.I[83501], DropChance = 17},

@@ -2642,6 +2642,36 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "大十字军战士达索汉"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
         "血色十字军的大十字军战士赛丹·达索汉从斯坦索姆的血色堡垒发出命令。关于他的谣言四起，人们质疑他的真实意图，甚至他的身份……"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phaseone = "第一阶段"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phaseone =
+        "战斗首先面对大十字军战士达索汉。两个阶段都会使用心灵震爆。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17281 = "十字军打击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17281 =
+        "造成物理伤害，并使受到的神圣伤害提高30点，持续30秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17284 = "神圣打击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17284 =
+        "对一个目标造成神圣伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17286 = "十字军之锤"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17286 =
+        "使20码内的敌人昏迷4秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phasetwo = "第二阶段"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phasetwo =
+        "生命值降至约40%时，达索汉变身为巴纳扎尔，恢复全部生命值，并使附近玩家昏迷5秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17399 = "暗影震击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17399 =
+        "对15码内的敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_13704 = "心灵尖啸"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_13704 =
+        "使8码内的敌人因恐惧而逃跑，持续6秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_12098 = "睡眠术"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_12098 =
+        "使一个目标沉睡，最多持续20秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17405 = "支配"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17405 =
+        "控制一个目标，最多持续15秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17287 = "心灵震爆"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17287 =
+        "对一个目标造成暗影伤害。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "巴瑟拉斯镇长"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "在斯坦索姆大屠杀期间，巴瑟拉斯是被阿尔萨斯和他的军队清洗的无辜者之一。巫妖王最终将这位前任治安官从坟墓中复活，并命令这个巨大的不死怪物守卫他被毁的家园。"

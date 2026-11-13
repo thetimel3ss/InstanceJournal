@@ -1469,6 +1469,36 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Großkreuzfahrer Dathrohan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
         "Der Großkreuzfahrer des Scharlachroten Kreuzzugs, Saidan Dathrohan, erteilt Befehle von der Scharlachroten Bastion in Stratholme. Gerüchte über ihn verbreiten sich und stellen seine wahren Absichten und sogar seine Identität in Frage ..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phaseone = "Erste Phase"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phaseone =
+        "Der Kampf beginnt gegen Großkreuzfahrer Dathrohan. Gedankenschlag wird in beiden Phasen eingesetzt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17281 = "Kreuzfahrerstoß"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17281 =
+        "Verursacht körperlichen Schaden und erhöht den erlittenen Heiligschaden 30 Sekunden lang um 30.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17284 = "Heiliger Schlag"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17284 =
+        "Fügt einem Ziel Heiligschaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17286 = "Hammer des Kreuzfahrers"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17286 =
+        "Betäubt Gegner innerhalb von 20 Metern 4 Sekunden lang.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_phasetwo = "Zweite Phase"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_phasetwo =
+        "Bei ungefähr 40% Gesundheit verwandelt sich Dathrohan in Balnazzar, stellt seine Gesundheit vollständig wieder her und betäubt nahe Spieler 5 Sekunden lang."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17399 = "Schattenschock"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17399 =
+        "Fügt Gegnern im Umkreis von 15 Metern Schattenschaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_13704 = "Psychischer Schrei"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_13704 =
+        "Lässt Gegner innerhalb von 8 Metern 6 Sekunden lang vor Furcht fliehen."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_12098 = "Schlaf"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_12098 =
+        "Versetzt ein Ziel bis zu 20 Sekunden lang in Schlaf.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17405 = "Beherrschung"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17405 =
+        "Kontrolliert ein Ziel bis zu 15 Sekunden lang."
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_NAME_17287 = "Gedankenschlag"
+    IJ_DB_DUNGEON_STRAT_BOSS_10812_ABILITY_EFFECT_17287 =
+        "Fügt einem Ziel Schattenschaden zu."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10435 = "Magistrat Barthilas"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10435 =
         "Barthilas gehörte zu den Unschuldigen, die von Arthas und seinen Truppen während der Tötung von Stratholme gesäubert wurden. Der Lichkönig erweckte schließlich den ehemaligen Richter aus dem Grab und befahl der riesigen untoten Monstrosität, sein zerstörtes Haus zu bewachen."
