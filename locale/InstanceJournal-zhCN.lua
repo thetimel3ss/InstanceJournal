@@ -1875,6 +1875,21 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "比斯巨兽"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "奈法利安的龙族对拉格纳罗斯俘虏的爪牙进行野蛮的折磨感到非常高兴。尽管承受着难以想象的痛苦，一只核心猎犬仍然保持清醒，可以接受重新训练，而他的凶猛使他成为黑石塔上层的理想守卫。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16788 = "火球术"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16788 =
+        "对一个目标造成火焰伤害。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16785 = "烈焰破击"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16785 =
+        "对10码内的敌人造成火焰伤害，并将其击退。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_14100 = "恐怖咆哮"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_14100 =
+        "使10码内的敌人因恐惧而逃跑，持续5秒。\n\n防护恐惧结界可以防止此效果。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16636 = "狂暴冲锋"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16636 =
+        "冲向一个目标，造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_15570 = "献祭"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_15570 =
+        "造成火焰伤害，随后每3秒造成额外火焰伤害，持续21秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "瓦萨拉克"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "瓦尔塔拉克是一位龙族贵族和拥有巨大力量的术士，在达基萨斯掌权之前曾是黑石塔的前将军。他因魔法书而被面纱之刃佣兵团杀害，但死后仍利用死灵力量为自己报仇。"

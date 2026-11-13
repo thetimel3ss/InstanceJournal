@@ -1096,6 +1096,21 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "Das Biest"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "Nefarians Drachensippen erfreuen sich an der barbarischen Folter der gefangenen Diener von Ragnaros. Trotz unvorstellbarer Qualen blieb ein Kernhund klar genug, um umgeschult zu werden, und seine Wildheit macht ihn zu einem idealen Wächter in den oberen Ebenen der Schwarzfelsspitze."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16788 = "Feuerball"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16788 =
+        "Fügt einem Ziel Feuerschaden zu."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16785 = "Flammenausbruch"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16785 =
+        "Fügt Gegnern im Umkreis von 10 Metern Feuerschaden zu und stößt sie zurück."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_14100 = "Schreckensgebrüll"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_14100 =
+        "Lässt Gegner innerhalb von 10 Metern 5 Sekunden lang vor Furcht fliehen.\n\nFurchtzauberschutz kann diesen Effekt verhindern."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16636 = "Berserkeransturm"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16636 =
+        "Stürmt ein Ziel an, verursacht körperlichen Schaden und stößt es zurück."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_15570 = "Feuerbrand"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_15570 =
+        "Verursacht Feuerschaden und anschließend 21 Sekunden lang alle 3 Sekunden zusätzlichen Feuerschaden.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Lord Valthalak"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "Valthalak, ein Adliger der Drakoniden und ein Hexenmeister von immenser Macht, war der ehemalige General der Schwarzfelsspitze, bevor Drakkisath an die Macht kam. Er wurde von der Söldnerkompanie Veiled Blade wegen seines Zauberbuchs getötet, rächte sich aber auch nach seinem Tod mit seinen nekromantischen Kräften."

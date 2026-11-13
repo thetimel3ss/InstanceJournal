@@ -1095,6 +1095,21 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "la bestia"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "Los dragonantes de Nefarian disfrutan obscenamente de la bárbara tortura de los secuaces capturados de Ragnaros. A pesar de sufrir una agonía inimaginable, un perro central permaneció lo suficientemente lúcido como para ser reentrenado, y su ferocidad lo convierte en un guardia ideal en los niveles superiores de Blackrock Spire."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16788 = "Bola de Fuego"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16788 =
+        "Inflige daño de Fuego a un objetivo."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16785 = "Rompellamas"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16785 =
+        "Inflige daño de Fuego a los enemigos en un radio de 10 metros y los repele."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_14100 = "Rugido aterrador"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_14100 =
+        "Hace que los enemigos en un radio de 10 metros huyan aterrorizados durante 5 segundos.\n\nResguardo contra el miedo puede prevenir este efecto."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16636 = "Carga de rabioso"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16636 =
+        "Carga contra un objetivo, inflige daño Físico y lo repele."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_15570 = "Inmolar"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_15570 =
+        "Inflige daño de Fuego, seguido de daño de Fuego adicional cada 3 segundos durante 21 segundos.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Señor Valthalak"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "Valthalak, un noble dracónido y un brujo de inmenso poder, fue el ex general de Blackrock Spire antes de que Drakkisath llegara al poder. Fue asesinado por la compañía mercenaria Veiled Blade por su libro de hechizos, pero terminó vengándose incluso después de su muerte usando sus poderes nigrománticos."

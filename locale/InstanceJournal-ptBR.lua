@@ -1092,6 +1092,21 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "A Besta"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "Os dragonkin de Nefarian sentem prazer obsceno na tortura bárbara dos asseclas capturados de Ragnaros. Apesar de sofrer uma agonia inimaginável, um cão de caça permaneceu lúcido o suficiente para ser treinado novamente, e sua ferocidade faz dele um guarda ideal nos níveis superiores do Pico da Rocha Negra."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16788 = "Bola de Fogo"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16788 =
+        "Causa dano de Fogo a um alvo."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16785 = "Ruptura Flamejante"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16785 =
+        "Causa dano de Fogo aos inimigos em até 10 metros e os repele."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_14100 = "Rugido Aterrorizante"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_14100 =
+        "Faz os inimigos em um raio de 10 metros fugirem de medo por 5 segundos.\n\nProteção contra Medo pode prevenir esse efeito."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16636 = "Investida do Berserker"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16636 =
+        "Investe contra um alvo, causando dano Físico e o repelindo."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_15570 = "Imolar"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_15570 =
+        "Causa dano de Fogo, seguido de dano de Fogo adicional a cada 3 segundos por 21 segundos.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Senhor Valthalak"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "Um nobre draconídeo e um feiticeiro de imenso poder, Valthalak foi o ex-general do Pico da Rocha Negra antes de Drakkisath chegar ao poder. Ele foi morto pela companhia mercenária Veiled Blade por causa de seu livro de feitiços, mas acabou se vingando mesmo após sua morte usando seus poderes necromânticos."

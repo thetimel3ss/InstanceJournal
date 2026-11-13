@@ -1095,6 +1095,21 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "La Bête"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
         "Les dragons de Nefarian prennent un plaisir obscène à la torture barbare des serviteurs capturés par Ragnaros. Malgré une agonie inimaginable, l'un des chiens de base est resté suffisamment lucide pour être recyclé, et sa férocité en fait un garde idéal dans les niveaux supérieurs de Blackrock Spire."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16788 = "Boule de feu"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16788 =
+        "Inflige des dégâts de Feu à une cible."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16785 = "Brise-flammes"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16785 =
+        "Inflige des dégâts de Feu aux ennemis dans un rayon de 10 mètres et les repousse."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_14100 = "Rugissement terrifiant"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_14100 =
+        "Fait fuir de peur les ennemis à moins de 10 mètres pendant 5 secondes.\n\nGardien de peur peut empêcher cet effet."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16636 = "Charge de berserker"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16636 =
+        "Charge une cible, lui inflige des dégâts physiques et la repousse."
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_15570 = "Immolation"
+    IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_15570 =
+        "Inflige des dégâts de Feu, puis des dégâts de Feu supplémentaires toutes les 3 secondes pendant 21 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Seigneur Valthalak"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
         "Noble drakonide et sorcier doté d'un immense pouvoir, Valthalak était l'ancien général de Blackrock Spire avant que Drakkisath n'accède au pouvoir. Il a été tué par la compagnie de mercenaires Veiled Blade pour son livre de sorts, mais a fini par se venger même après sa mort en utilisant ses pouvoirs nécromantiques."

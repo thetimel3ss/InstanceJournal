@@ -1782,6 +1782,21 @@ IJ_DB_DUNGEON_UBRS_BOSS_10429_ABILITY_EFFECT_10101 =
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430 = "The Beast"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430 =
     "Nefarian's dragonkin take obscene delight in the barbaric torture of Ragnaros's captured minions. Despite suffering unimaginable agony, one core hound remained lucid enough to be retrained, and his ferocity makes him an ideal guard in the upper levels of Blackrock Spire."
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16788 = "Fireball"
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16788 =
+    "Deals Fire damage to a target."
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16785 = "Flamebreak"
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16785 =
+    "Deals Fire damage to enemies within 10 yards and knocks them back."
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_14100 = "Terrifying Roar"
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_14100 =
+    "Causes enemies within 10 yards to flee in fear for 5 seconds.\n\nFear Ward can prevent this effect."
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16636 = "Berserker Charge"
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16636 =
+    "Charges a target, dealing Physical damage and knocking them back."
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_15570 = "Immolate"
+IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_15570 =
+    "Deals Fire damage, followed by additional Fire damage every 3 seconds for 21 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_16042 = "Lord Valthalak"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_16042 =
     "A drakonid noble and a warlock of immense power, Valthalak was the former General of Blackrock Spire before Drakkisath rose to power. He was slain by the Veiled Blade mercenary company for his spellbook, but ended up avenging himself even after his death using his necromantic powers."

@@ -279,12 +279,45 @@ UBRS.Bosses = {
             [22] = {IJDB.I[13522], DropChance = 3}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "10430",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "beast" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "beast" .. IMPF,
         Name = IJ_DB_DUNGEON_UBRS_BOSS_NAME_10430,
         Story = IJ_DB_DUNGEON_UBRS_BOSS_STORY_10430,
+        Abilities = {
+            [1] = {
+                Id = "16788",
+                Icon = "Spell_Fire_FlameBolt",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16788,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16788
+            },
+            [2] = {
+                Id = "16785",
+                Icon = "Spell_Holy_Excorcism_02",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16785,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16785
+            },
+            [3] = {
+                Id = "14100",
+                Icon = "Ability_Devour",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_14100,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_14100
+            },
+            [4] = {
+                Id = "16636",
+                Icon = "Ability_Warrior_Charge",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_16636,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_16636
+            },
+            [5] = {
+                Id = "15570",
+                Icon = "Spell_Fire_Immolation",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_NAME_15570,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10430_ABILITY_EFFECT_15570,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[24101], DropChance = 13},
             [2] = {IJDB.I[12709], DropChance = 10},
