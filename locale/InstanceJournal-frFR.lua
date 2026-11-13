@@ -371,15 +371,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SV_BOSS_NAME_80850 = "Mariée noire"
     IJ_DB_DUNGEON_SV_BOSS_STORY_80850 =
         "La Mariée Noire est une figure tragique, liée par un amour obsessionnel pour Damian. Elle attaque tous ceux qui s'approchent, les considérant comme des profanateurs de sa dévotion, et parle de son amour pour l'Éventreur même dans la mort."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16867 = "Malédiction Banshee"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16867 = "La Mariée Noire maudit les ennemis proches, réduisant leurs chances de toucher de 10 % pendant 12 secondes."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16565 = "Lamentation de Banshee"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16565 = "La Mariée Noire gémit d'angoisse, infligeant des dégâts d'ombre à un ennemi."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17244 = "Posséder"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17244 =
-        "La Mariée Noire prend le contrôle d'un de ses ennemis et commence à attaquer ses alliés !\n\nInfliger suffisamment de dégâts au joueur possédé le libérera de la mariée !"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_18327 = "Silence"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_18327 = "La Mariée Noire réduit au silence tous les ennemis dans un rayon de 10 mètres, les empêchant de lancer des sorts pendant 10 secondes."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_7074 = "Cris du passé"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_7074 = "Réduit au silence les ennemis dans un rayon de 5 mètres pendant 5 secondes.\n\nLes joueurs à distance et les soigneurs doivent rester hors de cette portée. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17228 = "Salve de Traits de l'ombre"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17228 = "Inflige des dégâts d'Ombre aux ennemis dans un rayon de 30 mètres."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_28873 = "Gifle de liche"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_28873 = "Inflige des dégâts d'Ombre à une cible et la repousse."
     IJ_DB_DUNGEON_SV_BOSS_NAME_80854 = "Damien"
     IJ_DB_DUNGEON_SV_BOSS_STORY_80854 =
         "Damian, également connu sous le nom de The Ripper, est un tueur mortel et insaisissable qui frappe depuis l'ombre. Il adore le combat, chassant ceux qui croisent son chemin avec une précision impitoyable, et disparaît aussi facilement qu'il apparaît."

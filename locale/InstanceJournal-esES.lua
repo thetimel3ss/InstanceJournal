@@ -372,15 +372,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SV_BOSS_NAME_80850 = "novia negra"
     IJ_DB_DUNGEON_SV_BOSS_STORY_80850 =
         "La Novia Negra es una figura trágica, unida por un amor obsesivo por Damian. Ataca a cualquiera que se acerque, considerándolos profanadores de su devoción, y habla de su amor por El Destripador incluso en la muerte."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16867 = "Maldición alma en pena"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16867 = "La Novia Negra maldice a los enemigos cercanos, reduciendo su probabilidad de golpear en un 10% durante 12 segundos."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16565 = "Lamento de alma en pena"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16565 = "La Novia Negra gime de angustia e inflige daño de las sombras a un enemigo."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17244 = "Poseer"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17244 =
-        "¡La Novia Negra toma el control de uno de sus enemigos y comienza a atacar a sus aliados! ||norte||  ||norte|| ¡Hacer suficiente daño al jugador poseído lo liberará de la novia!"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_18327 = "Silencio"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_18327 = "La Novia Negra silencia a todos los enemigos en un radio de 10 metros, impidiéndoles lanzar hechizos durante 10 segundos."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_7074 = "Gritos del pasado"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_7074 = "Silencia a los enemigos en un radio de 5 metros durante 5 segundos.\n\nLos jugadores a distancia y los sanadores deben permanecer fuera de este alcance. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17228 = "Salva de descarga de las Sombras"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17228 = "Inflige daño de las Sombras a los enemigos en un radio de 30 metros."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_28873 = "Bofetada de liche"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_28873 = "Inflige daño de las Sombras a un objetivo y lo repele."
     IJ_DB_DUNGEON_SV_BOSS_NAME_80854 = "Damián"
     IJ_DB_DUNGEON_SV_BOSS_STORY_80854 =
         "Damian, también conocido como El Destripador, es un asesino mortal y esquivo que ataca desde las sombras. Le encanta el combate, caza a quienes se cruzan en su camino con precisión despiadada y desaparece tan fácilmente como aparece."

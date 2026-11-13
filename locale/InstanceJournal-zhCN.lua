@@ -468,15 +468,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SV_BOSS_NAME_80850 = "黑色新娘"
     IJ_DB_DUNGEON_SV_BOSS_STORY_80850 =
         "黑人新娘是一个悲剧人物，被达米安的痴迷之爱所束缚。她攻击任何靠近的人，认为他们玷污了她的奉献精神，并在死后仍诉说她对开膛手的爱。"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16867 = "女妖诅咒"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16867 = "黑色新娘诅咒附近的敌人，使其命中的几率降低 10%，持续 12 秒。"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16565 = "女妖哀嚎"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16565 = "黑色新娘痛苦地哀嚎，对敌人造成暗影伤害。"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17244 = "占据"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17244 =
-        "黑色新娘控制了她的一个敌人，并开始攻击他们的盟友！\n \n对被附身的玩家造成足够的伤害就能将他们从新娘手中解救出来！"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_18327 = "沉默"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_18327 = "黑色新娘沉默 10 码半径内的所有敌人，使其无法施展法术，持续 10 秒。"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_7074 = "往昔的尖啸"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_7074 = "使5码内的敌人沉默5秒。\n\n远程玩家和治疗应保持在此范围之外。驱散此魔法效果。"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17228 = "暗影箭雨"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17228 = "对30码内的敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_28873 = "巫妖之击"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_28873 = "对一个目标造成暗影伤害，并将其击退。"
     IJ_DB_DUNGEON_SV_BOSS_NAME_80854 = "戴米安"
     IJ_DB_DUNGEON_SV_BOSS_STORY_80854 =
         "达米安，也被称为“开膛手”，是一个从阴影中袭击的致命且难以捉摸的杀手。他热衷于战斗，以无情的精确度追捕那些遇到他的人，并且像他出现一样轻易消失。"

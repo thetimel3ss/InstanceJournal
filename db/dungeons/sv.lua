@@ -139,33 +139,26 @@ SV.Bosses = {
         Story = IJ_DB_DUNGEON_SV_BOSS_STORY_80850,
         MapCoordinateX = 55.9,
         MapCoordinateY = 10.8,
+        -- OctoWoW logs show this spell set; the database NPC page still lists the former abilities.
         Abilities = {
             [1] = {
-                Id = "16867", 
-                Icon = "Spell_Nature_Drowsy", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16867, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16867, 
-                Flags = {IMAF.Curse}
+                Id = "7074",
+                Icon = "Spell_Shadow_ImpPhaseShift",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_7074,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_7074,
+                Flags = {IMAF.Magic}
             },
             [2] = {
-                Id = "16565", 
-                Icon = "Spell_Shadow_ShadowBolt", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16565, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16565
+                Id = "17228",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17228,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17228
             },
             [3] = {
-                Id = "17244", 
-                Icon = "Spell_Shadow_Charm", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17244, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17244, 
-                Flags = {IMAF.Important}
-            },
-            [4] = {
-                Id = "18327", 
-                Icon = "Spell_Holy_Silence", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_18327, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_18327, 
-                Flags = {IMAF.Magic}
+                Id = "28873",
+                Icon = "Spell_Shadow_ChillTouch",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_28873,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_28873
             }
         },
         Loot = {

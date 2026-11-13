@@ -373,15 +373,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SV_BOSS_NAME_80850 = "Schwarze Braut"
     IJ_DB_DUNGEON_SV_BOSS_STORY_80850 =
         "Die Schwarze Braut ist eine tragische Figur, die von einer obsessiven Liebe zu Damian verbunden ist. Sie greift jeden an, der sich ihr nähert, sieht sie als Schänder ihrer Hingabe und spricht sogar im Tod von ihrer Liebe zu The Ripper."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16867 = "Banshee-Fluch"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16867 = "Die Schwarze Braut verflucht Gegner in der Nähe und verringert deren Trefferchance 12 Sekunden lang um 10 %."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_16565 = "Banshee-Weil"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_16565 = "Die Schwarze Braut heult vor Schmerz und fügt einem Feind Schattenschaden zu."
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17244 = "Besitzen"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17244 =
-        "Die Schwarze Braut übernimmt die Kontrolle über einen ihrer Feinde und beginnt, ihre Verbündeten anzugreifen!\n\nWenn man dem besessenen Spieler genügend Schaden zufügt, wird er von der Braut befreit!"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_18327 = "Schweigen"
-    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_18327 = "Die Schwarze Braut bringt alle Feinde in einem Umkreis von 10 Metern zum Schweigen und hindert sie 10 Sekunden lang daran, Zauber zu wirken."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_7074 = "Schreie der Vergangenheit"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_7074 = "Bringt Gegner im Umkreis von 5 Metern 5 Sekunden lang zum Schweigen.\n\nFernkämpfer und Heiler sollten außerhalb dieser Reichweite bleiben. Entfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_17228 = "Schattenblitzsalve"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_17228 = "Fügt Gegnern im Umkreis von 30 Metern Schattenschaden zu."
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_NAME_28873 = "Lichschlag"
+    IJ_DB_DUNGEON_SV_BOSS_80850_ABILITY_EFFECT_28873 = "Fügt einem Ziel Schattenschaden zu und stößt es zurück."
     IJ_DB_DUNGEON_SV_BOSS_NAME_80854 = "Damian"
     IJ_DB_DUNGEON_SV_BOSS_STORY_80854 =
         "Damian, auch bekannt als The Ripper, ist ein tödlicher und schwer fassbarer Killer, der aus dem Schatten zuschlägt. Er liebt den Kampf, jagt mit rücksichtsloser Präzision diejenigen, die seinen Weg kreuzen, und verschwindet so leicht, wie er auftaucht."
