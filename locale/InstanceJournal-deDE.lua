@@ -1416,6 +1416,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy der Grausame"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "Timmison war für seine Grausamkeit auf dem Schlachtfeld berüchtigt. Einige spekulieren, dass sein Sadismus auf das unaufhörliche Mobbing zurückzuführen sei, das er als Kind ertragen musste. Nun ist er als Geißelmonstrosität wiedergeboren, sein Geist ist zerschmettert, und diese Erinnerungen quälen ihn, was dazu führt, dass er auf den Namen antwortet, den er einst verabscheute: Timmy."
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_17470 = "Gefräßige Klaue"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_17470 =
+        "Verursacht körperlichen Schaden und heilt den Zaubernden."
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_8269 = "Wutanfall"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_8269 =
+        "Erhöht bei niedriger Gesundheit den verursachten körperlichen Schaden um 50 und das Nahkampfangriffstempo 120 Sekunden lang um 60%."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor der Eiferer"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Als verrücktes Mitglied des Scharlachroten Kreuzzugs bewacht er seine eigene Truhe und lässt niemanden in die Nähe."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Crimson Hammersmith"

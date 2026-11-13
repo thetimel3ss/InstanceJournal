@@ -1411,6 +1411,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy, o Cruel"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "Timmison era famoso por sua selvageria no campo de batalha. Alguns especulam que seu sadismo resultou do bullying incessante que sofreu quando criança. Agora renascido como uma monstruosidade do Flagelo, com a mente despedaçada, ele é atormentado por essas memórias, fazendo com que ele responda ao nome que antes odiava: Timmy."
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_17470 = "Garra Voraz"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_17470 =
+        "Causa dano Físico e restaura a vida do lançador."
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_8269 =
+        "Com pouca vida, aumenta o dano Físico causado em 50 e a velocidade de ataque corpo a corpo em 60% por 120 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor, o Zeloso"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Membro enlouquecido da Cruzada Escarlate, ele guarda seu próprio cofre e não deixa ninguém se aproximar dele."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Martelo Carmesim"

@@ -2459,6 +2459,12 @@ IJ_DB_DUNGEON_STRAT_BOSS_10516_ABILITY_EFFECT_14907 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy the Cruel"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
     "Timmison was infamous for his savagery on the field of battle. Some speculate his sadism stemmed from the ceaseless bullying he endured as a child. Now reborn as a Scourge monstrosity, his mind shattered, he is tormented by those memories, causing him to answer to the name he once loathed: Timmy."
+IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_17470 = "Ravenous Claw"
+IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_17470 =
+    "Deals Physical damage and restores health to the caster."
+IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_8269 = "Enrage"
+IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_8269 =
+    "At low health, increases Physical damage dealt by 50 and melee attack speed by 60% for 120 seconds."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor the Zealous"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "A crazed member of the Scarlet Crusade, he guards his own strongbox and won't let anyone near it."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Crimson Hammersmith"

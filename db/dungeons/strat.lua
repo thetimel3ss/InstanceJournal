@@ -152,7 +152,7 @@ STRAT.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "10808",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "timmy" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "timmy" .. IMPF,
@@ -160,6 +160,22 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808,
         MapCoordinateX = 46.0,
         MapCoordinateY = 67.5,
+        Abilities = {
+            [1] = {
+                Id = "17470",
+                Icon = "Ability_GhoulFrenzy",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_17470,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_17470,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [2] = {
+                Id = "8269",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_8269,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_8269,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13400], DropChance = 20},
             [2] = {IJDB.I[13401], DropChance = 20},

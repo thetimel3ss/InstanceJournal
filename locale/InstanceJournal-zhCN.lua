@@ -2589,6 +2589,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "悲惨的提米"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "蒂米森因其在战场上的野蛮行为而臭名昭著。一些人推测他的虐待狂源于他小时候遭受的不断的欺凌。现在重生为天灾怪物，他的精神崩溃了，他被那些记忆折磨着，让他回答了他曾经厌恶的名字：蒂米。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_17470 = "饥饿之爪"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_17470 =
+        "造成物理伤害，并为施法者恢复生命值。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_8269 = "激怒"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_8269 =
+        "生命值较低时，造成的物理伤害提高50点，近战攻击速度提高60%，持续120秒。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "狂热的玛洛尔"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "作为血色十字军的疯狂成员，他守护着自己的保险箱，不让任何人靠近。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "红衣铸锤师"

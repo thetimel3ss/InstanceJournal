@@ -1415,6 +1415,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy el Cruel"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "Timmison era famoso por su salvajismo en el campo de batalla. Algunos especulan que su sadismo se debió al incesante acoso que sufrió cuando era niño. Ahora renacido como una monstruosidad de la Plaga, con la mente destrozada, esos recuerdos lo atormentan, lo que le hace responder al nombre que una vez odió: Timmy."
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_17470 = "Garra voraz"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_17470 =
+        "Inflige daño físico y restaura salud al taumaturgo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_8269 =
+        "Con poca salud, aumenta el daño físico infligido en 50 y la velocidad de ataque cuerpo a cuerpo un 60% durante 120 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor el Celoso"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Un miembro enloquecido de la Cruzada Escarlata, protege su propia caja fuerte y no permite que nadie se acerque a ella."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Martillo carmesí"

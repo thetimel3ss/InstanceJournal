@@ -1415,6 +1415,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10808 = "Timmy le cruel"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10808 =
         "Timmison était tristement célèbre pour sa sauvagerie sur le champ de bataille. Certains pensent que son sadisme proviendrait du harcèlement incessant qu'il a subi lorsqu'il était enfant. Renaît désormais sous la forme d'une monstruosité du Fléau, son esprit brisé, il est tourmenté par ces souvenirs, l'amenant à répondre au nom qu'il détestait autrefois : Timmy."
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_17470 = "Griffe vorace"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_17470 =
+        "Inflige des dégâts physiques et rend des points de vie au lanceur."
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_NAME_8269 = "Enrager"
+    IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_8269 =
+        "Lorsque ses points de vie sont bas, augmente les dégâts physiques infligés de 50 et la vitesse d’attaque en mêlée de 60% pendant 120 secondes."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor le Zélé"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Membre fou de la Croisade Écarlate, il garde son propre coffre-fort et ne laisse personne s'en approcher."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Forgeron cramoisi"
