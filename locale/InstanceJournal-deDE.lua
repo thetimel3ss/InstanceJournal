@@ -1457,6 +1457,15 @@ if GetLocale() == "deDE" then
         "Purpurrote Scharfschützen greifen in den Kampf ein.\n\nBenutzt die Kanonen im Raum, um sie zu besiegen."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archivar Galford"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "Archivar Galford bewacht die Archive der Scarlet Bastion in Stratholme."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17274 = "Pyroschlag"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17274 =
+        "Verursacht Feuerschaden und anschließend 12 Sekunden lang alle 3 Sekunden zusätzlichen Feuerschaden."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17366 = "Feuernova"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17366 =
+        "Fügt Gegnern im Umkreis von 10 Metern Feuerschaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17293 = "Brennende Winde"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17293 =
+        "Betäubt ein Ziel und verursacht 8 Sekunden lang jede Sekunde Feuerschaden.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Großkreuzfahrer Dathrohan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
         "Der Großkreuzfahrer des Scharlachroten Kreuzzugs, Saidan Dathrohan, erteilt Befehle von der Scharlachroten Bastion in Stratholme. Gerüchte über ihn verbreiten sich und stellen seine wahren Absichten und sogar seine Identität in Frage ..."

@@ -1456,6 +1456,15 @@ if GetLocale() == "frFR" then
         "Des Fusiliers cramoisis rejoignent le combat.\n\nUtilisez les canons de la salle pour les éliminer."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archiviste Galford"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "L'archiviste Galford garde les archives du Bastion Écarlate à Stratholme."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17274 = "Explosion pyrotechnique"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17274 =
+        "Inflige des dégâts de Feu, puis des dégâts de Feu supplémentaires toutes les 3 secondes pendant 12 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17366 = "Nova de feu"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17366 =
+        "Inflige des dégâts de Feu aux ennemis dans un rayon de 10 mètres."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17293 = "Vents brûlants"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17293 =
+        "Étourdit une cible et lui inflige des dégâts de Feu chaque seconde pendant 8 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Grand croisé Dathrohan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
         "Le Grand Croisé de la Croisade Écarlate, Saidan Dathrohan donne des ordres depuis le Bastion Écarlate à Stratholme. Des rumeurs circulent à son sujet, remettant en question ses véritables intentions et même son identité..."

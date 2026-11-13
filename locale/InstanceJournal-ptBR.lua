@@ -1452,6 +1452,15 @@ if GetLocale() == "ptBR" then
         "Fuzileiros Carmesins entram na luta.\n\nUse os canhões da sala para derrotá-los."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Arquivista Galford"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "O arquivista Galford guarda os arquivos do Bastião Escarlate em Stratholme."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17274 = "Piroexplosão"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17274 =
+        "Causa dano de Fogo, seguido de dano de Fogo adicional a cada 3 segundos por 12 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17366 = "Nova de Fogo"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17366 =
+        "Causa dano de Fogo aos inimigos em até 10 metros."
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17293 = "Ventos Ardentes"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17293 =
+        "Atordoa um alvo e causa dano de Fogo a cada segundo por 8 segundos.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Grande Cruzado Dathrohan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
         "O Grande Cruzado da Cruzada Escarlate, Saidan Dathrohan dá ordens do Bastião Escarlate em Stratholme. Rumores se espalharam sobre ele, colocando em dúvida suas verdadeiras intenções e até mesmo sua identidade..."

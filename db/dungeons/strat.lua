@@ -309,7 +309,7 @@ STRAT.Bosses = {
             [13] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "10811",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "galford" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "galford" .. IMPF,
@@ -317,6 +317,28 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811,
         MapCoordinateX = 38.2,
         MapCoordinateY = 89.2,
+        Abilities = {
+            [1] = {
+                Id = "17274",
+                Icon = "Spell_Fire_Fireball02",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17274,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17274
+            },
+            [2] = {
+                Id = "17366",
+                Icon = "Spell_Fire_SealOfFire",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17366,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17366,
+                Flags = {IMAF.Heal}
+            },
+            [3] = {
+                Id = "17293",
+                Icon = "Spell_Nature_Cyclone",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17293,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17293,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13385], DropChance = 20},
             [2] = {IJDB.I[13386], DropChance = 20},

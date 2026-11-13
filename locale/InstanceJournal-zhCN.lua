@@ -2630,6 +2630,15 @@ if GetLocale() == "zhCN" then
         "红衣火枪手加入战斗。\n\n使用房间内的火炮消灭他们。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "档案管理员加尔福特"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "档案管理员加尔福德守护着斯坦索姆血色堡垒的档案。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17274 = "炎爆术"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17274 =
+        "造成火焰伤害，随后每3秒造成额外火焰伤害，持续12秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17366 = "火焰新星"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17366 =
+        "对10码内的敌人造成火焰伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17293 = "烈焰之风"
+    IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17293 =
+        "使一个目标昏迷，并每秒造成火焰伤害，持续8秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "大十字军战士达索汉"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
         "血色十字军的大十字军战士赛丹·达索汉从斯坦索姆的血色堡垒发出命令。关于他的谣言四起，人们质疑他的真实意图，甚至他的身份……"

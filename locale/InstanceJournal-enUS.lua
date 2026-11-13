@@ -2500,6 +2500,15 @@ IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_11054 =
     "Crimson Riflemen join the fight.\n\nUse the cannons in the room to defeat them."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archivist Galford"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "Archivist Galford guards the archives of the Scarlet Bastion in Stratholme."
+IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17274 = "Pyroblast"
+IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17274 =
+    "Deals Fire damage, followed by additional Fire damage every 3 seconds for 12 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17366 = "Fire Nova"
+IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17366 =
+    "Deals Fire damage to enemies within 10 yards."
+IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_NAME_17293 = "Burning Winds"
+IJ_DB_DUNGEON_STRAT_BOSS_10811_ABILITY_EFFECT_17293 =
+    "Stuns a target and deals Fire damage every second for 8 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Grand Crusader Dathrohan"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10812 =
     "The Grand Crusader of the Scarlet Crusade, Saidan Dathrohan give orders from the Scarlet Bastion in Stratholme. Rumors spread about him, putting into question his true intents and even his identity..."
