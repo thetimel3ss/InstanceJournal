@@ -8,6 +8,10 @@ All changes to this project will be documented in this file.
 
 - Added missing abilities to the bosses in `Black Morass`
 
+### Changed
+
+- Updated boss abilities in `Stormwind Vault`
+
 ## [1.4.7] - 2026-11-12
 
 ### Added

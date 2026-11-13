@@ -46,17 +46,30 @@ SV.Bosses = {
         MapCoordinateY = 38.5,
         Abilities = {
             [1] = {
-                Id = "10212", 
-                Icon = "Spell_Nature_StarFall", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_NAME_10212, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_EFFECT_10212
+                Id = "17618",
+                Icon = "Spell_Shadow_RaiseDead",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_NAME_17618,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_EFFECT_17618
             },
             [2] = {
-                Id = "18702", 
-                Icon = "Spell_Shadow_AntiShadow", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_NAME_18702, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_EFFECT_18702, 
-                Flags = {IMAF.Curse}
+                Id = "10947",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_NAME_10947,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_EFFECT_10947
+            },
+            [3] = {
+                Id = "11700",
+                Icon = "Spell_Shadow_LifeDrain02",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_NAME_11700,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_EFFECT_11700,
+                Flags = {IMAF.Magic, IMAF.Important}
+            },
+            [4] = {
+                Id = "18656",
+                Icon = "Spell_Shadow_AbominationExplosion",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_NAME_18656,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80853_ABILITY_EFFECT_18656,
+                Flags = {IMAF.Magic}
             }
         },
         Loot = {
