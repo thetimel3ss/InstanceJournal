@@ -2616,6 +2616,18 @@ if GetLocale() == "zhCN" then
         "造成火焰伤害，并使护甲值降低50%，持续20秒。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "炮手威利"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "作为血色十字军的首席炮手，威利无论在什么情况下都会使用他的大炮。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_10101 = "击飞"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_10101 =
+        "对一个目标造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_15615 = "拳击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_15615 =
+        "对一个目标造成物理伤害，并打断施法。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_20463 = "射击"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_20463 =
+        "对一个目标造成物理伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_11054 = "红衣火枪手"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_11054 =
+        "红衣火枪手加入战斗。\n\n使用房间内的火炮消灭他们。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "档案管理员加尔福特"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "档案管理员加尔福德守护着斯坦索姆血色堡垒的档案。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "大十字军战士达索汉"

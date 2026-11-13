@@ -1474,6 +1474,18 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Мастер-пушки Уилли"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 =
         "Главный артиллерист Алого ордена, Уилли будет использовать свои пушки независимо от обстоятельств."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_10101 = "Отбрасывание"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_10101 =
+        "Наносит цели физический урон и отбрасывает ее."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_15615 = "Зуботычина"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_15615 =
+        "Наносит цели физический урон и прерывает произнесение заклинаний."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_20463 = "Выстрел"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_20463 =
+        "Наносит цели физический урон."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_11054 = "Багровые ружейники"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_11054 =
+        "В бой вступают Багровые ружейники.\n\nИспользуйте пушки в комнате, чтобы уничтожить их."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Архивариус Галфорд"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "Архивариус Галфорд охраняет архивы Бастиона Алого ордена в Стратхольме."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Великий крестоносец Датрохан"

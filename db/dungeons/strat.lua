@@ -257,7 +257,7 @@ STRAT.Bosses = {
             [2] = {IJDB.I[124], DropChance = 6}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "10997",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "willey" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "willey" .. IMPF,
@@ -265,6 +265,34 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997,
         MapCoordinateX = 25.4,
         MapCoordinateY = 75.6,
+        Abilities = {
+            [1] = {
+                Id = "10101",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_10101,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_10101,
+                Flags = {IMAF.Tank}
+            },
+            [2] = {
+                Id = "15615",
+                Icon = "INV_Gauntlets_04",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_15615,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_15615
+            },
+            [3] = {
+                Id = "20463",
+                Icon = "Ability_Marksmanship",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_20463,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_20463
+            },
+            [4] = {
+                Id = "11054",
+                Icon = "INV_Weapon_Rifle_01",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_11054,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_11054,
+                Flags = {IMAF.Important}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13380], DropChance = 10},
             [2] = {IJDB.I[13381], DropChance = 10},

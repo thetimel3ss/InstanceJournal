@@ -1442,6 +1442,18 @@ if GetLocale() == "frFR" then
         "Inflige des dégâts de Feu et réduit l’armure de 50% pendant 20 secondes."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Maître canonnier Willey"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "Canonnier en chef de la Croisade écarlate, Willey utilisera ses canons quelles que soient les circonstances."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_10101 = "Repousser"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_10101 =
+        "Inflige des dégâts physiques à une cible et la repousse."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_15615 = "Volée de coups"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_15615 =
+        "Inflige des dégâts physiques à une cible et interrompt son incantation."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_20463 = "Tir"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_20463 =
+        "Inflige des dégâts physiques à une cible."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_11054 = "Fusiliers cramoisis"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_11054 =
+        "Des Fusiliers cramoisis rejoignent le combat.\n\nUtilisez les canons de la salle pour les éliminer."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archiviste Galford"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "L'archiviste Galford garde les archives du Bastion Écarlate à Stratholme."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Grand croisé Dathrohan"

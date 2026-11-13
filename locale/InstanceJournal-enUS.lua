@@ -2486,6 +2486,18 @@ IJ_DB_DUNGEON_STRAT_BOSS_11120_ABILITY_EFFECT_17445 =
     "Deals Fire damage and reduces armor by 50% for 20 seconds."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Cannon Master Willey"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "The chief cannoneer of the Scarlet Crusade, Willey will use his cannons no matter the circumstance."
+IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_10101 = "Knock Away"
+IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_10101 =
+    "Deals Physical damage to a target and knocks them back."
+IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_15615 = "Pummel"
+IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_15615 =
+    "Deals Physical damage to a target and interrupts spellcasting."
+IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_20463 = "Shoot"
+IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_20463 =
+    "Deals Physical damage to a target."
+IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_11054 = "Crimson Riflemen"
+IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_11054 =
+    "Crimson Riflemen join the fight.\n\nUse the cannons in the room to defeat them."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archivist Galford"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "Archivist Galford guards the archives of the Scarlet Bastion in Stratholme."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Grand Crusader Dathrohan"

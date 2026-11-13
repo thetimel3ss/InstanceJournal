@@ -1438,6 +1438,18 @@ if GetLocale() == "ptBR" then
         "Causa dano de Fogo e reduz a armadura em 50% por 20 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Mestre de Canhão Willey"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "O principal canhoneiro da Cruzada Escarlate, Willey usará seus canhões em qualquer circunstância."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_10101 = "Repelir"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_10101 =
+        "Causa dano Físico a um alvo e o repele."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_15615 = "Murro"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_15615 =
+        "Causa dano Físico a um alvo e interrompe o lançamento de feitiços."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_20463 = "Disparar"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_20463 =
+        "Causa dano Físico a um alvo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_11054 = "Fuzileiros Carmesins"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_11054 =
+        "Fuzileiros Carmesins entram na luta.\n\nUse os canhões da sala para derrotá-los."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Arquivista Galford"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "O arquivista Galford guarda os arquivos do Bastião Escarlate em Stratholme."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Grande Cruzado Dathrohan"

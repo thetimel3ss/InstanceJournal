@@ -1443,6 +1443,18 @@ if GetLocale() == "deDE" then
         "Verursacht Feuerschaden und verringert die Rüstung 20 Sekunden lang um 50%."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Kanonenmeister Willey"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10997 = "Willey, der Chefkanonier des Scharlachroten Kreuzzugs, wird seine Kanonen unter allen Umständen einsetzen."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_10101 = "Wegschlagen"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_10101 =
+        "Fügt einem Ziel körperlichen Schaden zu und stößt es zurück."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_15615 = "Zuschlagen"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_15615 =
+        "Fügt einem Ziel körperlichen Schaden zu und unterbricht das Zauberwirken."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_20463 = "Schießen"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_20463 =
+        "Fügt einem Ziel körperlichen Schaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_NAME_11054 = "Purpurrote Scharfschützen"
+    IJ_DB_DUNGEON_STRAT_BOSS_10997_ABILITY_EFFECT_11054 =
+        "Purpurrote Scharfschützen greifen in den Kampf ein.\n\nBenutzt die Kanonen im Raum, um sie zu besiegen."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10811 = "Archivar Galford"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10811 = "Archivar Galford bewacht die Archive der Scarlet Bastion in Stratholme."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10812 = "Großkreuzfahrer Dathrohan"
