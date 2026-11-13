@@ -1527,6 +1527,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baronesa Anastari"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "Enquanto viveu, Anastari pegou o que quis, custe o que custar. A morte pouco fez para mudar isso. Com a alma arrancada de seu corpo, Anastari se tornou uma banshee e abandonou seu amor por bugigangas materiais em favor de bens de um tipo muito mais sinistro."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16565 = "Lamento da Banshee"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16565 =
+        "Causa dano de Sombra a um alvo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16867 = "Maldição da Banshee"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16867 =
+        "Reduz a chance de acerto dos inimigos em um raio de 10 metros em 10% por 12 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_18327 = "Silêncio"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_18327 =
+        "Silencia os inimigos em um raio de 10 metros por 10 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_17244 = "Possessão"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_17244 =
+        "Possui um jogador, aumentando sua vida enquanto Anastari fica imune a dano.\n\nCause dano ao jogador controlado até ele ficar abaixo de aproximadamente 25% de vida para libertá-lo. Não o mate."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki, o Pálido"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "Maleki foi um dos primeiros a se juntar ao Culto dos Amaldiçoados, mostrando tremenda aptidão em controlar o frio da sepultura. Impulsionado por um desejo insaciável de poder, o mago aprimora fervorosamente suas habilidades em magia negra para se preparar para quando será refeito como um lich."

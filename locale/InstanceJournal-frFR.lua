@@ -1531,6 +1531,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baronne Anastari"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "Pendant qu'elle vivait, Anastari prenait ce qu'elle voulait, quel qu'en soit le prix. La mort n’a pas fait grand-chose pour changer cela. Son âme arrachée de son corps, Anastari est devenue une banshee et elle a abandonné son amour des bibelots matériels au profit de possessions bien plus sinistres."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16565 = "Complainte de la banshee"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16565 =
+        "Inflige des dégâts d'Ombre à une cible."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16867 = "Malédiction de la banshee"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16867 =
+        "Réduit les chances de toucher des ennemis à moins de 10 mètres de 10% pendant 12 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_18327 = "Silence"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_18327 =
+        "Réduit au silence les ennemis à moins de 10 mètres pendant 10 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_17244 = "Possession"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_17244 =
+        "Possède un joueur et augmente ses points de vie pendant qu’Anastari devient insensible aux dégâts.\n\nInfligez des dégâts au joueur contrôlé jusqu’à le faire passer sous environ 25% de ses points de vie pour le libérer. Ne le tuez pas."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki le Pallide"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "Maleki fut parmi les premiers à rejoindre le Culte des Damnés, faisant preuve d'une formidable aptitude à maîtriser le froid de la tombe. Poussé par un désir insatiable de pouvoir, le mage perfectionne avec ferveur ses compétences en magie noire pour se préparer au moment où il sera transformé en liche."

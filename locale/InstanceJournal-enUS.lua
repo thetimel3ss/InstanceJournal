@@ -2575,6 +2575,18 @@ IJ_DB_DUNGEON_STRAT_BOSS_10437_ABILITY_EFFECT_6016 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baroness Anastari"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
     "While she lived, Anastari took what she wanted, no matter the cost. Death has done little to change that. Her soul ripped from her body, Anastari became a banshee, and she has abandoned her love of material trinkets in favor of possessions of a far more sinister kind."
+IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16565 = "Banshee Wail"
+IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16565 =
+    "Deals Shadow damage to a target."
+IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16867 = "Banshee Curse"
+IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16867 =
+    "Reduces the hit chance of enemies within 10 yards by 10% for 12 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_18327 = "Silence"
+IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_18327 =
+    "Silences enemies within 10 yards for 10 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_17244 = "Possess"
+IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_17244 =
+    "Possesses a player, increasing their health while Anastari becomes immune to damage.\n\nDamage the controlled player until they fall below approximately 25% health to free them. Do not kill them."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki the Pallid"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
     "Maleki was among the first to join the Cult of the Damned, showing tremendous aptitude in harnessing the chill of the grave. Driven by an insatiable desire for power, the mage fervently hones his skills in dark magic to prepare for when he will be remade as a lich."

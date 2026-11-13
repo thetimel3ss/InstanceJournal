@@ -2705,6 +2705,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "安娜丝塔丽男爵夫人"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "在她活着的时候，阿纳斯塔里就得到了她想要的东西，不惜一切代价。死亡并没有改变这一点。她的灵魂从她的身体中被撕裂，阿纳斯塔里变成了女妖，她放弃了对物质饰品的热爱，转而追求一种更加险恶的财产。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16565 = "女妖哀嚎"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16565 =
+        "对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16867 = "女妖诅咒"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16867 =
+        "使10码内敌人的命中几率降低10%，持续12秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_18327 = "沉默"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_18327 =
+        "使10码内的敌人沉默10秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_17244 = "占据"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_17244 =
+        "附身一名玩家，提高其生命值，同时安娜丝塔丽免疫伤害。\n\n攻击被控制的玩家，将其生命值降至约25%以下即可解救。不要将其击杀。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "苍白的玛勒基"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "马雷基是第一批加入诅咒教的人之一，在驾驭坟墓的寒冷方面表现出了巨大的天赋。在对力量永不满足的渴望的驱使下，法师热切地磨练自己的黑魔法技能，为自己被改造为巫妖做好准备。"

@@ -1532,6 +1532,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baroness Anastari"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "Solange sie lebte, nahm sich Anastari, was sie wollte, koste es, was es wolle. Daran hat der Tod wenig geändert. Nachdem ihr die Seele aus dem Körper gerissen wurde, wurde Anastari zur Todesfee, und sie hat ihre Liebe zu materiellen Schmuckstücken zugunsten von Besitztümern weitaus unheimlicherer Art aufgegeben."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16565 = "Bansheeklageschrei"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16565 =
+        "Fügt einem Ziel Schattenschaden zu."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16867 = "Bansheefluch"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16867 =
+        "Verringert die Trefferchance von Gegnern innerhalb von 10 Metern 12 Sekunden lang um 10%."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_18327 = "Stille"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_18327 =
+        "Bringt Gegner innerhalb von 10 Metern 10 Sekunden lang zum Schweigen.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_17244 = "Besitzergreifen"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_17244 =
+        "Ergreift Besitz von einem Spieler und erhöht dessen Gesundheit, während Anastari immun gegen Schaden wird.\n\nFügt dem kontrollierten Spieler Schaden zu, bis seine Gesundheit unter ungefähr 25% fällt, um ihn zu befreien. Tötet ihn nicht."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki der Bleiche"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "Maleki gehörte zu den ersten, die sich dem Kult der Verdammten anschlossen, und zeigte ein enormes Geschick darin, die Kälte des Grabes zu nutzen. Angetrieben von einem unstillbaren Verlangen nach Macht verfeinert der Magier eifrig seine Fähigkeiten in der dunklen Magie, um sich auf die Zeit vorzubereiten, in der er zum Lich wird."

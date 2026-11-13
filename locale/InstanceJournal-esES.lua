@@ -1531,6 +1531,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10436 = "Baronesa Anastari"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436 =
         "Mientras vivió, Anastari tomó lo que quiso, sin importar el costo. La muerte ha hecho poco para cambiar eso. Con el alma arrancada de su cuerpo, Anastari se convirtió en un alma en pena y abandonó su amor por las baratijas materiales en favor de posesiones de un tipo mucho más siniestro."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16565 = "Lamento de alma en pena"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16565 =
+        "Inflige daño de las Sombras a un objetivo."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16867 = "Maldición de alma en pena"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16867 =
+        "Reduce la probabilidad de golpe de los enemigos en un radio de 10 metros un 10% durante 12 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_18327 = "Silencio"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_18327 =
+        "Silencia a los enemigos en un radio de 10 metros durante 10 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_17244 = "Poseer"
+    IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_17244 =
+        "Posee a un jugador y aumenta su salud mientras Anastari se vuelve inmune al daño.\n\nDañad al jugador controlado hasta que baje de aproximadamente un 25% de salud para liberarlo. No lo matéis."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki el Pálido"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "Maleki fue uno de los primeros en unirse al Culto de los Condenados, mostrando una tremenda aptitud para aprovechar el frío de la tumba. Impulsado por un insaciable deseo de poder, el mago perfecciona fervientemente sus habilidades en magia oscura para prepararse para cuando se convierta en un lich."

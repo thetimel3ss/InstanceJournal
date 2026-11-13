@@ -567,7 +567,7 @@ STRAT.Bosses = {
             [11] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [13] = { -- NOTE: Missing abilities
+    [13] = {
         Id = "10436",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "anastari" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "anastari" .. IMPF,
@@ -575,6 +575,35 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10436,
         MapCoordinateX = 90.2,
         MapCoordinateY = 39.0,
+        Abilities = {
+            [1] = {
+                Id = "16565",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16565,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16565
+            },
+            [2] = {
+                Id = "16867",
+                Icon = "Spell_Nature_Drowsy",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_16867,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_16867,
+                Flags = {IMAF.Curse}
+            },
+            [3] = {
+                Id = "18327",
+                Icon = "Spell_Holy_Silence",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_18327,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_18327,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "17244",
+                Icon = "Spell_Shadow_Charm",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_NAME_17244,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_17244,
+                Flags = {IMAF.Important}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[70226], DropChance = 2},
             [2] = {IJDB.I[13535], DropChance = 20},
