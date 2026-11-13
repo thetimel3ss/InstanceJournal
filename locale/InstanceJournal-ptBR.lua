@@ -1131,6 +1131,24 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "General Drakkisath"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "Estrategista astuto e implacável, Drakkisath comanda os exércitos de Nefarian na guerra com Ragnaros. Depois de garantir vitórias contra os Dark Irons, as forças do General Drakkisath estão posicionadas para expulsar os anões da Montanha Rocha Negra de uma vez por todas."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15588 = "Trovoada"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15588 =
+        "Causa dano de Natureza em até 10 metros, aumenta o intervalo entre ataques corpo a corpo em 33% e reduz a velocidade de movimento em 40% por 10 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16419 = "Golpe Flamejante"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16419 =
+        "Causa dano de Fogo na área selecionada, seguido de dano de Fogo adicional a cada 2 segundos por 8 segundos.\n\nSaia das chamas."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16805 = "Conflagração"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16805 =
+        "Desorienta o tank atual e causa dano de Fogo a cada segundo por 10 segundos. Aliados próximos também recebem dano de Fogo.\n\nMantenha um segundo tank pronto para assumir. Os demais jogadores devem se afastar do alvo afetado."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_12097 = "Perfurar Armadura"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_12097 =
+        "Reduz a armadura de um alvo em 75% por 20 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15754 = "Cutilada"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15754 =
+        "Causa dano Físico a um alvo e aliados próximos, afetando até 3 alvos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16789 = "Raiva"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16789 =
+        "Aumenta o dano Físico causado em 50 e a velocidade dos ataques corpo a corpo em 50% por 15 segundos.\n\nHealers devem se preparar para o aumento de dano no tank."
 
     -- WC
     IJ_DB_DUNGEON_WC_NAME = "Cavernas das Lamentações"

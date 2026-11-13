@@ -1134,6 +1134,24 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "Général Drakkisath"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "Stratège rusé et impitoyable, Drakkisath commande les armées de Nefarian dans la guerre contre Ragnaros. Après avoir remporté des victoires contre les Sombrefers, les forces du général Drakkisath sont en mesure de chasser les nains du Mont Rochenoire une fois pour toutes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15588 = "Coup de tonnerre"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15588 =
+        "Inflige des dégâts de Nature dans un rayon de 10 mètres, augmente le délai entre les attaques de mêlée de 33% et réduit la vitesse de déplacement de 40% pendant 10 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16419 = "Choc de flammes"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16419 =
+        "Inflige des dégâts de Feu dans la zone sélectionnée, puis des dégâts de Feu supplémentaires toutes les 2 secondes pendant 8 secondes.\n\nSortez des flammes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16805 = "Déflagration"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16805 =
+        "Désoriente le tank actuel et inflige des dégâts de Feu chaque seconde pendant 10 secondes. Les alliés proches subissent également des dégâts de Feu.\n\nGardez un second tank prêt à prendre le relais. Les autres joueurs doivent s’éloigner de la cible affectée."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_12097 = "Perce-armure"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_12097 =
+        "Réduit l'armure d'une cible de 75% pendant 20 secondes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15754 = "Enchaînement"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15754 =
+        "Inflige des dégâts physiques à une cible et à ses alliés proches, touchant jusqu'à 3 cibles."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16789 = "Rage"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16789 =
+        "Augmente les dégâts physiques infligés de 50 et la vitesse d'attaque en mêlée de 50% pendant 15 secondes.\n\nLes soigneurs doivent se préparer à des dégâts accrus sur le tank."
 
     -- WC
     IJ_DB_DUNGEON_WC_NAME = "Cavernes des Lamentations"

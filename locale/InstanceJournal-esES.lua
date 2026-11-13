@@ -1134,6 +1134,24 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "General Drakkisath"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "Drakkisath, un estratega astuto y despiadado, comanda los ejércitos de Nefarian en la guerra con Ragnaros. Después de conseguir victorias contra los Hierro Negro, las fuerzas del general Drakkisath están posicionadas para expulsar a los enanos de la Montaña Roca Negra de una vez por todas."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15588 = "Trueno"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15588 =
+        "Inflige daño de Naturaleza en un radio de 10 metros, aumenta el tiempo entre ataques cuerpo a cuerpo un 33% y reduce la velocidad de movimiento un 40% durante 10 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16419 = "Fogonazo"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16419 =
+        "Inflige daño de Fuego en el área seleccionada, seguido de daño de Fuego adicional cada 2 segundos durante 8 segundos.\n\nSal de las llamas."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16805 = "Conflagración"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16805 =
+        "Desorienta al tanque actual e inflige daño de Fuego cada segundo durante 10 segundos. Los aliados cercanos también reciben daño de Fuego.\n\nMantened un segundo tanque preparado para tomar el relevo. Los demás jugadores deben alejarse del objetivo afectado."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_12097 = "Perforar armadura"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_12097 =
+        "Reduce la armadura de un objetivo un 75% durante 20 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15754 = "Rajar"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15754 =
+        "Inflige daño Físico a un objetivo y sus aliados cercanos, afectando hasta a 3 objetivos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16789 = "Rabia"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16789 =
+        "Aumenta el daño Físico infligido en 50 y la velocidad de ataque cuerpo a cuerpo un 50% durante 15 segundos.\n\nLos sanadores deben prepararse para un mayor daño sobre el tanque."
 
     -- WC
     IJ_DB_DUNGEON_WC_NAME = "Cavernas de los Lamentos"

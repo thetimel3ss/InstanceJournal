@@ -1914,6 +1914,24 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "达基萨斯将军"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "达基萨斯是一位狡猾无情的战略家，他指挥奈法利安的军队与拉格纳罗斯作战。在取得对黑铁人的胜利后，达基萨斯将军的部队准备将矮人一劳永逸地赶出黑石山。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15588 = "雷霆一击"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15588 =
+        "对10码内的敌人造成自然伤害，使近战攻击间隔延长33%，移动速度降低40%，持续10秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16419 = "烈焰风暴"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16419 =
+        "在选定区域造成火焰伤害，随后每2秒造成额外火焰伤害，持续8秒。\n\n离开火焰区域。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16805 = "燃烧"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16805 =
+        "使当前坦克迷惑，并每秒造成火焰伤害，持续10秒。附近盟友也会受到火焰伤害。\n\n让另一名坦克准备接手。其他玩家应远离受影响的目标。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_12097 = "穿刺护甲"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_12097 =
+        "使一个目标的护甲值降低75%，持续20秒。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15754 = "顺劈斩"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15754 =
+        "对一个目标及其附近盟友造成物理伤害，最多影响3个目标。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16789 = "暴怒"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16789 =
+        "使造成的物理伤害提高50点，近战攻击速度提高50%，持续15秒。\n\n治疗应准备应对坦克受到的更高伤害。"
 
     -- UBRS Loot
     IJ_LOOT_NAME_58199 = "丹塔格之骨"

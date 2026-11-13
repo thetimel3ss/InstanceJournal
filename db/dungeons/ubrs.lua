@@ -395,12 +395,56 @@ UBRS.Bosses = {
             [9] = {IJDB.I[51217], DropChance = 5}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "10363",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "drakkisath" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "drakkisath" .. IMPF,
         Name = IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363,
         Story = IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363,
+        Abilities = {
+            [1] = {
+                Id = "15588",
+                Icon = "Spell_Nature_ThunderClap",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15588,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15588,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "16419",
+                Icon = "Spell_Fire_SelfDestruct",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16419,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16419,
+                Flags = {IMAF.Important}
+            },
+            [3] = {
+                Id = "16805",
+                Icon = "Spell_Fire_Incinerate",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16805,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16805,
+                Flags = {IMAF.Important}
+            },
+            [4] = {
+                Id = "12097",
+                Icon = "Spell_Shadow_VampiricAura",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_12097,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_12097,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [5] = {
+                Id = "15754",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15754,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15754,
+                Flags = {IMAF.Tank}
+            },
+            [6] = {
+                Id = "16789",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16789,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16789,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[51217], DropChance = 100},
             [2] = {IJDB.I[22253], DropChance = 25},

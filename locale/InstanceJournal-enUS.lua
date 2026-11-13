@@ -1821,6 +1821,24 @@ IJ_DB_DUNGEON_UBRS_BOSS_16042_ABILITY_EFFECT_27383 =
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "General Drakkisath"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
     "A cunning and ruthless strategist, Drakkisath commands Nefarian's armies in the war with Ragnaros. After securing victories against the Dark Irons, General Drakkisath's forces are positioned to drive the dwarves out of Blackrock Mountain once and for all."
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15588 = "Thunderclap"
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15588 =
+    "Deals Nature damage within 10 yards, increases the time between melee attacks by 33%, and reduces movement speed by 40% for 10 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16419 = "Flamestrike"
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16419 =
+    "Deals Fire damage in the selected area, followed by additional Fire damage every 2 seconds for 8 seconds.\n\nMove out of the flames."
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16805 = "Conflagration"
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16805 =
+    "Disorients the current tank and deals Fire damage every second for 10 seconds. Nearby allies also take Fire damage.\n\nKeep a second tank ready to take over. Other players should move away from the affected target."
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_12097 = "Pierce Armor"
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_12097 =
+    "Reduces a target's armor by 75% for 20 seconds."
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15754 = "Cleave"
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15754 =
+    "Deals Physical damage to a target and nearby allies, affecting up to 3 targets."
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16789 = "Rage"
+IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16789 =
+    "Increases Physical damage dealt by 50 and melee attack speed by 50% for 15 seconds.\n\nHealers should prepare for increased damage on the tank."
 
 -- UBRS Loot
 IJ_LOOT_NAME_58199 = "Spine of Dentarg"

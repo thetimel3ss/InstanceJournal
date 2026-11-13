@@ -1135,6 +1135,24 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10363 = "General Drakkisath"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10363 =
         "Als gerissener und rücksichtsloser Stratege befehligt Drakkisath Nefarians Armeen im Krieg mit Ragnaros. Nachdem sie Siege gegen die Dunkeleisenzwerge errungen haben, sind die Streitkräfte von General Drakkisath in der Lage, die Zwerge ein für alle Mal aus dem Schwarzfels zu vertreiben."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15588 = "Donnerknall"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15588 =
+        "Verursacht Naturschaden im Umkreis von 10 Metern, verlängert die Zeit zwischen Nahkampfangriffen um 33% und verringert die Bewegungsgeschwindigkeit 10 Sekunden lang um 40%.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16419 = "Flammenstoß"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16419 =
+        "Verursacht Feuerschaden im ausgewählten Bereich und anschließend 8 Sekunden lang alle 2 Sekunden zusätzlichen Feuerschaden.\n\nVerlasst die Flammen."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16805 = "Feuersbrunst"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16805 =
+        "Desorientiert den aktuellen Tank und verursacht 10 Sekunden lang jede Sekunde Feuerschaden. Nahe Verbündete erleiden ebenfalls Feuerschaden.\n\nHaltet einen zweiten Tank zur Übernahme bereit. Andere Spieler sollten sich vom betroffenen Ziel entfernen."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_12097 = "Rüstung durchbohren"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_12097 =
+        "Verringert die Rüstung eines Ziels 20 Sekunden lang um 75%."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_15754 = "Spalten"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_15754 =
+        "Fügt einem Ziel und nahen Verbündeten körperlichen Schaden zu und trifft bis zu 3 Ziele."
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_NAME_16789 = "Wut"
+    IJ_DB_DUNGEON_UBRS_BOSS_10363_ABILITY_EFFECT_16789 =
+        "Erhöht den verursachten körperlichen Schaden um 50 und das Nahkampfangriffstempo 15 Sekunden lang um 50%.\n\nHeiler sollten sich auf erhöhten Schaden beim Tank vorbereiten."
 
     -- WC
     IJ_DB_DUNGEON_WC_NAME = "Klagende Höhlen"
