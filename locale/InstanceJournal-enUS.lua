@@ -639,6 +639,16 @@ IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "At approximately 20% health,
 IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
 IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
     "A massive crocolisk of legendary appetite, Rotmaw has feasted upon the displaced chronal energies of the swamp for years. The beast has grown unnaturally large and aggressive, its maw dripping with entropic rot. It cares little for the preservation of time, seeing the invaders of the Black Morass only as a much-needed feast."
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_7102 = "Contagion of Rot"
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_7102 = "Increases the time between melee attacks by 33% and casting time by 25% for 4 minutes. The disease can spread to nearby allies when the affected target is hit.\n\nRemove this disease promptly."
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25051 = "Sunder Armor"
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25051 = "Reduces the target's armor by 1,000 per application for 20 seconds. Stacks up to 5 times."
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25371 = "Consume"
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25371 = "Consumes a target, stunning them and dealing Nature damage every 3 seconds for up to 15 seconds.\n\nOther group members should be ready to handle the boss while the target is consumed."
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_10689 = "Knockback"
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_10689 = "Knocks the target back."
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_28467 = "Mortal Wound"
+IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_28467 = "Deals Physical damage and reduces healing received by 10% for 15 seconds."
 
 -- BM Loot
 IJ_LOOT_NAME_61016 = "Time-Lost Claymore"

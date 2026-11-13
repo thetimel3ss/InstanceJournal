@@ -565,6 +565,16 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "Rotmaw, ein riesiger Krokilisk mit legendärem Appetit, hat sich jahrelang an den verdrängten chronischen Energien des Sumpfes labt. Das Biest ist unnatürlich groß und aggressiv geworden, sein Schlund trieft vor entropischer Fäulnis. Es ist ihm wenig wichtig, die Zeit zu bewahren, da es die Eindringlinge des Schwarzen Morasts nur als ein dringend benötigtes Fest betrachtet."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_7102 = "Fäulnisansteckung"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_7102 = "Verlängert 4 Minuten lang die Zeit zwischen Nahkampfangriffen um 33% und die Zauberzeit um 25%. Die Krankheit kann auf nahe Verbündete überspringen, wenn das betroffene Ziel getroffen wird.\n\nEntfernt diese Krankheit umgehend."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25051 = "Rüstung zerreißen"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25051 = "Verringert die Rüstung des Ziels pro Anwendung 20 Sekunden lang um 1.000. Bis zu 5-mal stapelbar."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25371 = "Verschlingen"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25371 = "Verschlingt ein Ziel, betäubt es und verursacht bis zu 15 Sekunden lang alle 3 Sekunden Naturschaden.\n\nDie anderen Gruppenmitglieder sollten bereit sein, den Boss zu übernehmen, während das Ziel verschlungen ist."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_10689 = "Rückstoß"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_10689 = "Stößt das Ziel zurück."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_28467 = "Tödliche Wunde"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_28467 = "Verursacht körperlichen Schaden und verringert die erhaltene Heilung 15 Sekunden lang um 10%."
 
     -- SMGY
     IJ_DB_DUNGEON_SMGY_NAME = "Scharlachrotes Kloster (Friedhof)"

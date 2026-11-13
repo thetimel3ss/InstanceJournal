@@ -565,6 +565,16 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "Rotmaw, un enorme crocolisco de apetito legendario, se ha deleitado con las energías crónicas desplazadas del pantano durante años. La bestia se ha vuelto anormalmente grande y agresiva, y sus fauces están goteando podredumbre entrópica. Le importa poco la preservación del tiempo y ve a los invasores de Black Morass sólo como un festín muy necesario."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_7102 = "Contagio de podredumbre"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_7102 = "Aumenta el tiempo entre ataques cuerpo a cuerpo un 33% y el tiempo de lanzamiento de hechizos un 25% durante 4 minutos. La enfermedad puede propagarse a aliados cercanos cuando el objetivo afectado recibe un golpe.\n\nElimina esta enfermedad cuanto antes."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25051 = "Hender armadura"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25051 = "Reduce la armadura del objetivo en 1.000 por aplicación durante 20 segundos. Se acumula hasta 5 veces."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25371 = "Consumir"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25371 = "Consume a un objetivo, lo aturde e inflige daño de Naturaleza cada 3 segundos durante un máximo de 15 segundos.\n\nLos demás miembros del grupo deben estar preparados para ocuparse del jefe mientras el objetivo esté consumido."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_10689 = "Repulsión"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_10689 = "Repele al objetivo."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_28467 = "Herida mortal"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_28467 = "Inflige daño Físico y reduce la sanación recibida un 10% durante 15 segundos."
 
     -- SMGY
     IJ_DB_DUNGEON_SMGY_NAME = "Monasterio Escarlata (Cementerio)"

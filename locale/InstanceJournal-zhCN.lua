@@ -737,6 +737,16 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "腐烂之喉"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "红喉是一种具有传奇般胃口的巨型鳄鱼，多年来一直以沼泽中流离失所的时间能量为食。这头野兽变得异常庞大且具有攻击性，它的胃里滴着熵腐物。它并不关心时间的保存，只将黑色沼泽的入侵者视为一场急需的盛宴。"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_7102 = "腐烂传染"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_7102 = "使近战攻击间隔延长33%，施法时间延长25%，持续4分钟。受影响目标被击中时，疾病可能传播给附近的盟友。\n\n及时移除此疾病。"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25051 = "破甲"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25051 = "每次施加使目标的护甲值降低1000点，持续20秒，最多叠加5层。"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25371 = "吞噬"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25371 = "吞噬一个目标，使其昏迷，并每3秒造成一次自然伤害，最多持续15秒。\n\n目标被吞噬期间，其他队员应准备接手首领。"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_10689 = "击退"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_10689 = "击退目标。"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_28467 = "致死之伤"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_28467 = "造成物理伤害，并使受到的治疗效果降低10%，持续15秒。"
 
     -- BM Loot
     IJ_LOOT_NAME_61016 = "时光迷失巨剑"

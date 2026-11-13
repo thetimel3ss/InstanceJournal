@@ -564,6 +564,16 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Pourrigueule"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "Crocilisque massif à l'appétit légendaire, Rotmaw se régale des énergies chroniques déplacées du marais depuis des années. La bête est devenue anormalement grande et agressive, sa gueule dégoulinante de pourriture entropique. Il se soucie peu de la préservation du temps, ne considérant les envahisseurs du Black Marass que comme un festin bien mérité."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_7102 = "Contagion de pourriture"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_7102 = "Augmente le délai entre les attaques de mêlée de 33% et le temps d'incantation de 25% pendant 4 minutes. La maladie peut se propager aux alliés proches lorsque la cible affectée est touchée.\n\nSoignez rapidement cette maladie."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25051 = "Fracasser armure"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25051 = "Réduit l'armure de la cible de 1 000 par application pendant 20 secondes. Cumulable jusqu'à 5 fois."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25371 = "Consumer"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25371 = "Consume une cible, l'étourdit et lui inflige des dégâts de Nature toutes les 3 secondes pendant un maximum de 15 secondes.\n\nLes autres membres du groupe doivent être prêts à prendre en charge le boss pendant que la cible est consumée."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_10689 = "Repoussement"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_10689 = "Repousse la cible."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_28467 = "Blessure mortelle"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_28467 = "Inflige des dégâts physiques et réduit les soins reçus de 10% pendant 15 secondes."
 
     -- SMGY
     IJ_DB_DUNGEON_SMGY_NAME = "Monastère Écarlate (Cimetière)"

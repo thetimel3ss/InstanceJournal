@@ -441,7 +441,7 @@ BM.Bosses = {
             [12] = {IJDB.I[70226], DropChance = 3}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "65122",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "rotmaw" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "rotmaw" .. IMPF,
@@ -450,6 +450,42 @@ BM.Bosses = {
         MapCoordinateX = 25.0,
         MapCoordinateY = 79.6,
         MapId = IZI.BM1,
+        Abilities = {
+            [1] = {
+                Id = "7102",
+                Icon = "Spell_Shadow_CallofBone",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_7102,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_7102,
+                Flags = {IMAF.Disease}
+            },
+            [2] = {
+                Id = "25051",
+                Icon = "Ability_Warrior_Sunder",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25051,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25051,
+                Flags = {IMAF.Tank}
+            },
+            [3] = {
+                Id = "25371",
+                Icon = "Spell_Nature_Drowsy",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25371,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25371,
+                Flags = {IMAF.Important, IMAF.Heal}
+            },
+            [4] = {
+                Id = "10689",
+                Icon = "Ability_Kick",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_10689,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_10689
+            },
+            [5] = {
+                Id = "28467",
+                Icon = "Ability_CriticalStrike",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_28467,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_28467,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[61023], DropChance = 12},
             [2] = {IJDB.I[61025], DropChance = 12},

@@ -560,6 +560,16 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "Um enorme crocolisco de apetite lendário, Rotmaw tem se banqueteado com as energias cronais deslocadas do pântano há anos. A fera cresceu anormalmente grande e agressiva, sua boca gotejando podridão entrópica. Pouco se importa com a preservação do tempo, vendo os invasores do Pântano Negro apenas como um banquete muito necessário."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_7102 = "Contágio da Podridão"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_7102 = "Aumenta o intervalo entre ataques corpo a corpo em 33% e o tempo de lançamento de feitiços em 25% por 4 minutos. A doença pode se espalhar para aliados próximos quando o alvo afetado é atingido.\n\nRemova esta doença prontamente."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25051 = "Fender Armadura"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25051 = "Reduz a armadura do alvo em 1.000 por aplicação por 20 segundos. Acumula até 5 vezes."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_25371 = "Consumir"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_25371 = "Consome um alvo, atordoando-o e causando dano de Natureza a cada 3 segundos por até 15 segundos.\n\nOs demais membros do grupo devem estar prontos para lidar com o boss enquanto o alvo estiver consumido."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_10689 = "Repulsão"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_10689 = "Repele o alvo."
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_NAME_28467 = "Ferimento Mortal"
+    IJ_DB_DUNGEON_BM_BOSS_65122_ABILITY_EFFECT_28467 = "Causa dano Físico e reduz a cura recebida em 10% por 15 segundos."
 
     -- SMGY
     IJ_DB_DUNGEON_SMGY_NAME = "Mosteiro Escarlate (Cemitério)"
