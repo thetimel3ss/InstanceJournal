@@ -195,7 +195,7 @@ BM.Bosses = {
             [9] = {IJDB.I[70226], DropChance = 1}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "65116",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "epochronos" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "epochronos" .. IMPF,
@@ -204,6 +204,121 @@ BM.Bosses = {
         MapCoordinateX = 29.0,
         MapCoordinateY = 25.2,
         MapId = IZI.BM2,
+        Abilities = {
+            [1] = {
+                Id = "20717",
+                Icon = "Spell_Fire_WindsofWoe",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_20717,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_20717,
+                Flags = {IMAF.Tank}
+            },
+            [2] = {
+                Id = "24857",
+                Icon = "Spell_Shadow_DeathPact",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_24857,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_24857
+            },
+            [3] = {
+                Id = "23919",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_23919,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_23919,
+                Flags = {IMAF.Tank}
+            },
+            [4] = {
+                Id = "18647",
+                Icon = "Spell_Shadow_Cripple",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_18647,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_18647,
+                Flags = {IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "65118",
+                        Icon = "Spell_Fire_Fireball02",
+                        Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_65118,
+                        Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_65118,
+                        SubAbilities = {
+                            [1] = {
+                                Id = "9482",
+                                Icon = "Spell_Fire_Fireball",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_9482,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_9482,
+                                Flags = {IMAF.Magic}
+                            },
+                            [2] = {
+                                Id = "19630",
+                                Icon = "Spell_Fire_WindsofWoe",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_19630,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_19630
+                            },
+                            [3] = {
+                                Id = "20228",
+                                Icon = "Spell_Fire_Fireball02",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_20228,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_20228
+                            }
+                        }
+                    },
+                    [2] = {
+                        -- TODO: Confirm Devouring Plague usage and spell ID on OctoWoW.
+                        Id = "65117",
+                        Icon = "Spell_Shadow_DeathCoil",
+                        Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_65117,
+                        Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_65117,
+                        SubAbilities = {
+                            [1] = {
+                                Id = "28412",
+                                Icon = "Spell_Shadow_DeathCoil",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_28412,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_28412
+                            },
+                            [2] = {
+                                Id = "19777",
+                                Icon = "Ability_ThunderBolt",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_19777,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_19777
+                            },
+                            [3] = {
+                                Id = "11433",
+                                Icon = "Spell_Shadow_DeathAndDecay",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_11433,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_11433,
+                                Flags = {IMAF.Interruptible, IMAF.Important}
+                            }
+                        }
+                    },
+                    [3] = {
+                        -- TODO: Confirm Thunderstorm Cloud usage and spell ID on OctoWoW.
+                        Id = "65119",
+                        Icon = "Spell_Nature_Lightning",
+                        Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_65119,
+                        Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_65119,
+                        SubAbilities = {
+                            [1] = {
+                                Id = "15234",
+                                Icon = "Spell_Nature_Lightning",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_15234,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_15234,
+                                Flags = {IMAF.Interruptible}
+                            },
+                            [2] = {
+                                Id = "23106",
+                                Icon = "Spell_Nature_ChainLightning",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_23106,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_23106
+                            },
+                            [3] = {
+                                Id = "20545",
+                                Icon = "Spell_Nature_LightningShield",
+                                Name = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_NAME_20545,
+                                Effect = IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_20545,
+                                Flags = {IMAF.Magic}
+                            }
+                        }
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[50428], DropChance = 12},
             [2] = {IJDB.I[50430], DropChance = 12},
