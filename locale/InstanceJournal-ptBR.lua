@@ -1542,6 +1542,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki, o Pálido"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "Maleki foi um dos primeiros a se juntar ao Culto dos Amaldiçoados, mostrando tremenda aptidão em controlar o frio da sepultura. Impulsionado por um desejo insaciável de poder, o mago aprimora fervorosamente suas habilidades em magia negra para se preparar para quando será refeito como um lich."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17503 = "Seta de Gelo"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17503 =
+        "Causa dano de Gelo e reduz a velocidade de movimento em 50% por 4 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_16869 = "Tumba de Gelo"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_16869 =
+        "Atordoa um alvo por 10 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17238 = "Drenar Vida"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17238 =
+        "Canaliza um feitiço que drena a vida de um alvo e cura o lançador.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17243 = "Drenar Mana"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17243 =
+        "Canaliza um feitiço que drena a mana de um alvo.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein, o Devorador"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "Ramstein é uma das abominações mais infames do Flagelo, um horror costurado a partir de numerosos cadáveres e fortalecido por uma fome incessante. Este monstro cometeu atrocidades indescritíveis contra inúmeras almas inocentes quando as forças do Flagelo invadiram Stratholme."

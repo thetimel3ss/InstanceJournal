@@ -2590,6 +2590,18 @@ IJ_DB_DUNGEON_STRAT_BOSS_10436_ABILITY_EFFECT_17244 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki the Pallid"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
     "Maleki was among the first to join the Cult of the Damned, showing tremendous aptitude in harnessing the chill of the grave. Driven by an insatiable desire for power, the mage fervently hones his skills in dark magic to prepare for when he will be remade as a lich."
+IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17503 = "Frostbolt"
+IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17503 =
+    "Deals Frost damage and reduces movement speed by 50% for 4 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_16869 = "Ice Tomb"
+IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_16869 =
+    "Stuns a target for 10 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17238 = "Drain Life"
+IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17238 =
+    "Channels a spell that drains a target’s health and heals the caster.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17243 = "Drain Mana"
+IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17243 =
+    "Channels a spell that drains a target’s mana.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein the Gorger"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
     "Ramstein is one of the Scourge's most infamous abominations, a horror stitched together from numerous corpses and empowered by a ceaseless hunger. This monster committed unspeakable atrocities on countless innocent souls when Scourge forces overran Stratholme."

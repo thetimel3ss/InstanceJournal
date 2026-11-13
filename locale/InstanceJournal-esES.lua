@@ -1546,6 +1546,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki el Pálido"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "Maleki fue uno de los primeros en unirse al Culto de los Condenados, mostrando una tremenda aptitud para aprovechar el frío de la tumba. Impulsado por un insaciable deseo de poder, el mago perfecciona fervientemente sus habilidades en magia oscura para prepararse para cuando se convierta en un lich."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17503 = "Descarga de Escarcha"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17503 =
+        "Inflige daño de Escarcha y reduce la velocidad de movimiento un 50% durante 4 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_16869 = "Tumba de hielo"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_16869 =
+        "Aturde a un objetivo durante 10 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17238 = "Drenar vida"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17238 =
+        "Canaliza un hechizo que drena la salud de un objetivo y sana al taumaturgo.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17243 = "Drenar maná"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17243 =
+        "Canaliza un hechizo que drena el maná de un objetivo.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein el Gorger"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "Ramstein es una de las abominaciones más infames de la Plaga, un horror formado a partir de numerosos cadáveres y potenciado por un hambre incesante. Este monstruo cometió atrocidades indescriptibles en innumerables almas inocentes cuando las fuerzas de la Plaga invadieron Stratholme."

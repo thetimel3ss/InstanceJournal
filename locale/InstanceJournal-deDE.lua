@@ -1547,6 +1547,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki der Bleiche"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "Maleki gehörte zu den ersten, die sich dem Kult der Verdammten anschlossen, und zeigte ein enormes Geschick darin, die Kälte des Grabes zu nutzen. Angetrieben von einem unstillbaren Verlangen nach Macht verfeinert der Magier eifrig seine Fähigkeiten in der dunklen Magie, um sich auf die Zeit vorzubereiten, in der er zum Lich wird."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17503 = "Frostblitz"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17503 =
+        "Verursacht Frostschaden und verringert die Bewegungsgeschwindigkeit 4 Sekunden lang um 50%.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_16869 = "Eisgrab"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_16869 =
+        "Betäubt ein Ziel 10 Sekunden lang."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17238 = "Blutsauger"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17238 =
+        "Kanalisiert einen Zauber, der einem Ziel Gesundheit entzieht und den Zaubernden heilt.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17243 = "Mana entziehen"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17243 =
+        "Kanalisiert einen Zauber, der einem Ziel Mana entzieht.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein der Schlinger"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "Ramstein ist eine der berüchtigtsten Abscheulichkeiten der Geißel, ein Schrecken, der aus zahlreichen Leichen zusammengesetzt und von einem unaufhörlichen Hunger gestärkt wird. Dieses Monster verübte unaussprechliche Gräueltaten an unzähligen unschuldigen Seelen, als Truppen der Geißel Stratholme überrannten."

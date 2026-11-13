@@ -1546,6 +1546,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "Maleki le Pallide"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "Maleki fut parmi les premiers à rejoindre le Culte des Damnés, faisant preuve d'une formidable aptitude à maîtriser le froid de la tombe. Poussé par un désir insatiable de pouvoir, le mage perfectionne avec ferveur ses compétences en magie noire pour se préparer au moment où il sera transformé en liche."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17503 = "Éclair de givre"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17503 =
+        "Inflige des dégâts de Givre et réduit la vitesse de déplacement de 50% pendant 4 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_16869 = "Tombeau de glace"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_16869 =
+        "Étourdit une cible pendant 10 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17238 = "Drain de vie"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17238 =
+        "Canalise un sort qui draine les points de vie d’une cible et soigne le lanceur.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17243 = "Drain de mana"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17243 =
+        "Canalise un sort qui draine le mana d’une cible.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "Ramstein le Gorgeur"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "Ramstein est l'une des abominations les plus infâmes du Fléau, une horreur assemblée à partir de nombreux cadavres et renforcée par une faim incessante. Ce monstre a commis des atrocités indescriptibles sur d'innombrables âmes innocentes lorsque les forces du Fléau ont envahi Stratholme."

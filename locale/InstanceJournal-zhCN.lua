@@ -2720,6 +2720,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10438 = "苍白的玛勒基"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438 =
         "马雷基是第一批加入诅咒教的人之一，在驾驭坟墓的寒冷方面表现出了巨大的天赋。在对力量永不满足的渴望的驱使下，法师热切地磨练自己的黑魔法技能，为自己被改造为巫妖做好准备。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17503 = "寒冰箭"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17503 =
+        "造成冰霜伤害，并使移动速度降低50%，持续4秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_16869 = "寒冰之墓"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_16869 =
+        "使一个目标昏迷10秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17238 = "吸取生命"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17238 =
+        "引导法术，吸取一个目标的生命值并治疗施法者。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17243 = "吸取法力"
+    IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17243 =
+        "引导法术，吸取一个目标的法力值。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10439 = "吞咽者拉姆斯登"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10439 =
         "拉姆斯坦是天灾军团最臭名昭著的怪物之一，它是由无数尸体拼凑而成的恐怖怪物，并由无尽的饥饿赋予力量。当天灾军团占领斯坦索姆时，这个怪物对无数无辜的灵魂犯下了难以形容的暴行。"

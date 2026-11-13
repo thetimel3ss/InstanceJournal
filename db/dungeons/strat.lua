@@ -618,7 +618,7 @@ STRAT.Bosses = {
             [11] = {IJDB.I[51217], DropChance = 5}
         }
     },
-    [14] = { -- NOTE: Missing abilities
+    [14] = {
         Id = "10438",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "maleki" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "maleki" .. IMPF,
@@ -626,6 +626,35 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_10438,
         MapCoordinateX = 84.4,
         MapCoordinateY = 17.4,
+        Abilities = {
+            [1] = {
+                Id = "17503",
+                Icon = "Spell_Frost_FrostBolt02",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17503,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17503,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "16869",
+                Icon = "Spell_Frost_Glacier",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_16869,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_16869
+            },
+            [3] = {
+                Id = "17238",
+                Icon = "Spell_Shadow_LifeDrain02",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17238,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17238,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "17243",
+                Icon = "Spell_Shadow_SiphonMana",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_NAME_17243,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10438_ABILITY_EFFECT_17243,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13525], DropChance = 20},
             [2] = {IJDB.I[13526], DropChance = 20},
