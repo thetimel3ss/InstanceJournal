@@ -275,7 +275,7 @@ SV.Bosses = {
             [8] = {IJDB.I[70226], DropChance = 1}
         }
     },
-    [6] = { -- NOTE: Database is missing abilities
+    [6] = {
         Id = "93107",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "arc" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "arc" .. IMPF,
@@ -283,6 +283,45 @@ SV.Bosses = {
         Story = IJ_DB_DUNGEON_SV_BOSS_STORY_93107,
         MapCoordinateX = 46.4,
         MapCoordinateY = 79.3,
+        Abilities = {
+            [1] = {
+                Id = "17503",
+                Icon = "Spell_Frost_FrostBolt02",
+                Name = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_17503,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_17503,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "12888",
+                Icon = "Spell_Shadow_ShadowWordDominate",
+                Name = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12888,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12888,
+                Flags = {IMAF.Magic, IMAF.Important}
+            },
+            [3] = {
+                Id = "30094",
+                Icon = "Spell_Frost_FrostNova",
+                Name = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_30094,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_30094,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "60612",
+                Icon = "Spell_Frost_FrostArmor",
+                Name = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_60612,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_60612,
+                Flags = {IMAF.Tank, IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "12548",
+                        Icon = "Spell_Frost_FrostShock",
+                        Name = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12548,
+                        Effect = IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12548,
+                        Flags = {IMAF.Magic}
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[40003], DropChance = 25},
             [2] = {IJDB.I[60501], DropChance = 25},

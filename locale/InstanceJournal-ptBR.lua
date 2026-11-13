@@ -402,7 +402,17 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_9632 = "Canaliza ataques contra inimigos próximos, causando dano Físico a cada 3 segundos por até 9 segundos.\n\nAfaste-se enquanto Tempestade de Aço estiver ativa."
     IJ_DB_DUNGEON_SV_BOSS_NAME_93107 = "Arc'Tiras"
     IJ_DB_DUNGEON_SV_BOSS_STORY_93107 =
-        "Arc'Tiras é um cristal de magia poderoso e senciente, trancado nas profundezas do Stormwind Vault. Sua energia instável enlouqueceu os guardas e transformou o Vault em um labirinto de loucura."
+        "Nascido de um experimento em que Malygos infundiu o gelo de Nortúndria com sua própria mana, Arc'Tiras é um cristal senciente de magia instável. Os magos de Ventobravo o descobriram e o confinaram nas profundezas do Cofre depois que seu poder causou repetidos incidentes. Sem saber que o cristal possuía uma mente própria, trouxeram para a cidade um perigo que enlouqueceria os guardas e transformaria o Cofre em corredores de loucura."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_17503 = "Seta de Gelo"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_17503 = "Causa dano de Gelo a um alvo e reduz a velocidade de movimento em 50% por 4 segundos."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12888 = "Causar Insanidade"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12888 = "Controla um alvo por 6 segundos, forçando-o a atacar seus aliados. Aumenta a velocidade dos ataques corpo a corpo do alvo controlado em 50% e a velocidade de movimento em 80%.\n\nDissipe este efeito mágico imediatamente."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_30094 = "Nova Congelante"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_30094 = "Causa dano de Gelo aos inimigos em até 10 metros e os imobiliza por até 8 segundos.\n\nRanged e healers devem permanecer fora desse alcance. Dissipe a imobilização."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_60612 = "Guardiões Gélidos"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_60612 = "Com aproximadamente 60% de vida, invoca dois Guardiões Gélidos.\n\nControle ou derrote os adds invocados."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12548 = "Choque Gélido"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12548 = "Causa dano de Gelo a um alvo e reduz a velocidade de movimento em 50% por 8 segundos."
 
     -- Deadmines
     IJ_DB_DUNGEON_DEADMINES_NAME = "As minas mortas"

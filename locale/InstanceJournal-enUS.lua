@@ -402,7 +402,17 @@ IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_NAME_9632 = "Bladestorm"
 IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_9632 = "Channels attacks against nearby enemies, dealing Physical damage every 3 seconds for up to 9 seconds.\n\nMove away while Bladestorm is active."
 IJ_DB_DUNGEON_SV_BOSS_NAME_93107 = "Arc'Tiras"
 IJ_DB_DUNGEON_SV_BOSS_STORY_93107 =
-    "Arc'Tiras is a powerful and sentient crystal of magic, locked deep within the Stormwind Vault. Its unstable energy has driven the guards mad and twisted the Vault into a maze of madness."
+    "Born from an experiment in which Malygos infused the ice of Northrend with his own mana, Arc'Tiras is a sentient crystal of unstable magic. The wizards of Stormwind discovered it and confined it deep within the Vault after its power caused repeated mishaps. Unaware that the crystal possessed a mind of its own, they brought a danger into the city that would drive the guards mad and twist the Vault into corridors of madness."
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_17503 = "Frostbolt"
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_17503 = "Deals Frost damage to a target and reduces movement speed by 50% for 4 seconds."
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12888 = "Cause Insanity"
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12888 = "Controls a target for 6 seconds, forcing them to attack their allies. Increases the controlled target's melee attack speed by 50% and movement speed by 80%.\n\nDispel this magic effect immediately."
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_30094 = "Frost Nova"
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_30094 = "Deals Frost damage to enemies within 10 yards and immobilizes them for up to 8 seconds.\n\nRanged players and healers should remain outside this range. Dispel the root."
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_60612 = "Frigid Guardians"
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_60612 = "At approximately 60% health, summons two Frigid Guardians.\n\nControl or defeat the summoned adds."
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12548 = "Frost Shock"
+IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12548 = "Deals Frost damage to a target and reduces movement speed by 50% for 8 seconds."
 
 -- SV Loot
 IJ_LOOT_NAME_60504 = "Dreadskin Gloves"

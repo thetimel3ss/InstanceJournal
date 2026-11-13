@@ -403,7 +403,17 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_9632 = "Canaliza ataques contra enemigos cercanos e inflige daño Físico cada 3 segundos durante un máximo de 9 segundos.\n\nAléjate mientras Filotormenta esté activa."
     IJ_DB_DUNGEON_SV_BOSS_NAME_93107 = "Arc'Tiras"
     IJ_DB_DUNGEON_SV_BOSS_STORY_93107 =
-        "Arc'Tiras es un cristal de magia poderoso y sensible, encerrado en lo profundo de la Bóveda de Ventormenta. Su energía inestable ha vuelto locos a los guardias y ha convertido la Bóveda en un laberinto de locura."
+        "Arc'Tiras es un cristal consciente de magia inestable nacido de un experimento en el que Malygos infundió el hielo de Rasganorte con su propio maná. Los magos de Ventormenta lo descubrieron y lo confinaron en las profundidades de la Bóveda después de que su poder causara repetidos incidentes. Sin saber que el cristal poseía una mente propia, llevaron a la ciudad un peligro que enloquecería a los guardias y convertiría la Bóveda en corredores de locura."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_17503 = "Descarga de Escarcha"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_17503 = "Inflige daño de Escarcha a un objetivo y reduce su velocidad de movimiento un 50% durante 4 segundos."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12888 = "Provocar demencia"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12888 = "Controla a un objetivo durante 6 segundos y lo obliga a atacar a sus aliados. Aumenta la velocidad de ataque cuerpo a cuerpo del objetivo controlado un 50% y su velocidad de movimiento un 80%.\n\nDisipa este efecto mágico inmediatamente."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_30094 = "Nova de Escarcha"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_30094 = "Inflige daño de Escarcha a los enemigos en un radio de 10 metros y los inmoviliza durante un máximo de 8 segundos.\n\nLos jugadores a distancia y los sanadores deben permanecer fuera de este alcance. Disipa la inmovilización."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_60612 = "Guardianes gélidos"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_60612 = "Al llegar aproximadamente al 60% de salud, invoca a dos Guardianes gélidos.\n\nControla o derrota a los enemigos invocados."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12548 = "Choque de Escarcha"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12548 = "Inflige daño de Escarcha a un objetivo y reduce su velocidad de movimiento un 50% durante 8 segundos."
 
     -- Deadmines
     IJ_DB_DUNGEON_DEADMINES_NAME = "Las minas de la muerte"

@@ -402,7 +402,17 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_9632 = "Canalise des attaques contre les ennemis proches et inflige des dégâts physiques toutes les 3 secondes pendant un maximum de 9 secondes.\n\nÉloignez-vous pendant Tempête de lames."
     IJ_DB_DUNGEON_SV_BOSS_NAME_93107 = "Arc'Tiras"
     IJ_DB_DUNGEON_SV_BOSS_STORY_93107 =
-        "Arc'Tiras est un cristal de magie puissant et sensible, enfermé au plus profond du coffre-fort de Hurlevent. Son énergie instable a rendu les gardes fous et a transformé l'Abri en un labyrinthe de folie."
+        "Arc'Tiras est un cristal doué de conscience et de magie instable, né d'une expérience au cours de laquelle Malygos imprégna la glace du Norfendre de son propre mana. Les mages de Hurlevent le découvrirent et l'enfermèrent au plus profond du Coffre après que son pouvoir eut provoqué plusieurs incidents. Ignorant que le cristal possédait un esprit propre, ils introduisirent dans la cité un danger qui rendrait les gardes fous et transformerait le Coffre en couloirs de démence."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_17503 = "Éclair de givre"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_17503 = "Inflige des dégâts de Givre à une cible et réduit sa vitesse de déplacement de 50% pendant 4 secondes."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12888 = "Folie"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12888 = "Contrôle une cible pendant 6 secondes et la force à attaquer ses alliés. Augmente la vitesse d'attaque en mêlée de la cible contrôlée de 50% et sa vitesse de déplacement de 80%.\n\nDissipez immédiatement cet effet magique."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_30094 = "Nova de givre"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_30094 = "Inflige des dégâts de Givre aux ennemis dans un rayon de 10 mètres et les immobilise pendant un maximum de 8 secondes.\n\nLes joueurs à distance et les soigneurs doivent rester hors de cette portée. Dissipez l'immobilisation."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_60612 = "Gardiens glacials"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_60612 = "À environ 60% de ses points de vie, invoque deux Gardiens glacials.\n\nContrôlez ou éliminez les ennemis invoqués."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12548 = "Horion de givre"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12548 = "Inflige des dégâts de Givre à une cible et réduit sa vitesse de déplacement de 50% pendant 8 secondes."
 
     -- Deadmines
     IJ_DB_DUNGEON_DEADMINES_NAME = "Les Mortemines"

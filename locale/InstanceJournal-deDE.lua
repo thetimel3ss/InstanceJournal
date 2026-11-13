@@ -404,7 +404,17 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_9632 = "Kanalisiert Angriffe auf nahe Gegner und verursacht bis zu 9 Sekunden lang alle 3 Sekunden körperlichen Schaden.\n\nEntfernt euch, während Klingensturm aktiv ist."
     IJ_DB_DUNGEON_SV_BOSS_NAME_93107 = "Arc'Tiras"
     IJ_DB_DUNGEON_SV_BOSS_STORY_93107 =
-        "Arc'Tiras ist ein mächtiger und empfindungsfähiger Kristall der Magie, der tief im Sturmwind-Gewölbe eingeschlossen ist. Seine instabile Energie hat die Wachen in den Wahnsinn getrieben und das Gewölbe in ein Labyrinth des Wahnsinns verwandelt."
+        "Arc'Tiras ist ein empfindungsfähiger Kristall instabiler Magie, der aus einem Experiment entstand, bei dem Malygos das Eis Nordends mit seinem eigenen Mana durchdrang. Die Zauberer von Sturmwind entdeckten ihn und sperrten ihn tief im Sturmwind-Tresor ein, nachdem seine Macht wiederholt Unheil angerichtet hatte. Ohne zu ahnen, dass der Kristall einen eigenen Verstand besaß, brachten sie eine Gefahr in die Stadt, die die Wachen in den Wahnsinn treiben und den Tresor in Korridore des Irrsinns verwandeln sollte."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_17503 = "Frostblitz"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_17503 = "Fügt einem Ziel Frostschaden zu und verringert seine Bewegungsgeschwindigkeit 4 Sekunden lang um 50%."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12888 = "Wahnsinn hervorrufen"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12888 = "Kontrolliert ein Ziel 6 Sekunden lang und zwingt es, seine Verbündeten anzugreifen. Erhöht das Nahkampfangriffstempo des kontrollierten Ziels um 50% und seine Bewegungsgeschwindigkeit um 80%.\n\nEntfernt diesen magischen Effekt sofort."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_30094 = "Frostnova"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_30094 = "Fügt Gegnern im Umkreis von 10 Metern Frostschaden zu und macht sie bis zu 8 Sekunden lang bewegungsunfähig.\n\nFernkämpfer und Heiler sollten außerhalb dieser Reichweite bleiben. Entfernt den bewegungsunfähig machenden Effekt."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_60612 = "Eisige Wächter"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_60612 = "Beschwört bei etwa 60% Gesundheit zwei Eisige Wächter.\n\nKontrolliert oder besiegt die beschworenen Gegner."
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12548 = "Frostschock"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12548 = "Fügt einem Ziel Frostschaden zu und verringert seine Bewegungsgeschwindigkeit 8 Sekunden lang um 50%."
 
     -- Deadmines
     IJ_DB_DUNGEON_DEADMINES_NAME = "Die Todesminen"

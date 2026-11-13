@@ -7,11 +7,13 @@ All changes to this project will be documented in this file.
 ### Added
 
 - Added missing abilities to the bosses in `Black Morass`
+- Added missing abilities to the `Arc'Tiras` encounter in `Stormwind Vault`
 
 ### Changed
 
 - Updated boss abilities in `Stormwind Vault`
 - Expanded the lore of `Tham'Grarr` with his two heads and their personalities
+- Expanded the lore of `Arc'Tiras` with Malygos's experiment and the crystal's confinement in Stormwind
 
 ## [1.4.7] - 2026-11-12
 

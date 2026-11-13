@@ -499,7 +499,17 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_9632 = "引导攻击附近敌人，每3秒造成一次物理伤害，最多持续9秒。\n\n剑刃风暴期间远离首领。"
     IJ_DB_DUNGEON_SV_BOSS_NAME_93107 = "阿克提阿斯"
     IJ_DB_DUNGEON_SV_BOSS_STORY_93107 =
-        "阿克提拉斯是一颗强大且有感知力的魔法水晶，被锁在暴风城地牢深处。它不稳定的能量让守卫们疯狂，并将避难所扭曲成疯狂的迷宫。"
+        "阿克提拉斯诞生于玛里苟斯将自身法力注入诺森德寒冰的一次实验，是一块拥有意识、蕴含不稳定魔法的水晶。暴风城的法师发现了它，在它的力量接连引发事故后，将其封存在地牢深处。他们并不知道水晶拥有自己的意志，带入城中的危险最终使守卫陷入疯狂，也将地牢变成了充斥癫狂的长廊。"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_17503 = "寒冰箭"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_17503 = "对一个目标造成冰霜伤害，并使其移动速度降低50%，持续4秒。"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12888 = "疯狂"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12888 = "控制一个目标6秒，强迫其攻击盟友。使被控制目标的近战攻击速度提高50%，移动速度提高80%。\n\n立即驱散此魔法效果。"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_30094 = "冰霜新星"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_30094 = "对10码内的敌人造成冰霜伤害，并使其无法移动，最多持续8秒。\n\n远程玩家和治疗应保持在此范围之外。驱散定身效果。"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_60612 = "寒冰守卫"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_60612 = "生命值降至约60%时，召唤两个寒冰守卫。\n\n控制或击杀召唤的敌人。"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_NAME_12548 = "冰霜震击"
+    IJ_DB_DUNGEON_SV_BOSS_93107_ABILITY_EFFECT_12548 = "对一个目标造成冰霜伤害，并使其移动速度降低50%，持续8秒。"
 
     -- SV Loot
     IJ_LOOT_NAME_60504 = "恐惧皮手套"
