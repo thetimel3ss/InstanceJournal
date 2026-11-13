@@ -187,34 +187,36 @@ SV.Bosses = {
         MapCoordinateX = 71.6,
         MapCoordinateY = 43.1,
         MapIsBelow = true,
+        -- OctoWoW logs show this spell set; the database NPC page still lists the former abilities.
         Abilities = {
             [1] = {
-                Id = "9256", 
-                Icon = "Spell_Nature_Sleep", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_NAME_9256, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_9256, 
-                Flags = {IMAF.Important}
+                -- TODO: Confirm the Bloodlust buff is applied; casts appear in OctoWoW logs without its aura.
+                Id = "23951",
+                Icon = "Spell_Nature_BloodLust",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_NAME_23951,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_23951,
+                Flags = {IMAF.Magic}
             },
             [2] = {
-                Id = "15398", 
-                Icon = "Spell_Shadow_PsychicScream", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_880851_ABILITY_NAME_15398, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_15398, 
-                Flags = {IMAF.Important}
+                Id = "7141",
+                Icon = "Spell_Magic_LesserInvisibilty",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_NAME_7141,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_7141,
+                Flags = {IMAF.Tank, IMAF.Important}
             },
             [3] = {
-                Id = "20741", 
-                Icon = "Spell_Shadow_ShadowBolt", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_880851_ABILITY_NAME_20741, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_20741, 
-                Flags = {IMAF.Heal}
+                Id = "23931",
+                Icon = "Spell_Nature_ThunderClap",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_NAME_23931,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_23931,
+                Flags = {IMAF.Magic}
             },
             [4] = {
-                Id = "20603", 
-                Icon = "Spell_Shadow_ShadowBolt", 
-                Name = IJ_DB_DUNGEON_SV_BOSS_880851_ABILITY_NAME_20603, 
-                Effect = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_20603, 
-                Flags = {IMAF.Heal}
+                Id = "9632",
+                Icon = "Ability_Whirlwind",
+                Name = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_NAME_9632,
+                Effect = IJ_DB_DUNGEON_SV_BOSS_80851_ABILITY_EFFECT_9632,
+                Flags = {IMAF.Important}
             }
         },
         Loot = {
