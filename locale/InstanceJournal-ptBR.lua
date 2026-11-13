@@ -549,6 +549,14 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "Anteriormente irmã de armas do dragão de bronze Keridormi, a traição de Antnormi é talvez a mais pessoal de todas. Convencida de que a chegada dos orcs é uma tragédia que deve ser apagada, ela abraçou o caminho do Infinito. Ela permanece como o obstáculo final no caminho do tempo do sul, disposta a matar seus antigos parentes para ver sua visão de uma história “pura” realizada."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_21919 = "Açoite"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_21919 = "Concede um ataque extra no próximo golpe corpo a corpo de Antnormi.\n\nHealers devem se preparar para picos de dano no tank."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Choque Sombrio"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Causa dano de Sombra a um alvo."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Rugido Aterrorizante"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Atordoa os inimigos em até 10 metros por 5 segundos."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Enfurecer"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "Com aproximadamente 20% de vida, aumenta o dano causado em 25% e a velocidade de ataque em 40%.\n\nHealers devem se preparar para o aumento de dano no tank."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "Um enorme crocolisco de apetite lendário, Rotmaw tem se banqueteado com as energias cronais deslocadas do pântano há anos. A fera cresceu anormalmente grande e agressiva, sua boca gotejando podridão entrópica. Pouco se importa com a preservação do tempo, vendo os invasores do Pântano Negro apenas como um banquete muito necessário."

@@ -726,6 +726,14 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "安特诺米"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "安特诺米曾是青铜龙凯瑞多米的战妹，她的背叛或许是最私人的背叛。她坚信兽人的到来是一场必须被抹去的悲剧，因此选择了无限龙军团之路。她是南方时光的最后一道障碍，愿意亲手杀死昔日同族，只为实现自己对“纯粹”历史的愿景。"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_21919 = "痛击"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_21919 = "使安特诺米的下一次近战挥击获得一次额外攻击。\n\n治疗应准备应对坦克受到的爆发伤害。"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "暗影震击"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "威吓咆哮"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "使10码内的敌人昏迷5秒。"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "激怒"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "生命值降至约20%时，造成的伤害提高25%，攻击速度提高40%。\n\n治疗应准备应对坦克受到的更高伤害。"
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "腐烂之喉"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "红喉是一种具有传奇般胃口的巨型鳄鱼，多年来一直以沼泽中流离失所的时间能量为食。这头野兽变得异常庞大且具有攻击性，它的胃里滴着熵腐物。它并不关心时间的保存，只将黑色沼泽的入侵者视为一场急需的盛宴。"

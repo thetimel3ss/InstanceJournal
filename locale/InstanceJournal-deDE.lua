@@ -554,6 +554,14 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "Antnormis Verrat, einst eine Waffenschwester des Bronzedrachen Keridormi, ist vielleicht der persönlichste von allen. In der Überzeugung, dass die Ankunft der Orks eine Tragödie ist, die ausgelöscht werden muss, hat sie den unendlichen Weg eingeschlagen. Sie stellt das letzte Hindernis auf dem südlichen Zeitweg dar und ist bereit, ihre früheren Verwandten zu töten, um ihre Vision einer „reinen“ Geschichte zu verwirklichen."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_21919 = "Hauen"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_21919 = "Gewährt bei Antnormis nächstem Nahkampfschlag einen zusätzlichen Angriff.\n\nHeiler sollten sich auf Schadensspitzen beim Tank vorbereiten."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Schattenschock"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Fügt einem Ziel Schattenschaden zu."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Einschüchterndes Gebrüll"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Betäubt Gegner im Umkreis von 10 Metern 5 Sekunden lang."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Wutanfall"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "Erhöht bei etwa 20% Gesundheit den verursachten Schaden um 25% und das Angriffstempo um 40%.\n\nHeiler sollten sich auf erhöhten Schaden beim Tank vorbereiten."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "Rotmaw, ein riesiger Krokilisk mit legendärem Appetit, hat sich jahrelang an den verdrängten chronischen Energien des Sumpfes labt. Das Biest ist unnatürlich groß und aggressiv geworden, sein Schlund trieft vor entropischer Fäulnis. Es ist ihm wenig wichtig, die Zeit zu bewahren, da es die Eindringlinge des Schwarzen Morasts nur als ein dringend benötigtes Fest betrachtet."

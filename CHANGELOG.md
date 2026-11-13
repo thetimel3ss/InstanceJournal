@@ -6,6 +6,7 @@ All changes to this project will be documented in this file.
 
 ### Added
 
+- Added missing abilities to the `Antnormi` encounter in `Black Morass`
 - Added missing abilities to the `Mossheart` encounter in `Black Morass`
 - Added missing abilities to the `Time-Lord Epochronos` encounter in `Black Morass`
 - Added missing abilities to the `Drifting Avatar of Sand` encounter in `Black Morass`

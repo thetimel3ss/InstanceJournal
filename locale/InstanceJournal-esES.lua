@@ -554,6 +554,14 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "Antigua hermana de armas del dragón de bronce Keridormi, la traición de Antnormi es quizás la más personal de todas. Convencida de que la llegada de los orcos es una tragedia que debe ser borrada, ha abrazado el camino del Infinito. Ella se erige como el último obstáculo en la vía del tiempo del sur, dispuesta a matar a sus antiguos parientes para ver realizada su visión de una historia \"pura\"."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_21919 = "Vapulear"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_21919 = "Otorga un ataque adicional en el siguiente golpe cuerpo a cuerpo de Antnormi.\n\nLos sanadores deben prepararse para picos de daño sobre el tanque."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Choque de las Sombras"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Inflige daño de las Sombras a un objetivo."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Rugido aterrador"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Aturde a los enemigos en un radio de 10 metros durante 5 segundos."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Enfurecer"
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "Al llegar aproximadamente al 20% de salud, aumenta el daño infligido un 25% y la velocidad de ataque un 40%.\n\nLos sanadores deben prepararse para un mayor daño sobre el tanque."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
         "Rotmaw, un enorme crocolisco de apetito legendario, se ha deleitado con las energías crónicas desplazadas del pantano durante años. La bestia se ha vuelto anormalmente grande y agresiva, y sus fauces están goteando podredumbre entrópica. Le importa poco la preservación del tiempo y ve a los invasores de Black Morass sólo como un festín muy necesario."

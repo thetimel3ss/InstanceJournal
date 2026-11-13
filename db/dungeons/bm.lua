@@ -388,7 +388,7 @@ BM.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 1}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "65125",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "antnormi" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "antnormi" .. IMPF,
@@ -397,6 +397,35 @@ BM.Bosses = {
         MapCoordinateX = 48.0,
         MapCoordinateY = 74.6,
         MapId = IZI.BM1,
+        Abilities = {
+            [1] = {
+                Id = "21919",
+                Icon = "Ability_Warrior_PunishingBlow",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_21919,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_21919,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [2] = {
+                Id = "17234",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234
+            },
+            [3] = {
+                -- TODO: Confirm fear-prevention interactions; the spell applies a stun but has a fleeing mechanic.
+                Id = "16096",
+                Icon = "Ability_Devour",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096
+            },
+            [4] = {
+                Id = "28131",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[50427], DropChance = 50},
             [2] = {IJDB.I[61053], DropChance = 50},

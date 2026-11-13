@@ -628,6 +628,14 @@ IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_14535 = "Reduces all attributes of en
 IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
 IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
     "Formerly a sister-in-arms to the bronze dragon Keridormi, Antnormi's betrayal is perhaps the most personal of all. Convinced that the arrival of the orcs is a tragedy that must be erased, she has embraced the Infinite path. She stands as the final obstacle in the southern timeway, willing to kill her former kin to see her vision of a 'pure' history realized."
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_21919 = "Thrash"
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_21919 = "Grants an extra attack on Antnormi's next melee swing.\n\nHealers should prepare for bursts of damage on the tank."
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Shadow Shock"
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Deals Shadow damage to a target."
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Cowering Roar"
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Stuns enemies within 10 yards for 5 seconds."
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Enrage"
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "At approximately 20% health, increases damage dealt by 25% and attack speed by 40%.\n\nHealers should prepare for increased damage on the tank."
 IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
 IJ_DB_DUNGEON_BM_BOSS_STORY_65122 =
     "A massive crocolisk of legendary appetite, Rotmaw has feasted upon the displaced chronal energies of the swamp for years. The beast has grown unnaturally large and aggressive, its maw dripping with entropic rot. It cares little for the preservation of time, seeing the invaders of the Black Morass only as a much-needed feast."
