@@ -1029,6 +1029,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Couronne de flammes de Solakar"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "Gagner les faveurs du Vol draconique noir est une bénédiction mitigée. Solakar Flamewreath se voit confier la garde des rejetons draconiques de Nefarian, mais il a été prévenu qu'il paierait un prix terrible pour tout petit qui mourrait sous sa surveillance ou qui ne répondrait tout simplement pas à ses attentes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_16727 = "Choc martial"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_16727 =
+        "Inflige des dégâts physiques aux ennemis dans un rayon de 5 mètres et les étourdit pendant 5 secondes."
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_10264 = "Événement de la colonie"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_10264 =
+        "Cinq vagues de deux Éleveurs ou Gardiens de la colonie précèdent Solakar Voluteflamme."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Observateur des Runes"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "Un orc insaisissable, rarement vu parmi la population générale de Upper Blackrock Spire. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."

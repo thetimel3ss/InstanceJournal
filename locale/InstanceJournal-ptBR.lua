@@ -1026,6 +1026,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Coroa de Chamas Solakar"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "Ganhar favores dentro da revoada negra é uma bênção mista. Solakar Flamewreath é encarregado de cuidar das crias de dragão de Nefarian, mas ele foi avisado que pagará um preço terrível por qualquer filhote que morra sob sua supervisão – ou simplesmente não cumpra as expectativas."
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_16727 = "Pisada de Guerra"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_16727 =
+        "Causa dano Físico aos inimigos em até 5 metros e os atordoa por 5 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_10264 = "Evento do Viveiro"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_10264 =
+        "Cinco ondas de dois Chocadores ou Guardiões do Viveiro precedem Solakar Coroa Flamejante."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Observador de Runas"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "Um orc indescritível, raramente visto entre a população em geral do Alto Pináculo da Rocha Negra. Diz-se que ele possui muitos itens cobiçados que muitos gostariam de poder colocar em suas mãos, se ao menos pudessem encontrá-lo em primeiro lugar..."

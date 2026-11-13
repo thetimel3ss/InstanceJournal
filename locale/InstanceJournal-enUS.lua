@@ -1716,6 +1716,12 @@ IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_20228 =
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Solakar Flamewreath"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
     "Gaining favor within the black dragonflight is a mixed blessing. Solakar Flamewreath is entrusted with the care of Nefarian's dragonspawn, but he has been warned he will pay a terrible price for any whelp that dies under his supervision--or simply fails to live up to expectations."
+IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_16727 = "War Stomp"
+IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_16727 =
+    "Deals Physical damage to enemies within 5 yards and stuns them for 5 seconds."
+IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_10264 = "Rookery Event"
+IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_10264 =
+    "Five waves of two Rookery Hatchers or Guardians precede Solakar Flamewreath."
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Runewatcher"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
     "An elusive orc, rarely seen among the general population of Upper Blackrock Spire. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."

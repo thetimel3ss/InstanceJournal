@@ -74,12 +74,26 @@ UBRS.Bosses = {
             [14] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "10264",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "solakar" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "solakar" .. IMPF,
         Name = IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264,
         Story = IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264,
+        Abilities = {
+            [1] = {
+                Id = "16727",
+                Icon = "Ability_BullRush",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_16727,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_16727
+            },
+            [2] = {
+                Id = "10264",
+                Icon = "INV_Misc_Egg_03",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_10264,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_10264
+            }
+        },
         Loot = {
             [1] = {IJDB.I[12589], DropChance = 20},
             [2] = {IJDB.I[12603], DropChance = 20},

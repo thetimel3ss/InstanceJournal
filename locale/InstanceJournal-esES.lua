@@ -1029,6 +1029,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Corona de llamas de Solakar"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "Ganarse el favor dentro del Vuelo Negro es una bendición a medias. A Solakar Flamewreath se le confía el cuidado de los dragones de Nefarian, pero se le ha advertido que pagará un precio terrible por cualquier cachorro que muera bajo su supervisión... o que simplemente no esté a la altura de las expectativas."
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_16727 = "Pisotón de guerra"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_16727 =
+        "Inflige daño Físico a los enemigos en un radio de 5 metros y los aturde durante 5 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_10264 = "Evento de la Cámara de la Colonia"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_10264 =
+        "Cinco oleadas de dos Criadores o Guardianes de la Colonia preceden a Solakar Corona de Fuego."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Vigilante de Runas"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "Un orco esquivo, rara vez visto entre la población general de Upper Blackrock Spire. Se dice que posee muchos objetos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlo en primer lugar..."

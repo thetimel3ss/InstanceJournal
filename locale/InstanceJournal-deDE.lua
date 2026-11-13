@@ -1030,6 +1030,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Solakar-Flammenkranz"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "Die Gunst des schwarzen Drachenschwarms zu erlangen, ist ein gemischter Segen. Solakar Flamewreath ist mit der Pflege von Nefarians Drachenbrut betraut, aber er wurde gewarnt, dass er einen schrecklichen Preis für jeden Welpen zahlen wird, der unter seiner Aufsicht stirbt – oder einfach nicht den Erwartungen entspricht."
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_16727 = "Kriegsdonner"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_16727 =
+        "Fügt Gegnern im Umkreis von 5 Metern körperlichen Schaden zu und betäubt sie 5 Sekunden lang."
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_10264 = "Brutstättenereignis"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_10264 =
+        "Vor Solakar Feuerkrone erscheinen fünf Wellen mit jeweils zwei Brutstättenwelpenhütern oder Brutstättenwächtern."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "Jed Runewatcher"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "Ein schwer fassbarer Ork, der in der allgemeinen Bevölkerung der Oberen Schwarzfelsspitze selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."

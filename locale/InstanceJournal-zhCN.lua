@@ -1809,6 +1809,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "索拉卡·火冠"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "在黑龙军团中获得青睐是一件喜忧参半的事。索拉卡·火花受托照顾奈法利安的龙裔，但他被警告说，他将为任何在他的监管下死去的幼龙付出惨痛的代价——或者干脆不辜负期望。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_16727 = "战争践踏"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_16727 =
+        "对5码内的敌人造成物理伤害，并使其昏迷5秒。"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_NAME_10264 = "群龙大厅事件"
+    IJ_DB_DUNGEON_UBRS_BOSS_10264_ABILITY_EFFECT_10264 =
+        "索拉卡·火冠出现前，会有五波敌人，每波包含两名群居龙孵化者或群居龙守卫。"
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10509 = "杰德"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10509 =
         "难以捉摸的兽人，在黑石塔上层的普通民众中很少见到。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"
