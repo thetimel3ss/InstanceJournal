@@ -1017,6 +1017,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_9816 = "Pyrogarde Emberseer"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_9816 =
         "Il y a bien longtemps, Pyroguard Emberseer, un fidèle serviteur du puissant Ragnaros le Seigneur du Feu, a incinéré des dizaines d'orcs Rochenoire lors d'une bataille décisive dans les Steppes Ardentes. Finalement, Emberseer a été vaincu et emprisonné dans la Montagne Rochenoire, où sa puissante énergie est maintenant siphonnée pour être utilisée pour accélérer l'incubation des œufs de dragon noir de Nefarian."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23341 = "Rafale de flammes"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23341 =
+        "Inflige des dégâts de Feu et augmente les dégâts de Feu subis de 150 pendant 20 secondes."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23462 = "Nova de feu"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23462 =
+        "Inflige des dégâts de Feu aux ennemis dans un rayon de 100 mètres."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_20228 = "Explosion pyrotechnique"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_20228 =
+        "Inflige des dégâts de Feu, puis des dégâts de Feu supplémentaires toutes les 3 secondes pendant 12 secondes."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Couronne de flammes de Solakar"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "Gagner les faveurs du Vol draconique noir est une bénédiction mitigée. Solakar Flamewreath se voit confier la garde des rejetons draconiques de Nefarian, mais il a été prévenu qu'il paierait un prix terrible pour tout petit qui mourrait sous sa surveillance ou qui ne répondrait tout simplement pas à ses attentes."

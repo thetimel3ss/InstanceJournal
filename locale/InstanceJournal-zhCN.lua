@@ -1797,6 +1797,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_9816 = "烈焰卫士艾博希尔"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_9816 =
         "很久以前，强大的火焰之王拉格纳罗斯的忠实部下火卫者灰烬先知在燃烧平原的一场高潮战斗中焚烧了数十名黑石兽人。最终，灰烬先知被击败并被囚禁在黑石山内，他的强大能量现在被吸走，用于加速奈法利安黑龙蛋的孵化。"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23341 = "烈焰打击"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23341 =
+        "造成火焰伤害，并使受到的火焰伤害提高150点，持续20秒。"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23462 = "火焰新星"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23462 =
+        "对100码内的敌人造成火焰伤害。"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_20228 = "炎爆术"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_20228 =
+        "造成火焰伤害，随后每3秒造成额外火焰伤害，持续12秒。"
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "索拉卡·火冠"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "在黑龙军团中获得青睐是一件喜忧参半的事。索拉卡·火花受托照顾奈法利安的龙裔，但他被警告说，他将为任何在他的监管下死去的幼龙付出惨痛的代价——或者干脆不辜负期望。"

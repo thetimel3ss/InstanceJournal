@@ -1018,6 +1018,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_9816 = "Pyroguard Emberseer"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_9816 =
         "Vor langer Zeit verbrannte Pyroguard Emberseer, ein treuer Diener des mächtigen Feuerlords Ragnaros, während einer entscheidenden Schlacht in der Brennenden Steppe Dutzende Schwarzfels-Orks. Letztendlich wurde Glutseer besiegt und im Schwarzfels eingesperrt, wo seine mächtige Energie nun abgeschöpft wird, um die Brutzeit von Nefarians schwarzen Dracheneiern zu beschleunigen."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23341 = "Flammenpuffer"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23341 =
+        "Verursacht Feuerschaden und erhöht den erlittenen Feuerschaden 20 Sekunden lang um 150."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23462 = "Feuernova"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23462 =
+        "Fügt Gegnern im Umkreis von 100 Metern Feuerschaden zu."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_20228 = "Pyroschlag"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_20228 =
+        "Verursacht Feuerschaden und anschließend 12 Sekunden lang alle 3 Sekunden zusätzlichen Feuerschaden."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Solakar-Flammenkranz"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "Die Gunst des schwarzen Drachenschwarms zu erlangen, ist ein gemischter Segen. Solakar Flamewreath ist mit der Pflege von Nefarians Drachenbrut betraut, aber er wurde gewarnt, dass er einen schrecklichen Preis für jeden Welpen zahlen wird, der unter seiner Aufsicht stirbt – oder einfach nicht den Erwartungen entspricht."

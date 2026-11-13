@@ -30,12 +30,33 @@ UBRS.Entrances = {
     }
 }
 UBRS.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "9816",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "pyroguard" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "pyroguard" .. IMPF,
         Name = IJ_DB_DUNGEON_UBRS_BOSS_NAME_9816,
         Story = IJ_DB_DUNGEON_UBRS_BOSS_STORY_9816,
+        Abilities = {
+            [1] = {
+                Id = "23341",
+                Icon = "Spell_Fire_Fireball",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23341,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23341
+            },
+            [2] = {
+                Id = "23462",
+                Icon = "Spell_Fire_SealOfFire",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23462,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23462,
+                Flags = {IMAF.Heal}
+            },
+            [3] = {
+                Id = "20228",
+                Icon = "Spell_Fire_Fireball02",
+                Name = IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_20228,
+                Effect = IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_20228
+            }
+        },
         Loot = {
             [1] = {IJDB.I[58199], DropChance = 1},
             [2] = {IJDB.I[58204], DropChance = 20},

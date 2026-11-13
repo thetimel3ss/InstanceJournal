@@ -1017,6 +1017,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_9816 = "Emberseer piroguardia"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_9816 =
         "Hace mucho tiempo, Pyroguard Emberseer, un leal siervo del poderoso Ragnaros el Señor del Fuego, incineró a docenas de orcos Roca Negra durante una batalla culminante en las Estepas Ardientes. Al final, Emberseer fue derrotado y encarcelado en la Montaña Roca Negra, donde ahora se desvía su potente energía para acelerar la incubación de los huevos del dragón negro de Nefarian."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23341 = "Sacudida de llamas"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23341 =
+        "Inflige daño de Fuego y aumenta el daño de Fuego recibido en 150 durante 20 segundos."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23462 = "Nova de Fuego"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23462 =
+        "Inflige daño de Fuego a los enemigos en un radio de 100 metros."
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_20228 = "Piroexplosión"
+    IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_20228 =
+        "Inflige daño de Fuego, seguido de daño de Fuego adicional cada 3 segundos durante 12 segundos."
     IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Corona de llamas de Solakar"
     IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
         "Ganarse el favor dentro del Vuelo Negro es una bendición a medias. A Solakar Flamewreath se le confía el cuidado de los dragones de Nefarian, pero se le ha advertido que pagará un precio terrible por cualquier cachorro que muera bajo su supervisión... o que simplemente no esté a la altura de las expectativas."

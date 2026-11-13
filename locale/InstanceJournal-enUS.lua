@@ -1704,6 +1704,15 @@ IJ_DB_DUNGEON_UBRS_STORY =
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_9816 = "Pyroguard Emberseer"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_9816 =
     "Long ago, Pyroguard Emberseer, a loyal minion of the mighty Ragnaros the Firelord, incinerated dozens of Blackrock orcs during a climactic battle at the Burning Steppes. Ultimately Emberseer was defeated and imprisoned within Blackrock Mountain, where his potent energy is now siphoned for use in accelerating the incubation of Nefarian's black dragon eggs."
+IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23341 = "Flame Buffet"
+IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23341 =
+    "Deals Fire damage and increases Fire damage taken by 150 for 20 seconds."
+IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_23462 = "Fire Nova"
+IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_23462 =
+    "Deals Fire damage to enemies within 100 yards."
+IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_NAME_20228 = "Pyroblast"
+IJ_DB_DUNGEON_UBRS_BOSS_9816_ABILITY_EFFECT_20228 =
+    "Deals Fire damage, followed by additional Fire damage every 3 seconds for 12 seconds."
 IJ_DB_DUNGEON_UBRS_BOSS_NAME_10264 = "Solakar Flamewreath"
 IJ_DB_DUNGEON_UBRS_BOSS_STORY_10264 =
     "Gaining favor within the black dragonflight is a mixed blessing. Solakar Flamewreath is entrusted with the care of Nefarian's dragonspawn, but he has been warned he will pay a terrible price for any whelp that dies under his supervision--or simply fails to live up to expectations."
