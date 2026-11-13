@@ -2467,6 +2467,18 @@ IJ_DB_DUNGEON_STRAT_BOSS_10808_ABILITY_EFFECT_8269 =
     "At low health, increases Physical damage dealt by 50 and melee attack speed by 60% for 120 seconds."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor the Zealous"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "A crazed member of the Scarlet Crusade, he guards his own strongbox and won't let anyone near it."
+IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_12734 = "Ground Smash"
+IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_12734 =
+    "Deals Physical damage to enemies within 10 yards and stuns them for 3 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_16172 = "Head Crack"
+IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_16172 =
+    "Reduces a target's Stamina for 20 seconds."
+IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_15493 = "Holy Light"
+IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_15493 =
+    "Heals the caster or an ally."
+IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_10310 = "Lay on Hands"
+IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310 =
+    "Fully restores the health of the caster or an ally."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Crimson Hammersmith"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "A hammersmith from the Crimson Legion. Not much is known about him, other than he is very protective of his blacksmithing plans."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Cannon Master Willey"

@@ -2597,6 +2597,18 @@ if GetLocale() == "zhCN" then
         "生命值较低时，造成的物理伤害提高50点，近战攻击速度提高60%，持续120秒。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "狂热的玛洛尔"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "作为血色十字军的疯狂成员，他守护着自己的保险箱，不让任何人靠近。"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_12734 = "大地粉碎"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_12734 =
+        "对10码内的敌人造成物理伤害，并使其昏迷3秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_16172 = "裂颅"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_16172 =
+        "降低一个目标的耐力，持续20秒。"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_15493 = "圣光术"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_15493 =
+        "治疗施法者或一名盟友。"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_10310 = "圣疗术"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310 =
+        "为施法者或一名盟友恢复全部生命值。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "红衣铸锤师"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "来自赤红军团的锤匠。人们对他知之甚少，只知道他非常保护自己的锻造计划。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "炮手威利"

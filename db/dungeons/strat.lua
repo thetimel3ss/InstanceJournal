@@ -186,7 +186,7 @@ STRAT.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [5] = { -- NOTE: Missing abilities
+    [5] = {
         Id = "11032",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "malor" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "malor" .. IMPF,
@@ -194,6 +194,32 @@ STRAT.Bosses = {
         Story = IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032,
         MapCoordinateX = 40.9,
         MapCoordinateY = 69.2,
+        Abilities = {
+            [1] = {
+                Id = "12734",
+                Icon = "Spell_Holy_FistOfJustice",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_12734,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_12734
+            },
+            [2] = {
+                Id = "16172",
+                Icon = "Ability_ThunderBolt",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_16172,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_16172
+            },
+            [3] = {
+                Id = "15493",
+                Icon = "Spell_Holy_HolyBolt",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_15493,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_15493
+            },
+            [4] = {
+                Id = "10310",
+                Icon = "Spell_Holy_LayOnHands",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_10310,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310
+            }
+        },
         Loot = {
             [1] = {IJDB.I[81016], DropChance = 11},
             [2] = {IJDB.I[81017], DropChance = 11},

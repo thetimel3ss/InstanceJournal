@@ -1419,6 +1419,18 @@ if GetLocale() == "ptBR" then
         "Com pouca vida, aumenta o dano Físico causado em 50 e a velocidade de ataque corpo a corpo em 60% por 120 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor, o Zeloso"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Membro enlouquecido da Cruzada Escarlate, ele guarda seu próprio cofre e não deixa ninguém se aproximar dele."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_12734 = "Esmagar o Solo"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_12734 =
+        "Causa dano Físico aos inimigos em um raio de 10 metros e os atordoa por 3 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_16172 = "Racha-crânio"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_16172 =
+        "Reduz o Vigor de um alvo por 20 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_15493 = "Luz Sagrada"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_15493 =
+        "Cura o lançador ou um aliado."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_10310 = "Impor as Mãos"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310 =
+        "Restaura totalmente a vida do lançador ou de um aliado."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Martelo Carmesim"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "Um marteleiro da Legião Carmesim. Não se sabe muito sobre ele, exceto que ele é muito protetor em relação aos seus planos de ferreiro."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Mestre de Canhão Willey"

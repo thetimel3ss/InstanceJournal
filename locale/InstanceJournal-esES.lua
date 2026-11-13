@@ -1423,6 +1423,18 @@ if GetLocale() == "esES" then
         "Con poca salud, aumenta el daño físico infligido en 50 y la velocidad de ataque cuerpo a cuerpo un 60% durante 120 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor el Celoso"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Un miembro enloquecido de la Cruzada Escarlata, protege su propia caja fuerte y no permite que nadie se acerque a ella."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_12734 = "Machaque de tierra"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_12734 =
+        "Inflige daño físico a los enemigos en un radio de 10 metros y los aturde durante 3 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_16172 = "Rompecabezas"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_16172 =
+        "Reduce el aguante de un objetivo durante 20 segundos."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_15493 = "Luz Sagrada"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_15493 =
+        "Sana al taumaturgo o a un aliado."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_10310 = "Imposición de manos"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310 =
+        "Restaura por completo la salud del taumaturgo o de un aliado."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Martillo carmesí"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "Un herrero de la Crimson Legion. No se sabe mucho sobre él, aparte de que es muy protector con sus planes de herrería."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Maestro de cañón Willey"

@@ -1453,6 +1453,18 @@ if GetLocale() == "ruRU" then
         "При низком уровне здоровья увеличивает физический урон на 50 и скорость атак ближнего боя на 60% на 120 сек."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Малор Ревностный"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Безумный член Алого Ордена, он охраняет свой сейф и никого не подпускает к нему."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_12734 = "Удар по земле"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_12734 =
+        "Наносит физический урон противникам в радиусе 10 м и оглушает их на 3 сек."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_16172 = "Трещина в черепе"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_16172 =
+        "Снижает выносливость цели на 20 сек."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_15493 = "Свет небес"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_15493 =
+        "Исцеляет заклинателя или союзника."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_10310 = "Возложение рук"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310 =
+        "Полностью восстанавливает здоровье заклинателя или союзника."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Багровый Хаммерсмит"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 =
         "Кузнец из Багрового Легиона. О нем мало что известно, кроме того, что он очень защищает свои кузнечные планы."

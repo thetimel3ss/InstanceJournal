@@ -1424,6 +1424,18 @@ if GetLocale() == "deDE" then
         "Erhöht bei niedriger Gesundheit den verursachten körperlichen Schaden um 50 und das Nahkampfangriffstempo 120 Sekunden lang um 60%."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor der Eiferer"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Als verrücktes Mitglied des Scharlachroten Kreuzzugs bewacht er seine eigene Truhe und lässt niemanden in die Nähe."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_12734 = "Bodenzerkracher"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_12734 =
+        "Verursacht körperlichen Schaden bei Gegnern innerhalb von 10 Metern und betäubt sie 3 Sekunden lang."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_16172 = "Kopfnuss"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_16172 =
+        "Verringert die Ausdauer eines Ziels 20 Sekunden lang."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_15493 = "Heiliges Licht"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_15493 =
+        "Heilt den Zaubernden oder einen Verbündeten."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_10310 = "Handauflegung"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310 =
+        "Stellt die Gesundheit des Zaubernden oder eines Verbündeten vollständig wieder her."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Crimson Hammersmith"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "Ein Hammerschmied der Crimson Legion. Über ihn ist nicht viel bekannt, außer dass er seine Schmiedepläne sehr beschützt."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Kanonenmeister Willey"

@@ -1423,6 +1423,18 @@ if GetLocale() == "frFR" then
         "Lorsque ses points de vie sont bas, augmente les dégâts physiques infligés de 50 et la vitesse d’attaque en mêlée de 60% pendant 120 secondes."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11032 = "Malor le Zélé"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11032 = "Membre fou de la Croisade Écarlate, il garde son propre coffre-fort et ne laisse personne s'en approcher."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_12734 = "Choc terrestre"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_12734 =
+        "Inflige des dégâts physiques aux ennemis à moins de 10 mètres et les étourdit pendant 3 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_16172 = "Brise-tête"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_16172 =
+        "Réduit l'Endurance d'une cible pendant 20 secondes."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_15493 = "Lumière sacrée"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_15493 =
+        "Soigne le lanceur ou un allié."
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_NAME_10310 = "Imposition des mains"
+    IJ_DB_DUNGEON_STRAT_BOSS_11032_ABILITY_EFFECT_10310 =
+        "Rend tous ses points de vie au lanceur ou à un allié."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_11120 = "Forgeron cramoisi"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_11120 = "A hammersmith from the Crimson Legion. On ne sait pas grand-chose de lui, à part qu'il est très protecteur envers ses projets de forge."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10997 = "Maître canonnier Willey"
