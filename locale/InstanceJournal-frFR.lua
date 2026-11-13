@@ -540,6 +540,16 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65124 = "Cœur de mousse"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65124 =
         "Les anciennes bêtes des tourbières du Black Morass sont depuis longtemps sensibles aux énergies de la terre. Cœur de Mousse, autrefois protecteur pacifique de la boue, a été plongé dans un état de fureur primaire par le rayonnement temporel s'échappant de la Porte des Ténèbres. Il s'en prend désormais à tout ce qui, de bronze ou d'infini, perturbe les profondeurs obscures de sa demeure."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20664 = "Récupération"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20664 = "Rend des points de vie à Mossheart toutes les 3 secondes pendant 12 secondes.\n\nDissipez immédiatement cet effet magique."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6866 = "Mains couvertes de mousse"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6866 = "Rend la cible affectée susceptible de lâcher son arme pendant 180 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6870 = "Pieds couverts de mousse"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6870 = "Rend la cible affectée susceptible d'être renversée lorsqu'elle est touchée pendant 180 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20699 = "Sarments"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20699 = "Immobilise les ennemis dans un rayon de 25 mètres et inflige des dégâts de Nature toutes les 3 secondes pendant un maximum de 15 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_14535 = "Maladie des marais"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_14535 = "Réduit toutes les caractéristiques des ennemis dans un rayon de 30 mètres de 25% pendant 5 minutes.\n\nSoignez rapidement cette maladie."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "Ancienne sœur d'armes du dragon de bronze Keridormi, la trahison d'Antnormi est peut-être la plus personnelle de toutes. Convaincue que l'arrivée des orcs est une tragédie qui doit être effacée, elle a embrassé la voie de l'Infini. Elle constitue le dernier obstacle dans la voie temporelle du sud, prête à tuer ses anciens parents pour voir se réaliser sa vision d'une histoire « pure »."

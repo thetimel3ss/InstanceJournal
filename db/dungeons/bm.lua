@@ -332,7 +332,7 @@ BM.Bosses = {
             [10] = {IJDB.I[70226], DropChance = 1}
         }
     },
-    [5] = { -- NOTE: Missing abilities
+    [5] = {
         Id = "65124",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "mossheart" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "mossheart" .. IMPF,
@@ -341,6 +341,43 @@ BM.Bosses = {
         MapCoordinateX = 69.1,
         MapCoordinateY = 51.0,
         MapId = IZI.BM1,
+        Abilities = {
+            [1] = {
+                Id = "20664",
+                Icon = "Spell_Nature_Rejuvenation",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20664,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20664,
+                Flags = {IMAF.Magic, IMAF.Important}
+            },
+            [2] = {
+                Id = "6866",
+                Icon = "Spell_Nature_MagicImmunity",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6866,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6866,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "6870",
+                Icon = "Spell_Nature_MagicImmunity",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6870,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6870,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "20699",
+                Icon = "Spell_Nature_StrangleVines",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20699,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20699,
+                Flags = {IMAF.Magic}
+            },
+            [5] = {
+                Id = "14535",
+                Icon = "Spell_Nature_NullifyDisease",
+                Name = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_14535,
+                Effect = IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_14535,
+                Flags = {IMAF.Disease}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[61050], DropChance = 16},
             [2] = {IJDB.I[61051], DropChance = 16},

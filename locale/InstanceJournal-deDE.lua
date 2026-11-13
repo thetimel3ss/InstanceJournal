@@ -541,6 +541,16 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65124 = "Moosherz"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65124 =
         "Die uralten Sumpfbestien des Schwarzen Morasts haben schon lange ein Gespür für die Energien des Landes. Mossheart, einst ein friedlicher Beschützer des Sumpfes, wurde durch die zeitliche Strahlung, die aus dem Dunklen Portal austritt, in einen Zustand ursprünglicher Wut getrieben. Es schlägt jetzt auf alles ein – Bronze oder Unendlich –, das die düsteren Tiefen seiner Heimat stört."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20664 = "Verjüngung"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20664 = "Heilt Mossheart 12 Sekunden lang alle 3 Sekunden.\n\nEntfernt diesen magischen Effekt sofort."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6866 = "Moosbedeckte Hände"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6866 = "Macht das betroffene Ziel 180 Sekunden lang anfällig dafür, seine Waffe fallen zu lassen.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6870 = "Moosbedeckte Füße"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6870 = "Macht das betroffene Ziel 180 Sekunden lang anfällig dafür, bei einem Treffer umgestoßen zu werden.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20699 = "Wucherwurzeln"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20699 = "Macht Gegner im Umkreis von 25 Metern bewegungsunfähig und verursacht bis zu 15 Sekunden lang alle 3 Sekunden Naturschaden.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_14535 = "Sumpfkrankheit"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_14535 = "Verringert 5 Minuten lang alle Attribute von Gegnern im Umkreis von 30 Metern um 25%.\n\nEntfernt diese Krankheit umgehend."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "Antnormis Verrat, einst eine Waffenschwester des Bronzedrachen Keridormi, ist vielleicht der persönlichste von allen. In der Überzeugung, dass die Ankunft der Orks eine Tragödie ist, die ausgelöscht werden muss, hat sie den unendlichen Weg eingeschlagen. Sie stellt das letzte Hindernis auf dem südlichen Zeitweg dar und ist bereit, ihre früheren Verwandten zu töten, um ihre Vision einer „reinen“ Geschichte zu verwirklichen."

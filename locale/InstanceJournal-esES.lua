@@ -541,6 +541,16 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65124 = "corazón de musgo"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65124 =
         "Las antiguas bestias de los pantanos de Black Morass han sido durante mucho tiempo sensibles a las energías de la tierra. Mossheart, que alguna vez fue un pacífico protector del fango, ha sido llevado a un estado de furia primordial por la radiación temporal que se escapa del Portal Oscuro. Ahora arremete contra cualquier cosa, bronce o infinita, que perturbe las turbias profundidades de su hogar."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20664 = "Rejuvenecimiento"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20664 = "Sana a Mossheart cada 3 segundos durante 12 segundos.\n\nDisipa este efecto mágico inmediatamente."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6866 = "Manos cubiertas de musgo"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6866 = "Hace que el objetivo afectado pueda dejar caer su arma durante 180 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6870 = "Pies cubiertos de musgo"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6870 = "Hace que el objetivo afectado pueda ser derribado al recibir un golpe durante 180 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20699 = "Raíces enredadoras"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20699 = "Inmoviliza a los enemigos en un radio de 25 metros e inflige daño de Naturaleza cada 3 segundos durante un máximo de 15 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_14535 = "Enfermedad del pantano"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_14535 = "Reduce todos los atributos de los enemigos en un radio de 30 metros un 25% durante 5 minutos.\n\nElimina esta enfermedad cuanto antes."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "Antigua hermana de armas del dragón de bronce Keridormi, la traición de Antnormi es quizás la más personal de todas. Convencida de que la llegada de los orcos es una tragedia que debe ser borrada, ha abrazado el camino del Infinito. Ella se erige como el último obstáculo en la vía del tiempo del sur, dispuesta a matar a sus antiguos parientes para ver realizada su visión de una historia \"pura\"."

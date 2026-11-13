@@ -713,6 +713,16 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65124 = "莫斯哈特"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65124 =
         "黑色沼泽的远古沼泽野兽长期以来对大地的能量非常敏感。莫斯哈特曾经是泥潭的和平保护者，但由于黑暗之门泄漏的时​​间辐射而陷入了原始愤怒的状态。现在，它会猛烈攻击任何扰乱其家园黑暗深处的东西——青铜或无限。"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20664 = "回春术"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20664 = "每3秒为莫斯哈特恢复生命值，持续12秒。\n\n立即驱散此魔法效果。"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6866 = "苔藓之手"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6866 = "使受影响目标可能掉落武器，持续180秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6870 = "苔藓之足"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6870 = "使受影响目标在被击中时可能被击倒，持续180秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20699 = "纠缠根须"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20699 = "使25码内的敌人无法移动，并每3秒造成一次自然伤害，最多持续15秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_14535 = "泥沼疾病"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_14535 = "使30码内敌人的所有属性降低25%，持续5分钟。\n\n及时移除此疾病。"
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "安特诺米"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "安特诺米曾是青铜龙凯瑞多米的战妹，她的背叛或许是最私人的背叛。她坚信兽人的到来是一场必须被抹去的悲剧，因此选择了无限龙军团之路。她是南方时光的最后一道障碍，愿意亲手杀死昔日同族，只为实现自己对“纯粹”历史的愿景。"

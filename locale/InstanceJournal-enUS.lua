@@ -615,6 +615,16 @@ IJ_DB_DUNGEON_BM_BOSS_65116_ABILITY_EFFECT_20545 = "Surrounds the caster with 20
 IJ_DB_DUNGEON_BM_BOSS_NAME_65124 = "Mossheart"
 IJ_DB_DUNGEON_BM_BOSS_STORY_65124 =
     "The ancient bog beasts of the Black Morass have long been sensitive to the energies of the land. Mossheart, once a peaceful protector of the mire, has been driven to a state of primal fury by the temporal radiation leaking from the Dark Portal. It now lashes out at anything-bronze or infinite-that disturbs the murky depths of its home."
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20664 = "Rejuvenation"
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20664 = "Heals Mossheart every 3 seconds for 12 seconds.\n\nDispel this magic effect immediately."
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6866 = "Moss Covered Hands"
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6866 = "Makes the affected target liable to drop their weapon for 180 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6870 = "Moss Covered Feet"
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6870 = "Makes the affected target liable to be knocked down when hit for 180 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20699 = "Entangling Roots"
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20699 = "Immobilizes enemies within 25 yards and deals Nature damage every 3 seconds for up to 15 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_14535 = "Dredge Sickness"
+IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_14535 = "Reduces all attributes of enemies within 30 yards by 25% for 5 minutes.\n\nRemove this disease promptly."
 IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
 IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
     "Formerly a sister-in-arms to the bronze dragon Keridormi, Antnormi's betrayal is perhaps the most personal of all. Convinced that the arrival of the orcs is a tragedy that must be erased, she has embraced the Infinite path. She stands as the final obstacle in the southern timeway, willing to kill her former kin to see her vision of a 'pure' history realized."

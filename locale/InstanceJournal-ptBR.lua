@@ -536,6 +536,16 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BM_BOSS_NAME_65124 = "Coração de musgo"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65124 =
         "As antigas feras do pântano do Pântano Negro há muito são sensíveis às energias da terra. Mossheart, que já foi um protetor pacífico da lama, foi levado a um estado de fúria primordial pela radiação temporal que vaza do Portal Negro. Agora ele ataca qualquer coisa – bronze ou infinito – que perturbe as profundezas obscuras de seu lar."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20664 = "Rejuvenescer"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20664 = "Cura Mossheart a cada 3 segundos por 12 segundos.\n\nDissipe este efeito mágico imediatamente."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6866 = "Mãos Cobertas de Musgo"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6866 = "Torna o alvo afetado suscetível a deixar sua arma cair por 180 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_6870 = "Pés Cobertos de Musgo"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_6870 = "Torna o alvo afetado suscetível a ser derrubado ao receber um golpe por 180 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_20699 = "Raízes Entrelaçantes"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_20699 = "Imobiliza os inimigos em até 25 metros e causa dano de Natureza a cada 3 segundos por até 15 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_NAME_14535 = "Doença do Brejo"
+    IJ_DB_DUNGEON_BM_BOSS_65124_ABILITY_EFFECT_14535 = "Reduz todos os atributos dos inimigos em até 30 metros em 25% por 5 minutos.\n\nRemova esta doença prontamente."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65125 = "Antnormi"
     IJ_DB_DUNGEON_BM_BOSS_STORY_65125 =
         "Anteriormente irmã de armas do dragão de bronze Keridormi, a traição de Antnormi é talvez a mais pessoal de todas. Convencida de que a chegada dos orcs é uma tragédia que deve ser apagada, ela abraçou o caminho do Infinito. Ela permanece como o obstáculo final no caminho do tempo do sul, disposta a matar seus antigos parentes para ver sua visão de uma história “pura” realizada."
