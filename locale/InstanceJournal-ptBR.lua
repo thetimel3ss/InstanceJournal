@@ -1512,6 +1512,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "Espinha de Pedra"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "Uma gárgula indescritível, raramente vista entre a população em geral de Stratholme. Diz-se que possui muitos itens cobiçados que muitos gostariam de poder colocar as mãos, se ao menos pudessem encontrá-los em primeiro lugar..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_NAME_14331 = "Dilacerar Cruel"
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_EFFECT_14331 =
+        "Faz um alvo sangrar, causando dano Físico a cada 3 segundos por 15 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nerub'enkan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "Nerub'enkan foi um guerreiro temível durante a Guerra da Aranha. No final das contas, ela sucumbiu aos ferimentos e foi elevada à condição de morta-viva como uma serva obediente do Flagelo. Agora a nerubiana guarda um zigurate em Stratholme com a mesma ferocidade com que defendeu sua casa em vida."

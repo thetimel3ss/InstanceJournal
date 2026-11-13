@@ -2690,6 +2690,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "石脊"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "一种难以捉摸的石像鬼，在斯坦索姆的普通居民中很少见到。据说它拥有许多令人垂涎的物品，很多人都希望能亲手得到它们，如果他们能一开始就遇到它就好了……"
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_NAME_14331 = "恶毒撕裂"
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_EFFECT_14331 =
+        "使一个目标流血，每3秒造成物理伤害，持续15秒。"
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "奈鲁布恩坎"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "尼鲁布坎 (奈鲁布恩坎) 是蜘蛛之战期间一位可怕的战士。最终，她因伤势过重而死亡，并作为天灾军团的顺从仆从复活为亡灵。现在，这位尼鲁布人像她生前保卫家园一样，守护着斯坦索姆的金字形神塔。"

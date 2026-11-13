@@ -506,7 +506,7 @@ STRAT.Bosses = {
             [9] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [11] = { -- NOTE: Missing abilities
+    [11] = {
         Id = "10809",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "stonespine" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "stonespine" .. IMPF,
@@ -515,6 +515,14 @@ STRAT.Bosses = {
         MapCoordinateX = 83.5,
         MapCoordinateY = 43.0,
         IsRare = true,
+        Abilities = {
+            [1] = {
+                Id = "14331",
+                Icon = "Ability_Gouge",
+                Name = IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_NAME_14331,
+                Effect = IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_EFFECT_14331
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13397], DropChance = 33}, 
             [2] = {IJDB.I[13399], DropChance = 33}, 

@@ -2560,6 +2560,9 @@ IJ_DB_DUNGEON_STRAT_BOSS_10435_ABILITY_EFFECT_16791 =
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "Stonespine"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
     "An elusive gargoyle, rarely seen among the general population of Stratholme. It is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter it in the first place..."
+IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_NAME_14331 = "Vicious Rend"
+IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_EFFECT_14331 =
+    "Causes a target to bleed, dealing Physical damage every 3 seconds for 15 seconds."
 IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nerub'enkan"
 IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
     "Nerub'enkan was a fearsome warrior during the War of the Spider. Ultimately, she succumbed to her wounds and was raised into undeath as an obedient minion of the Scourge. Now the nerubian guards a ziggurat in Stratholme as fiercely as she defended her home in life."

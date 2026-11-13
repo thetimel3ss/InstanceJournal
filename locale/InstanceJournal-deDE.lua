@@ -1517,6 +1517,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "Stonespine"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "Ein schwer fassbarer Wasserspeier, der in der Bevölkerung von Stratholme selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihnen nur überhaupt begegnen könnten ..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_NAME_14331 = "Heimtückisches Verwunden"
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_EFFECT_14331 =
+        "Lässt ein Ziel bluten und verursacht 15 Sekunden lang alle 3 Sekunden körperlichen Schaden."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nerub'enkan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "Nerub'enkan war ein furchterregender Krieger während des Spinnenkrieges. Letztendlich erlag sie ihren Wunden und wurde als gehorsame Dienerin der Geißel in den Untod erzogen. Jetzt bewacht die Nerubierin eine Zikkurat in Stratholme so erbittert, wie sie zu Lebzeiten ihr Zuhause verteidigte."

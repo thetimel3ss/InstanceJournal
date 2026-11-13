@@ -1516,6 +1516,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "espina de piedra"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "Una gárgola esquiva, rara vez vista entre la población general de Stratholme. Se dice que posee muchos artículos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlos en primer lugar..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_NAME_14331 = "Desgarro sañoso"
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_EFFECT_14331 =
+        "Hace sangrar a un objetivo, infligiendo daño físico cada 3 segundos durante 15 segundos."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nerub'enkan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "Nerub'enkan fue un temible guerrero durante la Guerra de la Araña. Al final, sucumbió a sus heridas y fue resucitada como un siervo obediente de la Plaga. Ahora la nerubiana protege un zigurat en Stratholme con tanta fiereza como defendió su hogar en vida."

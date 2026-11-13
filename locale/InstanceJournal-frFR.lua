@@ -1516,6 +1516,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10809 = "Colonne vertébrale"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10809 =
         "Une gargouille insaisissable, rarement vue parmi la population générale de Stratholme. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient les trouver en premier lieu..."
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_NAME_14331 = "Pourfendre vicieux"
+    IJ_DB_DUNGEON_STRAT_BOSS_10809_ABILITY_EFFECT_14331 =
+        "Fait saigner une cible et lui inflige des dégâts physiques toutes les 3 secondes pendant 15 secondes."
     IJ_DB_DUNGEON_STRAT_BOSS_NAME_10437 = "Nérub'enkan"
     IJ_DB_DUNGEON_STRAT_BOSS_STORY_10437 =
         "Nerub'enkan était un redoutable guerrier pendant la Guerre de l'Araignée. Finalement, elle succomba à ses blessures et fut ressuscitée comme une servante obéissante du Fléau. Aujourd'hui, la nérubienne garde une ziggourat à Stratholme avec autant de férocité qu'elle a défendu sa maison de son vivant."
