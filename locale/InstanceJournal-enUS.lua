@@ -2377,6 +2377,18 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17820 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502 = "Lady Illucia Barov"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502 =
     "As the wife of Lord Alexei Barov, Illucia shared in the family's dark pact with Kel'Thuzad, trading the ancestral lands of Caer Darrow for the hollow promise of eternal life. Now a spectral shadow of her former noble self, she haunts the academy's study halls. Illucia retains the aristocratic arrogance she held in life, using her mastery of mind control and psychic agony to break the wills of those who dare trespass in her family's desecrated home."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_20603 = "Shadow Shock"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_20603 =
+    "Deals Shadow damage to enemies within 20 yards."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_18671 = "Curse of Agony"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_18671 =
+    "Deals Shadow damage every 3 seconds for 30 seconds.\n\nRemove this curse."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_15487 = "Silence"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_15487 =
+    "Silences a target for 5 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_6215 = "Fear"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_6215 =
+    "Causes a target to flee in fear for up to 20 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Darkmaster Gandling"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "Darkmaster Gandling is the headmaster of the School of Necromancy at Caer Darrow, appointed personally by Kel'Thuzad."
 

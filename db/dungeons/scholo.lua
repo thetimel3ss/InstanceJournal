@@ -699,12 +699,41 @@ SCHOLO.Bosses = {
             [30] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [14] = { -- NOTE: Missing abilities
+    [14] = {
         Id = "10502",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "illucia" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "illucia" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502,
+        Abilities = {
+            [1] = {
+                Id = "20603",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_20603,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_20603
+            },
+            [2] = {
+                Id = "18671",
+                Icon = "Spell_Shadow_CurseOfSargeras",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_18671,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_18671,
+                Flags = {IMAF.Curse}
+            },
+            [3] = {
+                Id = "15487",
+                Icon = "Spell_Shadow_ImpPhaseShift",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_15487,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_15487,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "6215",
+                Icon = "Spell_Shadow_Possession",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_6215,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_6215,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[12753], DropChance = 19},
             [2] = {IJDB.I[51217], DropChance = 5},

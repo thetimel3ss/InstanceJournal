@@ -1466,6 +1466,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502 = "Lady Illucia Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502 =
         "Como esposa do Lorde Alexei Barov, Illucia compartilhou o pacto sombrio da família com Kel'Thuzad, trocando as terras ancestrais de Caer Darrow pela promessa vazia de vida eterna. Agora uma sombra espectral de sua antiga personalidade nobre, ela assombra as salas de estudo da academia. Illucia mantém a arrogância aristocrática que manteve em vida, usando seu domínio do controle da mente e da agonia psíquica para quebrar a vontade daqueles que ousam invadir a casa profanada de sua família."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_20603 = "Choque Sombrio"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_20603 =
+        "Causa dano de Sombra aos inimigos em até 20 metros."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_18671 = "Maldição da Agonia"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_18671 =
+        "Causa dano de Sombra a cada 3 segundos por 30 segundos.\n\nRemova esta maldição."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_15487 = "Silêncio"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_15487 =
+        "Silencia um alvo por 5 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_6215 = "Medo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_6215 =
+        "Faz um alvo fugir de medo por até 20 segundos.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Mestre das Trevas Gandling"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "Darkmaster Gandling é o diretor da Escola de Necromancia de Caer Darrow, nomeado pessoalmente por Kel'Thuzad."
 

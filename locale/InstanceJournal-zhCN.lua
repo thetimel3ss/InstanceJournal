@@ -2470,6 +2470,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502 = "伊露希亚·巴罗夫女士"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502 =
         "作为阿列克谢·巴罗夫勋爵的妻子，伊露西亚与克尔苏加德分享了家族的黑暗契约，用凯尔达隆祖传的土地换取了永恒生命的空洞承诺。现在，她成了她以前高贵的自我的幽灵般的影子，经常出没于学院的自习室。伊露西亚保留了她生前所拥有的贵族傲慢，利用她对精神控制和精神痛苦的掌握来打破那些胆敢闯入她家族被亵渎的家的人的意志。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_20603 = "暗影震击"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_20603 =
+        "对20码内的敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_18671 = "痛苦诅咒"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_18671 =
+        "每3秒造成暗影伤害，持续30秒。\n\n移除此诅咒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_15487 = "沉默"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_15487 =
+        "使一个目标沉默5秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_6215 = "恐惧术"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_6215 =
+        "使一个目标因恐惧而逃跑，最多持续20秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "通灵院长·加丁"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "黑暗大师甘德林是凯尔达隆死灵魔法学院的校长，由克尔苏加德亲自任命。"
     IJ_LOOT_NAME_13920 = "健康的龙鳞"

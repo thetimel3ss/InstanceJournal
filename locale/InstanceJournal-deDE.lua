@@ -1470,6 +1470,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502 = "Lady Illucia Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502 =
         "Als Ehefrau von Lord Alexei Barov beteiligte sich Illucia am dunklen Pakt der Familie mit Kel'Thuzad und tauschte das angestammte Land von Caer Darrow gegen das leere Versprechen des ewigen Lebens ein. Jetzt ist sie ein geisterhafter Schatten ihres früheren edlen Selbst und spukt durch die Studiensäle der Akademie. Illucia behält die aristokratische Arroganz ihres Lebens bei und nutzt ihre Beherrschung der Gedankenkontrolle und psychischen Qualen, um den Willen derjenigen zu brechen, die es wagen, in das entweihte Haus ihrer Familie einzudringen."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_20603 = "Schattenschock"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_20603 =
+        "Fügt Gegnern im Umkreis von 20 Metern Schattenschaden zu."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_18671 = "Fluch der Pein"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_18671 =
+        "Verursacht 30 Sekunden lang alle 3 Sekunden Schattenschaden.\n\nEntfernt diesen Fluch."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_15487 = "Stille"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_15487 =
+        "Bringt ein Ziel 5 Sekunden lang zum Schweigen.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_NAME_6215 = "Furcht"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_6215 =
+        "Lässt ein Ziel bis zu 20 Sekunden lang vor Furcht fliehen.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Dunkelmeister Gandling"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "Dunkelmeister Gandling ist der Schulleiter der Schule der Nekromantie in Caer Darrow und wird von Kel'Thuzad persönlich ernannt."
 
