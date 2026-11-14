@@ -369,12 +369,47 @@ SCHOLO.Bosses = {
             [5] = {IJDB.I[22333], DropChance = 20}
         }
     },
-    [9] = { -- NOTE: Missing abilities
+    [9] = {
         Id = "10505",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "malicia" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "malicia" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505,
+        Abilities = {
+            [1] = {
+                Id = "11672",
+                Icon = "Spell_Shadow_AbominationExplosion",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_11672,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_11672,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "17831",
+                Icon = "Spell_Shadow_ChillTouch",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_17831,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_17831,
+                Flags = {IMAF.Curse}
+            },
+            [3] = {
+                Id = "9889",
+                Icon = "Spell_Nature_HealingTouch",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_9889,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_9889
+            },
+            [4] = {
+                Id = "10917",
+                Icon = "Spell_Holy_FlashHeal",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10917,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10917
+            },
+            [5] = {
+                Id = "10929",
+                Icon = "Spell_Holy_Renew",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10929,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10929,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[12753], DropChance = 17},
             [2] = {IJDB.I[51217], DropChance = 5},

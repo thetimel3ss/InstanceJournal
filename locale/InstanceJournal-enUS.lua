@@ -2309,6 +2309,21 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_17228 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Instructor Malicia"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
     "A former high elf of Quel'Thalas, Malicia was one of the few of her kind to willingly join the Cult of the Damned before the fall of Silvermoon. Now an unliving tutor of the dark arts, she oversees the physical and tactical training of the school's acolytes. Malicia is notorious for her cruelty, often using her students as living targets for her devastating shadow magic to ensure that only the most ruthless and resilient survive to serve the Lich King."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_11672 = "Corruption"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_11672 =
+    "Deals Shadow damage every 3 seconds for 18 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_17831 = "Call of the Grave"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_17831 =
+    "Curses nearby enemies, dealing Shadow damage after 60 seconds.\n\nRemove this curse."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_9889 = "Healing Touch"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_9889 =
+    "Heals the caster or an ally."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10917 = "Flash Heal"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10917 =
+    "Heals the caster or an ally."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10929 = "Renew"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10929 =
+    "Restores health every 3 seconds for 15 seconds."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Doctor Theolen Krastinov"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
     "Known as \"The Butcher\", Krastinov is the servant of Kirtonos the Herald and the main torturer and provider of bodies and bodily parts for the Scholomance's necromancy experiments. His first victims were recruited from among the household of Caer Darrow. Among them were servants of the Barov family, Eva and Lucien Sarkhoff. Trapped, tortured and maimed for months, they vowed vengeance on Krastinov even beyond the grave."

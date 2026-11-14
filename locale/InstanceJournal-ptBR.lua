@@ -1398,6 +1398,21 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Instrutora Malícia"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "Ex-alta elfa de Quel'Thalas, Malicia foi uma das poucas de sua espécie a se juntar voluntariamente ao Culto dos Amaldiçoados antes da queda de Lua Prateada. Agora uma tutora não viva das artes das trevas, ela supervisiona o treinamento físico e tático dos acólitos da escola. Malicia é conhecida por sua crueldade, muitas vezes usando seus alunos como alvos vivos de sua devastadora magia sombria para garantir que apenas os mais cruéis e resilientes sobrevivam para servir o Lich King."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_11672 = "Corrupção"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_11672 =
+        "Causa dano de Sombra a cada 3 segundos por 18 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_17831 = "Chamado do Túmulo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_17831 =
+        "Amaldiçoa os inimigos próximos, causando dano de Sombra após 60 segundos.\n\nRemova esta maldição."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_9889 = "Toque de Cura"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_9889 =
+        "Cura o lançador ou um aliado."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10917 = "Cura Célere"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10917 =
+        "Cura o lançador ou um aliado."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10929 = "Renovar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10929 =
+        "Restaura vida a cada 3 segundos por 15 segundos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Doutor Theolen Krastinov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "Conhecido como “O Açougueiro”, Krastinov é o servo de Kirtonos, o Arauto, e o principal torturador e fornecedor de corpos e partes corporais para os experimentos de necromancia de Scholomance. Suas primeiras vítimas foram recrutadas na família de Caer Darrow. Entre eles estavam os servos da família Barov, Eva e Lucien Sarkhoff. Presos, torturados e mutilados durante meses, eles juraram vingança contra Krastinov mesmo além do túmulo."

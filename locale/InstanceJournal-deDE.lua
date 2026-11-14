@@ -1402,6 +1402,21 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Ausbilderin Malicia"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "Malicia, eine ehemalige Hochelf von Quel'Thalas, war eine der wenigen ihrer Art, die sich vor dem Fall von Silbermond bereitwillig dem Kult der Verdammten anschloss. Jetzt ist sie eine leblose Lehrerin der dunklen Künste und überwacht die körperliche und taktische Ausbildung der Akolythen der Schule. Malicia ist für ihre Grausamkeit berüchtigt und nutzt ihre Schüler oft als lebende Ziele für ihre verheerende Schattenmagie, um sicherzustellen, dass nur die Skrupellosesten und Widerstandsfähigsten überleben, um dem Lichkönig zu dienen."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_11672 = "Verderbnis"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_11672 =
+        "Verursacht 18 Sekunden lang alle 3 Sekunden Schattenschaden.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_17831 = "Ruf des Grabes"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_17831 =
+        "Verflucht nahe Gegner und verursacht nach 60 Sekunden Schattenschaden.\n\nEntfernt diesen Fluch."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_9889 = "Heilende Berührung"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_9889 =
+        "Heilt den Zaubernden oder einen Verbündeten."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10917 = "Blitzheilung"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10917 =
+        "Heilt den Zaubernden oder einen Verbündeten."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10929 = "Erneuerung"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10929 =
+        "Stellt 15 Sekunden lang alle 3 Sekunden Gesundheit wieder her."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Doktor Theolen Krastinov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "Krastinov, bekannt als „Der Schlächter“, ist der Diener von Kirtonos dem Herold und der Hauptfolterer und Lieferant von Körpern und Körperteilen für die Nekromantie-Experimente der Scholomance. Seine ersten Opfer rekrutierten sich aus dem Haushalt von Caer Darrow. Unter ihnen waren die Bediensteten der Familie Barov, Eva und Lucien Sarkhoff. Monatelang gefangen, gefoltert und verstümmelt, schworen sie Krastinov bis über das Grab hinaus Rache."

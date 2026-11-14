@@ -2402,6 +2402,21 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "讲师玛丽希亚"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "马利西亚是奎尔萨拉斯的前高等精灵，她是银月城陷落之前少数愿意加入诅咒教派的同类之一。现在，她是一名死去的黑魔法导师，负责监督学校追随者的体能和战术训练。马利西亚因其残忍而臭名昭著，经常利用她的学生作为她毁灭性的暗影魔法的活目标，以确保只有最残酷和最坚韧的人才能生存下来为巫妖王服务。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_11672 = "腐蚀术"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_11672 =
+        "每3秒造成暗影伤害，持续18秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_17831 = "坟墓的召唤"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_17831 =
+        "诅咒附近敌人，在60秒后造成暗影伤害。\n\n移除此诅咒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_9889 = "治疗之触"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_9889 =
+        "治疗施法者或一名盟友。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10917 = "快速治疗"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10917 =
+        "治疗施法者或一名盟友。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10929 = "恢复"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10929 =
+        "每3秒恢复生命值，持续15秒。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "瑟尔林·卡斯迪诺夫教授"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "克拉斯蒂诺夫被称为“屠夫”，是先驱基尔托诺斯的仆人，也是通灵学院死灵术实验的主要酷刑者和尸体及身体部位的提供者。他的第一批受害者是从凯尔达隆家族中招募的。其中有巴罗夫家族的仆人伊娃·萨克霍夫和卢西恩·萨克霍夫。几个月来，他们被困、折磨和残害，发誓要在坟墓之外向克拉斯蒂诺夫报仇。"

@@ -1401,6 +1401,21 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Instructeur Malicia"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "Ancienne haute elfe de Quel'Thalas, Malicia était l'une des rares de son espèce à rejoindre volontairement le Culte des Damnés avant la chute de Lune-d'Argent. Aujourd'hui tutrice non vivante des arts sombres, elle supervise l'entraînement physique et tactique des acolytes de l'école. Malicia est connue pour sa cruauté, utilisant souvent ses élèves comme cibles vivantes pour sa magie de l'ombre dévastatrice afin de garantir que seuls les plus impitoyables et les plus résistants survivent pour servir le roi-liche."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_11672 = "Corruption"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_11672 =
+        "Inflige des dégâts d'Ombre toutes les 3 secondes pendant 18 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_17831 = "Appel de la tombe"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_17831 =
+        "Maudit les ennemis proches et leur inflige des dégâts d’Ombre après 60 secondes.\n\nDissipez cette malédiction."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_9889 = "Toucher guérisseur"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_9889 =
+        "Soigne le lanceur ou un allié."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10917 = "Soins rapides"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10917 =
+        "Soigne le lanceur ou un allié."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10929 = "Rénovation"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10929 =
+        "Rend des points de vie toutes les 3 secondes pendant 15 secondes."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Docteur Théolen Krastinov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "Connu sous le nom de « Le Boucher », Krastinov est le serviteur de Kirtonos le Héraut et le principal tortionnaire et fournisseur de corps et de parties corporelles pour les expériences de nécromancie de la Scholomance. Ses premières victimes furent recrutées parmi la maison de Caer Darrow. Parmi eux se trouvaient les serviteurs de la famille Barov, Eva et Lucien Sarkhoff. Piégés, torturés et mutilés pendant des mois, ils ont juré de se venger de Krastinov même au-delà de la tombe."

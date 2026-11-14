@@ -1401,6 +1401,21 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Instructora Malicia"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "Malicia, ex alta elfa de Quel'Thalas, fue una de las pocas de su especie que se unió voluntariamente al Culto de los Condenados antes de la caída de Lunargenta. Ahora, tutora no viva de las artes oscuras, supervisa el entrenamiento físico y táctico de los acólitos de la escuela. Malicia es conocida por su crueldad, y a menudo utiliza a sus alumnos como objetivos vivos de su devastadora magia de sombras para garantizar que solo los más despiadados y resistentes sobrevivan para servir al Rey Exánime."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_11672 = "Corrupción"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_11672 =
+        "Inflige daño de las Sombras cada 3 segundos durante 18 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_17831 = "Llamada de la tumba"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_17831 =
+        "Maldice a los enemigos cercanos e inflige daño de las Sombras tras 60 segundos.\n\nEliminad esta maldición."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_9889 = "Toque de sanación"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_9889 =
+        "Sana al taumaturgo o a un aliado."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10917 = "Sanación relámpago"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10917 =
+        "Sana al taumaturgo o a un aliado."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_NAME_10929 = "Renovar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10929 =
+        "Restaura salud cada 3 segundos durante 15 segundos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Doctor Theolen Krastinov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "Conocido como \"El Carnicero\", Krastinov es el sirviente de Kirtonos el Heraldo y el principal torturador y proveedor de cuerpos y partes corporales para los experimentos de nigromancia de Scholomance. Sus primeras víctimas fueron reclutadas entre la familia de Caer Darrow. Entre ellos se encontraban los sirvientes de la familia Barov, Eva y Lucien Sarkhoff. Atrapados, torturados y mutilados durante meses, juraron vengarse de Krastinov incluso más allá de la tumba."
