@@ -1419,6 +1419,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Docteur Théolen Krastinov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "Connu sous le nom de « Le Boucher », Krastinov est le serviteur de Kirtonos le Héraut et le principal tortionnaire et fournisseur de corps et de parties corporelles pour les expériences de nécromancie de la Scholomance. Ses premières victimes furent recrutées parmi la maison de Caer Darrow. Parmi eux se trouvaient les serviteurs de la famille Barov, Eva et Lucien Sarkhoff. Piégés, torturés et mutilés pendant des mois, ils ont juré de se venger de Krastinov même au-delà de la tombe."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_16509 = "Pourfendre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_16509 =
+        "Fait saigner une cible et lui inflige des dégâts physiques toutes les 3 secondes pendant 15 secondes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_18103 = "Revers"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_18103 =
+        "Étourdit une cible pendant 2 secondes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_8269 = "Enrager"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_8269 =
+        "Lorsque ses points de vie sont bas, augmente les dégâts physiques infligés de 50 et la vitesse d’attaque en mêlée de 60% pendant 120 secondes."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Gardien du savoir Polkelt"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "Le gardien du savoir Polkelt était autrefois le gardien du savoir, un savoir qui a malheureusement été perdu, car il est maintenant un monstre traînant et inintelligent."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "Le Ravenien"

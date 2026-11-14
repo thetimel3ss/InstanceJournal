@@ -1420,6 +1420,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Doktor Theolen Krastinov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "Krastinov, bekannt als „Der Schlächter“, ist der Diener von Kirtonos dem Herold und der Hauptfolterer und Lieferant von Körpern und Körperteilen für die Nekromantie-Experimente der Scholomance. Seine ersten Opfer rekrutierten sich aus dem Haushalt von Caer Darrow. Unter ihnen waren die Bediensteten der Familie Barov, Eva und Lucien Sarkhoff. Monatelang gefangen, gefoltert und verstümmelt, schworen sie Krastinov bis über das Grab hinaus Rache."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_16509 = "Verwunden"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_16509 =
+        "Lässt ein Ziel bluten und verursacht 15 Sekunden lang alle 3 Sekunden körperlichen Schaden."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_18103 = "Rückhand"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_18103 =
+        "Betäubt ein Ziel 2 Sekunden lang."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_8269 = "Wutanfall"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_8269 =
+        "Erhöht bei niedriger Gesundheit den verursachten körperlichen Schaden um 50 und das Nahkampfangriffstempo 120 Sekunden lang um 60%."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Wissenshüter Polkelt"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "Der Wissenshüter Polkelt war einst der Bewahrer des Wissens, das jedoch leider verloren gegangen ist, da er jetzt ein schlurfendes, unintelligentes Monster ist."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "Der Ravenianer"

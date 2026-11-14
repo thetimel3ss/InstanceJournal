@@ -1419,6 +1419,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Doctor Theolen Krastinov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "Conocido como \"El Carnicero\", Krastinov es el sirviente de Kirtonos el Heraldo y el principal torturador y proveedor de cuerpos y partes corporales para los experimentos de nigromancia de Scholomance. Sus primeras víctimas fueron reclutadas entre la familia de Caer Darrow. Entre ellos se encontraban los sirvientes de la familia Barov, Eva y Lucien Sarkhoff. Atrapados, torturados y mutilados durante meses, juraron vengarse de Krastinov incluso más allá de la tumba."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_16509 = "Desgarrar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_16509 =
+        "Hace sangrar a un objetivo, infligiendo daño físico cada 3 segundos durante 15 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_18103 = "Revés"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_18103 =
+        "Aturde a un objetivo durante 2 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_8269 =
+        "Con poca salud, aumenta el daño físico infligido en 50 y la velocidad de ataque cuerpo a cuerpo un 60% durante 120 segundos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Conservador de conocimientos Polkelt"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 =
         "El Lorekeeper Polkelt fue una vez el guardián del conocimiento, conocimiento que lamentablemente se ha perdido, sin embargo, ya que ahora es un monstruo poco inteligente y tambaleante."

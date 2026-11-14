@@ -2420,6 +2420,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "瑟尔林·卡斯迪诺夫教授"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "克拉斯蒂诺夫被称为“屠夫”，是先驱基尔托诺斯的仆人，也是通灵学院死灵术实验的主要酷刑者和尸体及身体部位的提供者。他的第一批受害者是从凯尔达隆家族中招募的。其中有巴罗夫家族的仆人伊娃·萨克霍夫和卢西恩·萨克霍夫。几个月来，他们被困、折磨和残害，发誓要在坟墓之外向克拉斯蒂诺夫报仇。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_16509 = "撕裂"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_16509 =
+        "使一个目标流血，每3秒造成物理伤害，持续15秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_18103 = "反手一击"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_18103 =
+        "使一个目标昏迷2秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_8269 = "激怒"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_8269 =
+        "生命值较低时，造成的物理伤害提高50点，近战攻击速度提高60%，持续120秒。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "博学者普克尔特"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "博学者波尔凯特曾经是知识的守护者，然而不幸的是，这些知识已经消失了，因为他现在是一个步履蹒跚、缺乏智慧的怪物。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "拉文尼亚"

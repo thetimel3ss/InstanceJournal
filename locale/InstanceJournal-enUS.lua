@@ -2327,6 +2327,15 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10505_ABILITY_EFFECT_10929 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Doctor Theolen Krastinov"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
     "Known as \"The Butcher\", Krastinov is the servant of Kirtonos the Herald and the main torturer and provider of bodies and bodily parts for the Scholomance's necromancy experiments. His first victims were recruited from among the household of Caer Darrow. Among them were servants of the Barov family, Eva and Lucien Sarkhoff. Trapped, tortured and maimed for months, they vowed vengeance on Krastinov even beyond the grave."
+IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_16509 = "Rend"
+IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_16509 =
+    "Causes a target to bleed, dealing Physical damage every 3 seconds for 15 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_18103 = "Backhand"
+IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_18103 =
+    "Stuns a target for 2 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_8269 = "Enrage"
+IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_8269 =
+    "At low health, increases Physical damage dealt by 50 and melee attack speed by 60% for 120 seconds."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Lorekeeper Polkelt"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "Lorekeeper Polkelt was once the keeper of knowledge, knowledge that has sadly been lost, however, as he is now a shambling, unintelligent monster."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "The Ravenian"

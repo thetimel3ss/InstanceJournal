@@ -1416,6 +1416,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11261 = "Doutor Theolen Krastinov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11261 =
         "Conhecido como “O Açougueiro”, Krastinov é o servo de Kirtonos, o Arauto, e o principal torturador e fornecedor de corpos e partes corporais para os experimentos de necromancia de Scholomance. Suas primeiras vítimas foram recrutadas na família de Caer Darrow. Entre eles estavam os servos da família Barov, Eva e Lucien Sarkhoff. Presos, torturados e mutilados durante meses, eles juraram vingança contra Krastinov mesmo além do túmulo."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_16509 = "Dilacerar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_16509 =
+        "Faz um alvo sangrar, causando dano Físico a cada 3 segundos por 15 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_18103 = "Revés"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_18103 =
+        "Atordoa um alvo por 2 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_8269 =
+        "Com pouca vida, aumenta o dano Físico causado em 50 e a velocidade de ataque corpo a corpo em 60% por 120 segundos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Guardião das Histórias Polkelt"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "O Lorekeeper Polkelt já foi o guardião do conhecimento, conhecimento que infelizmente foi perdido, pois agora ele é um monstro cambaleante e pouco inteligente."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "O Raveniano"
