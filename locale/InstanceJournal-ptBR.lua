@@ -1480,6 +1480,21 @@ if GetLocale() == "ptBR" then
         "Faz um alvo fugir de medo por até 20 segundos.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Mestre das Trevas Gandling"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "Darkmaster Gandling é o diretor da Escola de Necromancia de Caer Darrow, nomeado pessoalmente por Kel'Thuzad."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_18702 = "Maldição do Umbromestre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_18702 =
+        "Reduz a Força e o Vigor de um alvo em 50 por 60 segundos.\n\nRemova esta maldição."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_15790 = "Mísseis Arcanos"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_15790 =
+        "Canaliza Mísseis Arcanos em um alvo, causando dano Arcano a cada segundo por 5 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_22417 = "Escudo Sombrio"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_22417 =
+        "Absorve dano e causa dano de Sombra aos atacantes corpo a corpo por 30 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_17950 = "Portal Sombrio"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_17950 =
+        "Teleporta um jogador para uma das salas laterais."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_30002 = "Guardas Reanimados"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
+        "Três ou quatro Guardas Reanimados aguardam o jogador teleportado.\n\nDerrote os guardas e retorne ao grupo."
 
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Fortaleza Presa Negra"

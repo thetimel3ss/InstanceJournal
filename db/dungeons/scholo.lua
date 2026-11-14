@@ -767,12 +767,49 @@ SCHOLO.Bosses = {
             [30] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [15] = { -- NOTE: Missing abilities
+    [15] = {
         Id = "1853",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "gandling" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "gandling" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853,
+        Abilities = {
+            [1] = {
+                Id = "18702",
+                Icon = "Spell_Shadow_AntiShadow",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_18702,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_18702,
+                Flags = {IMAF.Curse}
+            },
+            [2] = {
+                Id = "15790",
+                Icon = "Spell_Nature_StarFall",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_15790,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_15790
+            },
+            [3] = {
+                Id = "22417",
+                Icon = "Spell_Shadow_AntiShadow",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_22417,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_22417,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "17950",
+                Icon = "Spell_Shadow_SealOfKings",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_17950,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_17950,
+                Flags = {IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "30002",
+                        Icon = "Spell_Shadow_RaiseDead",
+                        Name = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_30002,
+                        Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[56107], DropChance = 30},
             [2] = {IJDB.I[51217], DropChance = 100},

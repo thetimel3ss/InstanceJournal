@@ -1483,6 +1483,21 @@ if GetLocale() == "frFR" then
         "Fait fuir de peur une cible pendant un maximum de 20 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Maître Sombre Gandling"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "Le Maître Sombre Gandling est le directeur de l'École de Nécromancie de Caer Darrow, nommé personnellement par Kel'Thuzad."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_18702 = "Malédiction du Sombre Maître"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_18702 =
+        "Réduit la Force et l’Endurance d’une cible de 50 pendant 60 secondes.\n\nDissipez cette malédiction."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_15790 = "Projectiles des Arcanes"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_15790 =
+        "Canalise des Projectiles des Arcanes sur une cible et inflige des dégâts des Arcanes chaque seconde pendant 5 secondes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_22417 = "Bouclier de l’ombre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_22417 =
+        "Absorbe les dégâts et inflige des dégâts d’Ombre aux attaquants en mêlée pendant 30 secondes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_17950 = "Portail de l’ombre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_17950 =
+        "Téléporte un joueur dans l’une des salles latérales."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_30002 = "Gardes ressuscités"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
+        "Trois ou quatre Gardes ressuscités attendent le joueur téléporté.\n\nÉliminez les gardes et rejoignez le groupe."
 
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Donjon d'Ombrecroc"

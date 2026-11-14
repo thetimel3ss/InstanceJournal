@@ -1512,6 +1512,21 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Темный магистр Гандлинг"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 =
         "Темный магистр Гандлинг — директор Школы некромантии в Каэр Дарроу, назначенный лично Кел'Тузадом."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_18702 = "Проклятие темного магистра"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_18702 =
+        "Снижает силу и выносливость цели на 50 на 60 сек.\n\nСнимайте это проклятие."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_15790 = "Чародейские стрелы"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_15790 =
+        "Поддерживает Чародейские стрелы, наносящие цели урон от тайной магии каждую секунду в течение 5 сек."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_22417 = "Теневой щит"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_22417 =
+        "Поглощает урон и наносит урон от темной магии атакующим в ближнем бою в течение 30 сек."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_17950 = "Теневой портал"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_17950 =
+        "Телепортирует игрока в одну из боковых комнат."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_30002 = "Восставшие стражи"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
+        "Телепортированного игрока ожидают три или четыре Восставших стража.\n\nУбейте стражей и вернитесь к группе."
 
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Крепость Темного Клыка"

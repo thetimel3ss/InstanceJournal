@@ -2484,6 +2484,21 @@ if GetLocale() == "zhCN" then
         "使一个目标因恐惧而逃跑，最多持续20秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "通灵院长·加丁"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "黑暗大师甘德林是凯尔达隆死灵魔法学院的校长，由克尔苏加德亲自任命。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_18702 = "黑暗院长之诅咒"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_18702 =
+        "使一个目标的力量和耐力降低50点，持续60秒。\n\n移除此诅咒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_15790 = "奥术飞弹"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_15790 =
+        "向一个目标引导奥术飞弹，每秒造成奥术伤害，持续5秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_22417 = "暗影护盾"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_22417 =
+        "吸收伤害，并对近战攻击者造成暗影伤害，持续30秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_17950 = "暗影传送门"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_17950 =
+        "将一名玩家传送到其中一间侧室。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_30002 = "复活的卫兵"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
+        "三到四名复活的卫兵等待着被传送的玩家。\n\n击败卫兵后返回队伍。"
     IJ_LOOT_NAME_13920 = "健康的龙鳞"
 
     -- SCHOLO Loot

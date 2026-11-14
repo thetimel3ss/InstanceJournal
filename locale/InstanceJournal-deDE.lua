@@ -1484,6 +1484,21 @@ if GetLocale() == "deDE" then
         "Lässt ein Ziel bis zu 20 Sekunden lang vor Furcht fliehen.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Dunkelmeister Gandling"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "Dunkelmeister Gandling ist der Schulleiter der Schule der Nekromantie in Caer Darrow und wird von Kel'Thuzad persönlich ernannt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_18702 = "Fluch des Dunkelmeisters"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_18702 =
+        "Verringert die Stärke und Ausdauer eines Ziels 60 Sekunden lang um 50.\n\nEntfernt diesen Fluch."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_15790 = "Arkane Geschosse"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_15790 =
+        "Kanalisiert Arkane Geschosse auf ein Ziel und verursacht 5 Sekunden lang jede Sekunde Arkanschaden."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_22417 = "Schattenschild"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_22417 =
+        "Absorbiert Schaden und verursacht 30 Sekunden lang Schattenschaden bei Nahkampfangreifern."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_17950 = "Schattenportal"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_17950 =
+        "Teleportiert einen Spieler in einen der Seitenräume."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_30002 = "Auferstandene Wachen"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
+        "Drei oder vier Auferstandene Wachen erwarten den teleportierten Spieler.\n\nBesiegt die Wachen und kehrt zur Gruppe zurück."
 
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Burg Schattenfang"

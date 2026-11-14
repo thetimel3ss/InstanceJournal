@@ -2391,6 +2391,21 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10502_ABILITY_EFFECT_6215 =
     "Causes a target to flee in fear for up to 20 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Darkmaster Gandling"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "Darkmaster Gandling is the headmaster of the School of Necromancy at Caer Darrow, appointed personally by Kel'Thuzad."
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_18702 = "Curse of the Darkmaster"
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_18702 =
+    "Reduces a target’s Strength and Stamina by 50 for 60 seconds.\n\nRemove this curse."
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_15790 = "Arcane Missiles"
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_15790 =
+    "Channels Arcane Missiles at a target, dealing Arcane damage every second for 5 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_22417 = "Shadow Shield"
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_22417 =
+    "Absorbs damage and deals Shadow damage to melee attackers for 30 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_17950 = "Shadow Portal"
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_17950 =
+    "Teleports a player into one of the side rooms."
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_30002 = "Risen Guards"
+IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
+    "Three or four Risen Guards await the teleported player.\n\nDefeat the guards and return to the group."
 
 -- SCHOLO Loot
 IJ_LOOT_NAME_13920 = "Healthy Dragon Scale"

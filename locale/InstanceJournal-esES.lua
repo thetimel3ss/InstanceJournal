@@ -1484,6 +1484,21 @@ if GetLocale() == "esES" then
         "Hace huir de miedo a un objetivo durante un máximo de 20 segundos.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_1853 = "Maestro oscuro Gandling"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_1853 = "Darkmaster Gandling es el director de la Escuela de Nigromancia en Caer Darrow, designado personalmente por Kel'Thuzad."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_18702 = "Maldición del Maestro Oscuro"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_18702 =
+        "Reduce la fuerza y el aguante de un objetivo en 50 durante 60 segundos.\n\nEliminad esta maldición."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_15790 = "Misiles Arcanos"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_15790 =
+        "Canaliza Misiles Arcanos contra un objetivo e inflige daño Arcano cada segundo durante 5 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_22417 = "Escudo de las Sombras"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_22417 =
+        "Absorbe daño e inflige daño de las Sombras a los atacantes cuerpo a cuerpo durante 30 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_17950 = "Portal de las Sombras"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_17950 =
+        "Teletransporta a un jugador a una de las salas laterales."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_NAME_30002 = "Guardias resucitados"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
+        "Tres o cuatro Guardias resucitados esperan al jugador teletransportado.\n\nDerrotad a los guardias y volved con el grupo."
 
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Fortaleza de Colmillo Oscuro"
