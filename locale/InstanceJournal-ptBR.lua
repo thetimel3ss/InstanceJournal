@@ -1291,6 +1291,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10506 = "Kirtonos, o Arauto"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10506 =
         "Há muito tempo, ele se tornou o mestre do Doutor Theolen Krastinov de Scholomance. Responsável por muitas das atrocidades durante o governo de Krastinov sobre Scholomance, Kirtonos se alimentou do sangue de suas vítimas inocentes. Para apaziguar seu mestre, o Doutor Krastinov teve que fornecer à gárgula cada vez mais sangue."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_18144 = "Rasante"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_18144 =
+        "Causa dano Físico aos inimigos próximos e os atordoa por 2 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_12882 = "Bater de Asas"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_12882 =
+        "Repele os inimigos em um raio de 10 metros.\n\nOs tanks devem manter as costas voltadas para uma parede."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_6016 = "Perfurar Armadura"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_6016 =
+        "Reduz a armadura de um alvo em 50% por 20 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_8379 = "Desarmar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_8379 =
+        "Desarma um alvo por 10 segundos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "Jandice Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
         "Jandice Barov já foi arquimaga de Dalaran e uma poderosa ilusionista. Em vida, ela desenvolveu um feitiço que \"exibia várias imagens de seu corpo que eram quase indistinguíveis de sua forma real. Essas imagens duplicavam suas ações em diferentes locais, tornando quase impossível para seus inimigos encontrá-la. Era quase infalível.\""

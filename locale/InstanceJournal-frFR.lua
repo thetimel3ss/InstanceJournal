@@ -1294,6 +1294,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10506 = "Kirtonos le héraut"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10506 =
         "Il est devenu il y a bien longtemps le maître du docteur Théolen Krastinov de la Scholomance. Responsable de nombreuses atrocités commises pendant le règne de Krastinov sur Scholomance, Kirtonos se nourrissait du sang de ses victimes innocentes. Pour apaiser son maître, le docteur Krastinov dut fournir de plus en plus de sang à la gargouille."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_18144 = "Rapace"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_18144 =
+        "Inflige des dégâts physiques aux ennemis proches et les étourdit pendant 2 secondes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_12882 = "Battement d’ailes"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_12882 =
+        "Repousse les ennemis à moins de 10 mètres.\n\nLes tanks doivent garder le dos contre un mur."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_6016 = "Perce-armure"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_6016 =
+        "Réduit l'armure d'une cible de 50% pendant 20 secondes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_8379 = "Désarmement"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_8379 =
+        "Désarme une cible pendant 10 secondes."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "Jandice Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
         "Jandice Barov était autrefois une archimage de Dalaran et une puissante illusionniste. Dans sa vie, elle a développé un sort qui « affichait plusieurs images de son corps qui étaient presque impossibles à distinguer de sa forme réelle. Ces images dupliquaient ses actions à différents endroits, rendant presque impossible pour ses ennemis de la trouver. C'était presque infaillible. » Après que la maison Barov ait prêté allégeance au Culte des Damnés, Jandice a été transformée en un fantôme mort-vivant au sein de Scholomance."

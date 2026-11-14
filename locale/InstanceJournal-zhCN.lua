@@ -2296,6 +2296,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10506 = "传令官基尔图诺斯"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10506 =
         "很久以前，基尔托诺斯便成为了通灵学院的瑟尔林·卡斯迪诺夫教授的仆从。它以无辜受害者的鲜血为食，对卡斯迪诺夫统治通灵学院期间的许多暴行都负有责任。为了安抚自己的主人，卡斯迪诺夫博士不得不为这只石像鬼提供越来越多的鲜血。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_18144 = "俯冲"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_18144 =
+        "对附近敌人造成物理伤害，并使其昏迷2秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_12882 = "拍翼"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_12882 =
+        "击退10码内的敌人。\n\n坦克应背靠墙壁。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_6016 = "刺穿护甲"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_6016 =
+        "使一个目标的护甲值降低50%，持续20秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_8379 = "缴械"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_8379 =
+        "使一个目标缴械10秒。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "詹迪斯·巴罗夫"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
         "詹迪丝·巴罗夫曾经是达拉然的大法师和强大的幻术师。在生前，她发明了一种咒语，“显示出她身体的几个图像，这些图像与她的真实形态几乎无法区分。这些图像从不同的位置复制了她的行为，使她的敌人几乎不可能找到她。这几乎是绝对正确的。”在巴罗夫家族宣誓效忠诅咒教派后，詹迪丝被变成了通灵学院中的不死鬼魂。"

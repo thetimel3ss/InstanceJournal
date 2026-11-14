@@ -1295,6 +1295,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10506 = "Kirtonos der Herold"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10506 =
         "Vor langer Zeit wurde er der Meister von Scholomances Doktor Theolen Krastinov. Kirtonos war für viele der Gräueltaten während Krastinovs Herrschaft über Scholomance verantwortlich und ernährte sich vom Blut seiner unschuldigen Opfer. Um seinen Meister zu besänftigen, musste Doktor Krastinov den Wasserspeier mit immer mehr Blut versorgen."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_18144 = "Sturzflug"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_18144 =
+        "Verursacht körperlichen Schaden bei nahen Gegnern und betäubt sie 2 Sekunden lang."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_12882 = "Flügelschlag"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_12882 =
+        "Stößt Gegner innerhalb von 10 Metern zurück.\n\nTanks sollten mit dem Rücken an einer Wand stehen."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_6016 = "Rüstung durchstechen"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_6016 =
+        "Verringert die Rüstung eines Ziels 20 Sekunden lang um 50%."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_8379 = "Entwaffnen"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_8379 =
+        "Entwaffnet ein Ziel 10 Sekunden lang."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "Jandice Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
         "Jandice Barov war einst eine Erzmagierin von Dalaran und eine mächtige Illusionistin. Im Laufe ihres Lebens entwickelte sie einen Zauberspruch, der „mehrere Bilder ihres Körpers zeigte, die von ihrer wahren Gestalt kaum zu unterscheiden waren. Diese Bilder duplizierten ihre Handlungen an verschiedenen Orten und machten es für ihre Feinde nahezu unmöglich, sie zu finden. Er war nahezu unfehlbar.“ Nachdem das Haus Barov dem Kult der Verdammten die Treue geschworen hatte, wurde Jandice in Scholomance in einen untoten Geist verwandelt."

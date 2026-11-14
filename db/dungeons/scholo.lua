@@ -30,12 +30,41 @@ SCHOLO.Entrances = {
     }
 }
 SCHOLO.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "10506",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "kirtonos" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "kirtonos" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10506,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10506,
+        Abilities = {
+            [1] = {
+                Id = "18144",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_18144,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_18144
+            },
+            [2] = {
+                Id = "12882",
+                Icon = "Spell_Nature_EarthBind",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_12882,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_12882,
+                Flags = {IMAF.Tank}
+            },
+            [3] = {
+                Id = "6016",
+                Icon = "Spell_Shadow_VampiricAura",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_6016,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_6016,
+                Flags = {IMAF.Tank, IMAF.Heal}
+            },
+            [4] = {
+                Id = "8379",
+                Icon = "Ability_Warrior_Disarm",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_8379,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_8379,
+                Flags = {IMAF.Tank}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13955], DropChance = 11},
             [2] = {IJDB.I[13956], DropChance = 11},

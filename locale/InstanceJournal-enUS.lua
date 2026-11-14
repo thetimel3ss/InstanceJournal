@@ -2203,6 +2203,18 @@ IJ_DB_DUNGEON_SCHOLO_STORY =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10506 = "Kirtonos the Herald"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10506 =
     "Long ago, he became the master of Scholomance's Doctor Theolen Krastinov. Responsible for many of the atrocities during Krastinov's rule over Scholomance, Kirtonos fed on the blood of his innocent victims. To appease his master, Doctor Krastinov had to provide the gargoyle with more and more blood."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_18144 = "Swoop"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_18144 =
+    "Deals Physical damage to nearby enemies and stuns them for 2 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_12882 = "Wing Flap"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_12882 =
+    "Knocks back enemies within 10 yards.\n\nTanks should keep their backs against a wall."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_6016 = "Pierce Armor"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_6016 =
+    "Reduces a target's armor by 50% for 20 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_NAME_8379 = "Disarm"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_8379 =
+    "Disarms a target for 10 seconds."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "Jandice Barov"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
     "Jandice Barov was once an archmage of Dalaran and a powerful illusionist. In life, she developed a spell that \"displayed several images of her body that were nearly indistinguishable from her real form. These images duplicated her actions from different locations, making it nearly impossible for her enemies to find her. It was almost infallible.\" After House Barov pledged their allegiance to the Cult of the Damned, Jandice was turned into an undead ghost within Scholomance."
