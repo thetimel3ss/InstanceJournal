@@ -202,12 +202,40 @@ SCHOLO.Bosses = {
             [4] = {IJDB.I[18761], DropChance = 25}
         }
     },
-    [5] = { -- NOTE: Missing abilities
+    [5] = {
         Id = "10433",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "marduk" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "marduk" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433,
+        Abilities = {
+            [1] = {
+                Id = "17228",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17228,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17228
+            },
+            [2] = {
+                Id = "12040",
+                Icon = "Spell_Shadow_AntiShadow",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_12040,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_12040,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "15284",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_15284,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_15284,
+                Flags = {IMAF.Tank}
+            },
+            [4] = {
+                Id = "17695",
+                Icon = "Spell_Shadow_UnholyStrength",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17695,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17695
+            }
+        },
         Loot = {
             [1] = {IJDB.I[14576], DropChance = 7}, 
             [2] = {IJDB.I[18692], DropChance = 7}, 

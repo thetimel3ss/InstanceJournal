@@ -1347,6 +1347,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Mardouk Blackpool"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "Marduk Blackpool, also known as Marduk the Black, is an infamous death knight of the Scourge. Il est tuteur à la Scholomance, partageant ses sombres secrets avec les étudiants en nécromancie."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17228 = "Salve de Traits de l’ombre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17228 =
+        "Inflige des dégâts d'Ombre aux ennemis dans un rayon de 30 mètres."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_12040 = "Bouclier de l’ombre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_12040 =
+        "Absorbe les dégâts et inflige des dégâts d’Ombre aux attaquants en mêlée pendant 30 secondes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_15284 = "Enchaînement"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_15284 =
+        "Inflige des dégâts physiques à une cible et à ses alliés proches."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17695 = "Aura profanatrice"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17695 =
+        "Réduit de 100 la résistance à l’Ombre des ennemis à moins de 30 mètres."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "Vectus"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 =
         "Vectus a développé les dragons pestiférés trouvés à l'intérieur de Scholomance, qu'il a obtenus en payant Tinkee Steamboil dans les Steppes ardentes pour qu'il livre des œufs de dragon de Blackrock Spire."

@@ -1374,6 +1374,18 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Мардук Блэкпул"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "Мардук Блэкпул, также известный как Мардук Черный, — печально известный рыцарь смерти Плети. Он является наставником в Некроситете и делится своими темными секретами с учениками некромантии."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17228 = "Залп стрел Тьмы"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17228 =
+        "Наносит урон от темной магии противникам в радиусе 30 м."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_12040 = "Теневой щит"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_12040 =
+        "Поглощает урон и наносит урон от темной магии атакующим в ближнем бою в течение 30 сек."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_15284 = "Рассекающий удар"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_15284 =
+        "Наносит физический урон цели и находящимся рядом союзникам."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17695 = "Оскверняющая аура"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17695 =
+        "Снижает сопротивление темной магии противников в радиусе 30 м на 100."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "Вектус"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 =
         "Вектус разработал чумных драконов, найденных в Некроситете, которых он получил, заплатив Тинки Паробойлу в Пылающих степях за доставку драконьих яиц из Пика Черной горы."

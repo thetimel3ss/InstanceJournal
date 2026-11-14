@@ -1344,6 +1344,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Marduk Blackpool"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "Marduk Blackpool, também conhecido como Marduk, o Negro, é um infame cavaleiro da morte do Flagelo. Ele é um tutor em Scholomance, compartilhando seus segredos obscuros com os estudantes de necromancia."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17228 = "Saraivada de Setas Sombrias"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17228 =
+        "Causa dano de Sombra aos inimigos em até 30 metros."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_12040 = "Escudo Sombrio"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_12040 =
+        "Absorve dano e causa dano de Sombra aos atacantes corpo a corpo por 30 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_15284 = "Cutilada"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_15284 =
+        "Causa dano Físico a um alvo e aos aliados próximos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17695 = "Aura Profanadora"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17695 =
+        "Reduz a resistência à Sombra dos inimigos em um raio de 30 metros em 100."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "Vecto"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 =
         "Vectus desenvolveu os dragões atormentados encontrados em Scholomance, que ele conseguiu pagando Tinkee Steamboil nas Burning Steppes para entregar ovos de dragão do Blackrock Spire."

@@ -2256,6 +2256,18 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_7645 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Marduk Blackpool"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
     "Marduk Blackpool, also known as Marduk the Black, is an infamous death knight of the Scourge. He is a tutor at Scholomance, sharing his dark secrets to the students of necromancy."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17228 = "Shadow Bolt Volley"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17228 =
+    "Deals Shadow damage to enemies within 30 yards."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_12040 = "Shadow Shield"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_12040 =
+    "Absorbs damage and deals Shadow damage to melee attackers for 30 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_15284 = "Cleave"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_15284 =
+    "Deals Physical damage to a target and nearby allies."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17695 = "Defiling Aura"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17695 =
+    "Reduces the Shadow resistance of enemies within 30 yards by 100."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "Vectus"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 = "Vectus developed the plagued dragons found inside Scholomance, which he got by paying Tinkee Steamboil in the Burning Steppes to deliver dragon eggs from Blackrock Spire."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Frostwhisper"

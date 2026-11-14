@@ -2349,6 +2349,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "马杜克·布莱克波尔"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "马杜克·布莱克浦，也被称为“黑色马杜克”，是臭名昭著的天灾军团死亡骑士。他是通灵学院的导师，向死灵系的学生分享他的黑暗秘密。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17228 = "暗影箭雨"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17228 =
+        "对30码内的敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_12040 = "暗影护盾"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_12040 =
+        "吸收伤害，并对近战攻击者造成暗影伤害，持续30秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_15284 = "顺劈斩"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_15284 =
+        "对一个目标及其附近盟友造成物理伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17695 = "污染光环"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17695 =
+        "使30码内敌人的暗影抗性降低100点。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "维克图斯"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 = "维克图斯开发了通灵学院中发现的瘟疫龙，这些龙是他通过在燃烧平原付钱给丁基·蒸汽布尔从黑石塔运送龙蛋而获得的。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "莱斯·霜语"

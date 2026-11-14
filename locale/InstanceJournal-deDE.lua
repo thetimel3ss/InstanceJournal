@@ -1348,6 +1348,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Marduk Blackpool"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "Marduk Blackpool, auch bekannt als Marduk der Schwarze, ist ein berüchtigter Todesritter der Geißel. Er ist Dozent in Scholomance und teilt seine dunklen Geheimnisse mit den Schülern der Nekromantie."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17228 = "Schattenblitzsalve"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17228 =
+        "Fügt Gegnern im Umkreis von 30 Metern Schattenschaden zu."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_12040 = "Schattenschild"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_12040 =
+        "Absorbiert Schaden und verursacht 30 Sekunden lang Schattenschaden bei Nahkampfangreifern."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_15284 = "Spalten"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_15284 =
+        "Verursacht körperlichen Schaden bei einem Ziel und nahen Verbündeten."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_NAME_17695 = "Entweihende Aura"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17695 =
+        "Verringert den Schattenwiderstand von Gegnern innerhalb von 30 Metern um 100."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "Vectus"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 =
         "Vectus entwickelte die in Scholomance gefundenen geplagten Drachen, die er erhielt, indem er Tinkee Steamboil in der Brennenden Steppe bezahlte, um Dracheneier von der Schwarzfelsspitze zu liefern."
