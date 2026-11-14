@@ -2458,6 +2458,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10504 = "阿雷克斯·巴罗夫"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10504 =
         "阿列克谢·巴罗夫勋爵是凯尔达隆、布里尔、塔伦米尔和南海镇的领主。他是亚历克西·巴罗夫、韦尔登·韦尔登和詹迪斯·巴罗夫的父亲，也是伊露西亚·巴罗夫女士的丈夫。与詹迪丝和伊露西亚一样，他现在是通灵学院中天灾军团的特工。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_15570 = "献祭"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_15570 =
+        "造成火焰伤害，随后每3秒造成额外火焰伤害，持续21秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_17466 = "邪恶光环"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17466 =
+        "每2秒对30码内的敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_17820 = "暗影迷雾"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17820 =
+        "使受影响的敌人受到的治疗效果降低75%，持续15秒。\n\n移除此诅咒。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502 = "伊露希亚·巴罗夫女士"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502 =
         "作为阿列克谢·巴罗夫勋爵的妻子，伊露西亚与克尔苏加德分享了家族的黑暗契约，用凯尔达隆祖传的土地换取了永恒生命的空洞承诺。现在，她成了她以前高贵的自我的幽灵般的影子，经常出没于学院的自习室。伊露西亚保留了她生前所拥有的贵族傲慢，利用她对精神控制和精神痛苦的掌握来打破那些胆敢闯入她家族被亵渎的家的人的意志。"

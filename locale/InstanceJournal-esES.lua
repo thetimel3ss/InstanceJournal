@@ -1458,6 +1458,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10504 = "Señor Alexei Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10504 =
         "Lord Alexei Barov era el señor de Caer Darrow, Brill, Tarren Mill y Southshore. Era el padre de Alexi, Weldon y Jandice Barov y esposo de Lady Illucia Barov. Al igual que Jandice e Illucia, ahora es un agente de la Plaga que se encuentra en Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_15570 = "Inmolar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_15570 =
+        "Inflige daño de Fuego, seguido de daño de Fuego adicional cada 3 segundos durante 21 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_17466 = "Aura profana"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17466 =
+        "Inflige daño de las Sombras a los enemigos en un radio de 30 metros cada 2 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_17820 = "Velo de las Sombras"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17820 =
+        "Reduce la sanación recibida por los enemigos afectados un 75% durante 15 segundos.\n\nEliminad esta maldición."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502 = "Lady Illucia Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502 =
         "Como esposa de Lord Alexei Barov, Illucia compartió el oscuro pacto de la familia con Kel'Thuzad, intercambiando las tierras ancestrales de Caer Darrow por la vacía promesa de la vida eterna. Ahora, una sombra espectral de su antiguo yo noble, ronda las salas de estudio de la academia. Illucia conserva la arrogancia aristocrática que tuvo en vida, utilizando su dominio del control mental y la agonía psíquica para quebrar la voluntad de aquellos que se atreven a traspasar el hogar profanado de su familia."

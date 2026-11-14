@@ -1458,6 +1458,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10504 = "Lord Alexei Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10504 =
         "Lord Alexei Barov war der Herr von Caer Darrow, Brill, Tarren Mill und Southshore. Er war der Vater von Alexi, Weldon und Jandice Barov und Ehemann von Lady Illucia Barov. Wie Jandice und Illucia ist er jetzt ein Agent der Geißel, die in Scholomance gefunden wurde."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_15570 = "Feuerbrand"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_15570 =
+        "Verursacht Feuerschaden und anschließend 21 Sekunden lang alle 3 Sekunden zusätzlichen Feuerschaden.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_17466 = "Unheilige Aura"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17466 =
+        "Verursacht alle 2 Sekunden Schattenschaden bei Gegnern innerhalb von 30 Metern."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_17820 = "Schleier des Schattens"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17820 =
+        "Verringert die erhaltene Heilung betroffener Gegner 15 Sekunden lang um 75%.\n\nEntfernt diesen Fluch."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502 = "Lady Illucia Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502 =
         "Als Ehefrau von Lord Alexei Barov beteiligte sich Illucia am dunklen Pakt der Familie mit Kel'Thuzad und tauschte das angestammte Land von Caer Darrow gegen das leere Versprechen des ewigen Lebens ein. Jetzt ist sie ein geisterhafter Schatten ihres früheren edlen Selbst und spukt durch die Studiensäle der Akademie. Illucia behält die aristokratische Arroganz ihres Lebens bei und nutzt ihre Beherrschung der Gedankenkontrolle und psychischen Qualen, um den Willen derjenigen zu brechen, die es wagen, in das entweihte Haus ihrer Familie einzudringen."

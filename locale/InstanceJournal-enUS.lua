@@ -2365,6 +2365,15 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_10101 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10504 = "Lord Alexei Barov"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10504 =
     "Lord Alexei Barov was the lord of Caer Darrow, Brill, Tarren Mill and Southshore. He was the father of Alexi, Weldon, and Jandice Barov and husband of Lady Illucia Barov. Like Jandice and Illucia, he is now an agent of the Scourge found in Scholomance."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_15570 = "Immolate"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_15570 =
+    "Deals Fire damage, followed by additional Fire damage every 3 seconds for 21 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_17466 = "Unholy Aura"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17466 =
+    "Deals Shadow damage to enemies within 30 yards every 2 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_NAME_17820 = "Veil of Shadow"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10504_ABILITY_EFFECT_17820 =
+    "Reduces healing received by affected enemies by 75% for 15 seconds.\n\nRemove this curse."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10502 = "Lady Illucia Barov"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10502 =
     "As the wife of Lord Alexei Barov, Illucia shared in the family's dark pact with Kel'Thuzad, trading the ancestral lands of Caer Darrow for the hollow promise of eternal life. Now a spectral shadow of her former noble self, she haunts the academy's study halls. Illucia retains the aristocratic arrogance she held in life, using her mastery of mind control and psychic agony to break the wills of those who dare trespass in her family's desecrated home."
