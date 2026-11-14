@@ -1317,6 +1317,15 @@ if GetLocale() == "ptBR" then
         "Causa dano Físico a um alvo e aos aliados próximos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "Cascavel"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "Rattlegore é feito dos restos mortais de seus inimigos derrotados. Ele protege Scholomance contra intrusos até hoje."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_10101 = "Repelir"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_10101 =
+        "Causa dano Físico a um alvo e o repele."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_16727 = "Pisada de Guerra"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_16727 =
+        "Causa dano Físico aos inimigos em até 5 metros e os atordoa por 5 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_18368 = "Golpe"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_18368 =
+        "Causa dano Físico a um alvo."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Cavaleiro da Morte Darkreaver"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "Outrora um célebre paladino, o homem que viria a ser conhecido como Darkreaver foi seduzido pelo chamado do Lich King e se tornou um insidioso cavaleiro da morte. Sua corrupção se espalhou para seu cavalo, que foi transformado em um cavalo morto-vivo. Darkreaver foi enviado para Scholomance. Na masmorra abaixo do Grande Ossuário, ele tentou dobrar o reino espiritual ao seu capricho, convocando e corrompendo espíritos para cumprir suas ordens."

@@ -2229,6 +2229,15 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_15584 =
     "Deals Physical damage to a target and nearby allies."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "Rattlegore"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "Rattlegore is made from the remains of his defeated enemies. He guard Scholomance against intruders to this day."
+IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_10101 = "Knock Away"
+IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_10101 =
+    "Deals Physical damage to a target and knocks them back."
+IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_16727 = "War Stomp"
+IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_16727 =
+    "Deals Physical damage to enemies within 5 yards and stuns them for 5 seconds."
+IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_18368 = "Strike"
+IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_18368 =
+    "Deals Physical damage to a target."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Death Knight Darkreaver"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
     "Once a celebrated paladin, the man who would come to be known as Darkreaver was seduced by the call of the Lich King, and became an insidious death knight. His corruption spread to his steed, who was transformed into an undead horse. Darkreaver was sent to the Scholomance. In the dungeon below the Great Ossuary, he attempted to bend the spirit realm to his whim, summoning and corrupting spirits to do his bidding."

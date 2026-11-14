@@ -1321,6 +1321,15 @@ if GetLocale() == "deDE" then
         "Verursacht körperlichen Schaden bei einem Ziel und nahen Verbündeten."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "Rattlegore"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "Rattlegore besteht aus den Überresten seiner besiegten Feinde. Er bewacht Scholomance bis heute vor Eindringlingen."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_10101 = "Wegschlagen"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_10101 =
+        "Fügt einem Ziel körperlichen Schaden zu und stößt es zurück."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_16727 = "Kriegsdonner"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_16727 =
+        "Fügt Gegnern im Umkreis von 5 Metern körperlichen Schaden zu und betäubt sie 5 Sekunden lang."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_18368 = "Schlag"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_18368 =
+        "Fügt einem Ziel körperlichen Schaden zu."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Todesritter Darkreaver"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "Einst ein berühmter Paladin, wurde der Mann, der später als Darkreaver bekannt wurde, vom Ruf des Lichkönigs verführt und wurde zu einem heimtückischen Todesritter. Seine Verderbnis breitete sich auf sein Ross aus, das sich in ein untotes Pferd verwandelte. Darkreaver wurde zur Scholomance geschickt. Im Kerker unter dem Großen Beinhaus versuchte er, das Geisterreich seinen Launen anzupassen, indem er Geister herbeirief und korrumpierte, damit sie seinen Befehlen gehorchten."

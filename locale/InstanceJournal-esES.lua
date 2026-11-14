@@ -1320,6 +1320,15 @@ if GetLocale() == "esES" then
         "Inflige daño físico a un objetivo y a sus aliados cercanos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "cascabel"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "Rattlegore está hecho de los restos de sus enemigos derrotados. Hasta el día de hoy protege a Scholomance contra intrusos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_10101 = "Repeler"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_10101 =
+        "Inflige daño Físico a un objetivo y lo repele."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_16727 = "Pisotón de guerra"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_16727 =
+        "Inflige daño Físico a los enemigos en un radio de 5 metros y los aturde durante 5 segundos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_18368 = "Golpe"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_18368 =
+        "Inflige daño Físico a un objetivo."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Caballero de la Muerte Darkreaver"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "El que alguna vez fue un célebre paladín, el hombre que llegaría a ser conocido como Darkreaver fue seducido por el llamado del Rey Exánime y se convirtió en un insidioso caballero de la muerte. Su corrupción se extendió a su corcel, que se transformó en un caballo no-muerto. Darkreaver fue enviado al Scholomance. En la mazmorra debajo del Gran Osario, intentó doblegar el reino de los espíritus a su antojo, convocando y corrompiendo espíritus para que cumplieran sus órdenes."

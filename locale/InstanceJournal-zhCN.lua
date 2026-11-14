@@ -2322,6 +2322,15 @@ if GetLocale() == "zhCN" then
         "对一个目标及其附近盟友造成物理伤害。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "血骨傀儡"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "拉特戈尔是由他击败的敌人的遗骸制成的。直到今天，他仍然守护着通灵学院，抵御入侵者。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_10101 = "击飞"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_10101 =
+        "对一个目标造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_16727 = "战争践踏"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_16727 =
+        "对5码内的敌人造成物理伤害，并使其昏迷5秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_18368 = "打击"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_18368 =
+        "对一个目标造成物理伤害。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "死亡骑士达克雷尔"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "这位后来被称为黑暗掠夺者的人曾经是一位著名的圣骑士，但受到巫妖王的召唤而成为一名阴险的死亡骑士。他的腐败蔓延到了他的坐骑上，他的坐骑变成了不死马。暗掠者被送往通灵学院。在大骨库下方的地牢中，他试图让精神领域屈服于他的心血来潮，召唤并腐蚀灵魂来执行他的命令。"

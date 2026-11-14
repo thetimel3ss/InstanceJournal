@@ -120,12 +120,33 @@ SCHOLO.Bosses = {
             [9] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "11622",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "rattlegore" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "rattlegore" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622,
+        Abilities = {
+            [1] = {
+                Id = "10101",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_10101,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_10101,
+                Flags = {IMAF.Tank}
+            },
+            [2] = {
+                Id = "16727",
+                Icon = "Ability_BullRush",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_16727,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_16727
+            },
+            [3] = {
+                Id = "18368",
+                Icon = "Ability_Rogue_Ambush",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_18368,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_18368
+            }
+        },
         Loot = {
             [1] = {IJDB.I[18782], DropChance = 40},
             [2] = {IJDB.I[14528], DropChance = 14},

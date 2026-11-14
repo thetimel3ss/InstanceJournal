@@ -1320,6 +1320,15 @@ if GetLocale() == "frFR" then
         "Inflige des dégâts physiques à une cible et à ses alliés proches."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "Rattlegore"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "Rattlegore est fabriqué à partir des restes de ses ennemis vaincus. Il protège encore aujourd'hui la Scholomance contre les intrus."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_10101 = "Repousser"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_10101 =
+        "Inflige des dégâts physiques à une cible et la repousse."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_16727 = "Choc martial"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_16727 =
+        "Inflige des dégâts physiques aux ennemis dans un rayon de 5 mètres et les étourdit pendant 5 secondes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_NAME_18368 = "Frappe"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_18368 =
+        "Inflige des dégâts physiques à une cible."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Chevalier de la mort Darkreaver"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "Autrefois paladin célèbre, celui qui allait devenir connu sous le nom de Darkreaver fut séduit par l'appel du roi-liche et devint un insidieux chevalier de la mort. Sa corruption s'est propagée à son cheval, qui a été transformé en cheval mort-vivant. Darkreaver a été envoyé à la Scholomance. Dans le donjon situé sous le Grand Ossuaire, il tenta de plier le royaume des esprits à ses caprices, invoquant et corrompant les esprits pour qu'ils exécutent ses ordres."
