@@ -1445,6 +1445,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "Le Ravenien"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
         "Le Ravenian est une abomination monstrueuse d'une faim sans précédent, servant de mesure « disciplinaire » ultime à l'école. Cousu à partir des restes les plus forts dont dispose le culte, il réside dans les fosses inférieures de l'académie où il nourrit les échecs et les faibles. Contrairement aux professeurs plus intelligents, le Ravenien est une créature à l'instinct pur et glouton, agissant comme un énorme mur de chair pourrie entre les intrus et les secrets les mieux gardés de l'école."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_20691 = "Enchaînement"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_20691 =
+        "Inflige des dégâts physiques à une cible et à ses alliés proches."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_15550 = "Piétinement"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_15550 =
+        "Inflige des dégâts physiques aux ennemis dans un rayon de 10 mètres."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_10101 = "Repousser"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_10101 =
+        "Inflige des dégâts physiques à une cible et la repousse."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10504 = "Seigneur Alexeï Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10504 =
         "Lord Alexei Barov était le seigneur de Caer Darrow, Brill, Tarren Mill et Southshore. Il était le père d'Alexi, Weldon et Jandice Barov et époux de Lady Illucia Barov. Comme Jandice et Illucia, il est désormais un agent du Fléau trouvé à Scholomance."

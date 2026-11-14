@@ -575,12 +575,34 @@ SCHOLO.Bosses = {
             [31] = {IJDB.I[18680], DropChance = 4}
         }
     },
-    [12] = { -- NOTE: Missing abilities
+    [12] = {
         Id = "10507",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "ravenian" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "ravenian" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507,
+        Abilities = {
+            [1] = {
+                Id = "20691",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_20691,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_20691,
+                Flags = {IMAF.Tank}
+            },
+            [2] = {
+                Id = "15550",
+                Icon = "Spell_Nature_NaturesWrath",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_15550,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_15550
+            },
+            [3] = {
+                Id = "10101",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_10101,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_10101,
+                Flags = {IMAF.Tank}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[12753], DropChance = 17},
             [2] = {IJDB.I[51217], DropChance = 5},

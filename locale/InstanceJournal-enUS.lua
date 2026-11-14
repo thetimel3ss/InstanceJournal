@@ -2353,6 +2353,15 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18151 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "The Ravenian"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
     "The Ravenian is a monstrous abomination of unparalleled hunger, serving as the school's ultimate 'disciplinary' measure. Stitched together from the strongest remains available to the cult, he resides in the lower pits of the academy where he is fed the failures and the weak. Unlike the more intelligent faculty, the Ravenian is a creature of pure, gluttonous instinct, acting as a massive wall of rotting flesh between intruders and the school's most guarded secrets."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_20691 = "Cleave"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_20691 =
+    "Deals Physical damage to a target and nearby allies."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_15550 = "Trample"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_15550 =
+    "Deals Physical damage to enemies within 10 yards."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_10101 = "Knock Away"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_10101 =
+    "Deals Physical damage to a target and knocks them back."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10504 = "Lord Alexei Barov"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10504 =
     "Lord Alexei Barov was the lord of Caer Darrow, Brill, Tarren Mill and Southshore. He was the father of Alexi, Weldon, and Jandice Barov and husband of Lady Illucia Barov. Like Jandice and Illucia, he is now an agent of the Scourge found in Scholomance."

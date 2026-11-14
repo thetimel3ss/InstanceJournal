@@ -2446,6 +2446,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "拉文尼亚"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
         "拉文尼亚是一种饥饿无比的怪物，是学校的终极“纪律”措施。他由邪教中最强大的遗骸拼凑而成，居住在学院的底层，在那里他被喂养失败者和弱者。与更聪明的教师不同，拉文人是一种纯粹、贪婪本能的生物，在入侵者和学校最保守的秘密之间充当着一堵巨大的腐肉墙。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_20691 = "顺劈斩"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_20691 =
+        "对一个目标及其附近盟友造成物理伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_15550 = "践踏"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_15550 =
+        "对10码内的敌人造成物理伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_10101 = "击飞"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_10101 =
+        "对一个目标造成物理伤害，并将其击退。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10504 = "阿雷克斯·巴罗夫"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10504 =
         "阿列克谢·巴罗夫勋爵是凯尔达隆、布里尔、塔伦米尔和南海镇的领主。他是亚历克西·巴罗夫、韦尔登·韦尔登和詹迪斯·巴罗夫的父亲，也是伊露西亚·巴罗夫女士的丈夫。与詹迪丝和伊露西亚一样，他现在是通灵学院中天灾军团的特工。"

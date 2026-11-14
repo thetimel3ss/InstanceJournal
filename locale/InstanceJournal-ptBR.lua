@@ -1442,6 +1442,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "O Raveniano"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
         "O Raveniano é uma abominação monstruosa de fome incomparável, servindo como a medida “disciplinar” definitiva da escola. Costurado com os restos mais fortes disponíveis para o culto, ele reside nos abismos inferiores da academia, onde é alimentado com os fracassados ​​e os fracos. Ao contrário do corpo docente mais inteligente, o Raveniano é uma criatura de instinto puro e guloso, agindo como uma enorme parede de carne podre entre intrusos e os segredos mais guardados da escola."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_20691 = "Cutilada"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_20691 =
+        "Causa dano Físico a um alvo e aos aliados próximos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_15550 = "Atropelar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_15550 =
+        "Causa dano Físico aos inimigos em até 10 metros."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_NAME_10101 = "Repelir"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10507_ABILITY_EFFECT_10101 =
+        "Causa dano Físico a um alvo e o repele."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10504 = "Senhor Alexei Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10504 =
         "Lorde Alexei Barov era o senhor de Caer Darrow, Brill, Tarren Mill e Southshore. Ele era o pai de Alexi, Weldon e Jandice Barov e marido de Lady Illucia Barov. Assim como Jandice e Illucia, ele agora é um agente do Flagelo encontrado em Scolomance."
