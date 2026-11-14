@@ -271,12 +271,56 @@ SCHOLO.Bosses = {
             [4] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "10508",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "ras" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "ras" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508,
+        Abilities = {
+            [1] = {
+                Id = "18100",
+                Icon = "Spell_Frost_FrostArmor02",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18100,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18100,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "21369",
+                Icon = "Spell_Frost_FrostBolt02",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_21369,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_21369,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "18099",
+                Icon = "Spell_Frost_FrostNova",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18099,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18099,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "8398",
+                Icon = "Spell_Frost_FrostBolt02",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_8398,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_8398,
+                Flags = {IMAF.Magic}
+            },
+            [5] = {
+                Id = "18763",
+                Icon = "Spell_Frost_Glacier",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18763,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18763,
+                Flags = {IMAF.Magic}
+            },
+            [6] = {
+                Id = "26070",
+                Icon = "Spell_Shadow_Possession",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_26070,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_26070,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[13952], DropChance = 8},
             [2] = {IJDB.I[14340], DropChance = 8},

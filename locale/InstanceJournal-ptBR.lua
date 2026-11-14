@@ -1368,6 +1368,24 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Sussurro de Gelo"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "Ras Frostwhisper já foi um mago humano de Stromgarde. Ele era um mago errante, um mago rebelde que nunca recebeu seu treinamento formal de Dalaran. Ele foi um dos primeiros a se juntar ao Culto dos Amaldiçoados e rapidamente avançou em suas fileiras. Ele agora é um superintendente de Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18100 = "Armadura Gélida"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18100 =
+        "Aumenta a armadura. Atacantes corpo a corpo ficam resfriados por 5 segundos, reduzindo sua velocidade de ataque corpo a corpo e tornando seu movimento 40% mais lento."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_21369 = "Seta de Gelo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_21369 =
+        "Causa dano de Gelo e reduz a velocidade de movimento em 50% por 4 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18099 = "Nova Gélida"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18099 =
+        "Causa dano de Gelo aos inimigos em um raio de 10 metros, os repele e reduz sua velocidade de movimento em 50% por 10 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_8398 = "Saraivada de Setas de Gelo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_8398 =
+        "Causa dano de Gelo a vários inimigos e reduz sua velocidade de movimento em 50% por 8 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18763 = "Congelar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18763 =
+        "Atordoa um alvo e causa dano de Gelo a cada 3 segundos por 15 segundos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_26070 = "Medo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_26070 =
+        "Faz os inimigos em um raio de 45 metros fugirem de medo por até 8 segundos.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "Kormok é um chefe necromante ogro encontrado em Scholomance. Uma de suas cabeças era sempre alegre, se não um pouco tola, enquanto a outra era astuta, calculista e tinha uma expressão quase morta nos olhos. Embora inicialmente fosse um mero mago e não fosse tão ruim como membro da Lâmina Velada, ele foi exposto ao lado necromântico da magia e acabou se deliciando em invocar as almas dos mortos banidos da Ilha da Purgação. Depois de abandonar sua companhia mercenária, ele se matriculou na Scholomance."

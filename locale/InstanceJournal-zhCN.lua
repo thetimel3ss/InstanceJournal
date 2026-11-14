@@ -2372,6 +2372,24 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "莱斯·霜语"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "拉斯·霜语曾经是一名来自激流堡的人类法师。他是一名树篱法师，一名从未在达拉然接受过正式训练的盗贼巫师。他是第一批加入诅咒教的人之一，并迅速在其队伍中晋升。他现在是通灵学院的监督者。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18100 = "霜甲术"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18100 =
+        "提高护甲值。近战攻击者会受到冰冻效果，近战攻击速度降低，移动速度降低40%，持续5秒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_21369 = "寒冰箭"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_21369 =
+        "造成冰霜伤害，并使移动速度降低50%，持续4秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18099 = "冰冷新星"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18099 =
+        "对10码内的敌人造成冰霜伤害，将其击退，并使其移动速度降低50%，持续10秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_8398 = "寒冰箭雨"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_8398 =
+        "对多个敌人造成冰霜伤害，并使其移动速度降低50%，持续8秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18763 = "冰冻"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18763 =
+        "使一个目标昏迷，并每3秒造成冰霜伤害，持续15秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_26070 = "恐惧术"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_26070 =
+        "使45码内的敌人因恐惧而逃跑，最多持续8秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "库尔莫克"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "科尔莫克是通灵学院中的食人魔死灵法师老大。他的一个脑袋总是开朗，甚至有点愚蠢，而另一个脑袋却很狡猾，精于算计，眼神几乎是死气沉沉的。虽然最初只是一名法师，作为面纱之刃的一员，他的表现并不算糟糕，但他接触到了魔法的死灵一面，并最终以召唤炼狱岛被放逐的死者的灵魂为乐。退出雇佣兵公司后，他加入了通灵学院。"

@@ -1371,6 +1371,24 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Murmure-de-Givre"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "Ras Murmegivre était autrefois un mage humain de Stromgarde. C'était un mage des haies, un sorcier voyou qui n'a jamais reçu sa formation formelle de Dalaran. Il fut parmi les premiers à rejoindre le Culte des Damnés et gravit rapidement les échelons. Il est désormais surveillant de la Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18100 = "Armure de givre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18100 =
+        "Augmente l’armure. Les attaquants en mêlée sont glacés pendant 5 secondes : leur vitesse d’attaque en mêlée diminue et leur déplacement est ralenti de 40%."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_21369 = "Éclair de givre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_21369 =
+        "Inflige des dégâts de Givre et réduit la vitesse de déplacement de 50% pendant 4 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18099 = "Nova glaciale"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18099 =
+        "Inflige des dégâts de Givre aux ennemis à moins de 10 mètres, les repousse et réduit leur vitesse de déplacement de 50% pendant 10 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_8398 = "Salve d’éclairs de givre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_8398 =
+        "Inflige des dégâts de Givre à plusieurs ennemis et réduit leur vitesse de déplacement de 50% pendant 8 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18763 = "Gel"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18763 =
+        "Étourdit une cible et lui inflige des dégâts de Givre toutes les 3 secondes pendant 15 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_26070 = "Peur"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_26070 =
+        "Fait fuir de peur les ennemis à moins de 45 mètres pendant un maximum de 8 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "Kormok est un boss nécromancien ogre trouvé à Scholomance. L'une de ses têtes était toujours joyeuse, voire un peu idiote, tandis que l'autre était sournoise, calculatrice et avait un regard presque mort. Alors qu'au départ il n'était qu'un simple mage et n'était pas si mauvais en tant que membre de la Lame Voilée, il fut exposé au côté nécromantique de la magie et finit par prendre plaisir à invoquer les âmes des morts bannis de l'Île de Purgation. Après avoir quitté sa compagnie de mercenaires, il s'inscrit à la Scholomance."

@@ -1371,6 +1371,24 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Susurro de Escarcha"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "Ras Frostwhisper fue una vez un mago humano de Stromgarde. Era un mago de cobertura, un mago rebelde que nunca recibió su entrenamiento formal de Dalaran. Fue uno de los primeros en unirse al Culto de los Condenados y rápidamente avanzó en sus filas. Ahora es supervisor de Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18100 = "Armadura de Escarcha"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18100 =
+        "Aumenta la armadura. Enfría a los atacantes cuerpo a cuerpo durante 5 segundos, reduciendo su velocidad de ataque cuerpo a cuerpo y ralentizando su movimiento un 40%."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_21369 = "Descarga de Escarcha"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_21369 =
+        "Inflige daño de Escarcha y reduce la velocidad de movimiento un 50% durante 4 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18099 = "Nova de frío"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18099 =
+        "Inflige daño de Escarcha a los enemigos en un radio de 10 metros, los repele y reduce su velocidad de movimiento un 50% durante 10 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_8398 = "Salva de descarga de Escarcha"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_8398 =
+        "Inflige daño de Escarcha a varios enemigos y reduce su velocidad de movimiento un 50% durante 8 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18763 = "Congelar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18763 =
+        "Aturde a un objetivo e inflige daño de Escarcha cada 3 segundos durante 15 segundos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_26070 = "Miedo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_26070 =
+        "Hace huir de miedo a los enemigos en un radio de 45 metros durante un máximo de 8 segundos.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "Kormok es un jefe nigromante ogro que se encuentra en Scholomance. Una de sus cabezas era siempre alegre, si no un poco tonta, mientras que la otra era astuta, calculadora y tenía una mirada casi muerta en los ojos. Aunque inicialmente era un simple mago y no era tan malo como miembro de Veiled Blade, quedó expuesto al lado nigromántico de la magia y terminó deleitándose en convocar las almas de los muertos desterrados de la Isla de la Purgación. Después de dejar su compañía mercenaria se matriculó en Scholomance."

@@ -1372,6 +1372,24 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Frostwisper"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "Ras Frostwhisper war einst ein menschlicher Magier aus Stromgarde. Er war ein Heckenmagier, ein abtrünniger Zauberer, der nie seine formelle Ausbildung in Dalaran erhalten hatte. Er gehörte zu den ersten, die sich dem Kult der Verdammten anschlossen, und stieg schnell in seinen Reihen auf. Er ist jetzt ein Aufseher von Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18100 = "Frostrüstung"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18100 =
+        "Erhöht die Rüstung. Nahkampfangreifer werden unterkühlt, wodurch ihr Nahkampfangriffstempo verringert und ihre Bewegungsgeschwindigkeit 5 Sekunden lang um 40% reduziert wird."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_21369 = "Frostblitz"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_21369 =
+        "Verursacht Frostschaden und verringert die Bewegungsgeschwindigkeit 4 Sekunden lang um 50%.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18099 = "Frostschocknova"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18099 =
+        "Verursacht Frostschaden bei Gegnern innerhalb von 10 Metern, stößt sie zurück und verringert ihre Bewegungsgeschwindigkeit 10 Sekunden lang um 50%.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_8398 = "Frostblitzsalve"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_8398 =
+        "Verursacht Frostschaden bei mehreren Gegnern und verringert ihre Bewegungsgeschwindigkeit 8 Sekunden lang um 50%.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18763 = "Einfrieren"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18763 =
+        "Betäubt ein Ziel und verursacht 15 Sekunden lang alle 3 Sekunden Frostschaden.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_26070 = "Furcht"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_26070 =
+        "Lässt Gegner innerhalb von 45 Metern bis zu 8 Sekunden lang vor Furcht fliehen.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "Kormok ist ein Oger-Nekromantenboss, der in Scholomance zu finden ist. Einer seiner Köpfe war immer fröhlich, wenn nicht sogar ein wenig albern, während der andere schlau und berechnend war und einen fast toten Blick in den Augen hatte. Obwohl er ursprünglich nur ein Magier war und als Mitglied der Veiled Blade nicht so schlecht war, wurde er mit der nekromantischen Seite der Magie vertraut und genoss schließlich die Beschwörung der Seelen der verbannten Toten von der Purgation Isle. Nachdem er seine Söldnertruppe verlassen hatte, meldete er sich bei der Scholomance an."

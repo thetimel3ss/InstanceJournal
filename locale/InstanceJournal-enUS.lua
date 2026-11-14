@@ -2279,6 +2279,24 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_16046 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Frostwhisper"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
     "Ras Frostwhisper was once a human mage from Stromgarde. He was a hedge mage, a rogue wizard that never received his formal training from Dalaran. He was among the first to join the Cult of the Damned and quickly advanced through its ranks. He is now an overseer of Scholomance."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18100 = "Frost Armor"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18100 =
+    "Increases armor. Melee attackers are chilled for 5 seconds, reducing their melee attack speed and slowing movement by 40%."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_21369 = "Frostbolt"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_21369 =
+    "Deals Frost damage and reduces movement speed by 50% for 4 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18099 = "Chill Nova"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18099 =
+    "Deals Frost damage to enemies within 10 yards, knocks them back and reduces their movement speed by 50% for 10 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_8398 = "Frostbolt Volley"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_8398 =
+    "Deals Frost damage to multiple enemies and reduces their movement speed by 50% for 8 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_18763 = "Freeze"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_18763 =
+    "Stuns a target and deals Frost damage every 3 seconds for 15 seconds.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_NAME_26070 = "Fear"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_26070 =
+    "Causes enemies within 45 yards to flee in fear for up to 8 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
     "Kormok is an ogre necromancer boss found in Scholomance. One of his heads was always cheerful if not a little foolish, while the other was sly, calculating and had an almost dead look to its eyes. While initially a mere mage and not being that bad as a member of the Veiled Blade, he became exposed to the necromantic side of magic and ended up delighting in summoning forth the souls of the banished dead of Purgation Isle. After quitting his mercenary company he enrolled at the Scholomance."
