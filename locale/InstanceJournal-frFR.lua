@@ -1392,6 +1392,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "Kormok est un boss nécromancien ogre trouvé à Scholomance. L'une de ses têtes était toujours joyeuse, voire un peu idiote, tandis que l'autre était sournoise, calculatrice et avait un regard presque mort. Alors qu'au départ il n'était qu'un simple mage et n'était pas si mauvais en tant que membre de la Lame Voilée, il fut exposé au côté nécromantique de la magie et finit par prendre plaisir à invoquer les âmes des morts bannis de l'Île de Purgation. Après avoir quitté sa compagnie de mercenaires, il s'inscrit à la Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_27690 = "Invocation d’un serviteur d’os"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_27690 =
+        "Invoque un Serviteur d’os qui combat aux côtés du lanceur."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_17228 = "Salve de Traits de l’ombre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_17228 =
+        "Inflige des dégâts d'Ombre aux ennemis dans un rayon de 30 mètres."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Instructeur Malicia"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "Ancienne haute elfe de Quel'Thalas, Malicia était l'une des rares de son espèce à rejoindre volontairement le Culte des Damnés avant la chute de Lune-d'Argent. Aujourd'hui tutrice non vivante des arts sombres, elle supervise l'entraînement physique et tactique des acolytes de l'école. Malicia est connue pour sa cruauté, utilisant souvent ses élèves comme cibles vivantes pour sa magie de l'ombre dévastatrice afin de garantir que seuls les plus impitoyables et les plus résistants survivent pour servir le roi-liche."

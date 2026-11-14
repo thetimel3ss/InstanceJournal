@@ -1389,6 +1389,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "Kormok é um chefe necromante ogro encontrado em Scholomance. Uma de suas cabeças era sempre alegre, se não um pouco tola, enquanto a outra era astuta, calculista e tinha uma expressão quase morta nos olhos. Embora inicialmente fosse um mero mago e não fosse tão ruim como membro da Lâmina Velada, ele foi exposto ao lado necromântico da magia e acabou se deliciando em invocar as almas dos mortos banidos da Ilha da Purgação. Depois de abandonar sua companhia mercenária, ele se matriculou na Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_27690 = "Invocar Lacaio de Ossos"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_27690 =
+        "Invoca um Lacaio de Ossos para lutar ao lado do lançador."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_17228 = "Saraivada de Setas Sombrias"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_17228 =
+        "Causa dano de Sombra aos inimigos em até 30 metros."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Instrutora Malícia"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "Ex-alta elfa de Quel'Thalas, Malicia foi uma das poucas de sua espécie a se juntar voluntariamente ao Culto dos Amaldiçoados antes da queda de Lua Prateada. Agora uma tutora não viva das artes das trevas, ela supervisiona o treinamento físico e tático dos acólitos da escola. Malicia é conhecida por sua crueldade, muitas vezes usando seus alunos como alvos vivos de sua devastadora magia sombria para garantir que apenas os mais cruéis e resilientes sobrevivam para servir o Lich King."

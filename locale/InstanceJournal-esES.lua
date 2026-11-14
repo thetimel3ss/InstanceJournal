@@ -1392,6 +1392,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "Kormok es un jefe nigromante ogro que se encuentra en Scholomance. Una de sus cabezas era siempre alegre, si no un poco tonta, mientras que la otra era astuta, calculadora y tenía una mirada casi muerta en los ojos. Aunque inicialmente era un simple mago y no era tan malo como miembro de Veiled Blade, quedó expuesto al lado nigromántico de la magia y terminó deleitándose en convocar las almas de los muertos desterrados de la Isla de la Purgación. Después de dejar su compañía mercenaria se matriculó en Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_27690 = "Invocar esbirro de hueso"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_27690 =
+        "Invoca a un Esbirro de hueso que lucha junto al taumaturgo."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_17228 = "Salva de descarga de las Sombras"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_17228 =
+        "Inflige daño de las Sombras a los enemigos en un radio de 30 metros."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Instructora Malicia"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "Malicia, ex alta elfa de Quel'Thalas, fue una de las pocas de su especie que se unió voluntariamente al Culto de los Condenados antes de la caída de Lunargenta. Ahora, tutora no viva de las artes oscuras, supervisa el entrenamiento físico y táctico de los acólitos de la escuela. Malicia es conocida por su crueldad, y a menudo utiliza a sus alumnos como objetivos vivos de su devastadora magia de sombras para garantizar que solo los más despiadados y resistentes sobrevivan para servir al Rey Exánime."

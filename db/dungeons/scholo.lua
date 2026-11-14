@@ -340,12 +340,27 @@ SCHOLO.Bosses = {
             [16] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "16118",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "kormok" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "kormok" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118,
+        Abilities = {
+            [1] = {
+                Id = "27690",
+                Icon = "Spell_Shadow_RaiseDead",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_27690,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_27690,
+                Flags = {IMAF.Important}
+            },
+            [2] = {
+                Id = "17228",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_17228,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_17228
+            }
+        },
         Loot = {
             [1] = {IJDB.I[22303], DropChance = 20}, 
             [2] = {IJDB.I[22326], DropChance = 20}, 

@@ -2300,6 +2300,12 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10508_ABILITY_EFFECT_26070 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
     "Kormok is an ogre necromancer boss found in Scholomance. One of his heads was always cheerful if not a little foolish, while the other was sly, calculating and had an almost dead look to its eyes. While initially a mere mage and not being that bad as a member of the Veiled Blade, he became exposed to the necromantic side of magic and ended up delighting in summoning forth the souls of the banished dead of Purgation Isle. After quitting his mercenary company he enrolled at the Scholomance."
+IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_27690 = "Summon Bone Minion"
+IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_27690 =
+    "Summons a Bone Minion to fight alongside the caster."
+IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_17228 = "Shadow Bolt Volley"
+IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_17228 =
+    "Deals Shadow damage to enemies within 30 yards."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Instructor Malicia"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
     "A former high elf of Quel'Thalas, Malicia was one of the few of her kind to willingly join the Cult of the Damned before the fall of Silvermoon. Now an unliving tutor of the dark arts, she oversees the physical and tactical training of the school's acolytes. Malicia is notorious for her cruelty, often using her students as living targets for her devastating shadow magic to ensure that only the most ruthless and resilient survive to serve the Lich King."

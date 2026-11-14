@@ -2393,6 +2393,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "库尔莫克"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "科尔莫克是通灵学院中的食人魔死灵法师老大。他的一个脑袋总是开朗，甚至有点愚蠢，而另一个脑袋却很狡猾，精于算计，眼神几乎是死气沉沉的。虽然最初只是一名法师，作为面纱之刃的一员，他的表现并不算糟糕，但他接触到了魔法的死灵一面，并最终以召唤炼狱岛被放逐的死者的灵魂为乐。退出雇佣兵公司后，他加入了通灵学院。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_27690 = "召唤白骨爪牙"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_27690 =
+        "召唤一只白骨爪牙，协助施法者作战。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_17228 = "暗影箭雨"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_17228 =
+        "对30码内的敌人造成暗影伤害。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "讲师玛丽希亚"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "马利西亚是奎尔萨拉斯的前高等精灵，她是银月城陷落之前少数愿意加入诅咒教派的同类之一。现在，她是一名死去的黑魔法导师，负责监督学校追随者的体能和战术训练。马利西亚因其残忍而臭名昭著，经常利用她的学生作为她毁灭性的暗影魔法的活目标，以确保只有最残酷和最坚韧的人才能生存下来为巫妖王服务。"

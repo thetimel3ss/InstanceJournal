@@ -1393,6 +1393,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_16118 = "Kormok"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_16118 =
         "Kormok ist ein Oger-Nekromantenboss, der in Scholomance zu finden ist. Einer seiner Köpfe war immer fröhlich, wenn nicht sogar ein wenig albern, während der andere schlau und berechnend war und einen fast toten Blick in den Augen hatte. Obwohl er ursprünglich nur ein Magier war und als Mitglied der Veiled Blade nicht so schlecht war, wurde er mit der nekromantischen Seite der Magie vertraut und genoss schließlich die Beschwörung der Seelen der verbannten Toten von der Purgation Isle. Nachdem er seine Söldnertruppe verlassen hatte, meldete er sich bei der Scholomance an."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_27690 = "Knochendiener beschwören"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_27690 =
+        "Beschwört einen Knochendiener, der an der Seite des Zaubernden kämpft."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_NAME_17228 = "Schattenblitzsalve"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_16118_ABILITY_EFFECT_17228 =
+        "Fügt Gegnern im Umkreis von 30 Metern Schattenschaden zu."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10505 = "Ausbilderin Malicia"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10505 =
         "Malicia, eine ehemalige Hochelf von Quel'Thalas, war eine der wenigen ihrer Art, die sich vor dem Fall von Silbermond bereitwillig dem Kult der Verdammten anschloss. Jetzt ist sie eine leblose Lehrerin der dunklen Künste und überwacht die körperliche und taktische Ausbildung der Akolythen der Schule. Malicia ist für ihre Grausamkeit berüchtigt und nutzt ihre Schüler oft als lebende Ziele für ihre verheerende Schattenmagie, um sicherzustellen, dass nur die Skrupellosesten und Widerstandsfähigsten überleben, um dem Lichkönig zu dienen."
