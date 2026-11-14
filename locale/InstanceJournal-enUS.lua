@@ -2338,6 +2338,18 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_11261_ABILITY_EFFECT_8269 =
     "At low health, increases Physical damage dealt by 50 and melee attack speed by 60% for 120 seconds."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Lorekeeper Polkelt"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "Lorekeeper Polkelt was once the keeper of knowledge, knowledge that has sadly been lost, however, as he is now a shambling, unintelligent monster."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18270 = "Dark Plague"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18270 =
+    "Deals Nature damage, followed by additional Nature damage every 5 seconds for 90 seconds.\n\nRemove this disease."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_24928 = "Volatile Infection"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_24928 =
+    "Causes the afflicted target to deal Nature damage to nearby allies every 5 seconds for 2 minutes.\n\nRemove the disease promptly and keep the affected player away from the group until it is removed."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_8245 = "Corrosive Acid"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_8245 =
+    "Reduces the armor of nearby enemies for 5 minutes.\n\nDispel this magic effect."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18151 = "Noxious Catalyst"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18151 =
+    "Reduces a target’s Nature resistance for 2 minutes.\n\nRemove this disease."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "The Ravenian"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
     "The Ravenian is a monstrous abomination of unparalleled hunger, serving as the school's ultimate 'disciplinary' measure. Stitched together from the strongest remains available to the cult, he resides in the lower pits of the academy where he is fed the failures and the weak. Unlike the more intelligent faculty, the Ravenian is a creature of pure, gluttonous instinct, acting as a massive wall of rotting flesh between intruders and the school's most guarded secrets."

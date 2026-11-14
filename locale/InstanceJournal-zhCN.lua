@@ -2431,6 +2431,18 @@ if GetLocale() == "zhCN" then
         "生命值较低时，造成的物理伤害提高50点，近战攻击速度提高60%，持续120秒。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "博学者普克尔特"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "博学者波尔凯特曾经是知识的守护者，然而不幸的是，这些知识已经消失了，因为他现在是一个步履蹒跚、缺乏智慧的怪物。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18270 = "黑暗瘟疫"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18270 =
+        "造成自然伤害，随后每5秒造成额外自然伤害，持续90秒。\n\n移除此疾病。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_24928 = "不稳定感染"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_24928 =
+        "使受影响的目标每5秒对附近盟友造成自然伤害，持续2分钟。\n\n尽快移除疾病，在疾病被移除前，让受影响的玩家远离队伍。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_8245 = "腐蚀酸液"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_8245 =
+        "降低附近敌人的护甲值，持续5分钟。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18151 = "毒性催化剂"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18151 =
+        "降低一个目标的自然抗性，持续2分钟。\n\n移除此疾病。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "拉文尼亚"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
         "拉文尼亚是一种饥饿无比的怪物，是学校的终极“纪律”措施。他由邪教中最强大的遗骸拼凑而成，居住在学院的底层，在那里他被喂养失败者和弱者。与更聪明的教师不同，拉文人是一种纯粹、贪婪本能的生物，在入侵者和学校最保守的秘密之间充当着一堵巨大的腐肉墙。"

@@ -505,12 +505,42 @@ SCHOLO.Bosses = {
             [31] = {IJDB.I[14641], DropChance = 4}
         }
     },
-    [11] = { -- NOTE: Missing abilities
+    [11] = {
         Id = "10901",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "polkelt" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "polkelt" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901,
+        Abilities = {
+            [1] = {
+                Id = "18270",
+                Icon = "Spell_Nature_NullifyDisease",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18270,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18270,
+                Flags = {IMAF.Disease}
+            },
+            [2] = {
+                Id = "24928",
+                Icon = "Spell_Holy_HarmUndeadAura",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_24928,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_24928,
+                Flags = {IMAF.Disease, IMAF.Important}
+            },
+            [3] = {
+                Id = "8245",
+                Icon = "Spell_Nature_Acid_01",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_8245,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_8245,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "18151",
+                Icon = "Spell_Holy_HarmUndeadAura",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18151,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18151,
+                Flags = {IMAF.Disease}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[12753], DropChance = 17},
             [2] = {IJDB.I[16705], DropChance = 17},

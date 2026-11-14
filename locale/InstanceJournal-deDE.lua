@@ -1431,6 +1431,18 @@ if GetLocale() == "deDE" then
         "Erhöht bei niedriger Gesundheit den verursachten körperlichen Schaden um 50 und das Nahkampfangriffstempo 120 Sekunden lang um 60%."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Wissenshüter Polkelt"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "Der Wissenshüter Polkelt war einst der Bewahrer des Wissens, das jedoch leider verloren gegangen ist, da er jetzt ein schlurfendes, unintelligentes Monster ist."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18270 = "Dunkle Seuche"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18270 =
+        "Verursacht Naturschaden und anschließend 90 Sekunden lang alle 5 Sekunden zusätzlichen Naturschaden.\n\nEntfernt diese Krankheit."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_24928 = "Flüchtige Infektion"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_24928 =
+        "Lässt das betroffene Ziel 2 Minuten lang alle 5 Sekunden Naturschaden bei nahen Verbündeten verursachen.\n\nEntfernt die Krankheit zügig und haltet den betroffenen Spieler bis dahin von der Gruppe fern."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_8245 = "Ätzende Säure"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_8245 =
+        "Verringert die Rüstung naher Gegner 5 Minuten lang.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18151 = "Giftiger Katalysator"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18151 =
+        "Verringert den Naturwiderstand eines Ziels 2 Minuten lang.\n\nEntfernt diese Krankheit."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "Der Ravenianer"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
         "Der Ravenian ist eine monströse Abscheulichkeit mit beispiellosem Hunger und dient als ultimative „Disziplinarmaßnahme“ der Schule. Er besteht aus den stärksten Überresten, die dem Kult zur Verfügung stehen, und wohnt in den unteren Tiefen der Akademie, wo er mit den Versagern und Schwachen gefüttert wird. Im Gegensatz zu den intelligenteren Lehrkräften ist der Ravenianer ein Geschöpf mit reinem, gefräßigem Instinkt und fungiert als massive Mauer aus verrottendem Fleisch zwischen Eindringlingen und den am besten gehüteten Geheimnissen der Schule."

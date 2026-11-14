@@ -1427,6 +1427,18 @@ if GetLocale() == "ptBR" then
         "Com pouca vida, aumenta o dano Físico causado em 50 e a velocidade de ataque corpo a corpo em 60% por 120 segundos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Guardião das Histórias Polkelt"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "O Lorekeeper Polkelt já foi o guardião do conhecimento, conhecimento que infelizmente foi perdido, pois agora ele é um monstro cambaleante e pouco inteligente."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18270 = "Peste Sombria"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18270 =
+        "Causa dano de Natureza, seguido de dano de Natureza adicional a cada 5 segundos por 90 segundos.\n\nRemova esta doença."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_24928 = "Infecção Volátil"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_24928 =
+        "Faz o alvo afetado causar dano de Natureza aos aliados próximos a cada 5 segundos por 2 minutos.\n\nRemova a doença rapidamente e mantenha o jogador afetado longe do grupo até a remoção."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_8245 = "Ácido Corrosivo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_8245 =
+        "Reduz a armadura dos inimigos próximos por 5 minutos.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18151 = "Catalisador Nocivo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18151 =
+        "Reduz a resistência à Natureza de um alvo por 2 minutos.\n\nRemova esta doença."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "O Raveniano"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
         "O Raveniano é uma abominação monstruosa de fome incomparável, servindo como a medida “disciplinar” definitiva da escola. Costurado com os restos mais fortes disponíveis para o culto, ele reside nos abismos inferiores da academia, onde é alimentado com os fracassados ​​e os fracos. Ao contrário do corpo docente mais inteligente, o Raveniano é uma criatura de instinto puro e guloso, agindo como uma enorme parede de carne podre entre intrusos e os segredos mais guardados da escola."

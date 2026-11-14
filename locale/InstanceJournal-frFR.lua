@@ -1430,6 +1430,18 @@ if GetLocale() == "frFR" then
         "Lorsque ses points de vie sont bas, augmente les dégâts physiques infligés de 50 et la vitesse d’attaque en mêlée de 60% pendant 120 secondes."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Gardien du savoir Polkelt"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 = "Le gardien du savoir Polkelt était autrefois le gardien du savoir, un savoir qui a malheureusement été perdu, car il est maintenant un monstre traînant et inintelligent."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18270 = "Peste noire"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18270 =
+        "Inflige des dégâts de Nature, puis des dégâts de Nature supplémentaires toutes les 5 secondes pendant 90 secondes.\n\nDissipez cette maladie."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_24928 = "Infection volatile"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_24928 =
+        "La cible affectée inflige des dégâts de Nature aux alliés proches toutes les 5 secondes pendant 2 minutes.\n\nDissipez rapidement la maladie et gardez le joueur affecté à distance du groupe en attendant."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_8245 = "Acide corrosif"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_8245 =
+        "Réduit l’armure des ennemis proches pendant 5 minutes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18151 = "Catalyseur nocif"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18151 =
+        "Réduit la résistance à la Nature d’une cible pendant 2 minutes.\n\nDissipez cette maladie."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "Le Ravenien"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
         "Le Ravenian est une abomination monstrueuse d'une faim sans précédent, servant de mesure « disciplinaire » ultime à l'école. Cousu à partir des restes les plus forts dont dispose le culte, il réside dans les fosses inférieures de l'académie où il nourrit les échecs et les faibles. Contrairement aux professeurs plus intelligents, le Ravenien est une créature à l'instinct pur et glouton, agissant comme un énorme mur de chair pourrie entre les intrus et les secrets les mieux gardés de l'école."

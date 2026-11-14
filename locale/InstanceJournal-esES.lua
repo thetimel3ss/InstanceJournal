@@ -1431,6 +1431,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10901 = "Conservador de conocimientos Polkelt"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10901 =
         "El Lorekeeper Polkelt fue una vez el guardián del conocimiento, conocimiento que lamentablemente se ha perdido, sin embargo, ya que ahora es un monstruo poco inteligente y tambaleante."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18270 = "Peste oscura"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18270 =
+        "Inflige daño de Naturaleza, seguido de daño de Naturaleza adicional cada 5 segundos durante 90 segundos.\n\nEliminad esta enfermedad."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_24928 = "Infección volátil"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_24928 =
+        "Hace que el objetivo afectado inflija daño de Naturaleza a los aliados cercanos cada 5 segundos durante 2 minutos.\n\nEliminad la enfermedad rápidamente y mantened al jugador afectado lejos del grupo hasta entonces."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_8245 = "Ácido corrosivo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_8245 =
+        "Reduce la armadura de los enemigos cercanos durante 5 minutos.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_NAME_18151 = "Catalizador nocivo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10901_ABILITY_EFFECT_18151 =
+        "Reduce la resistencia a la Naturaleza de un objetivo durante 2 minutos.\n\nEliminad esta enfermedad."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10507 = "El raveniano"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10507 =
         "El Raveniano es una monstruosa abominación de hambre incomparable, que sirve como medida \"disciplinaria\" definitiva de la escuela. Cosido a partir de los restos más fuertes disponibles para el culto, reside en los pozos inferiores de la academia donde se alimenta de los fracasados ​​y los débiles. A diferencia de la facultad más inteligente, el Raveniano es una criatura de instinto puro y glotón, que actúa como un enorme muro de carne podrida entre los intrusos y los secretos mejor guardados de la escuela."
