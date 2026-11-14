@@ -1309,6 +1309,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "Janice Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
         "Jandice Barov fue una vez una archimaga de Dalaran y una poderosa ilusionista. En vida, desarrolló un hechizo que \"mostraba varias imágenes de su cuerpo que eran casi indistinguibles de su forma real. Estas imágenes duplicaban sus acciones desde diferentes lugares, haciendo casi imposible que sus enemigos la encontraran. Era casi infalible\". Después de que la Casa Barov juró lealtad al Culto de los Condenados, Jandice se convirtió en un fantasma no-muerto dentro de Scholomance."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_16098 = "Maldición de sangre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_16098 =
+        "Aumenta el daño físico recibido por los enemigos cercanos durante 10 minutos.\n\nEliminad esta maldición."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_17773 = "Invocar ilusiones"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_17773 =
+        "Invoca ilusiones de sí misma. La verdadera Jandice tiene mucha más salud que las copias.\n\nUsad ataques directos o ataques físicos de hendidura contra las ilusiones; evitad depender del daño mágico de área."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_15584 = "Rajar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_15584 =
+        "Inflige daño físico a un objetivo y a sus aliados cercanos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "cascabel"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "Rattlegore está hecho de los restos de sus enemigos derrotados. Hasta el día de hoy protege a Scholomance contra intrusos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Caballero de la Muerte Darkreaver"

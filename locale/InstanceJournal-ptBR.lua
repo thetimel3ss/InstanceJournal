@@ -1306,6 +1306,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "Jandice Barov"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
         "Jandice Barov já foi arquimaga de Dalaran e uma poderosa ilusionista. Em vida, ela desenvolveu um feitiço que \"exibia várias imagens de seu corpo que eram quase indistinguíveis de sua forma real. Essas imagens duplicavam suas ações em diferentes locais, tornando quase impossível para seus inimigos encontrá-la. Era quase infalível.\""
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_16098 = "Maldição do Sangue"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_16098 =
+        "Aumenta o dano Físico recebido pelos inimigos próximos por 10 minutos.\n\nRemova esta maldição."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_17773 = "Invocar Ilusões"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_17773 =
+        "Invoca ilusões de si mesma. A verdadeira Jandice tem muito mais vida que as cópias.\n\nUse ataques diretos ou cutiladas Físicas contra as ilusões; evite depender de dano mágico em área."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_15584 = "Cutilada"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_15584 =
+        "Causa dano Físico a um alvo e aos aliados próximos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "Cascavel"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "Rattlegore é feito dos restos mortais de seus inimigos derrotados. Ele protege Scholomance contra intrusos até hoje."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Cavaleiro da Morte Darkreaver"

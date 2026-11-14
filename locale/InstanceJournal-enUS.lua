@@ -2218,6 +2218,15 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10506_ABILITY_EFFECT_8379 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "Jandice Barov"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
     "Jandice Barov was once an archmage of Dalaran and a powerful illusionist. In life, she developed a spell that \"displayed several images of her body that were nearly indistinguishable from her real form. These images duplicated her actions from different locations, making it nearly impossible for her enemies to find her. It was almost infallible.\" After House Barov pledged their allegiance to the Cult of the Damned, Jandice was turned into an undead ghost within Scholomance."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_16098 = "Curse of Blood"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_16098 =
+    "Increases Physical damage taken by nearby enemies for 10 minutes.\n\nRemove this curse."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_17773 = "Summon Illusions"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_17773 =
+    "Summons illusions of herself. The real Jandice has much more health than the copies.\n\nUse direct attacks or Physical cleaves against the illusions; avoid relying on magical area damage."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_15584 = "Cleave"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_15584 =
+    "Deals Physical damage to a target and nearby allies."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "Rattlegore"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "Rattlegore is made from the remains of his defeated enemies. He guard Scholomance against intruders to this day."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Death Knight Darkreaver"

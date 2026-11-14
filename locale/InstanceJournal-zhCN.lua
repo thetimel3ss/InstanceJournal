@@ -2311,6 +2311,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503 = "詹迪斯·巴罗夫"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503 =
         "詹迪丝·巴罗夫曾经是达拉然的大法师和强大的幻术师。在生前，她发明了一种咒语，“显示出她身体的几个图像，这些图像与她的真实形态几乎无法区分。这些图像从不同的位置复制了她的行为，使她的敌人几乎不可能找到她。这几乎是绝对正确的。”在巴罗夫家族宣誓效忠诅咒教派后，詹迪丝被变成了通灵学院中的不死鬼魂。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_16098 = "血之诅咒"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_16098 =
+        "使附近敌人受到的物理伤害提高，持续10分钟。\n\n移除此诅咒。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_17773 = "召唤幻象"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_17773 =
+        "召唤自身的幻象。真正的詹迪斯拥有远高于幻象的生命值。\n\n使用直接攻击或物理顺劈攻击对付幻象，不要依赖魔法范围伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_15584 = "顺劈斩"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_15584 =
+        "对一个目标及其附近盟友造成物理伤害。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_11622 = "血骨傀儡"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_11622 = "拉特戈尔是由他击败的敌人的遗骸制成的。直到今天，他仍然守护着通灵学院，抵御入侵者。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "死亡骑士达克雷尔"

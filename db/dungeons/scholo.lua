@@ -78,12 +78,36 @@ SCHOLO.Bosses = {
             [10] = {IJDB.I[51217], DropChance = 5}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "10503",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "jandice" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "jandice" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10503,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10503,
+        Abilities = {
+            [1] = {
+                Id = "16098",
+                Icon = "Spell_Shadow_RitualOfSacrifice",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_16098,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_16098,
+                Flags = {IMAF.Curse}
+            },
+            [2] = {
+                Id = "17773",
+                Icon = "Spell_Shadow_AuraOfDarkness",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_17773,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_17773,
+                Flags = {IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "15584",
+                        Icon = "Ability_Warrior_Cleave",
+                        Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_NAME_15584,
+                        Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10503_ABILITY_EFFECT_15584
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[14541], DropChance = 14},
             [2] = {IJDB.I[14545], DropChance = 14},
