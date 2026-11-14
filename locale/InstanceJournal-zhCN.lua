@@ -2363,6 +2363,12 @@ if GetLocale() == "zhCN" then
         "使30码内敌人的暗影抗性降低100点。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "维克图斯"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 = "维克图斯开发了通灵学院中发现的瘟疫龙，这些龙是他通过在燃烧平原付钱给丁基·蒸汽布尔从黑石塔运送龙蛋而获得的。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_18399 = "烈焰风暴"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_18399 =
+        "在选定区域造成火焰伤害，随后每2秒造成额外火焰伤害，持续8秒。\n\n离开火焰区域。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_16046 = "冲击波"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_16046 =
+        "对10码内的敌人造成火焰伤害，并使其移动速度降低70%，持续6秒。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "莱斯·霜语"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "拉斯·霜语曾经是一名来自激流堡的人类法师。他是一名树篱法师，一名从未在达拉然接受过正式训练的盗贼巫师。他是第一批加入诅咒教的人之一，并迅速在其队伍中晋升。他现在是通灵学院的监督者。"

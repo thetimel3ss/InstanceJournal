@@ -243,12 +243,27 @@ SCHOLO.Bosses = {
             [4] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "10432",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "vectus" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "vectus" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432,
+        Abilities = {
+            [1] = {
+                Id = "18399",
+                Icon = "Spell_Fire_SelfDestruct",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_18399,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_18399,
+                Flags = {IMAF.Important}
+            },
+            [2] = {
+                Id = "16046",
+                Icon = "Spell_Holy_Excorcism_02",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_16046,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_16046
+            }
+        },
         Loot = {
             [1] = {IJDB.I[14577], DropChance = 7}, 
             [2] = {IJDB.I[18691], DropChance = 7}, 

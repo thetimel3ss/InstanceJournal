@@ -1362,6 +1362,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "vectus"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 =
         "Vectus desarrolló los dragones plagados que se encuentran dentro de Scholomance, que obtuvo pagando a Tinkee Steamboil en Burning Steppes para que entregara huevos de dragón de Blackrock Spire."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_18399 = "Fogonazo"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_18399 =
+        "Inflige daño de Fuego en el área seleccionada, seguido de daño de Fuego adicional cada 2 segundos durante 8 segundos.\n\nSal de las llamas."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_16046 = "Ola explosiva"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_16046 =
+        "Inflige daño de Fuego a los enemigos en un radio de 10 metros y reduce su velocidad de movimiento un 70% durante 6 segundos."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Susurro de Escarcha"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "Ras Frostwhisper fue una vez un mago humano de Stromgarde. Era un mago de cobertura, un mago rebelde que nunca recibió su entrenamiento formal de Dalaran. Fue uno de los primeros en unirse al Culto de los Condenados y rápidamente avanzó en sus filas. Ahora es supervisor de Scholomance."

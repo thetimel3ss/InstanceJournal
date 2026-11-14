@@ -1363,6 +1363,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "Vectus"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 =
         "Vectus entwickelte die in Scholomance gefundenen geplagten Drachen, die er erhielt, indem er Tinkee Steamboil in der Brennenden Steppe bezahlte, um Dracheneier von der Schwarzfelsspitze zu liefern."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_18399 = "Flammenstoß"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_18399 =
+        "Verursacht Feuerschaden im ausgewählten Bereich und anschließend 8 Sekunden lang alle 2 Sekunden zusätzlichen Feuerschaden.\n\nVerlasst die Flammen."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_16046 = "Druckwelle"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_16046 =
+        "Verursacht Feuerschaden bei Gegnern innerhalb von 10 Metern und verringert ihre Bewegungsgeschwindigkeit 6 Sekunden lang um 70%."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Frostwisper"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "Ras Frostwhisper war einst ein menschlicher Magier aus Stromgarde. Er war ein Heckenmagier, ein abtrünniger Zauberer, der nie seine formelle Ausbildung in Dalaran erhalten hatte. Er gehörte zu den ersten, die sich dem Kult der Verdammten anschlossen, und stieg schnell in seinen Reihen auf. Er ist jetzt ein Aufseher von Scholomance."

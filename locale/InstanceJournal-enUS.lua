@@ -2270,6 +2270,12 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_10433_ABILITY_EFFECT_17695 =
     "Reduces the Shadow resistance of enemies within 30 yards by 100."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "Vectus"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 = "Vectus developed the plagued dragons found inside Scholomance, which he got by paying Tinkee Steamboil in the Burning Steppes to deliver dragon eggs from Blackrock Spire."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_18399 = "Flamestrike"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_18399 =
+    "Deals Fire damage in the selected area, followed by additional Fire damage every 2 seconds for 8 seconds.\n\nMove out of the flames."
+IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_16046 = "Blast Wave"
+IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_16046 =
+    "Deals Fire damage to enemies within 10 yards and reduces their movement speed by 70% for 6 seconds."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Frostwhisper"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
     "Ras Frostwhisper was once a human mage from Stromgarde. He was a hedge mage, a rogue wizard that never received his formal training from Dalaran. He was among the first to join the Cult of the Damned and quickly advanced through its ranks. He is now an overseer of Scholomance."

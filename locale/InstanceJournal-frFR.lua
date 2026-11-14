@@ -1362,6 +1362,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10432 = "Vectus"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10432 =
         "Vectus a développé les dragons pestiférés trouvés à l'intérieur de Scholomance, qu'il a obtenus en payant Tinkee Steamboil dans les Steppes ardentes pour qu'il livre des œufs de dragon de Blackrock Spire."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_18399 = "Choc de flammes"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_18399 =
+        "Inflige des dégâts de Feu dans la zone sélectionnée, puis des dégâts de Feu supplémentaires toutes les 2 secondes pendant 8 secondes.\n\nSortez des flammes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_NAME_16046 = "Vague explosive"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_10432_ABILITY_EFFECT_16046 =
+        "Inflige des dégâts de Feu aux ennemis à moins de 10 mètres et réduit leur vitesse de déplacement de 70% pendant 6 secondes."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10508 = "Ras Murmure-de-Givre"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10508 =
         "Ras Murmegivre était autrefois un mage humain de Stromgarde. C'était un mage des haies, un sorcier voyou qui n'a jamais reçu sa formation formelle de Dalaran. Il fut parmi les premiers à rejoindre le Culte des Damnés et gravit rapidement les échelons. Il est désormais surveillant de la Scholomance."
