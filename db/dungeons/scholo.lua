@@ -160,12 +160,41 @@ SCHOLO.Bosses = {
             [10] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "14516",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "darkreaver" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "darkreaver" .. IMPF,
         Name = IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516,
         Story = IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516,
+        Abilities = {
+            [1] = {
+                Id = "15284",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_15284,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_15284,
+                Flags = {IMAF.Tank}
+            },
+            [2] = {
+                Id = "17393",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_17393,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_17393
+            },
+            [3] = {
+                Id = "22644",
+                Icon = "Ability_Racial_Cannibalize",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_22644,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_22644,
+                Flags = {IMAF.Heal}
+            },
+            [4] = {
+                Id = "7645",
+                Icon = "Spell_Shadow_ShadowWordDominate",
+                Name = IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_7645,
+                Effect = IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_7645,
+                Flags = {IMAF.Magic, IMAF.Important}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[18758], DropChance = 25}, 
             [2] = {IJDB.I[18759], DropChance = 25}, 

@@ -1333,6 +1333,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Todesritter Darkreaver"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "Einst ein berühmter Paladin, wurde der Mann, der später als Darkreaver bekannt wurde, vom Ruf des Lichkönigs verführt und wurde zu einem heimtückischen Todesritter. Seine Verderbnis breitete sich auf sein Ross aus, das sich in ein untotes Pferd verwandelte. Darkreaver wurde zur Scholomance geschickt. Im Kerker unter dem Großen Beinhaus versuchte er, das Geisterreich seinen Launen anzupassen, indem er Geister herbeirief und korrumpierte, damit sie seinen Befehlen gehorchten."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_15284 = "Spalten"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_15284 =
+        "Verursacht körperlichen Schaden bei einem Ziel und nahen Verbündeten."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_17393 = "Schattenblitz"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_17393 =
+        "Fügt einem Ziel Schattenschaden zu."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_22644 = "Blutegel"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_22644 =
+        "Entzieht nahen Gegnern Gesundheit, verursacht körperlichen Schaden und heilt den Zaubernden."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_7645 = "Gedankenkontrolle"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_7645 =
+        "Kontrolliert ein Ziel und verringert sein Nahkampfangriffstempo 10 Sekunden lang.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Marduk Blackpool"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "Marduk Blackpool, auch bekannt als Marduk der Schwarze, ist ein berüchtigter Todesritter der Geißel. Er ist Dozent in Scholomance und teilt seine dunklen Geheimnisse mit den Schülern der Nekromantie."

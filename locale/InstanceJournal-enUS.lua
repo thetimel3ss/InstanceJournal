@@ -2241,6 +2241,18 @@ IJ_DB_DUNGEON_SCHOLO_BOSS_11622_ABILITY_EFFECT_18368 =
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Death Knight Darkreaver"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
     "Once a celebrated paladin, the man who would come to be known as Darkreaver was seduced by the call of the Lich King, and became an insidious death knight. His corruption spread to his steed, who was transformed into an undead horse. Darkreaver was sent to the Scholomance. In the dungeon below the Great Ossuary, he attempted to bend the spirit realm to his whim, summoning and corrupting spirits to do his bidding."
+IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_15284 = "Cleave"
+IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_15284 =
+    "Deals Physical damage to a target and nearby allies."
+IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_17393 = "Shadow Bolt"
+IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_17393 =
+    "Deals Shadow damage to a target."
+IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_22644 = "Blood Leech"
+IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_22644 =
+    "Drains health from nearby enemies, dealing Physical damage and healing the caster."
+IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_7645 = "Dominate Mind"
+IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_7645 =
+    "Controls a target and reduces their melee attack speed for 10 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Marduk Blackpool"
 IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
     "Marduk Blackpool, also known as Marduk the Black, is an infamous death knight of the Scourge. He is a tutor at Scholomance, sharing his dark secrets to the students of necromancy."

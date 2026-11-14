@@ -1332,6 +1332,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Caballero de la Muerte Darkreaver"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "El que alguna vez fue un célebre paladín, el hombre que llegaría a ser conocido como Darkreaver fue seducido por el llamado del Rey Exánime y se convirtió en un insidioso caballero de la muerte. Su corrupción se extendió a su corcel, que se transformó en un caballo no-muerto. Darkreaver fue enviado al Scholomance. En la mazmorra debajo del Gran Osario, intentó doblegar el reino de los espíritus a su antojo, convocando y corrompiendo espíritus para que cumplieran sus órdenes."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_15284 = "Rajar"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_15284 =
+        "Inflige daño físico a un objetivo y a sus aliados cercanos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_17393 = "Descarga de las Sombras"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_17393 =
+        "Inflige daño de las Sombras a un objetivo."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_22644 = "Sanguijuela de sangre"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_22644 =
+        "Drena salud de los enemigos cercanos, inflige daño físico y sana al taumaturgo."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_7645 = "Dominar mente"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_7645 =
+        "Controla a un objetivo y reduce su velocidad de ataque cuerpo a cuerpo durante 10 segundos.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Marduk Blackpool"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "Marduk Blackpool, también conocido como Marduk el Negro, es un infame caballero de la muerte de la Plaga. Es tutor en Scholomance y comparte sus oscuros secretos con los estudiantes de nigromancia."

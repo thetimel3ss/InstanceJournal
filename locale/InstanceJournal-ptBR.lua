@@ -1329,6 +1329,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "Cavaleiro da Morte Darkreaver"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "Outrora um célebre paladino, o homem que viria a ser conhecido como Darkreaver foi seduzido pelo chamado do Lich King e se tornou um insidioso cavaleiro da morte. Sua corrupção se espalhou para seu cavalo, que foi transformado em um cavalo morto-vivo. Darkreaver foi enviado para Scholomance. Na masmorra abaixo do Grande Ossuário, ele tentou dobrar o reino espiritual ao seu capricho, convocando e corrompendo espíritos para cumprir suas ordens."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_15284 = "Cutilada"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_15284 =
+        "Causa dano Físico a um alvo e aos aliados próximos."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_17393 = "Seta Sombria"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_17393 =
+        "Causa dano de Sombra a um alvo."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_22644 = "Drenar Sangue"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_22644 =
+        "Drena a vida dos inimigos próximos, causando dano Físico e curando o lançador."
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_7645 = "Dominar Mente"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_7645 =
+        "Controla um alvo e reduz sua velocidade de ataque corpo a corpo por 10 segundos.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "Marduk Blackpool"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "Marduk Blackpool, também conhecido como Marduk, o Negro, é um infame cavaleiro da morte do Flagelo. Ele é um tutor em Scholomance, compartilhando seus segredos obscuros com os estudantes de necromancia."

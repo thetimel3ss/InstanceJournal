@@ -2334,6 +2334,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_14516 = "死亡骑士达克雷尔"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_14516 =
         "这位后来被称为黑暗掠夺者的人曾经是一位著名的圣骑士，但受到巫妖王的召唤而成为一名阴险的死亡骑士。他的腐败蔓延到了他的坐骑上，他的坐骑变成了不死马。暗掠者被送往通灵学院。在大骨库下方的地牢中，他试图让精神领域屈服于他的心血来潮，召唤并腐蚀灵魂来执行他的命令。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_15284 = "顺劈斩"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_15284 =
+        "对一个目标及其附近盟友造成物理伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_17393 = "暗影箭"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_17393 =
+        "对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_22644 = "吸血"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_22644 =
+        "吸取附近敌人的生命值，造成物理伤害并治疗施法者。"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_NAME_7645 = "控制心智"
+    IJ_DB_DUNGEON_SCHOLO_BOSS_14516_ABILITY_EFFECT_7645 =
+        "控制一个目标，并降低其近战攻击速度，持续10秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_SCHOLO_BOSS_NAME_10433 = "马杜克·布莱克波尔"
     IJ_DB_DUNGEON_SCHOLO_BOSS_STORY_10433 =
         "马杜克·布莱克浦，也被称为“黑色马杜克”，是臭名昭著的天灾军团死亡骑士。他是通灵学院的导师，向死灵系的学生分享他的黑暗秘密。"
