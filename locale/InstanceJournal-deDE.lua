@@ -841,6 +841,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "Zwielichtlord Kelris"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
         "Als die Kultisten im Bauch der Blackfathom Deeps eine seltsame dreiköpfige Kreatur fanden, war Twilight Lord Kelris überzeugt, dass die Hydra ein Vorbote der Rückkehr der Alten Götter nach Azeroth war ... und seine Eintrittskarte in die Unsterblichkeit. Kelris überwacht persönlich das Wachstum des Monsters und füttert ihn sogar mit seinen eigenen Untertanen, um seinen wilden Hunger zu stillen."
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_15587 = "Gedankenschlag"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_15587 =
+        "Fügt einem Gegner Schattenschaden zu."
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_8399 = "Schlaf"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_8399 =
+        "Versetzt nahe Gegner bis zu 10 Sek. lang in Schlaf. Schaden weckt sie auf. Bannt diesen magischen Effekt."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "Aku'mai"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
         "Aku'mai, ein uraltes Übel, trägt einen kleinen Teil der Macht der Alten Götter in sich. Diese dreiköpfige Hydra ist wegen ihrer gedankenlosen Wildheit und ihres unstillbaren Hungers nach lebendigem Fleisch sehr gefürchtet, aber der Hammer des Zwielichts verehrt sie als göttliches Zeichen dafür, dass die Alten Götter bald zurückkehren werden."

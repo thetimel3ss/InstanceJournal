@@ -1201,6 +1201,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "梦游者克尔里斯"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
         "当信徒们在黑暗深渊的腹地发现了一种奇怪的三头生物时，暮光领主凯里斯确信这只九头蛇是上古之神重返艾泽拉斯的先驱……也是他永生的门票。凯里斯亲自监督怪物的成长，甚至喂养他自己的臣民来满足他的疯狂饥饿。"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_15587 = "心灵震爆"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_15587 =
+        "对一名敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_8399 = "催眠术"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_8399 =
+        "使附近的敌人沉睡，最多持续10秒。受到伤害会醒来。驱散此魔法效果。"
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "阿库麦尔"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
         "阿库麦是一种古老的邪恶力量，她体内携带着一小部分上古之神的力量。这种三头九头蛇因其无意识的野蛮行为和对活生生的贪得无厌而令人恐惧，但暮光之锤崇拜她，将其视为上古之神即将回归的神圣标志。"

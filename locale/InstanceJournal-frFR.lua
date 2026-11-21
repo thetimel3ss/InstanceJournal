@@ -839,6 +839,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "Seigneur du Crépuscule Kelris"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
         "Lorsque les cultistes trouvèrent une étrange créature à trois têtes dans le ventre des Profondeurs de Fathom Noire, le Seigneur du Crépuscule Kelris fut convaincu que l'hydre était un héraut du retour des Dieux très anciens en Azeroth... et de son ticket pour l'immortalité. Kelris supervise personnellement la croissance du monstre, lui donnant même ses propres sujets pour satisfaire sa faim sauvage."
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_15587 = "Attaque mentale"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_15587 =
+        "Inflige des dégâts d’Ombre à un ennemi."
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_8399 = "Sommeil"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_8399 =
+        "Endort les ennemis proches pendant 10 s au maximum. Les dégâts les réveillent. Dissipez cet effet magique."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "Akumai"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
         "Aku'mai, un mal ancien, porte en elle une petite mesure du pouvoir des Dieux très anciens. Cette hydre à trois têtes est très crainte pour sa sauvagerie insensée et sa faim insatiable de chair vivante, mais le Marteau du Crépuscule la vénère comme un signe divin du retour bientôt des Dieux très anciens."

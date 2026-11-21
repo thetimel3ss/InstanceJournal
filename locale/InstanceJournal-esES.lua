@@ -839,6 +839,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "Señor del Crepúsculo Kelris"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
         "Cuando los cultistas encontraron una extraña criatura de tres cabezas en el vientre de Blackfathom Deeps, Twilight Lord Kelris estaba convencido de que la hidra era un heraldo del regreso de los Dioses Antiguos a Azeroth... y su boleto a la inmortalidad. Kelris supervisa personalmente el crecimiento del monstruo, incluso alimentándolo con sus propios súbditos para satisfacer su hambre salvaje."
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_15587 = "Explosión mental"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_15587 =
+        "Inflige daño de las Sombras a un enemigo."
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_8399 = "Dormir"
+    IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_8399 =
+        "Duerme a los enemigos cercanos hasta 10 s. El daño los despierta. Disipa este efecto mágico."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "Aku'mai"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
         "Aku'mai, un antiguo mal, lleva dentro de ella una pequeña medida del poder de los Dioses Antiguos. Esta hidra de tres cabezas es muy temida por su salvajismo sin sentido y su hambre insaciable de carne viva, pero el Martillo Crepuscular la adora como una señal divina de que los Dioses Antiguos pronto regresarán."

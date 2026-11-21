@@ -170,7 +170,7 @@ BFD.Bosses = {
             [3] = {IJDB.I[6901], DropChance = 33}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "4832",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "kelris" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "kelris" .. IMPF,
@@ -178,6 +178,21 @@ BFD.Bosses = {
         Story = IJ_DB_DUNGEON_BFD_BOSS_STORY_4832,
         MapCoordinateX = 53.5,
         MapCoordinateY = 87.5,
+        Abilities = {
+            [1] = {
+                Id = "15587",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_15587,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_15587
+            },
+            [2] = {
+                Id = "8399",
+                Icon = "Spell_Nature_Sleep",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_8399,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_8399,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[1155], DropChance = 50}, 
             [2] = {IJDB.I[6903], DropChance = 35}, 

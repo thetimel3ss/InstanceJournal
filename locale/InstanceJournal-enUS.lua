@@ -1106,6 +1106,12 @@ IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_EFFECT_8433 =
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "Twilight Lord Kelris"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
     "When the cultists found a strange three-headed creature in the belly of Blackfathom Deeps, Twilight Lord Kelris was convinced the hydra was a herald of the Old Gods' return to Azeroth... and his ticket to immortality. Kelris personally supervises the growth of the monster, even feeding him his own subjects to satisfy his wild hunger."
+IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_15587 = "Mind Blast"
+IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_15587 =
+    "Deals Shadow damage to an enemy."
+IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_NAME_8399 = "Sleep"
+IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_8399 =
+    "Puts nearby enemies to sleep for up to 10 sec. Damage awakens them. Dispel this Magic effect."
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "Aku'mai"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
     "Aku'mai, an ancient evil, carries within her a small measure of the Old Gods' power. This three-headed hydra is greatly feared for her mindless savagery and insatiable hunger for living flesh, but the Twilight's Hammer worships her as a divine sign that the Old Gods will soon return."
