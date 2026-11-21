@@ -3570,6 +3570,9 @@ IJ_DB_DUNGEON_SFK_STORY =
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3914 = "Rethilgore"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3914 =
     "Rethilgore is one of the most vicious worgen, entrusted by Archmage Arugal to guard the prisoners who have been caught breaking into Shadowfang Keep. These include Deathstalker Adamant, Sorcerer Ashcrombe and Landen Stilwell."
+IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_NAME_7295 = "Soul Drain"
+IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_EFFECT_7295 =
+    "Drains health from an enemy to the caster and immobilizes the target for 10 sec. Dispel this Magic effect."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Razorclaw the Butcher"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 = "Razorclaw inhabits the former kitchen of Shadowfang Keep. He slaughtered many innocent humans in Shadowfang Keep when brought in by his master Arugal, hence his nickname."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Baron Silverlaine"

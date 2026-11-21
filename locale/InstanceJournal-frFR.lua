@@ -2555,6 +2555,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3914 = "Réthilgore"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3914 =
         "Rethilgore est l'un des worgens les plus vicieux, chargé par l'archimage Arugal de garder les prisonniers qui ont été surpris par effraction dans le Donjon d'Ombrecroc. Ceux-ci incluent Deathstalker Adamant, le sorcier Ashcrombe et Landen Stilwell."
+    IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_NAME_7295 = "Drain d’âme"
+    IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_EFFECT_7295 =
+        "Draine la vie d’un ennemi au profit du lanceur et immobilise la cible pendant 10 s. Dissipez cet effet magique."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Griffe de Rasoir le Boucher"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 =
         "Griffe de Rasoir habite l'ancienne cuisine du Donjon d'Ombrecroc. Il a massacré de nombreux humains innocents dans le donjon d'Ombrecroc lorsqu'il a été amené par son maître Arugal, d'où son surnom."

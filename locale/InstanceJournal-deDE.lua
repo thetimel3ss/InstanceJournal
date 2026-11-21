@@ -2557,6 +2557,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3914 = "Rethilgore"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3914 =
         "Rethilgore ist einer der bösartigsten Worgen, den Erzmagier Arugal damit beauftragt hat, die Gefangenen zu bewachen, die beim Einbruch in die Burg Schattenfang ertappt wurden. Dazu gehören Deathstalker Adamant, Sorcerer Ashcrombe und Landen Stilwell."
+    IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_NAME_7295 = "Seelenentzug"
+    IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_EFFECT_7295 =
+        "Entzieht einem Gegner Gesundheit und überträgt sie auf den Zaubernden. Macht das Ziel für 10 Sek. bewegungsunfähig. Bannt diesen magischen Effekt."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Razorclaw der Schlächter"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 =
         "Razorclaw bewohnt die ehemalige Küche der Festung Shadowfang. Als er von seinem Meister Arugal hereingebracht wurde, schlachtete er viele unschuldige Menschen in der Burg Schattenfang ab, daher sein Spitzname."

@@ -30,7 +30,7 @@ SFK.Entrances = {
     }
 }
 SFK.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "3914",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "rethilgore" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "rethilgore" .. IMPF,
@@ -39,6 +39,15 @@ SFK.Bosses = {
         MapCoordinateX = 82.7,
         MapCoordinateY = 77.0,
         MapIsBelow = true,
+        Abilities = {
+            [1] = {
+                Id = "7295",
+                Icon = "Spell_Shadow_LifeDrain02",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_NAME_7295,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_EFFECT_7295,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[80713], DropChance = 35}, 
             [2] = {IJDB.I[80714], DropChance = 35}

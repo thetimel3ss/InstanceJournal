@@ -2553,6 +2553,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3914 = "Rethilgore"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3914 =
         "Rethilgore é um dos worgens mais cruéis, confiado pelo Arquimago Arugal para proteger os prisioneiros que foram pegos invadindo a Fortaleza Presa Negra. Estes incluem Deathstalker Adamant, Sorcerer Ashcrombe e Landen Stilwell."
+    IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_NAME_7295 = "Drenar Alma"
+    IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_EFFECT_7295 =
+        "Drena vida de um inimigo para o lançador e imobiliza o alvo por 10 s. Dissipe este efeito mágico."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Garra Navalha, o Açougueiro"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 = "Razorclaw habita a antiga cozinha do Shadowfang Keep. Ele massacrou muitos humanos inocentes em Shadowfang Keep quando trazido por seu mestre Arugal, daí seu apelido."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Barão Silverlaine"
