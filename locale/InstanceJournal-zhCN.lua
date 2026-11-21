@@ -3700,6 +3700,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "盲眼守卫奥杜"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "奥多和两只宠物蝙蝠（一只寻血者和一只邪恶蝙蝠）住在摇摇欲坠地悬挂在城堡一侧的破旧木结构里。尽管他很久以前就失去了视力（因此有了他的绰号），但他已经适应了使用他的其他感官，就像他的宠物一样。"
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_NAME_7483 = "嚎叫之怒"
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_EFFECT_7483 =
+        "提高造成的物理伤害并增大体型，更强的版本会进一步增强这些效果。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "死亡之誓队长"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "难以捉摸的人类幽灵，在影牙城堡的普通居民中很少见到。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"

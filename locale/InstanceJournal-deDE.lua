@@ -2595,6 +2595,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo der Blindwächter"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "Odo lebt in der heruntergekommenen Holzkonstruktion, die gefährlich an der Seite des Bergfrieds hängt, zusammen mit zwei Haustierfledermäusen, einem Blutsucher und einer Gemeinen Fledermaus. Obwohl er vor langer Zeit sein Augenlicht verloren hat (daher sein Spitzname), hat er sich daran gewöhnt, seine anderen Sinne zu nutzen, ähnlich wie seine Haustiere."
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_NAME_7483 = "Heulende Wut"
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_EFFECT_7483 =
+        "Erhöht den verursachten körperlichen Schaden und die Größe. Stärkere Varianten verstärken diese Effekte weiter."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Todesgeschworener Kapitän"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "Ein schwer fassbarer menschlicher Geist, der in der allgemeinen Bevölkerung der Burg Schattenfang selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."

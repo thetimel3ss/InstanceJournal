@@ -2593,6 +2593,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo el Vigilante Ciego"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "Odo vive en la ruinosa estructura de madera que cuelga precariamente del costado de la torre del homenaje con dos murciélagos como mascota, un Buscador de sangre y un Murciélago vil. Aunque perdió la vista hace mucho tiempo (de ahí su apodo), se ha adaptado a utilizar sus otros sentidos, al igual que sus mascotas."
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_NAME_7483 = "Ira aullante"
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_EFFECT_7483 =
+        "Aumenta el daño físico infligido y el tamaño, con versiones más potentes que intensifican estos efectos."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Capitán jurado por la muerte"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "Un fantasma humano esquivo, rara vez visto entre la población general de Shadowfang Keep. Se dice que posee muchos objetos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlo en primer lugar..."

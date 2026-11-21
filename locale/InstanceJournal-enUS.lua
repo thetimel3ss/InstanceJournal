@@ -3607,6 +3607,9 @@ IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_498 =
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo the Blindwatcher"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
     "Odo lives in the dilapidated wooden structure hanging precariously off the side of the keep with two pet bats, a Blood Seeker and a Vile Bat. Although he lost his eyesight long ago (hence his nickname), he has adapted to using his other senses, much like his pets."
+IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_NAME_7483 = "Howling Rage"
+IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_EFFECT_7483 =
+    "Increases Physical damage dealt and grows in size, with stronger versions increasing these effects further."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Deathsworn Captain"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
     "An elusive human ghost, rarely seen among the general population of Shadowfang Keep. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."

@@ -2593,6 +2593,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo le Veilleur Aveugle"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "Odo vit dans la structure en bois délabrée suspendue de manière précaire au côté du donjon avec deux chauves-souris de compagnie, un chercheur de sang et une chauve-souris vile. Bien qu’il ait perdu la vue depuis longtemps (d’où son surnom), il s’est adapté à l’utilisation de ses autres sens, tout comme ses animaux de compagnie."
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_NAME_7483 = "Rage hurlante"
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_EFFECT_7483 =
+        "Augmente les dégâts physiques infligés et la taille, les versions plus puissantes renforçant ces effets."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Capitaine assermenté par la mort"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "Un fantôme humain insaisissable, rarement vu parmi la population générale du Donjon d'Ombrecroc. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."

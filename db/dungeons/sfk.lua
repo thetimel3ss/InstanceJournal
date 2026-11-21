@@ -163,7 +163,7 @@ SFK.Bosses = {
             [3] = {IJDB.I[80717], DropChance = 35}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "4279",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "odo" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "odo" .. IMPF,
@@ -171,6 +171,14 @@ SFK.Bosses = {
         Story = IJ_DB_DUNGEON_SFK_BOSS_STORY_4279,
         MapCoordinateX = 76.6,
         MapCoordinateY = 70.9,
+        Abilities = {
+            [1] = {
+                Id = "7483",
+                Icon = "Ability_BullRush",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_NAME_7483,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_EFFECT_7483
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6318], DropChance = 50}, 
             [2] = {IJDB.I[6319], DropChance = 50}

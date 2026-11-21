@@ -2590,6 +2590,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo, o Observador Cego"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "Odo vive na estrutura de madeira em ruínas pendurada precariamente na lateral da fortaleza com dois morcegos de estimação, um Blood Seeker e um Vile Bat. Embora tenha perdido a visão há muito tempo (daí seu apelido), ele se adaptou a usar os outros sentidos, assim como seus animais de estimação."
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_NAME_7483 = "Fúria Uivante"
+    IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_EFFECT_7483 =
+        "Aumenta o dano Físico causado e o tamanho, com versões mais fortes ampliando esses efeitos."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Capitão Morto"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "Um fantasma humano indescritível, raramente visto entre a população em geral da Fortaleza Presa Negra. Diz-se que ele possui muitos itens cobiçados que muitos gostariam de poder colocar em suas mãos, se ao menos pudessem encontrá-lo em primeiro lugar..."
