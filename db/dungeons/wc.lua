@@ -86,7 +86,7 @@ WC.Bosses = {
             [3] = {IJDB.I[10410], DropChance = 33}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = { -- NOTE: Only auto attacks observed in reviewed logs; no abilities listed in the database
         Id = "5912",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "deviate" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "deviate" .. IMPF,
