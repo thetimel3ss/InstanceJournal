@@ -2586,6 +2586,12 @@ if GetLocale() == "deDE" then
         "Verursacht über 24 Sek. Schattenschaden, der mit der Zeit zunimmt. Entfernt diesen Fluch."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Kommandant Springvale"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "Als treuer Soldat spukt der Geist von Commander Springvale durch den Ratssaal und setzt unheilige Schläge ein, um seinen Herrn, Baron Silverlaine, zu rächen."
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_1026 = "Heiliges Licht"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_1026 =
+        "Heilt ein verbündetes Ziel."
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_498 = "Göttlicher Schutz"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_498 =
+        "Wird 6 Sek. lang gegen körperlichen und magischen Schaden immun, kann dabei aber weder angreifen noch körperliche Fähigkeiten einsetzen."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo der Blindwächter"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "Odo lebt in der heruntergekommenen Holzkonstruktion, die gefährlich an der Seite des Bergfrieds hängt, zusammen mit zwei Haustierfledermäusen, einem Blutsucher und einer Gemeinen Fledermaus. Obwohl er vor langer Zeit sein Augenlicht verloren hat (daher sein Spitzname), hat er sich daran gewöhnt, seine anderen Sinne zu nutzen, ähnlich wie seine Haustiere."

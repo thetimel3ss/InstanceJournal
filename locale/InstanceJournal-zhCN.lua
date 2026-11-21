@@ -3691,6 +3691,12 @@ if GetLocale() == "zhCN" then
         "在24秒内造成暗影伤害，伤害随时间增加。解除此诅咒。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "指挥官斯普林瓦尔"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "斯普林维尔指挥官的鬼魂是一位忠诚的士兵，他的鬼魂出没于议事厅，使用邪恶的攻击为他的领主西尔弗莱恩男爵报仇。"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_1026 = "圣光术"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_1026 =
+        "治疗一个友方目标。"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_498 = "圣佑术"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_498 =
+        "免疫物理和魔法伤害，持续6秒，但在此期间无法攻击或使用物理技能。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "盲眼守卫奥杜"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "奥多和两只宠物蝙蝠（一只寻血者和一只邪恶蝙蝠）住在摇摇欲坠地悬挂在城堡一侧的破旧木结构里。尽管他很久以前就失去了视力（因此有了他的绰号），但他已经适应了使用他的其他感官，就像他的宠物一样。"

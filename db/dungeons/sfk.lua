@@ -135,7 +135,7 @@ SFK.Bosses = {
             [4] = {IJDB.I[55385], DropChance = 25}
         }
     },
-    [5] = { -- NOTE: Missing abilities
+    [5] = {
         Id = "4278",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "springvale" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "springvale" .. IMPF,
@@ -143,6 +143,20 @@ SFK.Bosses = {
         Story = IJ_DB_DUNGEON_SFK_BOSS_STORY_4278,
         MapCoordinateX = 47.0,
         MapCoordinateY = 66.1,
+        Abilities = {
+            [1] = {
+                Id = "1026",
+                Icon = "Spell_Holy_HolyBolt",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_1026,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_1026
+            },
+            [2] = {
+                Id = "498",
+                Icon = "Spell_Holy_Restoration",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_498,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_498
+            }
+        },
         Loot = {
             [1] = {IJDB.I[3191], DropChance = 50}, 
             [2] = {IJDB.I[6320], DropChance = 50}, 

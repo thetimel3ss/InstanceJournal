@@ -2581,6 +2581,12 @@ if GetLocale() == "ptBR" then
         "Causa dano de Sombra ao longo de 24 s, com dano crescente ao longo do tempo. Remova esta maldição."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Comandante Springvale"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "Soldado leal, o fantasma do Comandante Springvale assombra a sala do conselho, usando ataques profanos para vingar seu senhor, o Barão Silverlaine."
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_1026 = "Luz Sagrada"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_1026 =
+        "Cura um alvo aliado."
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_498 = "Proteção Divina"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_498 =
+        "Torna-se imune a dano Físico e mágico por 6 s, mas não pode atacar nem usar habilidades físicas durante esse período."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo, o Observador Cego"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "Odo vive na estrutura de madeira em ruínas pendurada precariamente na lateral da fortaleza com dois morcegos de estimação, um Blood Seeker e um Vile Bat. Embora tenha perdido a visão há muito tempo (daí seu apelido), ele se adaptou a usar os outros sentidos, assim como seus animais de estimação."

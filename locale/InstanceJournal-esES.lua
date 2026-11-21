@@ -2584,6 +2584,12 @@ if GetLocale() == "esES" then
         "Inflige daño de las Sombras durante 24 s, aumentando con el tiempo. Elimina esta maldición."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Comandante Valle Primavera"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "Un soldado leal, el fantasma del comandante Springvale ronda la sala del consejo, usando golpes impíos para vengar a su señor, el barón Silverlaine."
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_1026 = "Luz Sagrada"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_1026 =
+        "Sana a un objetivo aliado."
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_498 = "Protección divina"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_498 =
+        "Se vuelve inmune al daño físico y mágico durante 6 s, pero no puede atacar ni usar habilidades físicas durante ese tiempo."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo el Vigilante Ciego"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "Odo vive en la ruinosa estructura de madera que cuelga precariamente del costado de la torre del homenaje con dos murciélagos como mascota, un Buscador de sangre y un Murciélago vil. Aunque perdió la vista hace mucho tiempo (de ahí su apodo), se ha adaptado a utilizar sus otros sentidos, al igual que sus mascotas."

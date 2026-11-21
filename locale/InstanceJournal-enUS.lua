@@ -3598,6 +3598,12 @@ IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_11711 =
     "Deals Shadow damage over 24 sec., with damage increasing over time. Remove this Curse."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Commander Springvale"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "A loyal soldier, the ghost of Commander Springvale haunts the council room, using unholy strikes to avenge his lord, Baron Silverlaine."
+IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_1026 = "Holy Light"
+IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_1026 =
+    "Heals a friendly target."
+IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_498 = "Divine Protection"
+IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_498 =
+    "Becomes immune to Physical and magical damage for 6 sec., but cannot attack or use Physical abilities during this time."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo the Blindwatcher"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
     "Odo lives in the dilapidated wooden structure hanging precariously off the side of the keep with two pet bats, a Blood Seeker and a Vile Bat. Although he lost his eyesight long ago (hence his nickname), he has adapted to using his other senses, much like his pets."

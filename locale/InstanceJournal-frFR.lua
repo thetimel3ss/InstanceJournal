@@ -2584,6 +2584,12 @@ if GetLocale() == "frFR" then
         "Inflige des dégâts d’Ombre pendant 24 s, qui augmentent avec le temps. Dissipez cette malédiction."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Commandant Springvale"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "Soldat fidèle, le fantôme du commandant Springvale hante la salle du conseil, utilisant des frappes impies pour venger son seigneur, le baron Silverlaine."
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_1026 = "Lumière sacrée"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_1026 =
+        "Soigne une cible alliée."
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_NAME_498 = "Protection divine"
+    IJ_DB_DUNGEON_SFK_BOSS_4278_ABILITY_EFFECT_498 =
+        "Devient insensible aux dégâts physiques et magiques pendant 6 s, mais ne peut ni attaquer ni utiliser de capacités physiques pendant ce temps."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo le Veilleur Aveugle"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4279 =
         "Odo vit dans la structure en bois délabrée suspendue de manière précaire au côté du donjon avec deux chauves-souris de compagnie, un chercheur de sang et une chauve-souris vile. Bien qu’il ait perdu la vue depuis longtemps (d’où son surnom), il s’est adapté à l’utilisation de ses autres sens, tout comme ses animaux de compagnie."
