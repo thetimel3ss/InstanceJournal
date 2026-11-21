@@ -503,9 +503,10 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Greenskin, Kapitän des laufenden Molochs, stammt aus Booty Bay, wo er früher eine Flotte von Piratenschiffen anführte."
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Vergiftete Harpune"
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208 =
-        "Captain Greenskin sticht mit seiner vergifteten Harpune auf seinen Feind ein und fügt ihm 1 Minute lang alle 10 Sekunden physischen Schaden plus 30 und zusätzlich 45 Naturschaden zu."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_845 = "Spalten"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_845 = "Captain Greenskin spaltet alle Feinde vor ihm."
+        "Fügt einem Gegner körperlichen Schaden zu und verursacht anschließend 60 Sek. lang alle 10 Sek. Naturschaden.\n\nEntfernt diesen Gifteffekt."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_15584 = "Spalten"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_15584 =
+        "Fügt einem Gegner und nahen Verbündeten körperlichen Schaden zu und trifft bis zu 3 Ziele."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin Van Cleef"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "Als ehemaliger Anführer der Steinmetzgilde führten Streitigkeiten mit dem Haus der Adligen dazu, dass VanCleef Stormwind City verließ und die Defias-Bruderschaft gründete. VanCleef beanspruchte dann die Deadmines als Operationsbasis für den Bau des Molochs, mit dem seine Vergeltung beginnen sollte."

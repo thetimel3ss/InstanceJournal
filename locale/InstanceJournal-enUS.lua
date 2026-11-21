@@ -541,9 +541,11 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 =
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_647 = "Captain Greenskin"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Captain of the juggernaut-in-progress, Greenskin hails from Booty Bay where he formerly led a fleet of pirate vessels."
 IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Poisoned Harpoon"
-IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208 = "Captain Greenskin stabs his enemy with his poisoned harpoon, inflicting physical damage plus 30, then an additional 45 nature damage every 10 seconds for 1 minute."
-IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_845 = "Cleave"
-IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_845 = "Captain Greenskin cleaves all enemies in front of him."
+IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208 =
+    "Deals Physical damage to an enemy, then Nature damage every 10 sec. for 60 sec.\n\nRemove this Poison effect."
+IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_15584 = "Cleave"
+IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_15584 =
+    "Deals Physical damage to an enemy and nearby allies, hitting up to 3 targets."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin VanCleef"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
     "Formerly the leader of the Stonemasons Guild, disputes with the House of Nobles led VanCleef to leave Stormwind City and create the Defias Brotherhood. VanCleef then claimed the Deadmines as a base of operations to construct the juggernaut that would begin his retribution."

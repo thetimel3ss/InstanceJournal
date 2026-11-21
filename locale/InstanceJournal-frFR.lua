@@ -501,9 +501,10 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Capitaine du mastodonte en cours, Greenskin est originaire de Booty Bay où il dirigeait autrefois une flotte de navires pirates."
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Harpon empoisonné"
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208 =
-        "Le capitaine Greenskin poignarde son ennemi avec son harpon empoisonné, lui infligeant des dégâts physiques plus 30, puis 45 dégâts de nature supplémentaires toutes les 10 secondes pendant 1 minute."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_845 = "Fendre"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_845 = "Le capitaine Greenskin fend tous les ennemis devant lui."
+        "Inflige des dégâts physiques à un ennemi, puis des dégâts de Nature toutes les 10 s pendant 60 s.\n\nDissipez cet effet de poison."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_15584 = "Fendre"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_15584 =
+        "Inflige des dégâts physiques à un ennemi et à ses alliés proches, touchant jusqu’à 3 cibles."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin VanCleef"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "Ancien chef de la guilde des tailleurs de pierre, des différends avec la Maison des Nobles ont conduit VanCleef à quitter Hurlevent et à créer la Confrérie Défias. VanCleef a ensuite revendiqué les Deadamines comme base d'opérations pour construire le poids lourd qui allait commencer son châtiment."

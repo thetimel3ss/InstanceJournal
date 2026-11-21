@@ -500,9 +500,10 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Capitão do rolo compressor em andamento, Pele Verde nasceu em Booty Bay, onde anteriormente liderou uma frota de navios piratas."
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Arpão Envenenado"
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208 =
-        "Capitão Pele Verde apunhala seu inimigo com seu arpão envenenado, causando dano físico mais 30, depois mais 45 de dano natural a cada 10 segundos por 1 minuto."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_845 = "Dividir"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_845 = "O Capitão Pele Verde destrói todos os inimigos à sua frente."
+        "Causa dano físico a um inimigo e, depois, dano de Natureza a cada 10 s por 60 s.\n\nRemova este efeito de veneno."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_15584 = "Dividir"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_15584 =
+        "Causa dano físico a um inimigo e seus aliados próximos, atingindo até 3 alvos."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin VanCleef"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "Ex-líder da Guilda dos Pedreiros, disputas com a Casa dos Nobres levaram VanCleef a deixar a Cidade de Ventobravo e criar a Irmandade Défias. VanCleef então reivindicou Deadmines como base de operações para construir o rolo compressor que iniciaria sua retribuição."

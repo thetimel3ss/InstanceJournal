@@ -638,9 +638,11 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_647 = "绿皮队长"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "格林斯金是这艘正在发展的主宰舰的船长，他来自藏宝海湾，他曾在那里领导一支海盗船队。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "毒性鱼叉"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208 = "格林斯金船长用他的毒鱼叉刺向敌人，每 10 秒造成 30 点物理伤害，然后每 10 秒额外造成 45 点自然伤害，持续 1 分钟。"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_845 = "顺劈斩"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_845 = "格林斯金队长将面前的所有敌人劈成两半。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208 =
+        "对一名敌人造成物理伤害，随后每10秒造成一次自然伤害，持续60秒。\n\n解除此中毒效果。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_15584 = "顺劈斩"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_15584 =
+        "对一名敌人及其附近的盟友造成物理伤害，最多影响3个目标。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "艾德温·范克里夫"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "范克里夫曾是石匠公会的领袖，与贵族院的纠纷导致范克里夫离开暴风城并创建了迪菲亚兄弟会。范克里夫随后声称死亡矿井是他建造主宰的行动基地，并开始了他的报复。"

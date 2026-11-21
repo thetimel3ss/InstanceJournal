@@ -502,9 +502,10 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Capitán del gigante en progreso, Greenskin es oriundo de Booty Bay, donde anteriormente dirigió una flota de barcos piratas."
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Arpón envenenado"
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208 =
-        "El Capitán Greenskin apuñala a su enemigo con su arpón envenenado, infligiendo daño físico más 30, luego 45 daños naturales adicionales cada 10 segundos durante 1 minuto."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_845 = "Adherirse"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_845 = "El Capitán Greenskin corta a todos los enemigos frente a él."
+        "Inflige daño físico a un enemigo y después daño de Naturaleza cada 10 s durante 60 s.\n\nElimina este efecto de veneno."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_15584 = "Adherirse"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_15584 =
+        "Inflige daño físico a un enemigo y sus aliados cercanos, golpeando hasta 3 objetivos."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin Van Cleef"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "Anteriormente líder del Gremio de Canteros, las disputas con la Casa de los Nobles llevaron a VanCleef a abandonar Stormwind City y crear la Hermandad Defias. VanCleef luego reclamó las Minas de la Muerte como base de operaciones para construir el gigante que comenzaría su retribución."

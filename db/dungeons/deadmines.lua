@@ -271,17 +271,17 @@ DEADMINES.Bosses = {
         MapCoordinateY = 22.4,
         Abilities = {
             [1] = {
-                Id = "5208", 
-                Icon = "Ability_Poisons", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208, 
+                Id = "5208",
+                Icon = "Ability_Poisons",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_5208,
                 Flags = {IMAF.Poison}
             },
             [2] = {
-                Id = "845", 
-                Icon = "Ability_Warrior_Cleave", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_845, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_845
+                Id = "15584",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_15584,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_15584
             }
         },
         Loot = {
