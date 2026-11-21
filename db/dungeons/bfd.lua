@@ -94,7 +94,7 @@ BFD.Bosses = {
             [3] = {IJDB.I[11121], DropChance = 33}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = { -- NOTE: Only auto attacks observed in reviewed logs; no abilities listed in the database
         Id = "6243",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "gelihast" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "gelihast" .. IMPF,
