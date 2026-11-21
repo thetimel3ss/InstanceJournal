@@ -451,6 +451,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
         "Éjecte Sneed du déchiqueteur pour qu’il rejoigne le combat."
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "Besoin"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "Débattre"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
+        "Effectue deux attaques supplémentaires."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss est le fils de William Voss, un alchimiste renommé dont le magasin et la maison ont été incendiés sous Hurlevent et jamais reconstruits, laissant sa famille sans abri et amère envers la noblesse responsable. Jared, apprenti chez les tailleurs de pierre avant la mort de son père, a hérité à la fois de ses talents alchimiques et de son ressentiment ardent."
@@ -483,13 +486,17 @@ if GetLocale() == "frFR" then
         "Les mécaniciens gobelins des Défias sont fiers de leur plus grande création : le Masterpiece Harvester. Construit au plus profond de leur atelier caché, c'est le meilleur golem de récolte qu'ils aient jamais produit."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_646 = "M. Frapper"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6264 = "Réflexes agiles"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 = "Les réflexes agiles de M. Smite lui permettent d'augmenter ses chances de parer de 75 % pendant 8 secondes."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 =
+        "Augmente les chances de parade de 75% pendant 8 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6435 = "Coup de châtiment"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 = "M. Smite frappe son ennemi, lui infligeant 50 dégâts physiques et l'étourdissant pendant 3 secondes."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 =
+        "Inflige des dégâts physiques à un ennemi et l’étourdit pendant 3 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6432 = "Frapper le piétinement"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 = "M. Smite piétine le sol, étourdissant tous les ennemis pendant 10 secondes."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 =
+        "Étourdit les ennemis dans un rayon de 45 mètres pendant 10 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3417 = "Débattre"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 = "M. Smite a la possibilité de lancer deux attaques supplémentaires."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 =
+        "Confère une chance d’effectuer des attaques supplémentaires."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_647 = "Capitaine Peau-Verte"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Capitaine du mastodonte en cours, Greenskin est originaire de Booty Bay où il dirigeait autrefois une flotte de navires pirates."
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Harpon empoisonné"

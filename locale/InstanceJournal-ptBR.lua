@@ -451,6 +451,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
         "Ejeta Sneed do retalhador para entrar na batalha."
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "Necessidade"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "lixo"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
+        "Realiza dois ataques adicionais."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss é filho de William Voss, um renomado alquimista cuja loja e casa foram incendiadas em Ventobravo e nunca reconstruídas, deixando sua família desabrigada e ressentida com a nobreza responsável. Jared, aprendiz dos pedreiros antes da morte de seu pai, herdou tanto seus talentos alquímicos quanto seu ressentimento ardente."
@@ -482,13 +485,17 @@ if GetLocale() == "ptBR" then
         "A mecânica goblin dos Defias se orgulha de sua maior criação: o Masterpiece Harvester. Construído nas profundezas de sua oficina oculta, é o melhor golem de colheita que já produziram."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_646 = "Sr."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6264 = "Reflexos Ágeis"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 = "Os reflexos ágeis do Sr. Smite permitem que ele aumente sua chance de aparar em 75% por 8 segundos."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 =
+        "Aumenta a chance de aparar em 75% por 8 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6435 = "Golpear Golpe"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 = "Smite ataca seu inimigo, causando 50 de dano físico e atordoando-o por 3 segundos."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 =
+        "Causa dano físico a um inimigo e o atordoa por 3 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6432 = "Golpear Pisar"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 = "Mr. Smite pisa no chão, atordoando todos os inimigos por 10 segundos."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 =
+        "Atordoa os inimigos em um raio de 45 m por 10 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3417 = "lixo"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 = "Sr. Smite ganha a chance de realizar dois ataques adicionais."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 =
+        "Concede uma chance de realizar ataques adicionais."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_647 = "Capitão Pele Verde"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Capitão do rolo compressor em andamento, Pele Verde nasceu em Booty Bay, onde anteriormente liderou uma frota de navios piratas."
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Arpão Envenenado"

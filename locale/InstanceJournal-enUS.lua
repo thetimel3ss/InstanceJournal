@@ -492,6 +492,9 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_5141 = "Eject Sneed"
 IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
     "Releases Sneed from the Shredder to join the battle."
 IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "Sneed"
+IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "Thrash"
+IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
+    "Performs two additional attacks."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
     "Jared Voss is the son of William Voss, a renowned alchemist whose shop and home were burned down with Stormwind and never rebuilt, leaving his family homeless and bitter toward the nobility responsible. Jared, apprenticed to the Stonemasons before his father's death, inherited both his alchemical talents and his burning resentment."
@@ -524,13 +527,17 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61963 =
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_646 = "Mr. Smite"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_646 = "As Captain Greenskin's first mate, Smite is tasked with keeping the crew on their toes. Smite is a skilled weaponmaster, trained in all manner of slicing and bashing."
 IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6264 = "Nimble Reflexes"
-IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 = "Mr. Smite's nimble reflexes allows him to increase his chance to parry by 75% for 8 seconds."
+IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 =
+    "Increases parry chance by 75% for 8 sec."
 IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6435 = "Smite Slam"
-IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 = "Mr. Smite slam his enemy, inflicting 50 physical damage and stunning them for 3 seconds."
+IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 =
+    "Deals Physical damage to an enemy and stuns them for 3 sec."
 IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6432 = "Smite Stomp"
-IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 = "Mr. Smite stomps the ground, stunning all enemies for 10 seconds."
+IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 =
+    "Stuns enemies within 45 yards for 10 sec."
 IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3417 = "Thrash"
-IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 = "Mr. Smite gains a chance to do two additional attacks."
+IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 =
+    "Grants a chance to make extra attacks."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_647 = "Captain Greenskin"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Captain of the juggernaut-in-progress, Greenskin hails from Booty Bay where he formerly led a fleet of pirate vessels."
 IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Poisoned Harpoon"

@@ -589,6 +589,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
         "将斯尼德从伐木机中弹出，使其加入战斗。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "斯尼德"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "痛击"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
+        "发动两次额外攻击。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "杰里德·维斯"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "贾里德·沃斯是威廉·沃斯的儿子，威廉·沃斯是一位著名的炼金术士，他的商店和房屋在暴风城被烧毁后再也没有重建，导致他的家人无家可归，并对负责的贵族怀有怨恨。贾里德在父亲去世前成为石匠会的学徒，继承了他的炼金术天赋和强烈的怨恨。"
@@ -621,13 +624,17 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_646 =
         "作为绿皮船长的大副，史密特的任务是让船员保持警惕。神之浩劫是一位熟练的武器大师，接受过各种切割、猛击和偶尔的穿刺射击的训练。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6264 = "迅捷反射"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 = "重击先生灵活的反应使他的格挡几率提高 75%，持续 8 秒。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 =
+        "使招架几率提高75%，持续8秒。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6435 = "重拳猛击"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 = "重击先生猛击敌人，造成 50 点物理伤害并使其昏迷 3 秒。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 =
+        "对一名敌人造成物理伤害，并使其昏迷3秒。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6432 = "重拳先生践踏"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 = "重击先生跺脚，击晕所有敌人 10 秒。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 =
+        "使45码内的敌人昏迷10秒。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3417 = "痛击"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 = "重击先生有机会进行两次额外攻击。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 =
+        "有几率发动额外攻击。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_647 = "绿皮队长"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "格林斯金是这艘正在发展的主宰舰的船长，他来自藏宝海湾，他曾在那里领导一支海盗船队。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "毒性鱼叉"

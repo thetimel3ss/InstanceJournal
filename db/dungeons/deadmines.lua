@@ -221,29 +221,37 @@ DEADMINES.Bosses = {
         MapCoordinateY = 11.6,
         Abilities = {
             [1] = {
-                Id = "6264", 
-                Icon = "Ability_MeleeDamage", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6264, 
+                Id = "6264",
+                Icon = "Ability_MeleeDamage",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6264,
                 Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264
             },
             [2] = {
-                Id = "6435", 
-                Icon = "INV_Gauntlets_05", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6435, 
+                Id = "6435",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6435,
                 Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435
             },
             [3] = {
-                Id = "6432", 
-                Icon = "Ability_WarStomp", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6432, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432, 
+                Id = "6432",
+                Icon = "Ability_WarStomp",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6432,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432,
                 Flags = {IMAF.Important, IMAF.Deadly}
             },
             [4] = {
-                Id = "3417", 
-                Icon = "Ability_GhoulFrenzy", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3417, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417
+                Id = "3417",
+                Icon = "Ability_GhoulFrenzy",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3417,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417,
+                SubAbilities = {
+                    [1] = {
+                        Id = "3391",
+                        Icon = "Ability_GhoulFrenzy",
+                        Name = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391,
+                        Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391
+                    }
+                }
             }
         },
         Loot = {

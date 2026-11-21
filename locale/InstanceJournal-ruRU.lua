@@ -462,6 +462,9 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
         "Выбрасывает Снида из крошшера, позволяя ему вступить в бой."
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "Снид"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "Трэш"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
+        "Совершает две дополнительные атаки."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Джаред Восс"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Джаред Восс — сын Уильяма Восса, известного алхимика, чей магазин и дом были сожжены во время Штормграда и так и не восстановлены, в результате чего его семья осталась без крова и ожесточена по отношению к ответственной за это знати. Джаред, который перед смертью своего отца был учеником каменщиков, унаследовал как его алхимические таланты, так и жгучую обиду."
@@ -495,14 +498,16 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_646 = "Мистер Смайт"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6264 = "Ловкие рефлексы"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 =
-        "Проворные рефлексы мистера Смайта позволяют ему увеличить шанс парирования на 75% на 8 секунд."
+        "Повышает вероятность парирования на 75% на 8 сек."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6435 = "Смайт Слэм"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 =
-        "Мистер Смайт бьет своего врага, нанося 50 единиц физического урона и оглушая его на 3 секунды."
+        "Наносит противнику физический урон и оглушает его на 3 сек."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6432 = "Поразить топотом"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 = "Мистер Смайт топает по земле, оглушая всех врагов на 10 секунд."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 =
+        "Оглушает противников в радиусе 45 м на 10 сек."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3417 = "Трэш"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 = "Мистер Смайт получает шанс провести две дополнительные атаки."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 =
+        "Дает вероятность совершить дополнительные атаки."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_647 = "Капитан Зеленокожий"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 =
         "Капитан джаггернаута, Зеленокожий родом из Пиратской бухты, где он раньше возглавлял флот пиратских судов."

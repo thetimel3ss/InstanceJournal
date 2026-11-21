@@ -453,6 +453,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
         "Wirft Sneed aus dem Schredder aus, damit er in den Kampf eingreift."
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "Niesen"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "Thrash"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
+        "Führt zwei zusätzliche Angriffe aus."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss ist der Sohn von William Voss, einem berühmten Alchemisten, dessen Laden und Haus bei Stormwind niedergebrannt und nie wieder aufgebaut wurden, was seine Familie obdachlos und verbittert gegenüber dem verantwortlichen Adel zurückließ. Jared, der vor dem Tod seines Vaters bei den Steinmetzen in die Lehre ging, erbte sowohl dessen alchemistische Talente als auch seinen brennenden Groll."
@@ -485,13 +488,17 @@ if GetLocale() == "deDE" then
         "Die Goblin-Mechaniker der Defias sind stolz auf ihre größte Kreation: den Masterpiece Harvester. Tief in ihrer verborgenen Werkstatt gebaut, ist es der beste Erntegolem, den sie je hervorgebracht haben."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_646 = "Herr Smite"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6264 = "Flinke Reflexe"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 = "Mr. Smites flinke Reflexe ermöglichen es ihm, seine Chance zum Parieren 8 Sekunden lang um 75 % zu erhöhen."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6264 =
+        "Erhöht die Parierchance 8 Sek. lang um 75%."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6435 = "Smite Slam"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 = "Mr. Smite schlägt auf seinen Feind ein, fügt ihm 50 physischen Schaden zu und betäubt ihn 3 Sekunden lang."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6435 =
+        "Fügt einem Gegner körperlichen Schaden zu und betäubt ihn für 3 Sek."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_6432 = "Smite Stampfen"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 = "Mr. Smite stampft auf den Boden und betäubt alle Feinde 10 Sekunden lang."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_6432 =
+        "Betäubt Gegner innerhalb von 45 Metern für 10 Sek."
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3417 = "Thrash"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 = "Mr. Smite erhält die Chance, zwei zusätzliche Angriffe auszuführen."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3417 =
+        "Gewährt eine Chance auf zusätzliche Angriffe."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_647 = "Kapitän Greenskin"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_647 = "Greenskin, Kapitän des laufenden Molochs, stammt aus Booty Bay, wo er früher eine Flotte von Piratenschiffen anführte."
     IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_NAME_5208 = "Vergiftete Harpune"
