@@ -159,21 +159,29 @@ FH.Bosses = {
                 Icon = "inv_misc_head_troll_01",
                 Name = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds,
                 Effect = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds,
-                Flags = {IMAF.DPS, IMAF.Important}
+                Flags = {IMAF.DPS, IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "41592",
+                        Icon = "Spell_Arcane_PortalIronForge",
+                        Name = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_41592,
+                        Effect = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_41592
+                    }
+                }
             },
             [2] = {
                 Id = "16803", 
                 Icon = "spell_frost_frostnova", 
                 Name = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_16803, 
                 Effect = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803, 
-                Flags = {IMAF.Deadly}
+                Flags = {IMAF.Deadly, IMAF.Magic}
             },
             [3] = {
-                Id = "hailarfrostbolt",
+                Id = "8406",
                 Icon = "spell_frost_frostbolt02",
-                Name = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailarfrostbolt,
-                Effect = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailarfrostbolt,
-                Flags = {IMAF.Interruptible}
+                Name = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406,
+                Effect = IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406,
+                Flags = {IMAF.Interruptible, IMAF.Magic}
             }
         },
         Loot = {

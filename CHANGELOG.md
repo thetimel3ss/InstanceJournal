@@ -6,6 +6,7 @@ All changes to this project will be documented in this file.
 
 ### Changed
 
+- Updated boss abilities and expanded selected boss lore in `Frostmane Hollow`
 - Corrected boss spell references and clarified ability descriptions in `Ragefire Chasm`
 
 ## [1.4.8] - 2026-11-16

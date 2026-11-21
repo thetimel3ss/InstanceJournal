@@ -4340,15 +4340,20 @@ IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141 =
 IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "Frostbolt"
 IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
     "Deals Frost damage and reduces the target’s movement speed by 40% for 6 sec.\n\nDispel this Magic effect."
+IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_41592 = "Frostmane Ritual"
+IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_41592 =
+    "The Ritualists channel healing into Hailar every second. Kill them to stop the healing."
 IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar the Frigid"
 IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "The frozen depths of Frostmane Hollow have claimed many lives; whether any of them ever learned who Hailar the Frigid truly was remains unknown."
 IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "Frostmane Ritualists"
 IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds =
     "Hailar starts the fight with five Frostmane Ritualists that will keep on healing him as long as they are alive.\n\nThe group needs to kill these adds before being able to kill Hailar."
 IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_16803 = "Flash Freeze"
-IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 = "Hailar casts a flash freeze, blasting all enemies within 10 yards for 56 frost damage and freezing them in place for up to 5 seconds."
-IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailarfrostbolt = "Frostbolt"
-IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailarfrostbolt = "Hailar casts a frostbolt at his target, dealing frost damage and slowing them."
+IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 =
+    "Deals Frost damage to enemies within 10 yards and stuns them for up to 5 sec.\n\nDispel this Magic effect."
+IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Frostbolt"
+IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
+    "Deals Frost damage and reduces the target’s movement speed by 40% for 7 sec.\n\nDispel this Magic effect."
 
 -- FH Loot
 IJ_LOOT_NAME_213 = "Ice-Stitched Cuffs"

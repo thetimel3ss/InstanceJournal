@@ -4222,6 +4222,9 @@ if GetLocale() == "ptBR" then
         "Ubukaz é um respeitado guerreiro Frostmane que convoca os combatentes da tribo para a batalha. Os batedores de Altaforja localizaram a origem da ameaça dos trolls em Dun Morogh em seu reduto na masmorra Juba Gélida Oca."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za, o Vidente"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Aqueles que entraram em Frostmane Hollow e viveram para falar de Kan'za, o Vidente, estão, se é que existem, silenciosos sobre o assunto."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_41592 = "Ritual Frostmane"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_41592 =
+        "Os ritualistas canalizam cura em Hailar a cada segundo. Mate-os para interromper as curas."
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar, o Frígido"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "As profundezas congeladas de Frostmane Hollow ceifaram muitas vidas; se algum deles descobriu quem realmente era Hailar, o Frígido, permanece desconhecido."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Embaixador Vortalus"
@@ -4283,9 +4286,10 @@ if GetLocale() == "ptBR" then
         "Hailar começa a luta com cinco Ritualistas Frostmane que continuarão curando-o enquanto estiverem vivos.\n\nO grupo precisa matar esses anúncios antes de poder matar Hailar."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_16803 = "Congelamento instantâneo"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 =
-        "Hailar lança um congelamento instantâneo, atingindo todos os inimigos em um raio de 10 metros, causando 56 de dano de gelo e congelando-os no lugar por até 5 segundos."
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailarfrostbolt = "Seta de Gelo"
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailarfrostbolt = "Hailar lança um raio de gelo em seu alvo, causando dano de gelo e retardando-o."
+        "Causa dano de Gelo aos inimigos em um raio de 10 m e os atordoa por até 5 s.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Seta de Gelo"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
+        "Causa dano de Gelo e reduz a velocidade de movimento do alvo em 40% por 7 s.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Rajada de Vento"
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus atordoa um inimigo aleatório, impossibilitando-o de se mover ou atacar por 4 segundos."
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Cadeia de Relâmpagos"

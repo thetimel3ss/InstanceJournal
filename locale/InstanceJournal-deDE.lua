@@ -4232,6 +4232,9 @@ if GetLocale() == "deDE" then
         "Ubukaz ist ein verehrter Kämpfer der Frostmähnen, der die Krieger seines Stammes in die Schlacht ruft. Die Späher von Eisenschmiede haben die Trollbedrohung in Dun Morogh zu seiner Festung in der Frostmähnenhöhle zurückverfolgt."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za der Seher"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Diejenigen, die Frostmane Hollow betreten haben und überlebt haben, um von Kan'za dem Seher zu sprechen, schweigen zu dieser Angelegenheit, sofern es sie überhaupt gibt."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_41592 = "Ritual der Frostmähnen"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_41592 =
+        "Die Ritualisten kanalisieren jede Sekunde Heilung auf Hailar. Tötet sie, um die Heilung zu beenden."
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar der Kalte"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "Die gefrorenen Tiefen von Frostmane Hollow haben viele Menschenleben gefordert; Ob einer von ihnen jemals erfahren hat, wer Hailar der Kalte wirklich war, bleibt unbekannt."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Botschafter Vortalus"
@@ -4293,9 +4296,11 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds =
         "Hailar beginnt den Kampf mit fünf Frostmähnen-Ritualisten, die ihn solange heilen, wie sie leben.\n\nDie Gruppe muss diese Adds töten, bevor sie Hailar töten kann."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_16803 = "Flash-Freeze"
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 = "Hailar wirkt einen Blitzfrost, der allen Feinden im Umkreis von 10 Metern 56 Frostschaden zufügt und sie bis zu 5 Sekunden lang an Ort und Stelle einfriert."
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailarfrostbolt = "Frostblitz"
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailarfrostbolt = "Hailar wirft einen Frostblitz auf sein Ziel, verursacht Frostschaden und verlangsamt es."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 =
+        "Fügt Gegnern innerhalb von 10 Metern Frostschaden zu und betäubt sie bis zu 5 Sek. lang.\n\nBannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Frostblitz"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
+        "Verursacht Frostschaden und verringert das Bewegungstempo des Ziels 7 Sek. lang um 40%.\n\nBannt diesen magischen Effekt."
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Windstoß"
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus betäubt einen zufälligen Feind und macht ihn 4 Sekunden lang bewegungs- oder angreifbar."
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Kettenblitz"

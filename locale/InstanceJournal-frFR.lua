@@ -4232,6 +4232,9 @@ if GetLocale() == "frFR" then
         "Ubukaz est un combattant vénéré des Crins-de-givre qui appelle les guerriers de sa tribu à la bataille. Les éclaireurs de Forgefer ont remonté la menace trolle de Dun Morogh jusqu’à son bastion dans le donjon Creux des Crins-de-givre."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za le Voyant"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Ceux qui sont entrés dans Frostmane Hollow et ont vécu pour parler de Kan'za le Voyant sont, s'ils existent, silencieux sur la question."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_41592 = "Rituel des Crins-de-givre"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_41592 =
+        "Les ritualistes canalisent des soins sur Hailar chaque seconde. Tuez-les pour arrêter les soins."
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar le glacial"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "Les profondeurs gelées de Frostmane Hollow ont coûté de nombreuses vies ; on ne sait pas si l'un d'entre eux a jamais appris qui était réellement Hailar le Frigid."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Ambassadeur Vortalus"
@@ -4294,9 +4297,10 @@ if GetLocale() == "frFR" then
         "Hailar commence le combat avec cinq Ritualistes Frostmane qui continueront à le soigner tant qu'ils seront en vie.\n\nLe groupe doit tuer ces ajouts avant de pouvoir tuer Hailar."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_16803 = "Gel instantané"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 =
-        "Hailar lance un gel flash, faisant exploser tous les ennemis à moins de 10 mètres, leur infligeant 56 dégâts de gel et les gelant sur place pendant 5 secondes maximum."
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailarfrostbolt = "Éclair de givre"
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailarfrostbolt = "Hailar lance un éclair de givre sur sa cible, lui infligeant des dégâts de gel et la ralentissant."
+        "Inflige des dégâts de Givre aux ennemis dans un rayon de 10 mètres et les étourdit pendant 5 s au maximum.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Éclair de givre"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
+        "Inflige des dégâts de Givre et réduit la vitesse de déplacement de la cible de 40% pendant 7 s.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Coup de vent"
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus étourdit un ennemi aléatoire, le rendant incapable de bouger ou d'attaquer pendant 4 secondes."
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Chaîne d'éclairs"

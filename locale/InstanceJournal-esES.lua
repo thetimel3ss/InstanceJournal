@@ -4232,6 +4232,9 @@ if GetLocale() == "esES" then
         "Ubukaz es un venerado luchador Peloescarcha que reúne a los guerreros de su tribu para la batalla. Los exploradores de Forjaz han rastreado la amenaza trol de Dun Morogh hasta su bastión en la mazmorra Hueco Melenaescarcha."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za la Vidente"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Aquellos que han entrado en Frostmane Hollow y han vivido para hablar de Kan'za the Vidente, si es que existen, guardan silencio sobre el asunto."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_41592 = "Ritual Peloescarcha"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_41592 =
+        "Los ritualistas canalizan sanación sobre Hailar cada segundo. Mátalos para detener la sanación."
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar el Frígido"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "Las heladas profundidades de Frostmane Hollow se han cobrado muchas vidas; Se desconoce si alguno de ellos supo alguna vez quién era realmente Hailar el Frígido."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Embajador Vortalus"
@@ -4294,9 +4297,10 @@ if GetLocale() == "esES" then
         "Hailar comienza la pelea con cinco ritualistas de Frostmane que seguirán curándolo mientras estén vivos. ||norte||  ||norte|| El grupo necesita matar a estos agregados antes de poder matar a Hailar."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_16803 = "Congelación instantánea"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 =
-        "Hailar lanza un congelamiento repentino, atacando a todos los enemigos en un radio de 10 yardas, causando 56 de daño por escarcha y congelándolos en su lugar por hasta 5 segundos."
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailarfrostbolt = "Descarga de Escarcha"
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailarfrostbolt = "Hailar lanza un rayo de escarcha a su objetivo, lo que le inflige daño de escarcha y lo ralentiza."
+        "Inflige daño de Escarcha a los enemigos en un radio de 10 m y los aturde durante un máximo de 5 s.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Descarga de Escarcha"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
+        "Inflige daño de Escarcha y reduce la velocidad de movimiento del objetivo un 40% durante 7 s.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Racha"
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus aturde a un enemigo aleatorio, dejándolo incapaz de moverse o atacar durante 4 segundos."
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Cadena de relámpagos"

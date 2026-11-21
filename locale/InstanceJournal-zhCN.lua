@@ -4465,15 +4465,20 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "寒冰箭"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
         "造成冰霜伤害，并使目标的移动速度降低40%，持续6秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_41592 = "霜鬃仪式"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_41592 =
+        "仪祭师每秒引导治疗海拉尔。击杀他们以停止治疗。"
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "冰冷的海乐"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "霜鬃峡谷的冰冻深处夺去了许多人的生命；他们中是否有人知道寒冷海拉尔的真实身份仍然未知。"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "霜鬃仪祭师"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds =
         "海拉尔与五名霜鬃仪式师开始战斗，只要他们还活着，他们就会继续治疗他。\n \n该组织需要先杀死这些小怪，然后才能杀死海拉尔。"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_16803 = "冰霜速冻"
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 = "海拉尔施展急速冻结，对 10 码内的所有敌人造成 56 点冰霜伤害，并将其冻结在原地长达 5 秒。"
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailarfrostbolt = "寒冰箭"
-    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailarfrostbolt = "海拉尔向目标施放冰箭，造成冰霜伤害并减速目标。"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_16803 =
+        "对10码内的敌人造成冰霜伤害，并使其昏迷，最多持续5秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "寒冰箭"
+    IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
+        "造成冰霜伤害，并使目标的移动速度降低40%，持续7秒。\n\n驱散此魔法效果。"
     IJ_LOOT_NAME_213 = "冰缝护腕"
 
     -- FH Loot
