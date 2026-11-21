@@ -40,10 +40,10 @@ RFC.Bosses = {
         MapCoordinateY = 38.1,
         Abilities = {
             [1] = {
-                Id = "845", 
+                Id = "15584",
                 Icon = "Ability_Warrior_Cleave", 
-                Name = IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_845, 
-                Effect = IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_845
+                Name = IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_15584,
+                Effect = IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_15584
             }
         },
         Loot = {

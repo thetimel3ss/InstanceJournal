@@ -271,8 +271,9 @@ if GetLocale() == "frFR" then
     -- RFC Bosses
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11517 = "Oggleflint"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11517 = "Oggleflint et les autres troggs se retirèrent dans les niveaux supérieurs du Gouffre de Ragefire une fois que les cultistes de Searing Blade s'y installèrent."
-    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_845 = "Fendre"
-    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_845 = "Oggleflint fend tous les ennemis devant lui."
+    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_15584 = "Fendre"
+    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_15584 =
+        "Inflige des dégâts physiques à un ennemi et à ses alliés proches, touchant jusqu’à 3 cibles."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11520 = "Taragaman l'Affameur"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 =
         "Considéré comme le chef de la Lame brûlante, Taragaman se cache dans les profondeurs enflammées du Gouffre de Ragefire et utilise son influence démoniaque pour corrompre les citoyens d'Orgrimmar."

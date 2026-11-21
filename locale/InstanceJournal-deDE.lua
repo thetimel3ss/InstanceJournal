@@ -272,8 +272,9 @@ if GetLocale() == "deDE" then
     -- RFC Bosses
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11517 = "Oggleflint"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11517 = "Oggleflint und die anderen Troggs zogen sich in die oberen Ebenen von Ragefire Chasm zurück, als die Kultisten der Sengenden Klinge einzogen."
-    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_845 = "Spalten"
-    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_845 = "Oggleflint spaltet alle Feinde vor ihm."
+    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_15584 = "Spalten"
+    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_15584 =
+        "Fügt einem Gegner und nahen Verbündeten körperlichen Schaden zu und trifft bis zu 3 Ziele."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11520 = "Taragaman der Hungernde"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 =
         "Taragaman gilt als Anführer der Sengenden Klinge und versteckt sich in den feurigen Tiefen von Ragefire Chasm, wo er seinen dämonischen Einfluss nutzt, um die Bürger von Orgrimmar zu korrumpieren."

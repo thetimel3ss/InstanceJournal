@@ -333,8 +333,9 @@ if GetLocale() == "zhCN" then
     -- RFC Bosses
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11517 = "奥格弗林特"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11517 = "灼热之刃邪教徒进入后，奥格尔弗林特和其他穴居人就撤退到怒火裂谷的上层。"
-    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_845 = "顺劈斩"
-    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_845 = "奥格尔弗林特劈开他面前的所有敌人。"
+    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_15584 = "顺劈斩"
+    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_15584 =
+        "对一名敌人及其附近的盟友造成物理伤害，最多影响3个目标。"
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11520 = "饥饿者塔拉加曼"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 = "塔拉加曼被认为是灼热之刃的领袖，他隐藏在怒火裂谷的炽热深处，并利用他的恶魔影响力腐蚀奥格瑞玛的公民。"
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_11970 = "火焰新星"

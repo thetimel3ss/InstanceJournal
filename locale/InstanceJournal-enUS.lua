@@ -236,8 +236,9 @@ IJ_DB_DUNGEON_RFC_STORY =
 -- RFC Bosses
 IJ_DB_DUNGEON_RFC_BOSS_NAME_11517 = "Oggleflint"
 IJ_DB_DUNGEON_RFC_BOSS_STORY_11517 = "Oggleflint and the other troggs retreated to the upper levels of Ragefire Chasm once the Searing Blade cultists moved in."
-IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_845 = "Cleave"
-IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_845 = "Oggleflint cleaves all enemies in front of him."
+IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_15584 = "Cleave"
+IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_15584 =
+    "Deals Physical damage to an enemy and nearby allies, hitting up to 3 targets."
 IJ_DB_DUNGEON_RFC_BOSS_NAME_11520 = "Taragaman the Hungerer"
 IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 =
     "Thought to be the leader of the Searing Blade, Taragaman can be found hiding in the fiery depths of Ragefire Chasm and using his demonic influence to corrupt the citizens of Orgrimmar."

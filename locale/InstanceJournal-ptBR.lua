@@ -272,8 +272,9 @@ if GetLocale() == "ptBR" then
     -- RFC Bosses
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11517 = "Oggleflint"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11517 = "Oggleflint e os outros troggs recuaram para os níveis superiores do Ragefire Chasm assim que os cultistas da Searing Blade chegaram."
-    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_845 = "Dividir"
-    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_845 = "Oggleflint corta todos os inimigos à sua frente."
+    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_NAME_15584 = "Dividir"
+    IJ_DB_DUNGEON_RFC_BOSS_11517_ABILITY_EFFECT_15584 =
+        "Causa dano físico a um inimigo e seus aliados próximos, atingindo até 3 alvos."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11520 = "Taragaman, o Faminto"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 =
         "Considerado o líder da Searing Blade, Taragaman pode ser encontrado escondido nas profundezas ardentes do Ragefire Chasm e usando sua influência demoníaca para corromper os cidadãos de Orgrimmar."
