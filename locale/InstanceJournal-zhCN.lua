@@ -1210,6 +1210,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "阿库麦尔"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
         "阿库麦是一种古老的邪恶力量，她体内携带着一小部分上古之神的力量。这种三头九头蛇因其无意识的野蛮行为和对活生生的贪得无厌而令人恐惧，但暮光之锤崇拜她，将其视为上古之神即将回归的神圣标志。"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3815 = "毒云"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3815 =
+        "每5秒对附近的敌人造成一次自然伤害，持续45秒。解除此中毒效果。"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3490 = "狂暴之怒"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3490 =
+        "攻击速度提高75%，持续5秒，但造成的物理伤害降低。"
 
     -- BFD Loot
     IJ_LOOT_NAME_6907 = "海龟护甲"

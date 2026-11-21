@@ -846,6 +846,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "Aku'mai"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
         "Aku'mai, um mal antigo, carrega consigo uma pequena medida do poder dos Deuses Antigos. Esta hidra de três cabeças é muito temida por sua selvageria estúpida e sua fome insaciável por carne viva, mas o Martelo do Crepúsculo a adora como um sinal divino de que os Deuses Antigos retornarão em breve."
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3815 = "Nuvem Venenosa"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3815 =
+        "Causa dano de Natureza aos inimigos próximos a cada 5 s por 45 s. Remova este efeito de veneno."
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3490 = "Fúria Frenética"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3490 =
+        "Aumenta a velocidade de ataque em 75% por 5 s, mas reduz o dano Físico causado."
 
     -- Gnomeregan
     IJ_DB_DUNGEON_GNOMEREGAN_NAME = "Gnomeregan"

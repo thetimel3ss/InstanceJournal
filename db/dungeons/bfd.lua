@@ -199,7 +199,7 @@ BFD.Bosses = {
             [3] = {IJDB.I[80719], DropChance = 15}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "4829",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "akumai" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "akumai" .. IMPF,
@@ -207,6 +207,21 @@ BFD.Bosses = {
         Story = IJ_DB_DUNGEON_BFD_BOSS_STORY_4829,
         MapCoordinateX = 77.8,
         MapCoordinateY = 91.1,
+        Abilities = {
+            [1] = {
+                Id = "3815",
+                Icon = "Spell_Nature_Regenerate",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3815,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3815,
+                Flags = {IMAF.Poison}
+            },
+            [2] = {
+                Id = "3490",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3490,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3490
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6909], DropChance = 33}, 
             [2] = {IJDB.I[6910], DropChance = 33}, 

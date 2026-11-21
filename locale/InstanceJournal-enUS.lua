@@ -1115,6 +1115,12 @@ IJ_DB_DUNGEON_BFD_BOSS_4832_ABILITY_EFFECT_8399 =
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "Aku'mai"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
     "Aku'mai, an ancient evil, carries within her a small measure of the Old Gods' power. This three-headed hydra is greatly feared for her mindless savagery and insatiable hunger for living flesh, but the Twilight's Hammer worships her as a divine sign that the Old Gods will soon return."
+IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3815 = "Poison Cloud"
+IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3815 =
+    "Deals Nature damage to nearby enemies every 5 sec. for 45 sec. Remove this Poison effect."
+IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3490 = "Frenzied Rage"
+IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3490 =
+    "Increases attack speed by 75% for 5 sec., but reduces Physical damage dealt."
 
 -- BFD Loot
 IJ_LOOT_NAME_6907 = "Tortoise Armor"

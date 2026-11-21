@@ -850,6 +850,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "Aku'mai"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
         "Aku'mai, ein uraltes Übel, trägt einen kleinen Teil der Macht der Alten Götter in sich. Diese dreiköpfige Hydra ist wegen ihrer gedankenlosen Wildheit und ihres unstillbaren Hungers nach lebendigem Fleisch sehr gefürchtet, aber der Hammer des Zwielichts verehrt sie als göttliches Zeichen dafür, dass die Alten Götter bald zurückkehren werden."
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3815 = "Giftwolke"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3815 =
+        "Fügt nahen Gegnern 45 Sek. lang alle 5 Sek. Naturschaden zu. Entfernt diesen Gifteffekt."
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3490 = "Rasende Wut"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3490 =
+        "Erhöht das Angriffstempo 5 Sek. lang um 75%, verringert aber den verursachten körperlichen Schaden."
 
     -- Gnomeregan
     IJ_DB_DUNGEON_GNOMEREGAN_NAME = "Gnomeregan"

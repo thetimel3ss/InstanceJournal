@@ -848,6 +848,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4829 = "Akumai"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4829 =
         "Aku'mai, un mal ancien, porte en elle une petite mesure du pouvoir des Dieux très anciens. Cette hydre à trois têtes est très crainte pour sa sauvagerie insensée et sa faim insatiable de chair vivante, mais le Marteau du Crépuscule la vénère comme un signe divin du retour bientôt des Dieux très anciens."
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3815 = "Nuage empoisonné"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3815 =
+        "Inflige des dégâts de Nature aux ennemis proches toutes les 5 s pendant 45 s. Dissipez cet effet de poison."
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_NAME_3490 = "Rage frénétique"
+    IJ_DB_DUNGEON_BFD_BOSS_4829_ABILITY_EFFECT_3490 =
+        "Augmente la vitesse d’attaque de 75% pendant 5 s, mais réduit les dégâts physiques infligés."
 
     -- Gnomeregan
     IJ_DB_DUNGEON_GNOMEREGAN_NAME = "Gnomeregan"

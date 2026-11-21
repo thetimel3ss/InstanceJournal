@@ -4,6 +4,10 @@ All changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Added
+
+- Added missing abilities to the bosses in `Wailing Caverns`, `Shadowfang Keep`, and `Blackfathom Deeps`
+
 ### Changed
 
 - Updated boss abilities and spell references in `The Deadmines`
