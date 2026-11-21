@@ -2567,6 +2567,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Barón Silverlaine"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "Silverlaine fue el antiguo señor de Shadowfang Keep, pero murió cuando el Archimago Arugal y sus huargen se apoderaron de la fortaleza para sus propios siniestros planes. Ahora ronda el comedor con algunos de sus sirvientes."
+    IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_NAME_7068 = "Velo de las Sombras"
+    IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_EFFECT_7068 =
+        "Reduce la sanación recibida un 75% durante 15 s. Elimina esta maldición cuanto antes."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prelado Melena de Hierro"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "El prelado Ironmane, que alguna vez fue un hombre de fe incomparable, era famoso por sus sermones tan conmovedores que conmovían los corazones incluso de los santos más devotos. Si bien su amigo el padre Brightcopf logró recuperar su libre albedrío después de que la influencia del Rey Exánime disminuyó, Ironmane no tuvo tanta suerte. Consumido por la oscuridad de Shadowfang Keep y la magia de sangre de Arugal, sigue siendo un sirviente leal a la locura dentro de los muros. Se erige como un trágico monumento a la gracia caída, empuñando la Luz que una vez predicó como arma de terror contra cualquiera que busque poner fin a la maldición de la Fortaleza."

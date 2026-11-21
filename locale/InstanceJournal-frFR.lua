@@ -2567,6 +2567,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Baron Silverlaine"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "Silverlaine était l'ancien seigneur du donjon d'Ombrecroc, mais il fut tué lorsque l'archimage Arugal et ses worgens prirent possession du donjon pour leurs propres plans sinistres. Il hante désormais la salle à manger avec certains de ses domestiques."
+    IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_NAME_7068 = "Voile de l’ombre"
+    IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_EFFECT_7068 =
+        "Réduit les soins reçus de 75% pendant 15 s. Dissipez rapidement cette malédiction."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prélat Crin-de-fer"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "Autrefois homme d'une foi sans égal, le prélat Ironmane était réputé pour ses sermons si émouvants qu'ils remuaient le cœur même des saints hommes les plus pieux. Alors que son ami le père Brightcopf a réussi à retrouver son libre arbitre après le déclin de l'influence du roi-liche, Ironmane n'a pas eu cette chance. Consumé par les ténèbres du Donjon d'Ombrecroc et la magie du sang d'Arugal, il reste un fidèle serviteur de la folie qui règne à l'intérieur des murs. Il se dresse comme un monument tragique à la grâce déchue, brandissant la Lumière qu'il prêchait autrefois comme une arme de terreur contre tous ceux qui cherchent à mettre fin à la malédiction du Donjon."

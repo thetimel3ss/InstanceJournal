@@ -2569,6 +2569,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Baron Silverlaine"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "Silverlaine war der ehemalige Herr der Festung Schattenfang, wurde jedoch getötet, als Erzmagier Arugal und seine Worgen die Festung für ihre eigenen finsteren Pläne übernahmen. Er spukt jetzt mit einigen seiner Diener durch das Esszimmer."
+    IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_NAME_7068 = "Schattenschleier"
+    IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_EFFECT_7068 =
+        "Verringert die erhaltene Heilung 15 Sek. lang um 75%. Entfernt diesen Fluch umgehend."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prälat Ironmane"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "Einst ein Mann von unvergleichlichem Glauben, war Prälat Ironmane für seine Predigten bekannt, die so bewegend waren, dass sie selbst die Herzen der gläubigsten heiligen Männer berührten. Während es seinem Freund Pater Brightcopf gelang, seinen freien Willen zurückzugewinnen, nachdem der Einfluss des Lichkönigs nachließ, hatte Ironmane nicht so viel Glück. Verzehrt von der Dunkelheit der Burg Schattenfang und der Blutmagie von Arugal bleibt er ein treuer Diener des Wahnsinns innerhalb der Mauern. Er steht als tragisches Denkmal der gefallenen Gnade da und schwingt das Licht, das er einst predigte, als Schreckenswaffe gegen alle, die den Fluch der Festung brechen wollen."

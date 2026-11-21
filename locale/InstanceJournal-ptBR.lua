@@ -2564,6 +2564,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Barão Silverlaine"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "Silverlaine era o antigo senhor da Fortaleza Presa Negra, mas foi morto quando o Arquimago Arugal e seus worgens assumiram o controle da fortaleza para seus próprios planos sinistros. Ele agora frequenta a sala de jantar com alguns de seus criados."
+    IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_NAME_7068 = "Véu de Sombra"
+    IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_EFFECT_7068 =
+        "Reduz a cura recebida em 75% por 15 s. Remova esta maldição rapidamente."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prelado Juba de Ferro"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "Outrora um homem de fé incomparável, o Prelado Ironmane era conhecido por sermões tão comoventes que emocionavam até mesmo os homens santos mais devotos. Embora seu amigo Padre Brightcopf tenha conseguido recuperar seu livre arbítrio depois que a influência do Lich King diminuiu, Ironmane não teve tanta sorte. Consumido pela escuridão da Fortaleza Presa Negra e pela magia do sangue de Arugal, ele permanece um servo leal à loucura dentro das muralhas. Ele permanece como um monumento trágico à graça caída, empunhando a Luz que uma vez pregou como uma arma de terror contra qualquer um que procure acabar com a maldição da Fortaleza."

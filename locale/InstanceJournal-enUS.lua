@@ -3581,6 +3581,9 @@ IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_EFFECT_7485 =
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Baron Silverlaine"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
     "Silverlaine was the former lord of Shadowfang Keep, but was killed when Archmage Arugal and his worgen took over the keep for their own sinister plans. He now haunts the dining room with some of his servants."
+IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_NAME_7068 = "Veil of Shadow"
+IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_EFFECT_7068 =
+    "Reduces healing received by 75% for 15 sec. Remove this Curse promptly."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prelate Ironmane"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
     "Once a man of peerless faith, Prelate Ironmane was renowned for sermons so moving they stirred the hearts of even the most devout holy men. While his friend Father Brightcopf managed to regain his free will after the Lich King's influence waned, Ironmane was not so fortunate. Consumed by the darkness of Shadowfang Keep and the blood magic of Arugal, he remains a loyal servant to the madness within the walls. He stands as a tragic monument to fallen grace, wielding the Light he once preached as a weapon of terror against any who seek to end the Keep's curse."

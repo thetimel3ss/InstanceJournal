@@ -75,7 +75,7 @@ SFK.Bosses = {
             [3] = {IJDB.I[6633], DropChance = 33}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "3887",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "silverlaine" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "silverlaine" .. IMPF,
@@ -83,6 +83,15 @@ SFK.Bosses = {
         Story = IJ_DB_DUNGEON_SFK_BOSS_STORY_3887,
         MapCoordinateX = 37.2,
         MapCoordinateY = 81.6,
+        Abilities = {
+            [1] = {
+                Id = "7068",
+                Icon = "Spell_Shadow_GatherShadows",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_NAME_7068,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_EFFECT_7068,
+                Flags = {IMAF.Curse}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6321], DropChance = 50}, 
             [2] = {IJDB.I[6323], DropChance = 50}, 
