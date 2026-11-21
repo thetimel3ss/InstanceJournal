@@ -2124,6 +2124,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan, o Eterno Vivo"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "Pouco se sabe sobre esta criatura antes da chegada de Naralex às Wailing Caverns. Considerado o guardião original das cavernas, Verdan, o Eterno Vivo, não conseguiu escapar da corrupção que se abateu sobre seu lar. Verdan é aliado dos druidas insanos e mantém sua vigília contra aqueles que invadem seus domínios."
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_8142 = "Vinhas Agarradoras"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_8142 =
+        "Causa dano Físico aos inimigos próximos, derruba-os e os enraíza por 10 s. Dissipe o enraizamento mágico."
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_5164 = "Derrubar"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_5164 =
+        "Vinhas Agarradoras também atordoa os inimigos afetados por 2 s."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Senhora Anacondra"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
         "Scarletleaf foi a primeira a se voluntariar para a missão autodesignada de Naralex nos Sertões. Depois que o pesadelo de seu mestre destruiu sua mente, a jovem acólita deixou seu nome de lado, agora imaginando um sinistro futuro reptiliano para Azeroth."

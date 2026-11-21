@@ -2126,6 +2126,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan l'Éternel"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "On sait peu de choses sur cette créature avant l'arrivée de Naralex aux Grottes des Lamentations. Considéré comme le gardien originel des grottes, Verdan l'Eternel ne pouvait pas échapper à la corruption qui s'abattait sur sa demeure. Verdan est allié aux druides fous et maintient sa vigilance contre ceux qui pénètrent dans son domaine."
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_8142 = "Lianes agrippantes"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_8142 =
+        "Inflige des dégâts physiques aux ennemis proches, les renverse et les immobilise pendant 10 s. Dissipez l’immobilisation magique."
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_5164 = "Renversement"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_5164 =
+        "Lianes agrippantes étourdit également les ennemis affectés pendant 2 s."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Dame Anacondra"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
         "Scarletleaf fut la première à se porter volontaire pour la mission autoproclamée de Naralex dans les Tarides. Après que le cauchemar de son maître lui ait brisé l'esprit, la jeune acolyte a mis son nom de côté, envisageant désormais un sinistre avenir reptilien pour Azeroth."

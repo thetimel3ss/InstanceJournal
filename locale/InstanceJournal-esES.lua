@@ -2126,6 +2126,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan el Eterno"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "Poco se sabe sobre esta criatura antes de la llegada de Naralex a las Cavernas de los Lamentos. Verdan el Eterno, considerado el guardián original de las cuevas, no pudo escapar de la corrupción que afectó a su hogar. Verdan está aliado con los druidas locos y mantiene su vigilancia contra aquellos que invaden sus dominios."
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_8142 = "Enredaderas atenazadoras"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_8142 =
+        "Inflige daño físico a los enemigos cercanos, los derriba y los inmoviliza durante 10 s. Disipa la inmovilización mágica."
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_5164 = "Derribo"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_5164 =
+        "Enredaderas atenazadoras también aturde a los enemigos afectados durante 2 s."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Señora Anacondra"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
         "Scarletleaf fue la primera en ofrecerse como voluntaria para la misión autoproclamada de Naralex en Los Baldíos. Después de que la pesadilla de su maestro destrozara su mente, la joven acólita dejó de lado su nombre y ahora imagina un siniestro futuro reptil para Azeroth."

@@ -2128,6 +2128,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan der Immerlebende"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "Über diese Kreatur ist vor Naralex‘ Ankunft in den Wailing Caverns wenig bekannt. Verdan, der Ewige, galt als ursprünglicher Wächter der Höhle und konnte der Verderbnis, die seine Heimat befiel, nicht entkommen. Verdan ist mit den wahnsinnigen Druiden verbündet und wacht gegen diejenigen, die in seine Domäne eindringen."
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_8142 = "Greifende Ranken"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_8142 =
+        "Fügt nahen Gegnern körperlichen Schaden zu, schlägt sie nieder und macht sie für 10 Sek. bewegungsunfähig. Bannt den magischen Wurzeleffekt."
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_5164 = "Niederschlagen"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_5164 =
+        "Greifende Ranken betäubt betroffene Gegner außerdem für 2 Sek."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Lady Anacondra"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
         "Scarletleaf war der erste, der sich freiwillig für Naralex‘ selbsternannte Mission im Brachland meldete. Nachdem der Albtraum ihres Meisters ihren Verstand erschüttert hatte, legte die junge Akolythin ihren Namen beiseite und stellte sich nun eine finstere Reptilienzukunft für Azeroth vor."

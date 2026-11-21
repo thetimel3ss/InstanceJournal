@@ -299,7 +299,7 @@ WC.Bosses = {
             [5] = {IJDB.I[23800], DropChance = 1}
         }
     },
-    [10] = { -- NOTE: Missing abilities
+    [10] = {
         Id = "5775",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "verdan" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "verdan" .. IMPF,
@@ -307,6 +307,23 @@ WC.Bosses = {
         Story = IJ_DB_DUNGEON_WC_BOSS_STORY_5775,
         MapCoordinateX = 64.2,
         MapCoordinateY = 37.5,
+        Abilities = {
+            [1] = {
+                Id = "8142",
+                Icon = "Spell_Nature_Earthquake",
+                Name = IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_8142,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_8142,
+                Flags = {IMAF.Magic},
+                SubAbilities = {
+                    [1] = {
+                        Id = "5164",
+                        Icon = "Ability_GolemThunderClap",
+                        Name = IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_5164,
+                        Effect = IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_5164
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6629], DropChance = 33}, 
             [2] = {IJDB.I[6630], DropChance = 33}, 

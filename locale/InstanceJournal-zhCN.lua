@@ -2997,6 +2997,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "永生者沃尔丹"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "在纳拉雷克斯抵达哀嚎洞穴之前，人们对这种生物知之甚少。永生者维尔丹被认为是洞穴最初的守护者，但他无法逃脱降临到其家园的腐化。维尔丹与疯狂的德鲁伊结盟，并对那些侵入其领地的人保持警惕。"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_8142 = "缠绕藤蔓"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_8142 =
+        "对附近的敌人造成物理伤害，将其击倒并定身10秒。驱散此魔法定身效果。"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_5164 = "击倒"
+    IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_5164 =
+        "缠绕藤蔓还会使受影响的敌人昏迷2秒。"
     IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "安娜科德拉女士"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
         "红叶是第一个自愿参加纳拉雷克斯自封的贫瘠之地任务的人。在主人的噩梦击碎了她的心智之后，这位年轻的学徒抛弃了自己的名字，现在正在为艾泽拉斯设想一个险恶的爬行动物未来。"

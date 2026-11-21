@@ -2904,6 +2904,12 @@ IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_700 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan the Everliving"
 IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
     "Little is known about this creature prior to Naralex's arrival at the Wailing Caverns. Thought to be the caves' original guardian, Verdan the Everliving could not escape the corruption that befell its home. Verdan is allied with the insane druids and maintains its vigil against those who trespass into its domain."
+IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_8142 = "Grasping Vines"
+IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_8142 =
+    "Deals Physical damage to nearby enemies, knocks them down and roots them for 10 sec. Dispel the Magic root."
+IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_NAME_5164 = "Knockdown"
+IJ_DB_DUNGEON_WC_BOSS_5775_ABILITY_EFFECT_5164 =
+    "Grasping Vines also stuns affected enemies for 2 sec."
 IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Lady Anacondra"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
     "Scarletleaf was the first to volunteer for Naralex's self-appointed mission to the Barrens. After her master's nightmare shattered her mind, the young acolyte cast aside her name, now envisioning a sinister reptilian future for Azeroth."
