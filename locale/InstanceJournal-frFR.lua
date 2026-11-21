@@ -2599,6 +2599,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Capitaine assermenté par la mort"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "Un fantôme humain insaisissable, rarement vu parmi la population générale du Donjon d'Ombrecroc. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_15584 = "Enchaînement"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_15584 =
+        "Inflige des dégâts physiques à un ennemi et à ses alliés proches, touchant jusqu’à 3 cibles."
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_9080 = "Brise-genou"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_9080 =
+        "Inflige des dégâts physiques et réduit la vitesse de déplacement de la cible de 60% pendant 10 s."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus le Dévoreur"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "Fenrus est l'animal de compagnie d'Arugal, archimage de Shadowfang Keep. Fenrus rôde dans l'étude principale des chambres d'Arugal. Il est incroyablement grand et il est possible que le worg ait été soumis à la magie noire de la part d'Arugal ou des worgens."

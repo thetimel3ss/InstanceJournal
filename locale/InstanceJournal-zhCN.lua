@@ -3706,6 +3706,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "死亡之誓队长"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "难以捉摸的人类幽灵，在影牙城堡的普通居民中很少见到。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_15584 = "顺劈斩"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_15584 =
+        "对一名敌人及其附近的友方单位造成物理伤害，最多影响3个目标。"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_9080 = "断筋"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_9080 =
+        "造成物理伤害，并使目标的移动速度降低60%，持续10秒。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "吞噬者芬鲁斯"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "芬鲁斯是影牙城堡大法师阿鲁高的宠物。芬鲁斯在阿鲁高房间的主要书房里徘徊。他的体型大得令人难以置信，而且这只座狼很可能受到了阿鲁高或狼人手中的黑魔法的影响。"

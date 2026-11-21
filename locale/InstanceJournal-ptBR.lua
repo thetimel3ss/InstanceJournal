@@ -2596,6 +2596,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Capitão Morto"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "Um fantasma humano indescritível, raramente visto entre a população em geral da Fortaleza Presa Negra. Diz-se que ele possui muitos itens cobiçados que muitos gostariam de poder colocar em suas mãos, se ao menos pudessem encontrá-lo em primeiro lugar..."
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_15584 = "Cutilada"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_15584 =
+        "Causa dano Físico a um inimigo e aos aliados próximos dele, atingindo até 3 alvos."
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_9080 = "Cortar Tendão"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_9080 =
+        "Causa dano Físico e reduz a velocidade de movimento do alvo em 60% por 10 s."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus, o Devorador"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "Fenrus é o animal de estimação de Arugal, Arquimago da Fortaleza Presa Negra. Fenrus ronda o escritório principal dos aposentos de Arugal. Ele é inacreditavelmente grande, e é possível que o worg tenha sido submetido à magia negra pelas mãos de Arugal ou dos worgens."

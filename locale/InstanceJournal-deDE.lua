@@ -2601,6 +2601,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Todesgeschworener Kapitän"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "Ein schwer fassbarer menschlicher Geist, der in der allgemeinen Bevölkerung der Burg Schattenfang selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_15584 = "Spalten"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_15584 =
+        "Fügt einem Gegner und nahen Verbündeten körperlichen Schaden zu und trifft bis zu 3 Ziele."
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_9080 = "Kniesehne"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_9080 =
+        "Verursacht körperlichen Schaden und verringert die Bewegungsgeschwindigkeit des Ziels 10 Sek. lang um 60%."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus der Verschlinger"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "Fenrus ist das Haustier von Arugal, dem Erzmagier der Burg Schattenfang. Fenrus durchstreift die Hauptstudie von Arugals Gemächern. Er ist unglaublich groß und es ist möglich, dass der Worg der dunklen Magie durch Arugal oder die Worgen ausgesetzt war."

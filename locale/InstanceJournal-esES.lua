@@ -2599,6 +2599,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Capitán jurado por la muerte"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
         "Un fantasma humano esquivo, rara vez visto entre la población general de Shadowfang Keep. Se dice que posee muchos objetos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlo en primer lugar..."
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_15584 = "Rajar"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_15584 =
+        "Inflige daño físico a un enemigo y sus aliados cercanos, afectando a un máximo de 3 objetivos."
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_9080 = "Seccionar"
+    IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_9080 =
+        "Inflige daño físico y reduce la velocidad de movimiento del objetivo un 60% durante 10 s."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus el devorador"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "Fenrus es la mascota de Arugal, Archimago de Shadowfang Keep. Fenrus merodea por el estudio principal de las cámaras de Arugal. Es increíblemente grande y es posible que el huargen estuviera sujeto a magia oscura a manos de Arugal o los huargen."

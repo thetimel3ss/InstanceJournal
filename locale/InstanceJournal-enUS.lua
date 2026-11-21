@@ -3613,6 +3613,12 @@ IJ_DB_DUNGEON_SFK_BOSS_4279_ABILITY_EFFECT_7483 =
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3872 = "Deathsworn Captain"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3872 =
     "An elusive human ghost, rarely seen among the general population of Shadowfang Keep. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."
+IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_15584 = "Cleave"
+IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_15584 =
+    "Deals Physical damage to an enemy and nearby allies, affecting up to 3 targets."
+IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_9080 = "Hamstring"
+IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_9080 =
+    "Deals Physical damage and reduces the target’s movement speed by 60% for 10 sec."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus the Devourer"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
     "Fenrus is the pet of Arugal, Archmage of Shadowfang Keep. Fenrus prowls the main study of Arugal's chambers. He is unbelievably large, and it is possible the worg was subject to dark magic at the hands of Arugal or the worgen."

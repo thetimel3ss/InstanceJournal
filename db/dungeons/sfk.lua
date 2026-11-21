@@ -184,7 +184,7 @@ SFK.Bosses = {
             [2] = {IJDB.I[6319], DropChance = 50}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "3872",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "deathsworn" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "deathsworn" .. IMPF,
@@ -193,6 +193,20 @@ SFK.Bosses = {
         MapCoordinateX = 78.0,
         MapCoordinateY = 51.0,
         IsRare = true,
+        Abilities = {
+            [1] = {
+                Id = "15584",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_15584,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_15584
+            },
+            [2] = {
+                Id = "9080",
+                Icon = "Ability_ShockWave",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_NAME_9080,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_9080
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6641], DropChance = 50}, 
             [2] = {IJDB.I[6642], DropChance = 50}
