@@ -300,10 +300,18 @@ DEADMINES.Bosses = {
         MapCoordinateY = 28.1,
         Abilities = {
             [1] = {
-                Id = "3417", 
-                Icon = "Ability_GhoulFrenzy", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417
+                Id = "3417",
+                Icon = "Ability_GhoulFrenzy",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417,
+                SubAbilities = {
+                    [1] = {
+                        Id = "3391",
+                        Icon = "Ability_GhoulFrenzy",
+                        Name = IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3391,
+                        Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3391
+                    }
+                }
             },
             [2] = {
                 Id = "5200",

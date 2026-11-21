@@ -495,6 +495,9 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "Sneed"
 IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "Thrash"
 IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
     "Performs two additional attacks."
+IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3391 = "Thrash"
+IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3391 =
+    "Performs two additional attacks."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
     "Jared Voss is the son of William Voss, a renowned alchemist whose shop and home were burned down with Stormwind and never rebuilt, leaving his family homeless and bitter toward the nobility responsible. Jared, apprenticed to the Stonemasons before his father's death, inherited both his alchemical talents and his burning resentment."
@@ -549,10 +552,13 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_647_ABILITY_EFFECT_15584 =
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin VanCleef"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
     "Formerly the leader of the Stonemasons Guild, disputes with the House of Nobles led VanCleef to leave Stormwind City and create the Defias Brotherhood. VanCleef then claimed the Deadmines as a base of operations to construct the juggernaut that would begin his retribution."
-IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 = "Trash"
-IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 = "Edwin VanCleef gains a chance to do two additional attacks."
+IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 =
+    "Thrash"
+IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 =
+    "Grants a chance to make extra attacks."
 IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_5200 = "VanCleef's Allies"
-IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 = "Edwin VanCleef call upon his allies, summoning a pair of Defias Blackguards to assist him during the battle."
+IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 =
+    "Summons two Defias Blackguards to assist in battle."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "Cookie"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "No one except Edwin VanCleef knows how or why Cookie was promoted to be the ship's cook. For pirates, though, a meal is a meal."
 IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Acid Splash"

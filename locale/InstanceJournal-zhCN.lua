@@ -592,6 +592,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "痛击"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
         "发动两次额外攻击。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3391 = "痛击"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3391 =
+        "发动两次额外攻击。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "杰里德·维斯"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "贾里德·沃斯是威廉·沃斯的儿子，威廉·沃斯是一位著名的炼金术士，他的商店和房屋在暴风城被烧毁后再也没有重建，导致他的家人无家可归，并对负责的贵族怀有怨恨。贾里德在父亲去世前成为石匠会的学徒，继承了他的炼金术天赋和强烈的怨恨。"
@@ -646,10 +649,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "艾德温·范克里夫"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "范克里夫曾是石匠公会的领袖，与贵族院的纠纷导致范克里夫离开暴风城并创建了迪菲亚兄弟会。范克里夫随后声称死亡矿井是他建造主宰的行动基地，并开始了他的报复。"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 = "痛击"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 = "埃德温·范克里夫有机会进行两次额外的攻击。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 =
+        "痛击"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 =
+        "有几率发动额外攻击。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_5200 = "范克里夫的盟友"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 = "艾德温·范克里夫召集了他的盟友，召唤了一对迪菲亚暗黑卫士在战斗中协助他。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 =
+        "召唤两名迪菲亚黑衣卫兵协助战斗。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "曲奇"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "除了埃德温·范克里夫之外，没有人知道库奇如何或为何被提升为船上的厨师。但对于海盗来说，一顿饭就是一顿饭。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "酸液溅射"

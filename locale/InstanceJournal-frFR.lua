@@ -454,6 +454,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "Débattre"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
         "Effectue deux attaques supplémentaires."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3391 = "Débattre"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3391 =
+        "Effectue deux attaques supplémentaires."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss est le fils de William Voss, un alchimiste renommé dont le magasin et la maison ont été incendiés sous Hurlevent et jamais reconstruits, laissant sa famille sans abri et amère envers la noblesse responsable. Jared, apprenti chez les tailleurs de pierre avant la mort de son père, a hérité à la fois de ses talents alchimiques et de son ressentiment ardent."
@@ -508,10 +511,13 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin VanCleef"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "Ancien chef de la guilde des tailleurs de pierre, des différends avec la Maison des Nobles ont conduit VanCleef à quitter Hurlevent et à créer la Confrérie Défias. VanCleef a ensuite revendiqué les Deadamines comme base d'opérations pour construire le poids lourd qui allait commencer son châtiment."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 = "Poubelle"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 = "Edwin VanCleef a une chance de réaliser deux attaques supplémentaires."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 =
+        "Débattre"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 =
+        "Confère une chance d’effectuer des attaques supplémentaires."
     IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_5200 = "Les alliés de VanCleef"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 = "Edwin VanCleef fait appel à ses alliés, invoquant deux gardes noirs défias pour l'assister pendant la bataille."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 =
+        "Invoque deux gardes noirs défias pour l’aider au combat."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "Biscuit"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "Personne, à l'exception d'Edwin VanCleef, ne sait comment ni pourquoi Cookie a été promu cuisinier du navire. Mais pour les pirates, un repas est un repas."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Éclaboussure d'acide"

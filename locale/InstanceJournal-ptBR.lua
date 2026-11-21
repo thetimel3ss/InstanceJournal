@@ -454,6 +454,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "lixo"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
         "Realiza dois ataques adicionais."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3391 = "lixo"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3391 =
+        "Realiza dois ataques adicionais."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss é filho de William Voss, um renomado alquimista cuja loja e casa foram incendiadas em Ventobravo e nunca reconstruídas, deixando sua família desabrigada e ressentida com a nobreza responsável. Jared, aprendiz dos pedreiros antes da morte de seu pai, herdou tanto seus talentos alquímicos quanto seu ressentimento ardente."
@@ -507,10 +510,13 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin VanCleef"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "Ex-líder da Guilda dos Pedreiros, disputas com a Casa dos Nobres levaram VanCleef a deixar a Cidade de Ventobravo e criar a Irmandade Défias. VanCleef então reivindicou Deadmines como base de operações para construir o rolo compressor que iniciaria sua retribuição."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 = "Lixo"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 = "Edwin VanCleef ganha a chance de realizar dois ataques adicionais."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 =
+        "lixo"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 =
+        "Concede uma chance de realizar ataques adicionais."
     IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_5200 = "Aliados de VanCleef"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 = "Edwin VanCleef convoca seus aliados, convocando um par de Defias Blackguards para ajudá-lo durante a batalha."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 =
+        "Invoca dois Guardas Negros Défias para auxiliar na batalha."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "Biscoito"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "Ninguém, exceto Edwin VanCleef, sabe como ou por que Cookie foi promovido a cozinheiro do navio. Para os piratas, porém, uma refeição é uma refeição."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Respingo de ácido"

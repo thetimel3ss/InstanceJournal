@@ -456,6 +456,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_NAME_3391 = "Thrash"
     IJ_DB_DUNGEON_DEADMINES_BOSS_646_ABILITY_EFFECT_3391 =
         "Führt zwei zusätzliche Angriffe aus."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3391 = "Thrash"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3391 =
+        "Führt zwei zusätzliche Angriffe aus."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss ist der Sohn von William Voss, einem berühmten Alchemisten, dessen Laden und Haus bei Stormwind niedergebrannt und nie wieder aufgebaut wurden, was seine Familie obdachlos und verbittert gegenüber dem verantwortlichen Adel zurückließ. Jared, der vor dem Tod seines Vaters bei den Steinmetzen in die Lehre ging, erbte sowohl dessen alchemistische Talente als auch seinen brennenden Groll."
@@ -510,10 +513,13 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_639 = "Edwin Van Cleef"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_639 =
         "Als ehemaliger Anführer der Steinmetzgilde führten Streitigkeiten mit dem Haus der Adligen dazu, dass VanCleef Stormwind City verließ und die Defias-Bruderschaft gründete. VanCleef beanspruchte dann die Deadmines als Operationsbasis für den Bau des Molochs, mit dem seine Vergeltung beginnen sollte."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 = "Müll"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 = "Edwin VanCleef erhält die Chance, zwei zusätzliche Angriffe auszuführen."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_3417 =
+        "Thrash"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_3417 =
+        "Gewährt eine Chance auf zusätzliche Angriffe."
     IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_NAME_5200 = "VanCleefs Verbündete"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 = "Edwin VanCleef ruft seine Verbündeten auf und ruft ein Paar Defias-Schwarzwächter herbei, um ihm während der Schlacht zu helfen."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 =
+        "Beschwört zwei Schwarzgardisten der Defias zur Unterstützung im Kampf."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "Plätzchen"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "Niemand außer Edwin VanCleef weiß, wie oder warum Cookie zum Schiffskoch befördert wurde. Für Piraten ist eine Mahlzeit jedoch eine Mahlzeit."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Säurespritzer"
