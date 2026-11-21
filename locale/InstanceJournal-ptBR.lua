@@ -2097,6 +2097,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "Escuma"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
         "Skum primeiro viajou para as Wailing Caverns para se aliviar do ambiente hostil dos Barrens. Como muitos outros habitantes das cavernas, ele rapidamente sucumbiu à corrupção. Suas veias agora pulsam com energias sombrias que o transformaram em uma fera poderosa e implacável, além da redenção."
+    IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_NAME_6254 = "Raio Encadeado"
+    IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_EFFECT_6254 =
+        "Causa dano de Natureza com raios que saltam entre até 3 alvos."
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "Vangros"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "A tentativa de Naralex de restaurar Barrens inadvertidamente deu origem a um pesadelo, causando danos irreparáveis ​​ao equilíbrio de Kalimdor. Vangros é uma prova da volatilidade destes poderes involuntários; uma manifestação dos crescimentos desenfreados e violentos que começaram a se mover por conta própria dentro do labirinto de pedra. Esta criatura irradia uma magia druídica corrompida, servindo como uma contramedida perigosa contra qualquer um que tente navegar pelo labirinto amaldiçoado e libertar o Dreamer de seu sono eterno."

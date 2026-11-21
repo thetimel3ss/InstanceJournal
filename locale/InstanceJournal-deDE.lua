@@ -2101,6 +2101,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "Abschaum"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
         "Skum reiste zunächst zu den Wailing Caverns, um sich aus der feindseligen Umgebung des Brachlandes zu befreien. Wie viele andere Höhlenbewohner erlag er schnell der Korruption. In seinen Adern pulsieren jetzt dunkle Energien, die ihn in ein mächtiges und rücksichtsloses Biest verwandelt haben, das nicht mehr zu retten ist."
+    IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_NAME_6254 = "Kettenblitz"
+    IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_EFFECT_6254 =
+        "Verursacht Naturschaden mit einem Blitz, der auf bis zu 3 Ziele überspringt."
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "Vangros"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "Naralex‘ Versuch, das Brachland wiederherzustellen, löste unbeabsichtigt einen Albtraum aus, der das Gleichgewicht von Kalimdor irreparabel schädigte. Vangros ist ein Beweis für die Unbeständigkeit dieser unfreiwilligen Kräfte; ein Ausdruck der grassierenden, gewalttätigen Wucherungen, die begonnen haben, sich von selbst innerhalb des Steinlabyrinths zu bewegen. Diese Kreatur strahlt eine verdorbene druidische Magie aus und dient als gefährliche Gegenmaßnahme gegen jeden, der versucht, durch das verfluchte Labyrinth zu navigieren und den Träumer aus seinem ewigen Schlaf zu befreien."

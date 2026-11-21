@@ -2877,6 +2877,9 @@ IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_8147 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "Skum"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
     "Skum first journeyed to the Wailing Caverns for relief from the Barrens' hostile environment. Like many of the caves' other inhabitants, he quickly succumbed to corruption. His veins now pulse with dark energies that have transformed him into a mighty and ruthless beast beyond redemption."
+IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_NAME_6254 = "Chained Bolt"
+IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_EFFECT_6254 =
+    "Deals Nature damage with lightning that arcs between up to 3 targets."
 IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "Vangros"
 IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
     "Naralex's attempt to restore the Barrens inadvertently birthed a waking nightmare, causing irreparable damage to the balance of Kalimdor. Vangros is a testament to the volatility of these involuntary powers; a manifestation of the rampant, violent overgrowths that have begun to move of their own accord within the stone labyrinth. This creature radiates a corrupted druidic magic, serving as a dangerous countermeasure against any who seek to navigate the cursed maze and free the Dreamer from his eternal slumber."

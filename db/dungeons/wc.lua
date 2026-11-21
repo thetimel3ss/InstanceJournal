@@ -170,7 +170,7 @@ WC.Bosses = {
             [3] = {IJDB.I[80711], DropChance = 33}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "3674",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "skum" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "skum" .. IMPF,
@@ -178,6 +178,14 @@ WC.Bosses = {
         Story = IJ_DB_DUNGEON_WC_BOSS_STORY_3674,
         MapCoordinateX = 93.8,
         MapCoordinateY = 63.1,
+        Abilities = {
+            [1] = {
+                Id = "6254",
+                Icon = "Spell_Nature_ChainLightning",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_NAME_6254,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_EFFECT_6254
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6448], DropChance = 33}, 
             [2] = {IJDB.I[6449], DropChance = 33}, 

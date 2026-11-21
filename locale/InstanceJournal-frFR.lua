@@ -2099,6 +2099,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "Skum"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
         "Skum s'est d'abord rendu aux Wailing Caverns pour se soulager de l'environnement hostile des Tarides. Comme beaucoup d’autres habitants des grottes, il a rapidement succombé à la corruption. Ses veines palpitent désormais d'énergies sombres qui l'ont transformé en une bête puissante et impitoyable au-delà de la rédemption."
+    IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_NAME_6254 = "Éclair en chaîne"
+    IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_EFFECT_6254 =
+        "Inflige des dégâts de Nature avec un éclair qui rebondit entre 3 cibles au maximum."
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "Vangros"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "La tentative de Naralex de restaurer les Tarides a donné naissance par inadvertance à un cauchemar éveillé, causant des dommages irréparables à l'équilibre de Kalimdor. Vangros témoigne de la volatilité de ces pouvoirs involontaires ; une manifestation des proliférations rampantes et violentes qui ont commencé à se déplacer d’elles-mêmes dans le labyrinthe de pierre. Cette créature dégage une magie druidique corrompue, servant de contre-mesure dangereuse contre quiconque cherche à naviguer dans le labyrinthe maudit et à libérer le Rêveur de son sommeil éternel."

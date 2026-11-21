@@ -2099,6 +2099,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "espuma"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
         "Skum viajó por primera vez a las Cavernas de los Lamentos en busca de alivio del entorno hostil de Los Baldíos. Como muchos de los demás habitantes de las cuevas, rápidamente sucumbió a la corrupción. Sus venas ahora palpitan con energías oscuras que lo han transformado en una bestia poderosa y despiadada más allá de la redención."
+    IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_NAME_6254 = "Descarga encadenada"
+    IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_EFFECT_6254 =
+        "Inflige daño de Naturaleza con un rayo que salta entre un máximo de 3 objetivos."
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "vangros"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "El intento de Naralex de restaurar Los Baldíos sin darse cuenta dio lugar a una pesadilla que causó un daño irreparable al equilibrio de Kalimdor. Vangros es un testimonio de la volatilidad de estos poderes involuntarios; una manifestación de los crecimientos desenfrenados y violentos que han comenzado a moverse por sí solos dentro del laberinto de piedra. Esta criatura irradia una magia druídica corrupta, que sirve como una peligrosa contramedida contra cualquiera que busque navegar por el laberinto maldito y liberar al Soñador de su sueño eterno."
