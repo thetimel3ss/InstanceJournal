@@ -4211,8 +4211,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_POI_WHC_NAME = "Cavernas Chifre do Vento"
     IJ_DB_POI_TH_NAME = "Fortaleza Presa de Madeira"
     IJ_DB_POI_TT_NAME = "Túneis Timbermaw"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_3143 = "Rugido Glacial"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_3143 =
+        "Causa dano de Gelo aos inimigos em um raio de 10 m e atordoa aqueles em um raio de 5 m por 3 s.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_FH_BOSS_NAME_tansha = "Tan'sha, a Elegante"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha = "Frostmane Hollow guarda bem seus segredos - Tan'sha, a Elegante, entre eles."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
+        "Tan’sha é um leopardo-das-neves encontrado ao lado de Manipulador Oboka na masmorra Juba Gélida Oca. Shandlar Thethis procura sua pelagem branca impecável para um manto encomendado por Astalor da Casa Sunsworn."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Mestre de Batalha Ubukaz"
     IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "Sem crônica, sem registro, sem conta – Battlemaster Ubukaz existe inteiramente fora do alcance da história."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za, o Vidente"
@@ -4253,8 +4257,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_RAID_ONY_BOSS_NAME_axelus = "Comandante de ninhada Axelus"
     IJ_DB_RAID_ONY_BOSS_STORY_axelus = "A ninhada não fala de seus comandantes para estranhos - muito menos o comandante da ninhada Axelus."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tansha = "Tan'sha, a Elegante"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tanshaintimidatingshout = "Grito Intimidador"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_tanshaintimidatingshout = "Tan'sha grita com os inimigos próximos, fazendo-os fugir de medo por 8 segundos."
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_19134 = "Grito Intimidador"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_19134 =
+        "Faz o alvo principal se encolher de medo e os inimigos próximos fugirem por 8 s."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Manipulador Oboka"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Consertar animal de estimação"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka para de lutar para curar Tan'sha."

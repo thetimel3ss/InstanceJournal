@@ -4433,11 +4433,16 @@ if GetLocale() == "zhCN" then
         "霜鬃峡谷坐落在丹莫罗的冰冻山峰深处，早在矮人在山上凿出宏伟的大厅之前，霜鬃峡谷就一直是霜鬃部落的据点。霜鬃人曾经是一个骄傲而扩张的民族，但由于铁炉堡的无情扩张，他们已被推入越来越寒冷的境地。他们的狩猎场被占领，他们的神殿被玷污。部落的残余力量变得狂暴起来，他们对矮人的定居点进行袭击，其凶猛不是出于野蛮，而是出于绝望。对于霜鬃来说，这不是战争。这是生存。"
 
     -- FH Bosses
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_3143 = "冰川咆哮"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_3143 =
+        "对10码内的敌人造成冰霜伤害，并使5码内的敌人昏迷3秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_FH_BOSS_NAME_tansha = "灵动的坦莎"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha = "霜鬃峡谷保守着它的秘密，圆滑的坦莎就是其中之一。"
+    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
+        "坦莎是一只雪豹，在霜鬃峡谷与训练师奥博卡一同出现。尚德拉·塞希斯想要它完美无瑕的白色毛皮，为日誓家族的阿斯塔洛制作一件披风。"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tansha = "灵动的坦莎"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tanshaintimidatingshout = "破胆怒吼"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_tanshaintimidatingshout = "坦莎对附近的敌人大喊，使他们惊慌失措，持续 8 秒。"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_19134 = "破胆怒吼"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_19134 =
+        "使主要目标因恐惧而蜷缩，并使附近的敌人逃跑，持续8秒。"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "训练师奥博卡"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "治疗宠物"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "奥博卡停止战斗以治愈坦莎。"

@@ -4221,8 +4221,12 @@ if GetLocale() == "deDE" then
     IJ_DB_POI_WHC_NAME = "Windhorn-Höhlen"
     IJ_DB_POI_TH_NAME = "Holzschlundfestung"
     IJ_DB_POI_TT_NAME = "Timbermaw-Tunnel"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_3143 = "Gletschergebrüll"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_3143 =
+        "Fügt Gegnern innerhalb von 10 Metern Frostschaden zu und betäubt Gegner innerhalb von 5 Metern für 3 Sek.\n\nBannt diesen magischen Effekt."
     IJ_DB_DUNGEON_FH_BOSS_NAME_tansha = "Tan'sha die Schlanke"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha = "Frostmane Hollow bewahrt seine Geheimnisse gut – darunter auch Tan'sha die Schlanke."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
+        "Tan’sha ist ein Schneeleopard, der an der Seite von Handler Oboka in der Frostmähnenhöhle anzutreffen ist. Shandlar Thethis sucht sein makelloses weißes Fell für einen von Astalor aus dem Haus Sunsworn bestellten Mantel."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Kampfmeister Ubukaz"
     IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "Keine Chronik, keine Aufzeichnung, kein Bericht – Battlemaster Ubukaz existiert völlig außerhalb der Reichweite der Geschichte."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za der Seher"
@@ -4263,8 +4267,9 @@ if GetLocale() == "deDE" then
     IJ_DB_RAID_ONY_BOSS_NAME_axelus = "Brutkommandant Axelus"
     IJ_DB_RAID_ONY_BOSS_STORY_axelus = "Die Brut spricht mit Außenstehenden nicht über ihre Kommandeure – am allerwenigsten mit Brutkommandant Axelus."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tansha = "Tan'sha die Schlanke"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tanshaintimidatingshout = "Einschüchternder Schrei"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_tanshaintimidatingshout = "Tan'sha schreit Gegner in der Nähe an und lässt sie 8 Sekunden lang voller Angst fliehen."
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_19134 = "Einschüchternder Schrei"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_19134 =
+        "Lässt das Hauptziel vor Furcht kauern und nahe Gegner 8 Sek. lang fliehen."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Handler Oboka"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Haustier reparieren"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka hört auf, für die Heilung von Tan'sha zu kämpfen."

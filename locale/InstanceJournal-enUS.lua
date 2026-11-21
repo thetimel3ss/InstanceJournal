@@ -4308,11 +4308,16 @@ IJ_DB_DUNGEON_FH_STORY =
     "Nestled deep within the frozen peaks of Dun Morogh, Frostmane Hollow has been the stronghold of the Frostmane tribe since long before the dwarves carved their great halls into the mountain. Once a proud and expansive people, the Frostmane have been pushed further and further into the cold by Ironforge's relentless expansion; their hunting grounds seized, their shrines defiled. What remains of the tribe has grown feral with fury, conducting raids on dwarven settlements with a ferocity born not of savagery, but of desperation. To the Frostmane, this is not war. It is survival."
 
 -- FH Bosses
+IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_3143 = "Glacial Roar"
+IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_3143 =
+    "Deals Frost damage to enemies within 10 yards and stuns those within 5 yards for 3 sec.\n\nDispel this Magic effect."
 IJ_DB_DUNGEON_FH_BOSS_NAME_tansha = "Tan'sha the Sleek"
-IJ_DB_DUNGEON_FH_BOSS_STORY_tansha = "Frostmane Hollow keeps its secrets well - Tan'sha the Sleek among them."
+IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
+    "Tan’sha is a snow leopard found alongside Handler Oboka in Frostmane Hollow. Shandlar Thethis seeks its flawless white pelt for a mantle commissioned by Astalor of House Sunsworn."
 IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tansha = "Tan'sha the Sleek"
-IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tanshaintimidatingshout = "Intimidating Shout"
-IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_tanshaintimidatingshout = "Tan'sha shouts at nearby enemies, causing them to flee in fear for 8 seconds."
+IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_19134 = "Intimidating Shout"
+IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_19134 =
+    "Causes the primary target to cower in fear and nearby enemies to flee for 8 sec."
 IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Handler Oboka"
 IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Mend Pet"
 IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka stops fighting to heal Tan'sha."

@@ -4221,8 +4221,12 @@ if GetLocale() == "frFR" then
     IJ_DB_POI_WHC_NAME = "Cavernes de Corne-du-Vent"
     IJ_DB_POI_TH_NAME = "Bastion des Grumegueules"
     IJ_DB_POI_TT_NAME = "Tunnels de Grumegueule"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_3143 = "Rugissement glacial"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_3143 =
+        "Inflige des dégâts de Givre aux ennemis dans un rayon de 10 mètres et étourdit ceux à moins de 5 mètres pendant 3 s.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_FH_BOSS_NAME_tansha = "Tan'sha l'élégante"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha = "Frostmane Hollow garde bien ses secrets – Tan'sha l'Élégant parmi eux."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
+        "Tan’sha est un léopard des neiges qui combat aux côtés de Gestionnaire Oboka dans le donjon Creux des Crins-de-givre. Shandlar Thethis recherche sa fourrure blanche parfaite pour un manteau commandé par Astalor de la maison Sunsworn."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Maître de bataille Ubukaz"
     IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "Pas de chronique, pas de dossier, pas de récit : le maître de bataille Ubukaz existe hors de portée de l'histoire."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za le Voyant"
@@ -4263,8 +4267,9 @@ if GetLocale() == "frFR" then
     IJ_DB_RAID_ONY_BOSS_NAME_axelus = "Commandant des couvées Axelus"
     IJ_DB_RAID_ONY_BOSS_STORY_axelus = "La couvée ne parle pas de ses commandants aux étrangers – et encore moins au commandant de la couvée Axelus."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tansha = "Tan'sha l'élégante"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tanshaintimidatingshout = "Cri d'intimidation"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_tanshaintimidatingshout = "Tan'sha crie sur les ennemis proches, les faisant fuir de peur pendant 8 secondes."
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_19134 = "Cri d'intimidation"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_19134 =
+        "Fait trembler de peur la cible principale et fuir les ennemis proches pendant 8 s."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Gestionnaire Oboka"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Réparer l'animal"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka arrête de se battre pour guérir Tan'sha."

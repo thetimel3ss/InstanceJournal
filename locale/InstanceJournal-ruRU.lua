@@ -4275,8 +4275,12 @@ if GetLocale() == "ruRU" then
     IJ_DB_POI_WHC_NAME = "Пещеры Виндхорна"
     IJ_DB_POI_TH_NAME = "Крепость Древесной Пасти"
     IJ_DB_POI_TT_NAME = "Туннели Древесной Пасти"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_3143 = "Ледяной рев"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_3143 =
+        "Наносит урон от магии льда противникам в радиусе 10 м и оглушает находящихся в радиусе 5 м на 3 сек.\n\nРассеяйте этот магический эффект."
     IJ_DB_DUNGEON_FH_BOSS_NAME_tansha = "Тан'ша Блестящая"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha = "Лощина Морозной Гривы хорошо хранит свои секреты, в том числе и Тан'ша Блестящая."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
+        "Тан’ша — снежный барс, сражающийся вместе со своим смотрителем Обокой в подземелье «Лощина Ледяной Гривы». Шандлар Тетис разыскивает его безупречную белую шкуру для мантии, заказанной Асталором из дома Сансворн."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Боевой мастер Убуказ"
     IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz =
         "Ни хроники, ни записей, ни отчетов — военачальник Убуказ полностью существует вне досягаемости истории."
@@ -4327,9 +4331,9 @@ if GetLocale() == "ruRU" then
     IJ_DB_RAID_ONY_BOSS_STORY_axelus =
         "Выводок не рассказывает о своих командирах посторонним, а командир выводка Акселус — меньше всего."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tansha = "Тан'ша Блестящая"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tanshaintimidatingshout = "Устрашающий крик"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_tanshaintimidatingshout =
-        "Тан'ша кричит на ближайших врагов, заставляя их в страхе бежать в течение 8 секунд."
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_19134 = "Устрашающий крик"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_19134 =
+        "Заставляет основную цель съежиться от страха, а ближайших противников — бежать в течение 8 сек."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Хэндлер Обока"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Починить питомца"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Обока прекращает борьбу за исцеление Тан'ши."

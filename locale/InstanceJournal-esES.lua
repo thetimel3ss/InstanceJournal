@@ -4221,8 +4221,12 @@ if GetLocale() == "esES" then
     IJ_DB_POI_WHC_NAME = "Cavernas de Cuerno de Viento"
     IJ_DB_POI_TH_NAME = "Bastión Fauces de Madera"
     IJ_DB_POI_TT_NAME = "Túneles Fauces de Madera"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_3143 = "Rugido glacial"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_3143 =
+        "Inflige daño de Escarcha a los enemigos en un radio de 10 m y aturde a los que están a menos de 5 m durante 3 s.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_FH_BOSS_NAME_tansha = "Tan'sha la elegante"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha = "Frostmane Hollow guarda bien sus secretos: Tan'sha the Sleek entre ellos."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
+        "Tan’sha es un leopardo de las nieves que se encuentra junto a Controlador Oboka en la mazmorra Hueco Melenaescarcha. Shandlar Thethis busca su impecable pelaje blanco para un manto encargado por Astalor de la Casa Sunsworn."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Maestro de batalla Ubukaz"
     IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "Sin crónica, sin registro, sin relato: Battlemaster Ubukaz existe más allá del alcance de la historia."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za la Vidente"
@@ -4263,8 +4267,9 @@ if GetLocale() == "esES" then
     IJ_DB_RAID_ONY_BOSS_NAME_axelus = "Comandante de cría Axelus"
     IJ_DB_RAID_ONY_BOSS_STORY_axelus = "La prole no habla de sus comandantes con los forasteros, y menos aún el comandante de progenie Axelus."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tansha = "Tan'sha la elegante"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tanshaintimidatingshout = "Grito intimidante"
-    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_tanshaintimidatingshout = "Tan'sha les grita a los enemigos cercanos, lo que hace que huyan aterrorizados durante 8 segundos."
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_19134 = "Grito intimidante"
+    IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_19134 =
+        "Hace que el objetivo principal se encoja de miedo y los enemigos cercanos huyan durante 8 s."
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Controlador Oboka"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Reparar mascota"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka deja de luchar para curar a Tan'sha."

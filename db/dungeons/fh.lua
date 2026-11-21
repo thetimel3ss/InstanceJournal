@@ -45,11 +45,18 @@ FH.Bosses = {
                 Name = IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tansha,
                 SubAbilities = {
                     [1] = {
-                        Id = "tanshaintimidatingshout",
+                        Id = "19134",
                         Icon = "ability_golemthunderclap",
-                        Name = IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_tanshaintimidatingshout,
-                        Effect = IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_tanshaintimidatingshout,
+                        Name = IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_19134,
+                        Effect = IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_19134,
                         Flags = {IMAF.Important}
+                    },
+                    [2] = {
+                        Id = "3143",
+                        Icon = "Spell_Frost_FrostNova",
+                        Name = IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_3143,
+                        Effect = IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_3143,
+                        Flags = {IMAF.Magic}
                     }
                 }
             },
