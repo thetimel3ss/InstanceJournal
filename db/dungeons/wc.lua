@@ -30,7 +30,7 @@ WC.Entrances = {
     }
 }
 WC.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = { -- NOTE: Only auto attacks observed in reviewed logs; no abilities listed in the database
         Id = "3653",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "kresh" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "kresh" .. IMPF,
