@@ -2150,6 +2150,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "Mutanus el Devorador"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
         "Desde los rincones más oscuros de la retorcida mente de Naralex, la corrupción que asola el Sueño Esmeralda se ha manifestado en la forma del peor enemigo del druida: los múrlocs. La aberración conocida como Mutanus ha llegado al mundo de la vigilia para devorar a cualquiera que busque liberar a Naralex de las garras de Nightmare."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_8150 = "Estallido de trueno"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_8150 =
+        "Inflige daño de Naturaleza a los enemigos cercanos y los aturde."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7399 = "Aterrorizar"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7399 =
+        "Hace que un enemigo huya aterrorizado durante 4 s. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7967 = "Pesadilla de Naralex"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7967 =
+        "Duerme a un enemigo hasta 15 s. Las acciones hostiles despiertan al objetivo. Disipa este efecto mágico."
 
     -- MARA
     IJ_DB_DUNGEON_MARA_NAME = "Maraudon"

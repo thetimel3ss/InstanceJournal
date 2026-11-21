@@ -2152,6 +2152,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "Mutanus der Verschlinger"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
         "Aus den dunkelsten Ecken von Naralex‘ verdrehtem Verstand hat sich die Verderbnis, die den Smaragdgrünen Traum heimsucht, in Form des schlimmsten Feindes des Druiden manifestiert: Murlocs. Die als Mutanus bekannte Verirrung ist in die wache Welt gekommen, um jeden zu verschlingen, der Naralex aus den Fängen des Albtraums befreien will."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_8150 = "Donnerschlag"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_8150 =
+        "Fügt nahen Gegnern Naturschaden zu und betäubt sie."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7399 = "Erschrecken"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7399 =
+        "Lässt einen Gegner 4 Sek. lang vor Furcht fliehen. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7967 = "Naralex' Alptraum"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7967 =
+        "Versetzt einen Gegner bis zu 15 Sek. lang in Schlaf. Feindliche Aktionen wecken das Ziel auf. Bannt diesen magischen Effekt."
 
     -- MARA
     IJ_DB_DUNGEON_MARA_NAME = "Maraudon"

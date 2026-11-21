@@ -2150,6 +2150,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "Mutanus le Dévoreur"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
         "Depuis les recoins les plus sombres de l'esprit tordu de Naralex, la corruption qui sévit dans le Rêve d'Émeraude s'est manifestée sous la forme du pire ennemi du druide : les murlocs. L'aberration connue sous le nom de Mutanus est venue dans le monde éveillé pour dévorer tous ceux qui cherchent à libérer Naralex des griffes du Cauchemar."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_8150 = "Fracas du tonnerre"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_8150 =
+        "Inflige des dégâts de Nature aux ennemis proches et les étourdit."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7399 = "Terrifier"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7399 =
+        "Fait fuir un ennemi de peur pendant 4 s. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7967 = "Cauchemar de Naralex"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7967 =
+        "Endort un ennemi pendant 15 s au maximum. Les actions hostiles réveillent la cible. Dissipez cet effet magique."
 
     -- MARA
     IJ_DB_DUNGEON_MARA_NAME = "Maraudon"

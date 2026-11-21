@@ -330,7 +330,7 @@ WC.Bosses = {
             [3] = {IJDB.I[6631], DropChance = 33}
         }
     },
-    [11] = { -- NOTE: Missing abilities
+    [11] = {
         Id = "3654",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "mutanus" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "mutanus" .. IMPF,
@@ -338,6 +338,29 @@ WC.Bosses = {
         Story = IJ_DB_DUNGEON_WC_BOSS_STORY_3654,
         MapCoordinateX = 46.7,
         MapCoordinateY = 12.1,
+        Abilities = {
+            [1] = {
+                Id = "8150",
+                Icon = "Spell_Nature_ThunderClap",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_8150,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_8150,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "7399",
+                Icon = "Ability_Physical_Taunt",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7399,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7399,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "7967",
+                Icon = "Spell_Nature_Sleep",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7967,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7967,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6461], DropChance = 25}, 
             [2] = {IJDB.I[6463], DropChance = 25}, 

@@ -3021,6 +3021,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "吞噬者穆坦努斯"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
         "从纳拉雷克斯扭曲心灵的最黑暗角落，困扰翡翠梦境的腐败以德鲁伊最大的敌人：鱼人的形式显现出来。被称为“穆塔努斯”的异兽来到了现实世界，吞噬了所有试图将纳拉雷克斯从梦魇魔掌中解放出来的人。"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_8150 = "雷霆震裂"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_8150 =
+        "对附近的敌人造成自然伤害并使其昏迷。"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7399 = "恐吓"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7399 =
+        "使一名敌人因恐惧而逃跑4秒。驱散此魔法效果。"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7967 = "纳拉雷克斯的梦魇"
+    IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7967 =
+        "使一名敌人沉睡，最多持续15秒。敌对行为会将其唤醒。驱散此魔法效果。"
 
     -- WC Loot
     IJ_LOOT_NAME_13245 = "克雷什之背"

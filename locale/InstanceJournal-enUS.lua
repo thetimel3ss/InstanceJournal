@@ -2928,6 +2928,15 @@ IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_8148 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "Mutanus the Devourer"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
     "From the darkest corners of Naralex's twisted mind, the corruption plaguing the Emerald Dream has manifested in the form of the druid's worst enemy: murlocs. The aberration known as Mutanus has come to the waking world to devour any who seek to liberate Naralex from the Nightmare's clutches."
+IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_8150 = "Thundercrack"
+IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_8150 =
+    "Deals Nature damage to nearby enemies and stuns them."
+IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7399 = "Terrify"
+IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7399 =
+    "Causes an enemy to flee in fear for 4 sec. Dispel this Magic effect."
+IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_NAME_7967 = "Naralex's Nightmare"
+IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7967 =
+    "Puts an enemy to sleep for up to 15 sec. Hostile actions awaken the target. Dispel this Magic effect."
 
 -- WC Loot
 IJ_LOOT_NAME_13245 = "Kresh's Back"
