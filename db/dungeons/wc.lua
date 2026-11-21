@@ -44,7 +44,7 @@ WC.Bosses = {
             [3] = {IJDB.I[6447], DropChance = 33}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "3669",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "cobrahn" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "cobrahn" .. IMPF,
@@ -52,6 +52,34 @@ WC.Bosses = {
         Story = IJ_DB_DUNGEON_WC_BOSS_STORY_3669,
         MapCoordinateX = 32.5,
         MapCoordinateY = 45.3,
+        Abilities = {
+            [1] = {
+                Id = "9532",
+                Icon = "Spell_Nature_Lightning",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_9532,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_9532
+            },
+            [2] = {
+                Id = "8040",
+                Icon = "Spell_Nature_Sleep",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_8040,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_8040,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "7965",
+                Icon = "Spell_Nature_GuardianWard",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_7965,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_7965
+            },
+            [4] = {
+                Id = "17330",
+                Icon = "Spell_Nature_CorrosiveBreath",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_17330,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_17330,
+                Flags = {IMAF.Poison}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6460], DropChance = 33}, 
             [2] = {IJDB.I[6465], DropChance = 33}, 

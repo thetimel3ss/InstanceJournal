@@ -2928,6 +2928,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3669 = "考布莱恩领主"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3669 =
         "贾拉克斯拉驾驭动物形态的技巧为他在塞纳里奥议会的德鲁伊中赢得了声誉。然而，哀嚎洞穴的腐败扭曲了他独特的能力。现在，贾拉克斯拉已经完善了致命的蛇形形态，并将自己重新命名为科布拉恩，以反映他新发现的邪恶力量。"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_9532 = "闪电箭"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_9532 =
+        "以闪电击中一名敌人，造成自然伤害。"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_8040 = "德鲁伊的睡眠"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_8040 =
+        "使一名敌人沉睡，最多持续15秒。敌对行为会将其唤醒。驱散此魔法效果。"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_7965 = "考布莱恩毒蛇形态"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_7965 =
+        "变成毒蛇，提高攻击伤害，但攻击速度降低。"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_17330 = "毒药"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_17330 =
+        "每2秒造成一次自然伤害，持续20秒。解除此中毒效果。"
     IJ_DB_DUNGEON_WC_BOSS_NAME_5912 = "变异精灵龙"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5912 =
         "一条难以捉摸的精灵龙，在哀嚎洞穴的居民中很少见到。据说它拥有许多令人垂涎的物品，很多人都希望能亲手得到它们，如果他们能一开始就遇到它就好了……"

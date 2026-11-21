@@ -2835,6 +2835,18 @@ IJ_DB_DUNGEON_WC_BOSS_STORY_3653 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_3669 = "Lord Cobrahn"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3669 =
     "Jarlaxla's skill at harnessing animal forms earned him renown among the druids of the Cenarion Circle. However, the Wailing Caverns' corruption twisted his unique abilities. Now, Jarlaxla has perfected a deadly serpentine form, renaming himself Cobrahn to reflect his vicious new found power."
+IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_9532 = "Lightning Bolt"
+IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_9532 =
+    "Blasts an enemy with lightning, dealing Nature damage."
+IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_8040 = "Druid's Slumber"
+IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_8040 =
+    "Puts an enemy to sleep for up to 15 sec. Hostile actions awaken the target. Dispel this Magic effect."
+IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_7965 = "Cobrahn Serpent Form"
+IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_7965 =
+    "Transforms into a serpent, increasing attack damage but attacking more slowly."
+IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_17330 = "Poison"
+IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_17330 =
+    "Deals Nature damage every 2 sec. for 20 sec. Remove this Poison effect."
 IJ_DB_DUNGEON_WC_BOSS_NAME_5912 = "Deviate Faerie Dragon"
 IJ_DB_DUNGEON_WC_BOSS_STORY_5912 =
     "An elusive faerie dragon, rarely seen among the denizens of Wailing Caverns. It is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter it in the first place..."

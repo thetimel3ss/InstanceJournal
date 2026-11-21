@@ -2057,6 +2057,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3669 = "Señor Cobrahn"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3669 =
         "La habilidad de Jarlaxla para aprovechar formas animales le valió renombre entre los druidas del Círculo Cenarion. Sin embargo, la corrupción de las Cavernas de los Lamentos torció sus habilidades únicas. Ahora, Jarlaxla ha perfeccionado una forma serpentina mortal y se ha rebautizado como Cobrahn para reflejar su nuevo y cruel poder."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_9532 = "Descarga de relámpagos"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_9532 =
+        "Golpea a un enemigo con un rayo que inflige daño de Naturaleza."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_8040 = "Letargo de druida"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_8040 =
+        "Duerme a un enemigo hasta 15 s. Las acciones hostiles despiertan al objetivo. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_7965 = "Forma de serpiente de Cobrahn"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_7965 =
+        "Se transforma en una serpiente, aumentando el daño de sus ataques, pero atacando más despacio."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_17330 = "Veneno"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_17330 =
+        "Inflige daño de Naturaleza cada 2 s durante 20 s. Elimina este efecto de veneno."
     IJ_DB_DUNGEON_WC_BOSS_NAME_5912 = "Dragón hada desviado"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5912 =
         "Un dragón feérico esquivo, rara vez visto entre los habitantes de las Cavernas de los Lamentos. Se dice que posee muchos artículos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlos en primer lugar..."

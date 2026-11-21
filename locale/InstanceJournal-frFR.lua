@@ -2057,6 +2057,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3669 = "Seigneur Cobrahn"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3669 =
         "L'habileté de Jarlaxla à maîtriser les formes animales lui a valu une renommée parmi les druides du Cercle Cénarien. Cependant, la corruption des Wailing Caverns a altéré ses capacités uniques. Maintenant, Jarlaxla a perfectionné une forme serpentine mortelle, se rebaptisant Cobrahn pour refléter son nouveau pouvoir vicieux."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_9532 = "Éclair"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_9532 =
+        "Frappe un ennemi avec un éclair qui inflige des dégâts de Nature."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_8040 = "Léthargie du druide"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_8040 =
+        "Endort un ennemi pendant 15 s au maximum. Les actions hostiles réveillent la cible. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_7965 = "Forme de serpent de Cobrahn"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_7965 =
+        "Se transforme en serpent, augmentant les dégâts de ses attaques, mais attaquant plus lentement."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_17330 = "Poison"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_17330 =
+        "Inflige des dégâts de Nature toutes les 2 s pendant 20 s. Dissipez cet effet de poison."
     IJ_DB_DUNGEON_WC_BOSS_NAME_5912 = "Dragon féerique déviant"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5912 =
         "Un dragon féerique insaisissable, rarement vu parmi les habitants des Wailing Caverns. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient les trouver en premier lieu..."

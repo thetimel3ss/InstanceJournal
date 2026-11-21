@@ -2059,6 +2059,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3669 = "Lord Cobrahn"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3669 =
         "Jarlaxlas Fähigkeit, sich Tiergestalten zunutze zu machen, brachte ihm unter den Druiden des Zirkels des Cenarius Ansehen ein. Die Korruption der Wailing Caverns beeinträchtigte jedoch seine einzigartigen Fähigkeiten. Jetzt hat Jarlaxla eine tödliche Schlangengestalt perfektioniert und sich selbst in Cobrahn umbenannt, um seine bösartige, neu entdeckte Macht widerzuspiegeln."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_9532 = "Blitzschlag"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_9532 =
+        "Trifft einen Gegner mit einem Blitz und verursacht Naturschaden."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_8040 = "Druidenschlummer"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_8040 =
+        "Versetzt einen Gegner bis zu 15 Sek. lang in Schlaf. Feindliche Aktionen wecken das Ziel auf. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_7965 = "Cobrahn-Schlangengestalt"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_7965 =
+        "Verwandelt sich in eine Schlange, erhöht den Angriffsschaden, greift aber langsamer an."
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_NAME_17330 = "Gift"
+    IJ_DB_DUNGEON_WC_BOSS_3669_ABILITY_EFFECT_17330 =
+        "Verursacht 20 Sek. lang alle 2 Sek. Naturschaden. Entfernt diesen Gifteffekt."
     IJ_DB_DUNGEON_WC_BOSS_NAME_5912 = "Abweichender Feendrache"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5912 =
         "Ein schwer fassbarer Feendrache, der unter den Bewohnern der Wailing Caverns selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihnen nur überhaupt begegnen könnten ..."
