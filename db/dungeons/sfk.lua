@@ -235,7 +235,7 @@ SFK.Bosses = {
             [2] = {IJDB.I[6340], DropChance = 50}
         }
     },
-    [9] = { -- NOTE: Missing abilities
+    [9] = {
         Id = "3927",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "nandos" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "nandos" .. IMPF,
@@ -243,6 +243,26 @@ SFK.Bosses = {
         Story = IJ_DB_DUNGEON_SFK_BOSS_STORY_3927,
         MapCoordinateX = 70.5,
         MapCoordinateY = 28.9,
+        Abilities = {
+            [1] = {
+                Id = "7487",
+                Icon = "Spell_Shadow_ChillTouch",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7487,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7487
+            },
+            [2] = {
+                Id = "7488",
+                Icon = "Spell_Shadow_ChillTouch",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7488,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7488
+            },
+            [3] = {
+                Id = "7489",
+                Icon = "Spell_Shadow_ChillTouch",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7489,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7489
+            }
+        },
         Loot = {
             [1] = {IJDB.I[80716], DropChance = 25}, 
             [2] = {IJDB.I[6314], DropChance = 25}, 

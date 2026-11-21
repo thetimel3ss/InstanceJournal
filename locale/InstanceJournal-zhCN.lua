@@ -3720,6 +3720,15 @@ if GetLocale() == "zhCN" then
         "每6秒造成一次自然伤害并将目标的法力值转移给施法者，持续2分钟。解除此中毒效果。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "狼王南杜斯"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 = "他是小狼的狼人主人，并且拥有自己的狼群，可以在英雄与他交战之前与他们战斗。他是阿鲁高最后一个阻碍道路的追随者。"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7487 = "召唤灰色座狼"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7487 =
+        "召唤一只灰色座狼协助战斗。"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7488 = "召唤血牙座狼"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7488 =
+        "召唤一只血牙座狼协助战斗。"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7489 = "召唤狼型恐魔"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7489 =
+        "召唤一只狼型恐魔协助战斗。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "大法师阿鲁高"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "大法师阿鲁高是达拉然的前法师，住在影牙城堡的废墟中，后来为天灾军团复活。他最为臭名昭著的是他将狼人从翡翠梦境中解放出来，再次将他们释放到了世界上。"

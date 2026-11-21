@@ -2614,6 +2614,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Maestro Lobo Nandos"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 =
         "Es el maestro huargen de los huargen menores y tiene su propia manada que luchará contra los héroes antes de que se enfrenten a él. Es el último hombre de confianza de Arugal que obstruye el camino."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7487 = "Llamar a huargo pálido"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7487 =
+        "Invoca a un huargo pálido para ayudar en la batalla."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7488 = "Llamar a huargo baboso"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7488 =
+        "Invoca a un huargo baboso para ayudar en la batalla."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7489 = "Llamar a horror lupino"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7489 =
+        "Invoca a un horror lupino para ayudar en la batalla."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Archimago Arugal"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "El Archimago Arugal es un antiguo mago de Dalaran que vivió dentro de las ruinas de Shadowfang Keep y luego resucitó de entre los muertos al servicio de la Plaga. Es más conocido por haber desatado a los huargen una vez más en el mundo liberándolos del Sueño Esmeralda."

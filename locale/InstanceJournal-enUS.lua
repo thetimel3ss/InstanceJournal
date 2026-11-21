@@ -3627,6 +3627,15 @@ IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_EFFECT_7125 =
     "Deals Nature damage and transfers mana from the target to the caster every 6 sec. for 2 min. Remove this Poison effect."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Wolf Master Nandos"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 = "He is the worgen master of the lesser worgs, and has his own pack which will fight heroes before they engage him. He is the last henchman of Arugal to obstruct the path."
+IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7487 = "Call Bleak Worg"
+IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7487 =
+    "Summons a Bleak Worg to aid in battle."
+IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7488 = "Call Slavering Worg"
+IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7488 =
+    "Summons a Slavering Worg to aid in battle."
+IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7489 = "Call Lupine Horror"
+IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7489 =
+    "Summons a Lupine Horror to aid in battle."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Archmage Arugal"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
     "Archmage Arugal is a former mage of Dalaran who lived within the ruins of Shadowfang Keep and was later raised from the dead in the service of the Scourge. He is most notorious for having unleashed the worgen once more unto the world by freeing them from the Emerald Dream."

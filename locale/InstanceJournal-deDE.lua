@@ -2616,6 +2616,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Wolfsmeister Nandos"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 =
         "Er ist der Worgen-Meister der niederen Worgs und hat sein eigenes Rudel, das gegen Helden kämpft, bevor sie ihn angreifen. Er ist der letzte Handlanger von Arugal, der ihm den Weg versperrt."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7487 = "Bleichen Worg rufen"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7487 =
+        "Ruft einen Bleichen Worg zur Unterstützung im Kampf."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7488 = "Geifernden Worg rufen"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7488 =
+        "Ruft einen Geifernden Worg zur Unterstützung im Kampf."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7489 = "Lupinen Horror rufen"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7489 =
+        "Ruft einen Lupinen Horror zur Unterstützung im Kampf."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Erzmagier Arugal"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "Erzmagier Arugal ist ein ehemaliger Magier von Dalaran, der in den Ruinen der Burg Schattenfang lebte und später im Dienste der Geißel von den Toten auferweckt wurde. Er ist vor allem dafür bekannt, dass er die Worgen erneut auf die Welt losgelassen hat, indem er sie aus dem Smaragdgrünen Traum befreit hat."

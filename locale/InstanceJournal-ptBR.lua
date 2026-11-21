@@ -2611,6 +2611,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Mestre Lobo Nandos"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 =
         "Ele é o mestre worgen dos worgs inferiores e tem sua própria matilha que lutará contra os heróis antes que eles o enfrentem. Ele é o último capanga de Arugal a obstruir o caminho."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7487 = "Chamar Worg Pálido"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7487 =
+        "Invoca um Worg Pálido para ajudar na batalha."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7488 = "Chamar Worg Salivante"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7488 =
+        "Invoca um Worg Salivante para ajudar na batalha."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7489 = "Chamar Horror Lupino"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7489 =
+        "Invoca um Horror Lupino para ajudar na batalha."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Arquimago Arugal"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "O Arquimago Arugal é um ex-mago de Dalaran que viveu nas ruínas da Fortaleza Presa Negra e mais tarde foi ressuscitado dos mortos a serviço do Flagelo. Ele é mais famoso por ter libertado os worgens mais uma vez para o mundo, libertando-os do Sonho Esmeralda."

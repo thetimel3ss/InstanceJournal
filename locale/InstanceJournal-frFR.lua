@@ -2614,6 +2614,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Maître des loups Nandos"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 =
         "Il est le maître worgen des worgs inférieurs et possède sa propre meute qui combattra les héros avant qu'ils ne l'engagent. Il est le dernier homme de main d'Arugal à obstruer le chemin."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7487 = "Appel du worg pâle"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7487 =
+        "Invoque un worg pâle pour l’aider au combat."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7488 = "Appel du worg écumant"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7488 =
+        "Invoque un worg écumant pour l’aider au combat."
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_NAME_7489 = "Appel de l’horreur lupine"
+    IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7489 =
+        "Invoque une horreur lupine pour l’aider au combat."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Archimage Arugal"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "L'archimage Arugal est un ancien mage de Dalaran qui vivait dans les ruines du Donjon d'Ombrecroc et qui fut ensuite ressuscité des morts au service du Fléau. Il est surtout connu pour avoir libéré les worgens une fois de plus dans le monde en les libérant du Rêve d'Émeraude."
