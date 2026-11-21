@@ -562,9 +562,11 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_639_ABILITY_EFFECT_5200 =
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "Cookie"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "No one except Edwin VanCleef knows how or why Cookie was promoted to be the ship's cook. For pirates, though, a meal is a meal."
 IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Acid Splash"
-IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 = "Cookie throws some acidic goop onto his enemies, cause everyone nearby to receive nature damage every 5 seconds for 30 seconds."
+IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 =
+    "Deals Nature damage to nearby enemies every 5 sec. for 30 sec."
 IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_5174 = "Cookie's Cooking"
-IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 = "Cookie eats some of his food, healing him for 111 to 129 health."
+IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
+    "Restores the caster’s health."
 
 -- Deadmines Loot
 IJ_LOOT_NAME_55377 = "Chemist's Shawl"

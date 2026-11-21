@@ -523,9 +523,10 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "Nadie, excepto Edwin VanCleef, sabe cómo o por qué ascendieron a Cookie a cocinero del barco. Para los piratas, sin embargo, una comida es una comida."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Salpicadura de ácido"
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 =
-        "Cookie lanza una sustancia ácida a sus enemigos, lo que hace que todos los que estén cerca reciban daño de la naturaleza cada 5 segundos durante 30 segundos."
+        "Inflige daño de Naturaleza a los enemigos cercanos cada 5 s durante 30 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_5174 = "La cocina de las galletas"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 = "Cookie come algo de su comida, curándolo de 111 a 129 de salud."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
+        "Restaura la salud del taumaturgo."
 
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "El pantano negro"

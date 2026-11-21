@@ -522,9 +522,10 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "Personne, à l'exception d'Edwin VanCleef, ne sait comment ni pourquoi Cookie a été promu cuisinier du navire. Mais pour les pirates, un repas est un repas."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Éclaboussure d'acide"
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 =
-        "Cookie jette de la substance acide sur ses ennemis, ce qui fait que tous ceux qui se trouvent à proximité subissent des dégâts de nature toutes les 5 secondes pendant 30 secondes."
+        "Inflige des dégâts de Nature aux ennemis proches toutes les 5 s pendant 30 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_5174 = "La cuisine des cookies"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 = "Cookie mange une partie de sa nourriture, le soignant de 111 à 129 points de vie."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
+        "Rend des points de vie au lanceur."
 
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "Le marécage noir"

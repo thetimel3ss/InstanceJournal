@@ -523,9 +523,11 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "Plätzchen"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "Niemand außer Edwin VanCleef weiß, wie oder warum Cookie zum Schiffskoch befördert wurde. Für Piraten ist eine Mahlzeit jedoch eine Mahlzeit."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Säurespritzer"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 = "Cookie wirft etwas Säure auf seine Feinde, wodurch alle in der Nähe 30 Sekunden lang alle 5 Sekunden Naturschaden erleiden."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 =
+        "Fügt nahen Gegnern 30 Sek. lang alle 5 Sek. Naturschaden zu."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_5174 = "Cookie's Cooking"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 = "Cookie isst etwas von seinem Essen und heilt ihn um 111 bis 129 Gesundheit."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
+        "Stellt Gesundheit des Zaubernden wieder her."
 
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "Der schwarze Morast"

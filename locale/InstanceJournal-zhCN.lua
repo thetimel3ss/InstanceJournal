@@ -659,9 +659,11 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "曲奇"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "除了埃德温·范克里夫之外，没有人知道库奇如何或为何被提升为船上的厨师。但对于海盗来说，一顿饭就是一顿饭。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "酸液溅射"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 = "曲奇 向敌人投掷一些酸性粘液，使附近的每个人每 5 秒受到自然伤害，持续 30 秒。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 =
+        "每5秒对附近的敌人造成一次自然伤害，持续30秒。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_5174 = "烹制甜点"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 = "饼干吃了他的一些食物，治愈了他 111 到 129 点生命值。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
+        "恢复施法者的生命值。"
 
     -- Deadmines Loot
     IJ_LOOT_NAME_55377 = "化学家披风"

@@ -340,17 +340,17 @@ DEADMINES.Bosses = {
         MapCoordinateY = 24.5,
         Abilities = {
             [1] = {
-                Id = "6306", 
-                Icon = "INV_Drink_06", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306, 
+                Id = "6306",
+                Icon = "INV_Drink_06",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306,
                 Flags = {IMAF.Poison}
             },
             [2] = {
-                Id = "5174", 
-                Icon = "Spell_Holy_Heal", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_5174, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174, 
+                Id = "5174",
+                Icon = "Spell_Holy_Heal",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_5174,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174,
                 Flags = {IMAF.Interruptible}
             }
         },

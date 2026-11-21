@@ -520,9 +520,11 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_645 = "Biscoito"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_645 = "Ninguém, exceto Edwin VanCleef, sabe como ou por que Cookie foi promovido a cozinheiro do navio. Para os piratas, porém, uma refeição é uma refeição."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_6306 = "Respingo de ácido"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 = "Cookie joga uma gosma ácida em seus inimigos, fazendo com que todos próximos recebam dano natural a cada 5 segundos por 30 segundos."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_6306 =
+        "Causa dano de Natureza aos inimigos próximos a cada 5 s por 30 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_NAME_5174 = "Culinária de biscoitos"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 = "Cookie come um pouco de sua comida, curando-o de 111 a 129 pontos de vida."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
+        "Restaura a vida do lançador."
 
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "O pântano negro"
