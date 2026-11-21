@@ -109,14 +109,29 @@ BFD.Bosses = {
             [4] = {IJDB.I[6905], DropChance = 50}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "12902",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "jett" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "jett" .. IMPF,
         Name = IJ_DB_DUNGEON_BFD_BOSS_NAME_12902,
         Story = IJ_DB_DUNGEON_BFD_BOSS_STORY_12902,
         MapCoordinateX = 42.3,
-        MapCoordinateY = 62.7
+        MapCoordinateY = 62.7,
+        Abilities = {
+            [1] = {
+                Id = "12167",
+                Icon = "Spell_Nature_Lightning",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12167,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12167
+            },
+            [2] = {
+                Id = "12550",
+                Icon = "Spell_Nature_LightningShield",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12550,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12550,
+                Flags = {IMAF.Magic}
+            }
+        }
     },
     [5] = { -- NOTE: Missing abilities
         Id = "62530",

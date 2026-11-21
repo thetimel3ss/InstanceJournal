@@ -1089,6 +1089,12 @@ IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
 IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lorgus Jett"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
     "A mysterious member of the Twilight's Hammer, said to possess shamanic abilities depsite being a human. Rumors says he was a member of the Knight of the Silver Hand before deserting and joining the Twilight's Hammer."
+IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12167 = "Lightning Bolt"
+IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12167 =
+    "Blasts an enemy with lightning, dealing Nature damage."
+IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12550 = "Lightning Shield"
+IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12550 =
+    "Surrounds the caster with 3 charges of lightning that can deal Nature damage to attackers. Each retaliation consumes a charge. Dispel this Magic effect."
 IJ_DB_DUNGEON_BFD_BOSS_NAME_62530 = "Velthelaxx the Defiler"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_62530 = "An ancient satyr, skulking in the ancient temple to Elune."
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Old Serra'kis"

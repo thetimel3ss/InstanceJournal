@@ -824,6 +824,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lorgus Jett"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
         "Ein mysteriöses Mitglied des Zwielichthammers, dem nachgesagt wird, dass er über schamanische Fähigkeiten verfügt, obwohl er ein Mensch ist. Gerüchten zufolge war er Mitglied des Ritters der Silbernen Hand, bevor er desertierte und sich dem Twilight's Hammer anschloss."
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12167 = "Blitzschlag"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12167 =
+        "Trifft einen Gegner mit einem Blitz und verursacht Naturschaden."
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12550 = "Blitzschlagschild"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12550 =
+        "Umhüllt den Zaubernden mit 3 Blitzladungen, die Angreifern Naturschaden zufügen können. Jeder Gegenschlag verbraucht eine Ladung. Bannt diesen magischen Effekt."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_62530 = "Velthelaxx der Schänder"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_62530 = "Ein alter Satyr, der im alten Tempel von Elune herumschleicht."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Alte Serra'kis"

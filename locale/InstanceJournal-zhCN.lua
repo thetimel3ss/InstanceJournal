@@ -1184,6 +1184,12 @@ if GetLocale() == "zhCN" then
         "上古之神呼唤，吉利哈斯特回应，强行闯入黑暗深渊，用他的双剑屠杀了近十几名令暮光之锤信徒大吃一惊的人。邪教对他的凶残和残暴印象深刻，允许他留下来，并建造了自己的神殿来祭祀并接受寺庙废墟中不祥之物的祝福。"
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "洛古斯·杰特"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 = "暮光之锤的神秘成员，据说虽然是人类却拥有萨满能力。有传言说他在加入暮光之锤之前曾是白银之手骑士的成员。"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12167 = "闪电箭"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12167 =
+        "以闪电击中一名敌人，造成自然伤害。"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12550 = "闪电之盾"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12550 =
+        "使施法者被3层闪电护盾包围，可能对攻击者造成自然伤害。每次反击消耗一层。驱散此魔法效果。"
     IJ_DB_DUNGEON_BFD_BOSS_NAME_62530 = "污染者维尔塞拉克斯"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_62530 = "一位远古萨特，潜伏在艾露恩的古老神殿中。"
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "老瑟拉吉斯"

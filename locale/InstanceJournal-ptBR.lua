@@ -820,6 +820,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lordus Jett"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
         "Um membro misterioso do Martelo do Crepúsculo, que diz possuir habilidades xamânicas apesar de ser humano. Rumores dizem que ele era membro do Cavaleiro da Mão de Prata antes de desertar e se juntar ao Martelo do Crepúsculo."
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12167 = "Raio"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12167 =
+        "Atinge um inimigo com um raio, causando dano de Natureza."
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12550 = "Escudo de Raios"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12550 =
+        "Envolve o lançador em 3 cargas de raios que podem causar dano de Natureza aos atacantes. Cada retaliação consome uma carga. Dissipe este efeito mágico."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_62530 = "Velthelaxx, o Profanador"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_62530 = "Um antigo sátiro, escondido no antigo templo de Eluna."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Velho Serra'kis"

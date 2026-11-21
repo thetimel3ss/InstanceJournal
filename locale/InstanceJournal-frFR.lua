@@ -822,6 +822,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lorgus Jett"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
         "Un membre mystérieux du Twilight's Hammer, censé posséder des capacités chamaniques bien qu'il soit humain. Les rumeurs disent qu'il était membre du Chevalier de la Main d'Argent avant de déserter et de rejoindre le Marteau du Crépuscule."
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12167 = "Éclair"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12167 =
+        "Frappe un ennemi avec un éclair qui inflige des dégâts de Nature."
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12550 = "Bouclier de foudre"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12550 =
+        "Entoure le lanceur de 3 charges de foudre pouvant infliger des dégâts de Nature aux attaquants. Chaque riposte consomme une charge. Dissipez cet effet magique."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_62530 = "Velthelaxx le Profanateur"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_62530 = "Un ancien satyre, rôdant dans l'ancien temple d'Élune."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Vieux Serra'kis"

@@ -822,6 +822,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lorgus Jett"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
         "Un miembro misterioso del Martillo Crepuscular, del que se dice que posee habilidades chamánicas a pesar de ser humano. Los rumores dicen que fue miembro del Caballero de la Mano de Plata antes de desertar y unirse al Martillo Crepuscular."
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12167 = "Descarga de relámpagos"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12167 =
+        "Golpea a un enemigo con un rayo que inflige daño de Naturaleza."
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12550 = "Escudo de relámpagos"
+    IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_EFFECT_12550 =
+        "Rodea al taumaturgo con 3 cargas de relámpagos que pueden infligir daño de Naturaleza a los atacantes. Cada represalia consume una carga. Disipa este efecto mágico."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_62530 = "Velthelaxx el Profanador"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_62530 = "Un antiguo sátiro, merodeando en el antiguo templo de Elune."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Viejo Serra'kis"
