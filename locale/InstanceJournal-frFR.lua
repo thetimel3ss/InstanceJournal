@@ -447,7 +447,8 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_644 =
         "En tant que contremaître en chef des Mortemines de la Confrérie Défias, Rhahk'Zor supervise et « motive » les ouvriers. Ses méthodes, bien que non conventionnelles, sont plutôt efficaces."
     IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_NAME_6304 = "Rhahk'Zor Slam"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 = "Rhahk'Zor frappe un ennemi, lui infligeant entre 64 et 86 dégâts physiques et l'étourdissant pendant 3 secondes."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 =
+        "Inflige des dégâts physiques à un ennemi et l’étourdit pendant 3 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "Mineur Johnson"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
         "Un mineur insaisissable, rarement vu parmi la population générale des Mortemines. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."

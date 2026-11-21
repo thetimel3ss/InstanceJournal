@@ -84,9 +84,9 @@ DEADMINES.Bosses = {
         MapCoordinateY = 53.4,
         Abilities = {
             [1] = {
-                Id = "6304", 
-                Icon = "INV_Gauntlets_05", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_NAME_6304, 
+                Id = "6304",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_NAME_6304,
                 Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304
             }
         },

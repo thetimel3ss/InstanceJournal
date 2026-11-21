@@ -584,7 +584,8 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_644 = "拉克佐"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_644 = "作为死亡矿井迪菲亚兄弟会的首席工头，拉克佐监督并“激励”工人们。他的方法虽然非常规，但却非常有效。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_NAME_6304 = "拉克佐猛击"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 = "拉克佐尔猛击一名敌人，造成 64 到 86 点物理伤害，并使他们昏迷 3 秒。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 =
+        "对一名敌人造成物理伤害，并使其昏迷3秒。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "矿工约翰森"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
         "一位难以捉摸的矿工，在死亡矿井的普通居民中很少见到。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"

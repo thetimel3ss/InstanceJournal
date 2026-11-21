@@ -487,7 +487,8 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_644 = "Rhahk'Zor"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_644 = "As the Defias Brotherhood's head foreman of the Deadmines, Rhahk'Zor supervises and \"motivates\" the laborers. His methods, though unconventional, are quite effective."
 IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_NAME_6304 = "Rhahk'Zor Slam"
-IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 = "Rhahk'Zor slams an enemy, dealing 64 to 86 physical damage and stunning them for 3 seconds."
+IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 =
+    "Deals Physical damage to an enemy and stuns them for 3 sec."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "Miner Johnson"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
     "An elusive miner, rarely seen among the general population of the Deadmines. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."

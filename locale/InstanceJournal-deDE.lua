@@ -449,7 +449,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_644 =
         "Als Hauptvorarbeiter der Defias-Bruderschaft in den Todesminen beaufsichtigt und „motiviert“ Rhahk'Zor die Arbeiter. Seine Methoden sind zwar unkonventionell, aber sehr effektiv."
     IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_NAME_6304 = "Rhahk'Zor Slam"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 = "Rhahk'Zor schlägt auf einen Feind ein, verursacht 64 bis 86 physischen Schaden und betäubt ihn 3 Sekunden lang."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 =
+        "Fügt einem Gegner körperlichen Schaden zu und betäubt ihn für 3 Sek."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "Bergmann Johnson"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
         "Ein schwer fassbarer Bergmann, der in der allgemeinen Bevölkerung der Deadmines selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."

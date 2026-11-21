@@ -448,7 +448,8 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_644 =
         "Como capataz principal de las Minas de la Muerte de la Hermandad Defias, Rhahk'Zor supervisa y \"motiva\" a los trabajadores. Sus métodos, aunque poco convencionales, son bastante eficaces."
     IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_NAME_6304 = "Golpe de Rhahk'Zor"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 = "Rhahk'Zor golpea a un enemigo, le inflige de 64 a 86 de daño físico y lo aturde durante 3 segundos."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 =
+        "Inflige daño físico a un enemigo y lo aturde durante 3 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "Minero Johnson"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
         "Un minero esquivo, rara vez visto entre la población general de Deadmines. Se dice que posee muchos objetos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlo en primer lugar..."
