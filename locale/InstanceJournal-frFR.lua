@@ -440,6 +440,17 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "Attaque empoisonnée"
     IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
         "Inflige des dégâts de Nature toutes les 3 s et ralentit les attaques et les déplacements pendant 15 s.\n\nDissipez cet effet de poison."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_shredder = "Déchiqueteur de Sneed"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_7399 = "Terrifier"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_7399 =
+        "Fait fuir un ennemi de peur pendant 4 s.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_3603 = "Douleur distrayante"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_3603 =
+        "Réduit la vitesse d’incantation de la cible de 35% pendant 15 s."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_5141 = "Éjection de Sneed"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
+        "Éjecte Sneed du déchiqueteur pour qu’il rejoigne le combat."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "Besoin"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss est le fils de William Voss, un alchimiste renommé dont le magasin et la maison ont été incendiés sous Hurlevent et jamais reconstruits, laissant sa famille sans abri et amère envers la noblesse responsable. Jared, apprenti chez les tailleurs de pierre avant la mort de son père, a hérité à la fois de ses talents alchimiques et de son ressentiment ardent."
@@ -459,7 +470,8 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_643 =
         "Sneed a été embauché comme maître bûcheron pour son efficacité impitoyable. Son objectif est simple : construire un mastodonte au moindre coût possible. En utilisant le broyeur qu’il a lui-même construit pour diriger la production, il obtient des résultats incroyablement rapides."
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_6713 = "Désarmer"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_6713 = "Sneed désarme son ennemi, le forçant à arrêter de manier son arme pendant 5 secondes."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_6713 =
+        "Désarme un ennemi pendant 6 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_1763 = "Gilnide"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_1763 =
         "Glinid est un ingénieur hors pair et chef de la fonderie des opérations de la Confrérie Défias. Il s'assure que le poids lourd est chargé de suffisamment de canons et de munitions et ne tolérera aucune pause jusqu'à ce que les travaux soient terminés."

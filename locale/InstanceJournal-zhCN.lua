@@ -578,6 +578,17 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "毒性刺伤"
     IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
         "每3秒造成一次自然伤害，并降低攻击速度和移动速度，持续15秒。\n\n解除此中毒效果。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_shredder = "斯尼德的伐木机"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_7399 = "恐吓"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_7399 =
+        "使一名敌人因恐惧而逃跑，持续4秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_3603 = "扰乱之痛"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_3603 =
+        "使目标的施法速度降低35%，持续15秒。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_5141 = "弹出斯尼德"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
+        "将斯尼德从伐木机中弹出，使其加入战斗。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "斯尼德"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "杰里德·维斯"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "贾里德·沃斯是威廉·沃斯的儿子，威廉·沃斯是一位著名的炼金术士，他的商店和房屋在暴风城被烧毁后再也没有重建，导致他的家人无家可归，并对负责的贵族怀有怨恨。贾里德在父亲去世前成为石匠会的学徒，继承了他的炼金术天赋和强烈的怨恨。"
@@ -596,7 +607,8 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_643 =
         "斯尼德因其冷酷的效率而被聘为伐木工。他的目标很简单：以尽可能低的成本建造一个庞然大物。通过使用他自己制造的碎纸机来领导生产，他取得了惊人的快速结果。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_6713 = "缴械"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_6713 = "斯尼德解除了敌人的武装，迫使他们停止使用武器 5 秒。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_6713 =
+        "缴械一名敌人，持续6秒。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_1763 = "基尔尼格"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_1763 =
         "格林尼德是一位出色的工程师，也是迪菲亚兄弟会运营的首席冶炼师。他确保这艘巨无霸装载了足够的大炮和弹药，并且在工作完成之前不允许有任何休息。"

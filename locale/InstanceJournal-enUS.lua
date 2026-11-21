@@ -481,6 +481,17 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13884 =
 IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "Poisonous Stab"
 IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
     "Deals Nature damage every 3 sec. and slows attack and movement speed for 15 sec.\n\nRemove this Poison effect."
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_shredder = "Sneed’s Shredder"
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_7399 = "Terrify"
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_7399 =
+    "Causes an enemy to flee in fear for 4 sec.\n\nDispel this Magic effect."
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_3603 = "Distracting Pain"
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_3603 =
+    "Slows the target’s casting speed by 35% for 15 sec."
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_5141 = "Eject Sneed"
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141 =
+    "Releases Sneed from the Shredder to join the battle."
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed = "Sneed"
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
     "Jared Voss is the son of William Voss, a renowned alchemist whose shop and home were burned down with Stormwind and never rebuilt, leaving his family homeless and bitter toward the nobility responsible. Jared, apprenticed to the Stonemasons before his father's death, inherited both his alchemical talents and his burning resentment."
@@ -499,7 +510,8 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_643 = "Sneed"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_643 =
     "Sneed was hired as a lumbermaster for his ruthless efficiency. His goal is simple: construct a juggernaut as cheaply as possible. By using the shredder he built himself to lead production, he achieves terrifyingly fast results."
 IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_6713 = "Disarm"
-IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_6713 = "Sneed disarms his enemy, forcing them to stop wielding their weapon for 5 seconds."
+IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_6713 =
+    "Disarms an enemy for 6 sec."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_1763 = "Gilnid"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_1763 =
     "Glinid is a masterful engineer and head smelter of the Defias Brotherhood's operations. He ensures the juggernaut is loaded with sufficient cannons and ammunition and will tolerate no breaks until the work is complete."

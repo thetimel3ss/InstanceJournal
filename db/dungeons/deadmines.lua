@@ -129,11 +129,44 @@ DEADMINES.Bosses = {
         MapCoordinateY = 74.5,
         Abilities = {
             [1] = {
-                Id = "6713", 
-                Icon = "Ability_Warrior_Disarm", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_6713, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_6713, 
-                Flags = {IMAF.Tank}
+                Id = "shredder",
+                Icon = "INV_Misc_Gear_01",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_shredder,
+                SubAbilities = {
+                    [1] = {
+                        Id = "7399",
+                        Icon = "Ability_Physical_Taunt",
+                        Name = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_7399,
+                        Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_7399,
+                        Flags = {IMAF.Magic}
+                    },
+                    [2] = {
+                        Id = "3603",
+                        Icon = "Ability_Racial_Cannibalize",
+                        Name = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_3603,
+                        Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_3603
+                    },
+                    [3] = {
+                        Id = "5141",
+                        Icon = "Spell_Fire_Fire",
+                        Name = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_5141,
+                        Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_5141
+                    }
+                }
+            },
+            [2] = {
+                Id = "sneed",
+                Icon = "INV_Misc_Head_Gnome_01",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_sneed,
+                SubAbilities = {
+                    [1] = {
+                        Id = "6713",
+                        Icon = "Ability_Warrior_Disarm",
+                        Name = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_NAME_6713,
+                        Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_643_ABILITY_EFFECT_6713,
+                        Flags = {IMAF.Tank}
+                    }
+                }
             }
         },
         Loot = {
