@@ -3587,6 +3587,15 @@ IJ_DB_DUNGEON_SFK_BOSS_3887_ABILITY_EFFECT_7068 =
 IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prelate Ironmane"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
     "Once a man of peerless faith, Prelate Ironmane was renowned for sermons so moving they stirred the hearts of even the most devout holy men. While his friend Father Brightcopf managed to regain his free will after the Lich King's influence waned, Ironmane was not so fortunate. Consumed by the darkness of Shadowfang Keep and the blood magic of Arugal, he remains a loyal servant to the madness within the walls. He stands as a tragic monument to fallen grace, wielding the Light he once preached as a weapon of terror against any who seek to end the Keep's curse."
+IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6060 = "Smite"
+IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6060 =
+    "Deals Holy damage to an enemy."
+IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6226 = "Drain Mana"
+IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6226 =
+    "Channels for 5 sec., transferring mana from the target to the caster every second. Dispel this Magic effect."
+IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_11711 = "Curse of Agony"
+IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_11711 =
+    "Deals Shadow damage over 24 sec., with damage increasing over time. Remove this Curse."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Commander Springvale"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "A loyal soldier, the ghost of Commander Springvale haunts the council room, using unholy strikes to avenge his lord, Baron Silverlaine."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo the Blindwatcher"

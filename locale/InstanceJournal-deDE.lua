@@ -2575,6 +2575,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prälat Ironmane"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "Einst ein Mann von unvergleichlichem Glauben, war Prälat Ironmane für seine Predigten bekannt, die so bewegend waren, dass sie selbst die Herzen der gläubigsten heiligen Männer berührten. Während es seinem Freund Pater Brightcopf gelang, seinen freien Willen zurückzugewinnen, nachdem der Einfluss des Lichkönigs nachließ, hatte Ironmane nicht so viel Glück. Verzehrt von der Dunkelheit der Burg Schattenfang und der Blutmagie von Arugal bleibt er ein treuer Diener des Wahnsinns innerhalb der Mauern. Er steht als tragisches Denkmal der gefallenen Gnade da und schwingt das Licht, das er einst predigte, als Schreckenswaffe gegen alle, die den Fluch der Festung brechen wollen."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6060 = "Göttliche Pein"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6060 =
+        "Fügt einem Gegner Heiligschaden zu."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6226 = "Mana entziehen"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6226 =
+        "Kanalisiert 5 Sek. lang und überträgt jede Sekunde Mana vom Ziel auf den Zaubernden. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_11711 = "Fluch der Pein"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_11711 =
+        "Verursacht über 24 Sek. Schattenschaden, der mit der Zeit zunimmt. Entfernt diesen Fluch."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Kommandant Springvale"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "Als treuer Soldat spukt der Geist von Commander Springvale durch den Ratssaal und setzt unheilige Schläge ein, um seinen Herrn, Baron Silverlaine, zu rächen."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo der Blindwächter"

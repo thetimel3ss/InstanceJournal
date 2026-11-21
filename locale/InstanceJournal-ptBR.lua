@@ -2570,6 +2570,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prelado Juba de Ferro"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "Outrora um homem de fé incomparável, o Prelado Ironmane era conhecido por sermões tão comoventes que emocionavam até mesmo os homens santos mais devotos. Embora seu amigo Padre Brightcopf tenha conseguido recuperar seu livre arbítrio depois que a influência do Lich King diminuiu, Ironmane não teve tanta sorte. Consumido pela escuridão da Fortaleza Presa Negra e pela magia do sangue de Arugal, ele permanece um servo leal à loucura dentro das muralhas. Ele permanece como um monumento trágico à graça caída, empunhando a Luz que uma vez pregou como uma arma de terror contra qualquer um que procure acabar com a maldição da Fortaleza."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6060 = "Punição"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6060 =
+        "Causa dano Sagrado a um inimigo."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6226 = "Drenar Mana"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6226 =
+        "Canaliza por 5 s, transferindo mana do alvo para o lançador a cada segundo. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_11711 = "Maldição da Agonia"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_11711 =
+        "Causa dano de Sombra ao longo de 24 s, com dano crescente ao longo do tempo. Remova esta maldição."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Comandante Springvale"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "Soldado leal, o fantasma do Comandante Springvale assombra a sala do conselho, usando ataques profanos para vingar seu senhor, o Barão Silverlaine."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo, o Observador Cego"

@@ -2573,6 +2573,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prelado Melena de Hierro"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "El prelado Ironmane, que alguna vez fue un hombre de fe incomparable, era famoso por sus sermones tan conmovedores que conmovían los corazones incluso de los santos más devotos. Si bien su amigo el padre Brightcopf logró recuperar su libre albedrío después de que la influencia del Rey Exánime disminuyó, Ironmane no tuvo tanta suerte. Consumido por la oscuridad de Shadowfang Keep y la magia de sangre de Arugal, sigue siendo un sirviente leal a la locura dentro de los muros. Se erige como un trágico monumento a la gracia caída, empuñando la Luz que una vez predicó como arma de terror contra cualquiera que busque poner fin a la maldición de la Fortaleza."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6060 = "Punición"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6060 =
+        "Inflige daño Sagrado a un enemigo."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6226 = "Drenar maná"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6226 =
+        "Canaliza durante 5 s, transfiriendo maná del objetivo al taumaturgo cada segundo. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_11711 = "Maldición de agonía"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_11711 =
+        "Inflige daño de las Sombras durante 24 s, aumentando con el tiempo. Elimina esta maldición."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Comandante Valle Primavera"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "Un soldado leal, el fantasma del comandante Springvale ronda la sala del consejo, usando golpes impíos para vengar a su señor, el barón Silverlaine."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo el Vigilante Ciego"

@@ -3680,6 +3680,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "艾隆迈恩主教"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "铁鬃主教曾经是一位信仰无与伦比的人，他以布道而闻名，他的布道如此感人，即使是最虔诚的圣人也能感动不已。虽然他的朋友布莱特科普夫神父在巫妖王的影响力减弱后设法恢复了自由意志，但铁鬃就没那么幸运了。被影牙城堡的黑暗和阿鲁高的血魔法所吞噬，他仍然是墙内疯狂的忠实仆人。他是堕落恩典的悲剧纪念碑，挥舞着他曾经宣扬的圣光作为恐怖武器来对付任何试图结束城堡诅咒的人。"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6060 = "惩击"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6060 =
+        "对一名敌人造成神圣伤害。"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6226 = "吸取法力"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6226 =
+        "引导5秒，每秒将目标的法力值转移给施法者。驱散此魔法效果。"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_11711 = "痛苦诅咒"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_11711 =
+        "在24秒内造成暗影伤害，伤害随时间增加。解除此诅咒。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "指挥官斯普林瓦尔"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "斯普林维尔指挥官的鬼魂是一位忠诚的士兵，他的鬼魂出没于议事厅，使用邪恶的攻击为他的领主西尔弗莱恩男爵报仇。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "盲眼守卫奥杜"

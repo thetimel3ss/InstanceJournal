@@ -98,7 +98,7 @@ SFK.Bosses = {
             [3] = {IJDB.I[80715], DropChance = 35}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "61969",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "ironmane" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "ironmane" .. IMPF,
@@ -106,6 +106,28 @@ SFK.Bosses = {
         Story = IJ_DB_DUNGEON_SFK_BOSS_STORY_61969,
         MapCoordinateX = 12.1,
         MapCoordinateY = 64.7,
+        Abilities = {
+            [1] = {
+                Id = "6060",
+                Icon = "Spell_Holy_HolySmite",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6060,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6060
+            },
+            [2] = {
+                Id = "6226",
+                Icon = "Spell_Shadow_SiphonMana",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6226,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6226,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "11711",
+                Icon = "Spell_Shadow_CurseOfSargeras",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_11711,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_11711,
+                Flags = {IMAF.Curse}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[55382], DropChance = 25}, 
             [2] = {IJDB.I[55383], DropChance = 25}, 

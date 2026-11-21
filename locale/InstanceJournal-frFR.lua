@@ -2573,6 +2573,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_61969 = "Prélat Crin-de-fer"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_61969 =
         "Autrefois homme d'une foi sans égal, le prélat Ironmane était réputé pour ses sermons si émouvants qu'ils remuaient le cœur même des saints hommes les plus pieux. Alors que son ami le père Brightcopf a réussi à retrouver son libre arbitre après le déclin de l'influence du roi-liche, Ironmane n'a pas eu cette chance. Consumé par les ténèbres du Donjon d'Ombrecroc et la magie du sang d'Arugal, il reste un fidèle serviteur de la folie qui règne à l'intérieur des murs. Il se dresse comme un monument tragique à la grâce déchue, brandissant la Lumière qu'il prêchait autrefois comme une arme de terreur contre tous ceux qui cherchent à mettre fin à la malédiction du Donjon."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6060 = "Châtiment"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6060 =
+        "Inflige des dégâts du Sacré à un ennemi."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_6226 = "Drain de mana"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_6226 =
+        "Canalise pendant 5 s, transférant chaque seconde du mana de la cible au lanceur. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_NAME_11711 = "Malédiction d’agonie"
+    IJ_DB_DUNGEON_SFK_BOSS_61969_ABILITY_EFFECT_11711 =
+        "Inflige des dégâts d’Ombre pendant 24 s, qui augmentent avec le temps. Dissipez cette malédiction."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4278 = "Commandant Springvale"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4278 = "Soldat fidèle, le fantôme du commandant Springvale hante la salle du conseil, utilisant des frappes impies pour venger son seigneur, le baron Silverlaine."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4279 = "Odo le Veilleur Aveugle"
