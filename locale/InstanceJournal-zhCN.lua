@@ -2976,6 +2976,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "范格罗斯"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "纳拉雷克斯恢复贫瘠之地的尝试无意中引发了一场噩梦，对卡利姆多的平衡造成了无法挽回的损害。 范格罗斯 证明了这些非自愿权力的波动性。这是在石头迷宫中开始自行移动的猖獗、暴力的过度生长的表现。这种生物散发着腐化的德鲁伊魔法，对任何试图穿越被诅咒的迷宫并将梦想家从永恒的沉睡中解放出来的人来说是一种危险的对策。"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_18670 = "击飞"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_18670 =
+        "对一名敌人造成物理伤害并将其击退。"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_21055 = "碾碎护甲"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_21055 =
+        "降低目标的护甲，持续30秒，最多叠加5层。"
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "瑟芬迪斯领主"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "尖牙德鲁伊的领袖曾经是纳拉雷克斯最出色的学生。他的悲剧性堕落，源于他渴望成为一位杉多，也就是像纳拉雷克斯那样受人尊敬的老师。随着疯狂蔓延，蛇王将他的兄弟们召集到自己麾下，并组建了尖牙德鲁伊。"

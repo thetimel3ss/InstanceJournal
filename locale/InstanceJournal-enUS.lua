@@ -2883,6 +2883,12 @@ IJ_DB_DUNGEON_WC_BOSS_3674_ABILITY_EFFECT_6254 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "Vangros"
 IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
     "Naralex's attempt to restore the Barrens inadvertently birthed a waking nightmare, causing irreparable damage to the balance of Kalimdor. Vangros is a testament to the volatility of these involuntary powers; a manifestation of the rampant, violent overgrowths that have begun to move of their own accord within the stone labyrinth. This creature radiates a corrupted druidic magic, serving as a dangerous countermeasure against any who seek to navigate the cursed maze and free the Dreamer from his eternal slumber."
+IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_18670 = "Knock Away"
+IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_18670 =
+    "Deals Physical damage to an enemy and knocks it back."
+IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_21055 = "Crush Armor"
+IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_21055 =
+    "Reduces the target’s armor for 30 sec. Stacks up to 5 times."
 IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Lord Serpentis"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
     "The Druids of the Fang's leader was once Naralex's finest student. His tragic downfall stemmed from his desire to become a shan'do, or honored teacher like Naralex. As insanity took root, Serpentis rallied his brethren to his side and formed the Druids of the Fang."

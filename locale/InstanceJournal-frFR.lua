@@ -2105,6 +2105,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "Vangros"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "La tentative de Naralex de restaurer les Tarides a donné naissance par inadvertance à un cauchemar éveillé, causant des dommages irréparables à l'équilibre de Kalimdor. Vangros témoigne de la volatilité de ces pouvoirs involontaires ; une manifestation des proliférations rampantes et violentes qui ont commencé à se déplacer d’elles-mêmes dans le labyrinthe de pierre. Cette créature dégage une magie druidique corrompue, servant de contre-mesure dangereuse contre quiconque cherche à naviguer dans le labyrinthe maudit et à libérer le Rêveur de son sommeil éternel."
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_18670 = "Repousser"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_18670 =
+        "Inflige des dégâts physiques à un ennemi et le repousse."
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_21055 = "Fracasser armure"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_21055 =
+        "Réduit l’armure de la cible pendant 30 s. Cumulable jusqu’à 5 fois."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Seigneur Serpentis"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "Le chef des Druides du Croc était autrefois le meilleur élève de Naralex. Sa chute tragique découle de son désir de devenir un shan'do, ou un professeur honoré comme Naralex. Alors que la folie prenait racine, Serpentis rallia ses frères à ses côtés et forma les Druides du Croc."

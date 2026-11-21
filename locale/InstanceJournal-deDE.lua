@@ -2107,6 +2107,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "Vangros"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "Naralex‘ Versuch, das Brachland wiederherzustellen, löste unbeabsichtigt einen Albtraum aus, der das Gleichgewicht von Kalimdor irreparabel schädigte. Vangros ist ein Beweis für die Unbeständigkeit dieser unfreiwilligen Kräfte; ein Ausdruck der grassierenden, gewalttätigen Wucherungen, die begonnen haben, sich von selbst innerhalb des Steinlabyrinths zu bewegen. Diese Kreatur strahlt eine verdorbene druidische Magie aus und dient als gefährliche Gegenmaßnahme gegen jeden, der versucht, durch das verfluchte Labyrinth zu navigieren und den Träumer aus seinem ewigen Schlaf zu befreien."
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_18670 = "Wegschlagen"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_18670 =
+        "Fügt einem Gegner körperlichen Schaden zu und stößt ihn zurück."
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_21055 = "Rüstung zerschmettern"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_21055 =
+        "Verringert die Rüstung des Ziels für 30 Sek. Bis zu 5-mal stapelbar."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Lord Serpentis"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "Der Anführer der Druids of the Fang war einst Naralex‘ bester Schüler. Sein tragischer Untergang resultierte aus seinem Wunsch, ein Shan'do oder ein angesehener Lehrer wie Naralex zu werden. Als der Wahnsinn Einzug hielt, scharte Serpentis seine Brüder auf seine Seite und gründete die Druiden des Fangzahns."

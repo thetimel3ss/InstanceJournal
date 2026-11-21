@@ -192,7 +192,7 @@ WC.Bosses = {
             [3] = {IJDB.I[80712], DropChance = 33}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "61965",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "vangros" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "vangros" .. IMPF,
@@ -200,6 +200,20 @@ WC.Bosses = {
         Story = IJ_DB_DUNGEON_WC_BOSS_STORY_61965,
         MapCoordinateX = 86.2,
         MapCoordinateY = 80.9,
+        Abilities = {
+            [1] = {
+                Id = "18670",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_18670,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_18670
+            },
+            [2] = {
+                Id = "21055",
+                Icon = "Ability_Warrior_DecisiveStrike",
+                Name = IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_21055,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_21055
+            }
+        },
         Loot = {
             [1] = {IJDB.I[55374], DropChance = 50}, 
             [2] = {IJDB.I[55372], DropChance = 25}, 

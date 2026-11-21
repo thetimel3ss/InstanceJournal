@@ -2103,6 +2103,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "Vangros"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "A tentativa de Naralex de restaurar Barrens inadvertidamente deu origem a um pesadelo, causando danos irreparáveis ​​ao equilíbrio de Kalimdor. Vangros é uma prova da volatilidade destes poderes involuntários; uma manifestação dos crescimentos desenfreados e violentos que começaram a se mover por conta própria dentro do labirinto de pedra. Esta criatura irradia uma magia druídica corrompida, servindo como uma contramedida perigosa contra qualquer um que tente navegar pelo labirinto amaldiçoado e libertar o Dreamer de seu sono eterno."
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_18670 = "Repelir"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_18670 =
+        "Causa dano Físico a um inimigo e o repele."
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_21055 = "Esmagar Armadura"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_21055 =
+        "Reduz a armadura do alvo por 30 s. Acumula até 5 vezes."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Senhor Serpentis"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "O líder dos Druidas da Presa já foi o melhor aluno de Naralex. Sua trágica queda resultou de seu desejo de se tornar um shan'do, ou professor honrado como Naralex. À medida que a insanidade se enraizou, Serpentis reuniu seus irmãos ao seu lado e formou os Druidas da Presa."

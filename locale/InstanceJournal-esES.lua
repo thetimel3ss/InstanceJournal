@@ -2105,6 +2105,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61965 = "vangros"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61965 =
         "El intento de Naralex de restaurar Los Baldíos sin darse cuenta dio lugar a una pesadilla que causó un daño irreparable al equilibrio de Kalimdor. Vangros es un testimonio de la volatilidad de estos poderes involuntarios; una manifestación de los crecimientos desenfrenados y violentos que han comenzado a moverse por sí solos dentro del laberinto de piedra. Esta criatura irradia una magia druídica corrupta, que sirve como una peligrosa contramedida contra cualquiera que busque navegar por el laberinto maldito y liberar al Soñador de su sueño eterno."
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_18670 = "Repeler"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_18670 =
+        "Inflige daño físico a un enemigo y lo repele."
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_NAME_21055 = "Machacar armadura"
+    IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_21055 =
+        "Reduce la armadura del objetivo durante 30 s. Se acumula hasta 5 veces."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Señor serpiente"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "El líder de los Druidas del Colmillo fue una vez el mejor alumno de Naralex. Su trágica caída se debió a su deseo de convertirse en un shan'do, o maestro honorable como Naralex. Cuando la locura echó raíces, Serpentis reunió a sus hermanos a su lado y formó los Druidas del Colmillo."
