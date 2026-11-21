@@ -479,7 +479,7 @@ if GetLocale() == "deDE" then
         "Glinid ist ein meisterhafter Ingenieur und Leiter der Operationen der Defias-Bruderschaft. Er sorgt dafür, dass der Moloch mit ausreichend Kanonen und Munition beladen ist und duldet keine Pausen, bis die Arbeiten abgeschlossen sind."
     IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_NAME_5213 = "Geschmolzenes Metall"
     IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_EFFECT_5213 =
-        "Glinid wirft geschmolzenes Metall auf einen Feind und fügt ihm alle 3 Sekunden Feuerschaden zu. Dadurch erhöht sich die Zeit zwischen seinen Angriffen um 54 % und seine Bewegung verringert sich 15 Sekunden lang um 50 %."
+        "Verursacht alle 3 Sek. Feuerschaden und verringert Angriffs- und Bewegungstempo für 15 Sek."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61963 = "Meisterstück-Erntemaschine"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61963 =
         "Die Goblin-Mechaniker der Defias sind stolz auf ihre größte Kreation: den Masterpiece Harvester. Tief in ihrer verborgenen Werkstatt gebaut, ist es der beste Erntegolem, den sie je hervorgebracht haben."

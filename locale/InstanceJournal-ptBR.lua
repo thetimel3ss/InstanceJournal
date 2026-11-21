@@ -476,7 +476,7 @@ if GetLocale() == "ptBR" then
         "Glinid é um engenheiro magistral e chefe de fundição das operações da Irmandade Défias. Ele garante que o rolo compressor esteja carregado com canhões e munições suficientes e não tolerará interrupções até que o trabalho seja concluído."
     IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_NAME_5213 = "Metal Fundido"
     IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_EFFECT_5213 =
-        "Glinid lança metal derretido em um inimigo, causando dano de fogo a cada 3 segundos, aumentando o tempo entre os ataques em 54% e reduzindo seu movimento em 50% por 15 segundos."
+        "Causa dano de Fogo a cada 3 s e reduz a velocidade de ataque e de movimento por 15 s."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61963 = "Colheitadeira de obras-primas"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61963 =
         "A mecânica goblin dos Defias se orgulha de sua maior criação: o Masterpiece Harvester. Construído nas profundezas de sua oficina oculta, é o melhor golem de colheita que já produziram."

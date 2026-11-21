@@ -517,7 +517,7 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_1763 =
     "Glinid is a masterful engineer and head smelter of the Defias Brotherhood's operations. He ensures the juggernaut is loaded with sufficient cannons and ammunition and will tolerate no breaks until the work is complete."
 IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_NAME_5213 = "Molten Metal"
 IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_EFFECT_5213 =
-    "Glinid throws molten metal to an enemy, inflicting fire damage every 3 seconds, increasing the time between their attacks by 54%, and reducing their movement by 50% for 15 seconds."
+    "Deals Fire damage every 3 sec. and slows attack and movement speed for 15 sec."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61963 = "Masterpiece Harvester"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61963 =
     "The goblin mechanics of the Defias pride themselves on their greatest creation: the Masterpiece Harvester. Built deep within their hidden workshop, it is the finest harvest golem they have ever produced."

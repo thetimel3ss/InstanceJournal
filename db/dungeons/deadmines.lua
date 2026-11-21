@@ -186,9 +186,9 @@ DEADMINES.Bosses = {
         MapCoordinateY = 51.4,
         Abilities = {
             [1] = {
-                Id = "5213", 
-                Icon = "Spell_Fire_Fireball", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_NAME_5213, 
+                Id = "5213",
+                Icon = "Spell_Fire_Fireball",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_NAME_5213,
                 Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_EFFECT_5213
             }
         },

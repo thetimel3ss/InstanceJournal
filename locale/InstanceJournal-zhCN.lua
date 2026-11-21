@@ -614,7 +614,7 @@ if GetLocale() == "zhCN" then
         "格林尼德是一位出色的工程师，也是迪菲亚兄弟会运营的首席冶炼师。他确保这艘巨无霸装载了足够的大炮和弹药，并且在工作完成之前不允许有任何休息。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_NAME_5213 = "熔铁之水"
     IJ_DB_DUNGEON_DEADMINES_BOSS_1763_ABILITY_EFFECT_5213 =
-        "格林尼德向敌人投掷熔化的金属，每 3 秒造成一次火焰伤害，使敌人的攻击间隔时间增加 54%，并使其移动速度减少 50%，持续 15 秒。"
+        "每3秒造成一次火焰伤害，并降低攻击速度和移动速度，持续15秒。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61963 = "收割者-最后杰作"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61963 = "迪菲亚的妖精机械师为他们最伟大的创造而自豪：杰作收割机。它建在他们隐藏的车间深处，是他们生产过的最好的收获傀儡。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_646 = "重拳先生"
