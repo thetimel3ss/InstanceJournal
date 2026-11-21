@@ -454,8 +454,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "Bergmann Johnson"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
         "Ein schwer fassbarer Bergmann, der in der allgemeinen Bevölkerung der Deadmines selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_6016 = "Rüstung durchbohren"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_6016 = "Miner Johnson stürzt sich mit seiner Spitzhacke auf seinen Feind, durchdringt dessen Rüstung und verringert seinen Rüstungswert 10 Sekunden lang um 10 %."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_12097 = "Rüstung durchbohren"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_12097 =
+        "Verringert die Rüstung des Ziels."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_643 = "Niesen"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_643 =
         "Sneed wurde wegen seiner rücksichtslosen Effizienz als Holzfäller eingestellt. Sein Ziel ist einfach: so kostengünstig wie möglich einen Moloch zu bauen. Indem er die Produktion mit dem von ihm selbst gebauten Aktenvernichter leitet, erzielt er erschreckend schnelle Ergebnisse."

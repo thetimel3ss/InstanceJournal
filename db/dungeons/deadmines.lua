@@ -108,10 +108,10 @@ DEADMINES.Bosses = {
         IsRare = true,
         Abilities = {
             [1] = {
-                Id = "6016", 
-                Icon = "Spell_Shadow_VampiricAura", 
-                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_6016, 
-                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_6016
+                Id = "12097",
+                Icon = "Spell_Shadow_VampiricAura",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_12097,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_12097
             }
         },
         Loot = {

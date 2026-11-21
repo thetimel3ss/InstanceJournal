@@ -492,8 +492,9 @@ IJ_DB_DUNGEON_DEADMINES_BOSS_644_ABILITY_EFFECT_6304 =
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "Miner Johnson"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
     "An elusive miner, rarely seen among the general population of the Deadmines. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."
-IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_6016 = "Pierce Armor"
-IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_6016 = "Miner Johnson lunges his pickaxe into his enemy, piercing their armor and reducing its armor value by 10% for 10 seconds."
+IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_12097 = "Pierce Armor"
+IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_12097 =
+    "Reduces the target’s armor."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_643 = "Sneed"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_643 =
     "Sneed was hired as a lumbermaster for his ruthless efficiency. His goal is simple: construct a juggernaut as cheaply as possible. By using the shredder he built himself to lead production, he achieves terrifyingly fast results."

@@ -589,8 +589,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "矿工约翰森"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
         "一位难以捉摸的矿工，在死亡矿井的普通居民中很少见到。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_6016 = "刺穿护甲"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_6016 = "矿工约翰逊将他的镐刺向敌人，刺穿他们的护甲并使其护甲值降低 10%，持续 10 秒。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_12097 = "刺穿护甲"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_12097 =
+        "降低目标的护甲。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_643 = "斯尼德"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_643 =
         "斯尼德因其冷酷的效率而被聘为伐木工。他的目标很简单：以尽可能低的成本建造一个庞然大物。通过使用他自己制造的碎纸机来领导生产，他取得了惊人的快速结果。"

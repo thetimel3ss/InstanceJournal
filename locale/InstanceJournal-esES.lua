@@ -453,8 +453,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "Minero Johnson"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
         "Un minero esquivo, rara vez visto entre la población general de Deadmines. Se dice que posee muchos objetos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlo en primer lugar..."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_6016 = "Perforar armadura"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_6016 = "Miner Johnson lanza su pico hacia su enemigo, perfora su armadura y reduce su valor en un 10% durante 10 segundos."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_12097 = "Perforar armadura"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_12097 =
+        "Reduce la armadura del objetivo."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_643 = "Necesidad"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_643 =
         "Sneed fue contratado como maderero por su despiadada eficiencia. Su objetivo es simple: construir un gigante lo más barato posible. Al utilizar la trituradora que él mismo construyó para liderar la producción, logra resultados terriblemente rápidos."

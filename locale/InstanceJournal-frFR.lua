@@ -452,8 +452,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_3586 = "Mineur Johnson"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_3586 =
         "Un mineur insaisissable, rarement vu parmi la population générale des Mortemines. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."
-    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_6016 = "Armure de perçage"
-    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_6016 = "Le mineur Johnson jette sa pioche sur son ennemi, perçant son armure et réduisant sa valeur d'armure de 10 % pendant 10 secondes."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_NAME_12097 = "Armure de perçage"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_3586_ABILITY_EFFECT_12097 =
+        "Réduit l’armure de la cible."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_643 = "Besoin"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_643 =
         "Sneed a été embauché comme maître bûcheron pour son efficacité impitoyable. Son objectif est simple : construire un mastodonte au moindre coût possible. En utilisant le broyeur qu’il a lui-même construit pour diriger la production, il obtient des résultats incroyablement rapides."
