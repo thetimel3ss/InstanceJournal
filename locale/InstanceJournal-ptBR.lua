@@ -2558,6 +2558,9 @@ if GetLocale() == "ptBR" then
         "Drena vida de um inimigo para o lançador e imobiliza o alvo por 10 s. Dissipe este efeito mágico."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Garra Navalha, o Açougueiro"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 = "Razorclaw habita a antiga cozinha do Shadowfang Keep. Ele massacrou muitos humanos inocentes em Shadowfang Keep quando trazido por seu mestre Arugal, daí seu apelido."
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_NAME_7485 = "Drenagem do Açougueiro"
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_EFFECT_7485 =
+        "Drena o recurso do alvo."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Barão Silverlaine"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "Silverlaine era o antigo senhor da Fortaleza Presa Negra, mas foi morto quando o Arquimago Arugal e seus worgens assumiram o controle da fortaleza para seus próprios planos sinistros. Ele agora frequenta a sala de jantar com alguns de seus criados."

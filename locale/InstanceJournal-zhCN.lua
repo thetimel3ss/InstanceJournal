@@ -3668,6 +3668,9 @@ if GetLocale() == "zhCN" then
         "吸取一名敌人的生命值并转移给施法者，使目标定身10秒。驱散此魔法效果。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "屠夫拉佐克劳"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 = "利爪栖息在影牙城堡的前厨房里。当他被主人阿鲁高带入影牙城堡时，他屠杀了许多无辜的人类，因此获得了他的绰号。"
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_NAME_7485 = "屠夫吸取"
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_EFFECT_7485 =
+        "吸取目标的能量。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "席瓦莱恩男爵"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "西尔弗莱恩是影牙城堡的前任领主，但在大法师阿鲁高和他的狼人为了他们自己的邪恶计划而占领要塞时被杀。他现在和他的一些仆人一起在餐厅里出没。"

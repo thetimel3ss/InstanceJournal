@@ -2561,6 +2561,9 @@ if GetLocale() == "esES" then
         "Drena salud de un enemigo y la transfiere al taumaturgo, inmovilizando al objetivo durante 10 s. Disipa este efecto mágico."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Garra de afeitar el carnicero"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 = "Razorclaw habita en la antigua cocina de Shadowfang Keep. Mató a muchos humanos inocentes en Shadowfang Keep cuando su maestro Arugal lo trajo, de ahí su apodo."
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_NAME_7485 = "Drenaje del carnicero"
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_EFFECT_7485 =
+        "Drena el recurso del objetivo."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Barón Silverlaine"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "Silverlaine fue el antiguo señor de Shadowfang Keep, pero murió cuando el Archimago Arugal y sus huargen se apoderaron de la fortaleza para sus propios siniestros planes. Ahora ronda el comedor con algunos de sus sirvientes."

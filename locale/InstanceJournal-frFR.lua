@@ -2561,6 +2561,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Griffe de Rasoir le Boucher"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 =
         "Griffe de Rasoir habite l'ancienne cuisine du Donjon d'Ombrecroc. Il a massacré de nombreux humains innocents dans le donjon d'Ombrecroc lorsqu'il a été amené par son maître Arugal, d'où son surnom."
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_NAME_7485 = "Drain du boucher"
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_EFFECT_7485 =
+        "Draine la ressource de la cible."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Baron Silverlaine"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "Silverlaine était l'ancien seigneur du donjon d'Ombrecroc, mais il fut tué lorsque l'archimage Arugal et ses worgens prirent possession du donjon pour leurs propres plans sinistres. Il hante désormais la salle à manger avec certains de ses domestiques."

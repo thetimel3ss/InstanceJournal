@@ -53,7 +53,7 @@ SFK.Bosses = {
             [2] = {IJDB.I[80714], DropChance = 35}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "3886",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "razorclaw" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "razorclaw" .. IMPF,
@@ -61,6 +61,14 @@ SFK.Bosses = {
         Story = IJ_DB_DUNGEON_SFK_BOSS_STORY_3886,
         MapCoordinateX = 45.7,
         MapCoordinateY = 58.0,
+        Abilities = {
+            [1] = {
+                Id = "7485",
+                Icon = "Spell_Shadow_SiphonMana",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_NAME_7485,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_EFFECT_7485
+            }
+        },
         Loot = {
             [1] = {IJDB.I[1292], DropChance = 33}, 
             [2] = {IJDB.I[6226], DropChance = 33}, 

@@ -3575,6 +3575,9 @@ IJ_DB_DUNGEON_SFK_BOSS_3914_ABILITY_EFFECT_7295 =
     "Drains health from an enemy to the caster and immobilizes the target for 10 sec. Dispel this Magic effect."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Razorclaw the Butcher"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 = "Razorclaw inhabits the former kitchen of Shadowfang Keep. He slaughtered many innocent humans in Shadowfang Keep when brought in by his master Arugal, hence his nickname."
+IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_NAME_7485 = "Butcher Drain"
+IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_EFFECT_7485 =
+    "Drains the target’s power."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Baron Silverlaine"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
     "Silverlaine was the former lord of Shadowfang Keep, but was killed when Archmage Arugal and his worgen took over the keep for their own sinister plans. He now haunts the dining room with some of his servants."

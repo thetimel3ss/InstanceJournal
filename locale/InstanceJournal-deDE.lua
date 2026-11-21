@@ -2563,6 +2563,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3886 = "Razorclaw der Schlächter"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3886 =
         "Razorclaw bewohnt die ehemalige Küche der Festung Shadowfang. Als er von seinem Meister Arugal hereingebracht wurde, schlachtete er viele unschuldige Menschen in der Burg Schattenfang ab, daher sein Spitzname."
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_NAME_7485 = "Metzgerentzug"
+    IJ_DB_DUNGEON_SFK_BOSS_3886_ABILITY_EFFECT_7485 =
+        "Entzieht dem Ziel Ressourcen."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3887 = "Baron Silverlaine"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3887 =
         "Silverlaine war der ehemalige Herr der Festung Schattenfang, wurde jedoch getötet, als Erzmagier Arugal und seine Worgen die Festung für ihre eigenen finsteren Pläne übernahmen. Er spukt jetzt mit einigen seiner Diener durch das Esszimmer."
