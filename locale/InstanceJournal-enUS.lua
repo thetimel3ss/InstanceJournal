@@ -468,6 +468,19 @@ IJ_DB_DUNGEON_DEADMINES_STORY =
     "Once the greatest gold production center in the human lands, the Deadmines were abandoned when the Horde razed Stormwind city during the First War. Now the Defias Brotherhood has taken up residence and turned the dark tunnels into their private sanctum. It is rumored that the thieves have conscripted the clever goblins to help them build something terrible at the bottom of the mines - but what that may be is still uncertain. Rumor has it that the way into the Deadmines lies through the quiet, unassuming village of Moonbrook."
 
 -- Deadmines Bosses
+
+IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_3815 = "Poison Cloud"
+IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_3815 =
+    "Deals Nature damage to nearby enemies every 5 sec. for 45 sec.\n\nRemove this Poison effect."
+IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13298 = "Poison"
+IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13298 =
+    "Deals Nature damage every 3 sec. for 30 sec.\n\nRemove this Poison effect."
+IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13884 = "Withering Poison"
+IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13884 =
+    "Deals Nature damage every 3 sec. and reduces Strength and Agility for 180 sec.\n\nRemove this Poison effect."
+IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "Poisonous Stab"
+IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
+    "Deals Nature damage every 3 sec. and slows attack and movement speed for 15 sec.\n\nRemove this Poison effect."
 IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
 IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
     "Jared Voss is the son of William Voss, a renowned alchemist whose shop and home were burned down with Stormwind and never rebuilt, leaving his family homeless and bitter toward the nobility responsible. Jared, apprenticed to the Stonemasons before his father's death, inherited both his alchemical talents and his burning resentment."

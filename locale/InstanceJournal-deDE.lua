@@ -429,6 +429,19 @@ if GetLocale() == "deDE" then
         "Einst das größte Goldproduktionszentrum im Land der Menschen, wurden die Totenminen aufgegeben, als die Horde im Ersten Krieg die Stadt Stormwind zerstörte. Jetzt hat sich die Defias-Bruderschaft niedergelassen und die dunklen Tunnel in ihr privates Heiligtum verwandelt. Es wird gemunkelt, dass die Diebe die schlauen Kobolde rekrutiert haben, um ihnen beim Bau von etwas Schrecklichem auf dem Grund der Minen zu helfen – aber was das sein könnte, ist noch ungewiss. Gerüchten zufolge führt der Weg in die Deadmines über das ruhige, unscheinbare Dorf Moonbrook."
 
     -- Deadmines Bosses
+
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_3815 = "Giftwolke"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_3815 =
+        "Fügt nahen Gegnern 45 Sek. lang alle 5 Sek. Naturschaden zu.\n\nEntfernt diesen Gifteffekt."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13298 = "Gift"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13298 =
+        "Verursacht 30 Sek. lang alle 3 Sek. Naturschaden.\n\nEntfernt diesen Gifteffekt."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13884 = "Siechendes Gift"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13884 =
+        "Verursacht alle 3 Sek. Naturschaden und verringert Stärke und Beweglichkeit für 180 Sek.\n\nEntfernt diesen Gifteffekt."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "Giftiger Stich"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
+        "Verursacht alle 3 Sek. Naturschaden und verringert Angriffs- und Bewegungstempo für 15 Sek.\n\nEntfernt diesen Gifteffekt."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss ist der Sohn von William Voss, einem berühmten Alchemisten, dessen Laden und Haus bei Stormwind niedergebrannt und nie wieder aufgebaut wurden, was seine Familie obdachlos und verbittert gegenüber dem verantwortlichen Adel zurückließ. Jared, der vor dem Tod seines Vaters bei den Steinmetzen in die Lehre ging, erbte sowohl dessen alchemistische Talente als auch seinen brennenden Groll."

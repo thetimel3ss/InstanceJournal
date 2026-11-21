@@ -30,7 +30,7 @@ DEADMINES.Entrances = {
     }
 }
 DEADMINES.Bosses = {
-    [1] = { -- NOTE: Probably has abilities, none are listed on the database
+    [1] = {
         Id = "61961",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "jared" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "jared" .. IMPF,
@@ -38,6 +38,36 @@ DEADMINES.Bosses = {
         Story = IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961,
         MapCoordinateX = 28.5,
         MapCoordinateY = 30.8,
+        Abilities = {
+            [1] = {
+                Id = "3815",
+                Icon = "Spell_Nature_Regenerate",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_3815,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_3815,
+                Flags = {IMAF.Poison}
+            },
+            [2] = {
+                Id = "13298",
+                Icon = "Spell_Nature_CorrosiveBreath",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13298,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13298,
+                Flags = {IMAF.Poison}
+            },
+            [3] = {
+                Id = "13884",
+                Icon = "Spell_Nature_CorrosiveBreath",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13884,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13884,
+                Flags = {IMAF.Poison}
+            },
+            [4] = {
+                Id = "7357",
+                Icon = "Spell_Nature_Regenerate",
+                Name = IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357,
+                Effect = IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357,
+                Flags = {IMAF.Poison}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[55377], DropChance = 50}, 
             [2] = {IJDB.I[55375], DropChance = 25}, 

@@ -427,6 +427,19 @@ if GetLocale() == "ptBR" then
         "Outrora o maior centro de produção de ouro nas terras humanas, as Minas Mortas foram abandonadas quando a Horda arrasou a cidade de Ventobravo durante a Primeira Guerra. Agora a Irmandade Défias fixou residência e transformou os túneis escuros em seu santuário privado. Há rumores de que os ladrões recrutaram os duendes espertos para ajudá-los a construir algo terrível no fundo das minas - mas o que pode ser ainda é incerto. Há rumores de que o caminho para as Minas Mortas passa pela tranquila e despretensiosa vila de Moonbrook."
 
     -- Deadmines Bosses
+
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_3815 = "Nuvem Venenosa"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_3815 =
+        "Causa dano de Natureza aos inimigos próximos a cada 5 s por 45 s.\n\nRemova este efeito de veneno."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13298 = "Veneno"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13298 =
+        "Causa dano de Natureza a cada 3 s por 30 s.\n\nRemova este efeito de veneno."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13884 = "Veneno Definhante"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13884 =
+        "Causa dano de Natureza a cada 3 s e reduz a Força e a Agilidade por 180 s.\n\nRemova este efeito de veneno."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "Estocada Venenosa"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
+        "Causa dano de Natureza a cada 3 s e reduz a velocidade de ataque e de movimento por 15 s.\n\nRemova este efeito de veneno."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss é filho de William Voss, um renomado alquimista cuja loja e casa foram incendiadas em Ventobravo e nunca reconstruídas, deixando sua família desabrigada e ressentida com a nobreza responsável. Jared, aprendiz dos pedreiros antes da morte de seu pai, herdou tanto seus talentos alquímicos quanto seu ressentimento ardente."

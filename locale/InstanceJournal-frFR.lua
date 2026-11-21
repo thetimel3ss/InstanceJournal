@@ -427,6 +427,19 @@ if GetLocale() == "frFR" then
         "Autrefois le plus grand centre de production d'or des terres humaines, les Mortemines ont été abandonnées lorsque la Horde a rasé la ville de Hurlevent pendant la Première Guerre. Aujourd'hui, la Confrérie Défias a élu domicile et a transformé les sombres tunnels en sanctuaire privé. La rumeur dit que les voleurs ont enrôlé les gobelins intelligents pour les aider à construire quelque chose de terrible au fond des mines - mais ce que cela pourrait être est encore incertain. La rumeur veut que le chemin vers les Mortemines passe par le village tranquille et sans prétention de Moonbrook."
 
     -- Deadmines Bosses
+
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_3815 = "Nuage empoisonné"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_3815 =
+        "Inflige des dégâts de Nature aux ennemis proches toutes les 5 s pendant 45 s.\n\nDissipez cet effet de poison."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13298 = "Poison"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13298 =
+        "Inflige des dégâts de Nature toutes les 3 s pendant 30 s.\n\nDissipez cet effet de poison."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13884 = "Poison flétrissant"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13884 =
+        "Inflige des dégâts de Nature toutes les 3 s et réduit la Force et l’Agilité pendant 180 s.\n\nDissipez cet effet de poison."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "Attaque empoisonnée"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
+        "Inflige des dégâts de Nature toutes les 3 s et ralentit les attaques et les déplacements pendant 15 s.\n\nDissipez cet effet de poison."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss est le fils de William Voss, un alchimiste renommé dont le magasin et la maison ont été incendiés sous Hurlevent et jamais reconstruits, laissant sa famille sans abri et amère envers la noblesse responsable. Jared, apprenti chez les tailleurs de pierre avant la mort de son père, a hérité à la fois de ses talents alchimiques et de son ressentiment ardent."

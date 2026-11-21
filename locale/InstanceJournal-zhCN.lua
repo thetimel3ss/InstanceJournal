@@ -565,6 +565,19 @@ if GetLocale() == "zhCN" then
         "死亡矿井曾经是人类土地上最大的黄金生产中心，但在第一次战争期间部落夷平暴风城后，死亡矿井就被废弃了。现在迪菲亚兄弟会已经占据了住所，并将黑暗的隧道变成了他们的私人圣所。有传言说，盗贼们征召了聪明的妖精来帮助他们在矿井底部建造一些可怕的东西——但这可能是什么仍然不确定。有传言说，进入死亡矿井的道路位于安静、低调的月溪村。"
 
     -- Deadmines Bosses
+
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_3815 = "毒云"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_3815 =
+        "每5秒对附近的敌人造成一次自然伤害，持续45秒。\n\n解除此中毒效果。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13298 = "毒药"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13298 =
+        "每3秒造成一次自然伤害，持续30秒。\n\n解除此中毒效果。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13884 = "凋零毒药"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13884 =
+        "每3秒造成一次自然伤害，并降低力量和敏捷，持续180秒。\n\n解除此中毒效果。"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "毒性刺伤"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
+        "每3秒造成一次自然伤害，并降低攻击速度和移动速度，持续15秒。\n\n解除此中毒效果。"
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "杰里德·维斯"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "贾里德·沃斯是威廉·沃斯的儿子，威廉·沃斯是一位著名的炼金术士，他的商店和房屋在暴风城被烧毁后再也没有重建，导致他的家人无家可归，并对负责的贵族怀有怨恨。贾里德在父亲去世前成为石匠会的学徒，继承了他的炼金术天赋和强烈的怨恨。"

@@ -428,6 +428,19 @@ if GetLocale() == "esES" then
         "Las Minas de la Muerte, que alguna vez fueron el mayor centro de producción de oro en las tierras humanas, fueron abandonadas cuando la Horda arrasó la ciudad de Ventormenta durante la Primera Guerra. Ahora la Hermandad Defias se ha instalado y ha convertido los oscuros túneles en su santuario privado. Se rumorea que los ladrones han reclutado a los inteligentes duendes para que los ayuden a construir algo terrible en el fondo de las minas, pero aún no se sabe qué puede ser. Se rumorea que el camino hacia las Minas de la Muerte pasa por el tranquilo y modesto pueblo de Moonbrook."
 
     -- Deadmines Bosses
+
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_3815 = "Nube de veneno"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_3815 =
+        "Inflige daño de Naturaleza a los enemigos cercanos cada 5 s durante 45 s.\n\nElimina este efecto de veneno."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13298 = "Veneno"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13298 =
+        "Inflige daño de Naturaleza cada 3 s durante 30 s.\n\nElimina este efecto de veneno."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_13884 = "Veneno debilitante"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_13884 =
+        "Inflige daño de Naturaleza cada 3 s y reduce la fuerza y la agilidad durante 180 s.\n\nElimina este efecto de veneno."
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_NAME_7357 = "Puñalada venenosa"
+    IJ_DB_DUNGEON_DEADMINES_BOSS_61961_ABILITY_EFFECT_7357 =
+        "Inflige daño de Naturaleza cada 3 s y reduce la velocidad de ataque y movimiento durante 15 s.\n\nElimina este efecto de veneno."
     IJ_DB_DUNGEON_DEADMINES_BOSS_NAME_61961 = "Jared Voss"
     IJ_DB_DUNGEON_DEADMINES_BOSS_STORY_61961 =
         "Jared Voss es hijo de William Voss, un renombrado alquimista cuya tienda y casa fueron incendiadas por Ventormenta y nunca reconstruidas, dejando a su familia sin hogar y amargada hacia la nobleza responsable. Jared, aprendiz de canteros antes de la muerte de su padre, heredó tanto sus talentos alquímicos como su ardiente resentimiento."
