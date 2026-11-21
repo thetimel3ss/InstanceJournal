@@ -2955,6 +2955,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "皮萨斯领主"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "战士艾林是纳拉雷克斯儿时的朋友，他对德鲁伊教的研究很快。尽管受过训练，这位侍僧对于那些会剥夺他理智的腐败毫无防御能力。艾林化名为皮萨斯，将他令人印象深刻的近战能力与德鲁伊武库相结合，以击败入侵者。"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_9532 = "闪电箭"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_9532 =
+        "以闪电击中一名敌人，造成自然伤害。"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_5187 = "治疗之触"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_5187 =
+        "治疗一个友方目标。"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_700 = "催眠术"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_700 =
+        "使一名敌人沉睡，最多持续20秒。受到伤害会醒来。驱散此魔法效果。"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_8147 = "雷霆一击"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_8147 =
+        "对附近的敌人造成自然伤害，并降低其攻击和移动速度，持续10秒。驱散此魔法效果。"
     IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "斯卡姆"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
         "斯库姆第一次前往哀嚎洞穴是为了摆脱贫瘠之地的恶劣环境。和洞穴里的许多其他居民一样，他很快就陷入了腐败。他的血管现在充满了黑暗能量，这使他变成了一个强大而残酷的野兽，无法救赎。"

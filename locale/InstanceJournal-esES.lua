@@ -2084,6 +2084,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Señor pitas"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "Amiga de la infancia de Naralex, la guerrera Aryn aprendió rápidamente el druidismo. A pesar de su entrenamiento, el acólito estaba indefenso ante la corrupción que le quitaría la cordura. Aryn ha adoptado el nombre de Pythas y combina su impresionante destreza cuerpo a cuerpo con su arsenal druídico para vencer a los intrusos."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_9532 = "Descarga de relámpagos"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_9532 =
+        "Golpea a un enemigo con un rayo que inflige daño de Naturaleza."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_5187 = "Toque de sanación"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_5187 =
+        "Sana a un objetivo aliado."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_700 = "Dormir"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_700 =
+        "Duerme a un enemigo hasta 20 s. El daño despierta al objetivo. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_8147 = "Trueno"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_8147 =
+        "Inflige daño de Naturaleza a los enemigos cercanos y ralentiza sus ataques y movimiento durante 10 s. Disipa este efecto mágico."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "espuma"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
         "Skum viajó por primera vez a las Cavernas de los Lamentos en busca de alivio del entorno hostil de Los Baldíos. Como muchos de los demás habitantes de las cuevas, rápidamente sucumbió a la corrupción. Sus venas ahora palpitan con energías oscuras que lo han transformado en una bestia poderosa y despiadada más allá de la redención."

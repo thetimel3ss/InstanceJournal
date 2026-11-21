@@ -2862,6 +2862,18 @@ IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_6982 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Lord Pythas"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
     "A childhood friend of Naralex, the warrior Aryn was a quick study in druidism. Despite his training, the acolyte was defenseless against the corruption that would strip away his sanity. Aryn has taken on the name Pythas, combining his impressive melee prowess with his druidic arsenal to vanquish intruders."
+IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_9532 = "Lightning Bolt"
+IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_9532 =
+    "Blasts an enemy with lightning, dealing Nature damage."
+IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_5187 = "Healing Touch"
+IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_5187 =
+    "Heals a friendly target."
+IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_700 = "Sleep"
+IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_700 =
+    "Puts an enemy to sleep for up to 20 sec. Damage awakens the target. Dispel this Magic effect."
+IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_8147 = "Thunderclap"
+IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_8147 =
+    "Deals Nature damage to nearby enemies and slows their attacks and movement for 10 sec. Dispel this Magic effect."
 IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "Skum"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
     "Skum first journeyed to the Wailing Caverns for relief from the Barrens' hostile environment. Like many of the caves' other inhabitants, he quickly succumbed to corruption. His veins now pulse with dark energies that have transformed him into a mighty and ruthless beast beyond redemption."

@@ -2084,6 +2084,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Seigneur Pythas"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "Ami d'enfance de Naralex, le guerrier Aryn a rapidement étudié le druidisme. Malgré sa formation, l'acolyte était sans défense contre la corruption qui lui ôterait la raison. Aryn a pris le nom de Pythas, combinant ses impressionnantes prouesses au corps à corps avec son arsenal druidique pour vaincre les intrus."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_9532 = "Éclair"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_9532 =
+        "Frappe un ennemi avec un éclair qui inflige des dégâts de Nature."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_5187 = "Toucher guérisseur"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_5187 =
+        "Soigne une cible alliée."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_700 = "Sommeil"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_700 =
+        "Endort un ennemi pendant 20 s au maximum. Les dégâts réveillent la cible. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_8147 = "Coup de tonnerre"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_8147 =
+        "Inflige des dégâts de Nature aux ennemis proches et ralentit leurs attaques et leurs déplacements pendant 10 s. Dissipez cet effet magique."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "Skum"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
         "Skum s'est d'abord rendu aux Wailing Caverns pour se soulager de l'environnement hostile des Tarides. Comme beaucoup d’autres habitants des grottes, il a rapidement succombé à la corruption. Ses veines palpitent désormais d'énergies sombres qui l'ont transformé en une bête puissante et impitoyable au-delà de la rédemption."

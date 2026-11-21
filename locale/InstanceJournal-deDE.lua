@@ -2086,6 +2086,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Lord Pythas"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "Der Krieger Aryn, ein Kindheitsfreund von Naralex, lernte schnell das Druidentum. Trotz seiner Ausbildung war der Akolyth der Verderbnis, die ihm den Verstand rauben würde, schutzlos ausgeliefert. Aryn hat den Namen Pythas angenommen und kombiniert seine beeindruckenden Nahkampffähigkeiten mit seinem druidischen Arsenal, um Eindringlinge zu besiegen."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_9532 = "Blitzschlag"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_9532 =
+        "Trifft einen Gegner mit einem Blitz und verursacht Naturschaden."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_5187 = "Heilende Berührung"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_5187 =
+        "Heilt ein verbündetes Ziel."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_700 = "Schlaf"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_700 =
+        "Versetzt einen Gegner bis zu 20 Sek. lang in Schlaf. Schaden weckt das Ziel auf. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_NAME_8147 = "Donnerknall"
+    IJ_DB_DUNGEON_WC_BOSS_3670_ABILITY_EFFECT_8147 =
+        "Fügt nahen Gegnern Naturschaden zu und verlangsamt ihre Angriffe und Bewegung für 10 Sek. Bannt diesen magischen Effekt."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3674 = "Abschaum"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3674 =
         "Skum reiste zunächst zu den Wailing Caverns, um sich aus der feindseligen Umgebung des Brachlandes zu befreien. Wie viele andere Höhlenbewohner erlag er schnell der Korruption. In seinen Adern pulsieren jetzt dunkle Energien, die ihn in ein mächtiges und rücksichtsloses Biest verwandelt haben, das nicht mehr zu retten ist."
