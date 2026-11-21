@@ -4228,7 +4228,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
         "Tan’sha ist ein Schneeleopard, der an der Seite von Handler Oboka in der Frostmähnenhöhle anzutreffen ist. Shandlar Thethis sucht sein makelloses weißes Fell für einen von Astalor aus dem Haus Sunsworn bestellten Mantel."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Kampfmeister Ubukaz"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "Keine Chronik, keine Aufzeichnung, kein Bericht – Battlemaster Ubukaz existiert völlig außerhalb der Reichweite der Geschichte."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz =
+        "Ubukaz ist ein verehrter Kämpfer der Frostmähnen, der die Krieger seines Stammes in die Schlacht ruft. Die Späher von Eisenschmiede haben die Trollbedrohung in Dun Morogh zu seiner Festung in der Frostmähnenhöhle zurückverfolgt."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za der Seher"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Diejenigen, die Frostmane Hollow betreten haben und überlebt haben, um von Kan'za dem Seher zu sprechen, schweigen zu dieser Angelegenheit, sofern es sie überhaupt gibt."
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar der Kalte"
@@ -4273,8 +4274,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Handler Oboka"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Haustier reparieren"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka hört auf, für die Heilung von Tan'sha zu kämpfen."
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_enrage = "Wütend"
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_enrage = "Bei 20 % verbleibender Gesundheit wird Ubukaz wütend, was den Schaden, den er seinen Feinden zufügt, erheblich erhöht."
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_28131 = "Wütend"
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_28131 =
+        "Verfällt bei 20% Gesundheit in einen Wutanfall, der das Angriffstempo um 40% und den verursachten Schaden um 25% erhöht."
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaadds = "Kan'zas Adds"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds =
         "Kan'za beginnt den Kampf mit zwei Frostmähnen-Schneerufern, die ihm helfen werden.\n\nDiese Adds sollten von den Schadensverursachern Vorrang vor dem Boss haben"

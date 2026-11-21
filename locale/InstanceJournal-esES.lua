@@ -4228,7 +4228,8 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
         "Tan’sha es un leopardo de las nieves que se encuentra junto a Controlador Oboka en la mazmorra Hueco Melenaescarcha. Shandlar Thethis busca su impecable pelaje blanco para un manto encargado por Astalor de la Casa Sunsworn."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Maestro de batalla Ubukaz"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "Sin crónica, sin registro, sin relato: Battlemaster Ubukaz existe más allá del alcance de la historia."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz =
+        "Ubukaz es un venerado luchador Peloescarcha que reúne a los guerreros de su tribu para la batalla. Los exploradores de Forjaz han rastreado la amenaza trol de Dun Morogh hasta su bastión en la mazmorra Hueco Melenaescarcha."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za la Vidente"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Aquellos que han entrado en Frostmane Hollow y han vivido para hablar de Kan'za the Vidente, si es que existen, guardan silencio sobre el asunto."
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar el Frígido"
@@ -4273,8 +4274,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Controlador Oboka"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Reparar mascota"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka deja de luchar para curar a Tan'sha."
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_enrage = "Enfurecer"
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_enrage = "Con un 20% de salud restante, Ubukaz se enfurece, lo que aumenta significativamente el daño que inflige a sus enemigos."
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_28131 = "Enfurecer"
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_28131 =
+        "Al llegar al 20% de salud, se enfurece y aumenta su velocidad de ataque un 40% y el daño infligido un 25%."
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaadds = "Agregados de Kanza"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds =
         "Kan'za comienza la pelea con dos Frostmane Snowcaller que lo ayudarán. ||norte||  ||norte|| Estos agregados deben ser priorizados por los que causan daños sobre el jefe."

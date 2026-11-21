@@ -4228,7 +4228,8 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
         "Tan’sha est un léopard des neiges qui combat aux côtés de Gestionnaire Oboka dans le donjon Creux des Crins-de-givre. Shandlar Thethis recherche sa fourrure blanche parfaite pour un manteau commandé par Astalor de la maison Sunsworn."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Maître de bataille Ubukaz"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "Pas de chronique, pas de dossier, pas de récit : le maître de bataille Ubukaz existe hors de portée de l'histoire."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz =
+        "Ubukaz est un combattant vénéré des Crins-de-givre qui appelle les guerriers de sa tribu à la bataille. Les éclaireurs de Forgefer ont remonté la menace trolle de Dun Morogh jusqu’à son bastion dans le donjon Creux des Crins-de-givre."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za le Voyant"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Ceux qui sont entrés dans Frostmane Hollow et ont vécu pour parler de Kan'za le Voyant sont, s'ils existent, silencieux sur la question."
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar le glacial"
@@ -4273,8 +4274,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Gestionnaire Oboka"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Réparer l'animal"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka arrête de se battre pour guérir Tan'sha."
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_enrage = "Enrager"
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_enrage = "À 20% de santé restante, Ubukaz devient enragé, augmentant considérablement les dégâts qu'il inflige à ses ennemis."
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_28131 = "Enrager"
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_28131 =
+        "À 20% de vie, entre en rage, augmentant sa vitesse d’attaque de 40% et ses dégâts infligés de 25%."
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaadds = "Les ajouts de Kan'za"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds =
         "Kan'za commence le combat avec deux Frostmane Snowcaller qui l'assisteront.\n\nCes ajouts devraient être prioritaires par les donneurs de dégâts plutôt que par le boss."

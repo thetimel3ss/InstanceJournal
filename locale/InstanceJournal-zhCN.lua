@@ -4447,9 +4447,11 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "治疗宠物"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "奥博卡停止战斗以治愈坦莎。"
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "战场主宰乌布卡兹"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "没有编年史，没有记录，没有记载——战帅乌布卡兹的存在完全超出了历史的范围。"
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_enrage = "激怒"
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_enrage = "剩余生命值 20% 时，乌布卡兹变得愤怒，对敌人造成的伤害显着增加。"
+    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz =
+        "乌布卡兹是备受尊敬的霜鬃斗士，正召集部落的战士投入战斗。铁炉堡的斥候追查丹莫罗的巨魔威胁，找到了他位于霜鬃峡谷的据点。"
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_28131 = "激怒"
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_28131 =
+        "生命值降至20%时进入激怒状态，攻击速度提高40%，造成的伤害提高25%。"
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "先知坎扎"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "那些进入霜鬃峡谷并活着谈论先知坎扎的人，如果他们确实存在的话，对此事保持沉默。"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaadds = "坎扎的援兵"

@@ -4218,7 +4218,8 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_FH_BOSS_STORY_tansha =
         "Tan’sha é um leopardo-das-neves encontrado ao lado de Manipulador Oboka na masmorra Juba Gélida Oca. Shandlar Thethis procura sua pelagem branca impecável para um manto encomendado por Astalor da Casa Sunsworn."
     IJ_DB_DUNGEON_FH_BOSS_NAME_ubukaz = "Mestre de Batalha Ubukaz"
-    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz = "Sem crônica, sem registro, sem conta – Battlemaster Ubukaz existe inteiramente fora do alcance da história."
+    IJ_DB_DUNGEON_FH_BOSS_STORY_ubukaz =
+        "Ubukaz é um respeitado guerreiro Frostmane que convoca os combatentes da tribo para a batalha. Os batedores de Altaforja localizaram a origem da ameaça dos trolls em Dun Morogh em seu reduto na masmorra Juba Gélida Oca."
     IJ_DB_DUNGEON_FH_BOSS_NAME_kanza = "Kan'za, o Vidente"
     IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Aqueles que entraram em Frostmane Hollow e viveram para falar de Kan'za, o Vidente, estão, se é que existem, silenciosos sobre o assunto."
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar, o Frígido"
@@ -4263,8 +4264,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_oboka = "Manipulador Oboka"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_NAME_obokamendpet = "Consertar animal de estimação"
     IJ_DB_DUNGEON_FH_BOSS_tansha_ABILITY_EFFECT_obokamendpet = "Oboka para de lutar para curar Tan'sha."
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_enrage = "Enfurecer"
-    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_enrage = "Com 20% da saúde restante, Ubukaz fica furioso, aumentando significativamente o dano que causa aos inimigos."
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_28131 = "Enfurecer"
+    IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_28131 =
+        "Ao atingir 20% de vida, enfurece, aumentando a velocidade de ataque em 40% e o dano causado em 25%."
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaadds = "Adições de Kan'za"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds = "Kan'za começa a luta com dois Frostmane Snowcaller que irão ajudá-lo.\n\nEsses acréscimos devem ser priorizados pelos causadores de dano em vez do chefe"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt = "Seta de Gelo"

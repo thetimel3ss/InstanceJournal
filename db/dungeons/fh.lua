@@ -86,10 +86,10 @@ FH.Bosses = {
         MapCoordinateY = 39.4,
         Abilities = {
             [1] = {
-                Id = "enrage", 
+                Id = "28131",
                 Icon = "spell_shadow_unholyfrenzy", 
-                Name = IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_enrage, 
-                Effect = IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_enrage, 
+                Name = IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_NAME_28131,
+                Effect = IJ_DB_DUNGEON_FH_BOSS_ubukaz_ABILITY_EFFECT_28131,
                 Flags = {IMAF.Enrage}
             }
         },
