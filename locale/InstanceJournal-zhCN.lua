@@ -1167,6 +1167,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "萨利维丝女士"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "暮光之锤授予萨瑞维斯女士位于黑暗深渊的私人海湾，不断为她送来新鲜的祭品。信徒们希望她的仪式和研究能够带来魔法保护，让他们能够崇拜深渊核心的可怕九头蛇，而不必担心成为他的下一顿美餐。"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_8435 = "叉状闪电"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_8435 =
+        "对施法者前方锥形区域内的敌人造成自然伤害。"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_246 = "减速术"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_246 =
+        "降低目标的攻击和移动速度，持续10秒。驱散此魔法效果。"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_865 = "冰霜新星"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_865 =
+        "对附近的敌人造成冰霜伤害并使其定身，最多持续8秒。伤害可能打破定身效果。驱散此魔法效果。"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_6660 = "射击"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_6660 =
+        "射击一名敌人，造成物理伤害。"
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "格里哈斯特"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "上古之神呼唤，吉利哈斯特回应，强行闯入黑暗深渊，用他的双剑屠杀了近十几名令暮光之锤信徒大吃一惊的人。邪教对他的凶残和残暴印象深刻，允许他留下来，并建造了自己的神殿来祭祀并接受寺庙废墟中不祥之物的祝福。"

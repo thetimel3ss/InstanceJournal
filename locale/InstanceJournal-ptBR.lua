@@ -802,6 +802,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "Senhora Sarevess"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "O Martelo do Crepúsculo concedeu a Lady Sarevess sua própria enseada particular dentro das Profundezas Negras, enviando-lhe continuamente novos sacrifícios. Os cultistas esperam que seus rituais e pesquisas resultem em proteção mágica que lhes permitirá adorar a terrível hidra no centro das profundezas sem medo de se tornar sua próxima refeição."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_8435 = "Raio Bifurcado"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_8435 =
+        "Causa dano de Natureza aos inimigos em um cone à frente do lançador."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_246 = "Lentidão"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_246 =
+        "Reduz a velocidade de ataque e movimento do alvo por 10 s. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_865 = "Nova Congelante"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_865 =
+        "Causa dano de Gelo aos inimigos próximos e os enraíza por até 8 s. Dano pode quebrar o enraizamento. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_6660 = "Disparar"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_6660 =
+        "Dispara contra um inimigo, causando dano Físico."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "Os Deuses Antigos chamaram e Gelihast respondeu, forçando sua entrada nas Profundezas Negras e massacrando quase uma dúzia de cultistas surpresos do Martelo do Crepúsculo com suas espadas gêmeas. Impressionado com sua ferocidade e brutalidade, o culto permitiu que ele ficasse, e ele construiu seu próprio santuário para oferecer sacrifícios e receber bênçãos da presença sinistra nas ruínas do templo."

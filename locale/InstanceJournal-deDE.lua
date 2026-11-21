@@ -806,6 +806,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "Lady Sarevess"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "Der Twilight's Hammer gewährte Lady Sarevess ihre eigene private Bucht in den Blackfathom Deeps und sandte ihr ständig neue Opfer. Die Kultisten hoffen, dass ihre Rituale und Forschungen zu einem magischen Schutz führen, der es ihnen ermöglicht, die schreckliche Hydra im Innersten der Tiefen zu verehren, ohne befürchten zu müssen, dass sie zu seiner nächsten Mahlzeit wird."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_8435 = "Gegabelter Blitz"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_8435 =
+        "Fügt Gegnern in einem kegelförmigen Bereich vor dem Zaubernden Naturschaden zu."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_246 = "Verlangsamen"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_246 =
+        "Verlangsamt die Angriffe und Bewegung des Ziels für 10 Sek. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_865 = "Frostnova"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_865 =
+        "Fügt nahen Gegnern Frostschaden zu und macht sie bis zu 8 Sek. lang bewegungsunfähig. Schaden kann den Wurzeleffekt brechen. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_6660 = "Schießen"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_6660 =
+        "Schießt auf einen Gegner und verursacht körperlichen Schaden."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "Die Alten Götter riefen, und Gelihast antwortete, drang in die Blackfathom Deeps ein und schlachtete mit seinen Zwillingsschwertern fast ein Dutzend überraschter Twilight's Hammer-Kultisten ab. Beeindruckt von seiner Wildheit und Brutalität erlaubte ihm der Kult zu bleiben und er baute seinen eigenen Schrein, um Opfer darzubringen und Segen von der unheilvollen Präsenz in den Tempelruinen zu empfangen."

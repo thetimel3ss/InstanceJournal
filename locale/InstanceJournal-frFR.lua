@@ -804,6 +804,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "Dame Sarevess"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "Le Marteau du Crépuscule a accordé à Lady Sarevess sa propre crique privée au sein des Profondeurs de Fathom Noire, lui envoyant continuellement de nouveaux sacrifices. Les cultistes espèrent que ses rituels et ses recherches aboutiront à une protection magique qui leur permettra d'adorer la terrifiante hydre au cœur des profondeurs sans craindre de devenir son prochain repas."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_8435 = "Éclair multiple"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_8435 =
+        "Inflige des dégâts de Nature aux ennemis dans un cône devant le lanceur."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_246 = "Lenteur"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_246 =
+        "Ralentit les attaques et les déplacements de la cible pendant 10 s. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_865 = "Nova de givre"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_865 =
+        "Inflige des dégâts de Givre aux ennemis proches et les immobilise pendant 8 s au maximum. Les dégâts peuvent briser l’immobilisation. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_6660 = "Tir"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_6660 =
+        "Tire sur un ennemi et lui inflige des dégâts physiques."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "Les Dieux très anciens ont appelé, et Gelihast a répondu, se frayant un chemin dans les Profondeurs de Fathom Noire et massacrant près d'une douzaine de cultistes surpris du Marteau du Crépuscule avec ses épées jumelles. Impressionné par sa férocité et sa brutalité, le culte lui permit de rester et il construisit son propre sanctuaire pour offrir des sacrifices et recevoir les bénédictions de la présence inquiétante dans les ruines du temple."

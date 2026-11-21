@@ -804,6 +804,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "señora sareves"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "El Martillo Crepuscular le concedió a Lady Sarevess su propia cala privada dentro de Blackfathom Deeps, enviándole continuamente nuevos sacrificios. Los cultistas esperan que sus rituales e investigaciones resulten en una protección mágica que les permita adorar a la aterradora hidra en el centro de las profundidades sin temor a convertirse en su próxima comida."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_8435 = "Relámpago bifurcado"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_8435 =
+        "Inflige daño de Naturaleza a los enemigos en un cono frente al taumaturgo."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_246 = "Ralentizar"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_246 =
+        "Ralentiza los ataques y el movimiento del objetivo durante 10 s. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_865 = "Nova de Escarcha"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_865 =
+        "Inflige daño de Escarcha a los enemigos cercanos y los inmoviliza hasta 8 s. El daño puede romper la inmovilización. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_6660 = "Disparar"
+    IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_6660 =
+        "Dispara a un enemigo y le inflige daño físico."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "Los Dioses Antiguos llamaron, y Gelihast respondió, abriéndose camino hacia las Abismos de Brazanegra y masacrando a casi una docena de sorprendidos cultistas del Martillo Crepuscular con sus espadas gemelas. Impresionado por su ferocidad y brutalidad, el culto le permitió quedarse y construyó su propio santuario para ofrecer sacrificios y recibir bendiciones de la siniestra presencia en las ruinas del templo."

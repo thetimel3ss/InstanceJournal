@@ -1071,6 +1071,18 @@ IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_EFFECT_5568 =
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "Lady Sarevess"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
     "The Twilight's Hammer granted Lady Sarevess her own private cove within Blackfathom Deeps, continuously sending her fresh sacrifices. The cultists hope that her rituals and research will result in magical protection that will allow them to worship the terrifying hydra at the deeps' core without fear of becoming his next meal."
+IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_8435 = "Forked Lightning"
+IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_8435 =
+    "Deals Nature damage to enemies in a cone in front of the caster."
+IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_246 = "Slow"
+IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_246 =
+    "Slows the target’s attacks and movement for 10 sec. Dispel this Magic effect."
+IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_865 = "Frost Nova"
+IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_865 =
+    "Deals Frost damage to nearby enemies and roots them for up to 8 sec. Damage may break the root. Dispel this Magic effect."
+IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_6660 = "Shoot"
+IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_6660 =
+    "Shoots an enemy, dealing Physical damage."
 IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
     "The Old Gods called, and Gelihast answered, forcing his way into Blackfathom Deeps and slaughtering nearly a dozen surprised Twilight's Hammer cultists with his twin swords. Impressed by his ferocity and brutality, the cult allowed him to stay, and he built his own shrine to offer sacrifices and receive blessings from the ominous presence in the temple ruins."

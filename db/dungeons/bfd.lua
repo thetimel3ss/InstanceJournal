@@ -52,7 +52,7 @@ BFD.Bosses = {
             [3] = {IJDB.I[80718], DropChance = 35}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "4831",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "sarevess" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "sarevess" .. IMPF,
@@ -60,6 +60,34 @@ BFD.Bosses = {
         Story = IJ_DB_DUNGEON_BFD_BOSS_STORY_4831,
         MapCoordinateX = 6.7,
         MapCoordinateY = 25.8,
+        Abilities = {
+            [1] = {
+                Id = "8435",
+                Icon = "Spell_Nature_ChainLightning",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_8435,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_8435
+            },
+            [2] = {
+                Id = "246",
+                Icon = "Spell_Nature_Slow",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_246,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_246,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "865",
+                Icon = "Spell_Frost_FrostNova",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_865,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_865,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "6660",
+                Icon = "Ability_Marksmanship",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_NAME_6660,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_6660
+            }
+        },
         Loot = {
             [1] = {IJDB.I[888], DropChance = 33}, 
             [2] = {IJDB.I[3078], DropChance = 33}, 
