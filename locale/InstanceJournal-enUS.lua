@@ -3639,6 +3639,18 @@ IJ_DB_DUNGEON_SFK_BOSS_3927_ABILITY_EFFECT_7489 =
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Archmage Arugal"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
     "Archmage Arugal is a former mage of Dalaran who lived within the ruins of Shadowfang Keep and was later raised from the dead in the service of the Scourge. He is most notorious for having unleashed the worgen once more unto the world by freeing them from the Emerald Dream."
+IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7588 = "Void Bolt"
+IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7588 =
+    "Deals Shadow damage to an enemy."
+IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7621 = "Arugal's Curse"
+IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7621 =
+    "Transforms an enemy into a Shadowfang Glutton and controls the target for 10 sec. Remove this Curse."
+IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7803 = "Thundershock"
+IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7803 =
+    "Deals Nature damage to nearby enemies and stuns them for 5 sec."
+IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7586 = "Shadow Port"
+IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
+    "Teleports to another location."
 
 -- SFK Loot
 IJ_LOOT_NAME_6953 = "Verigan's Fist"

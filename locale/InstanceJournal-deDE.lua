@@ -2628,6 +2628,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Erzmagier Arugal"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "Erzmagier Arugal ist ein ehemaliger Magier von Dalaran, der in den Ruinen der Burg Schattenfang lebte und später im Dienste der Geißel von den Toten auferweckt wurde. Er ist vor allem dafür bekannt, dass er die Worgen erneut auf die Welt losgelassen hat, indem er sie aus dem Smaragdgrünen Traum befreit hat."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7588 = "Leerenblitz"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7588 =
+        "Fügt einem Gegner Schattenschaden zu."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7621 = "Arugals Fluch"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7621 =
+        "Verwandelt einen Gegner in einen Schattenfangfresser und kontrolliert das Ziel für 10 Sek. Entfernt diesen Fluch."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7803 = "Donnerschock"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7803 =
+        "Fügt nahen Gegnern Naturschaden zu und betäubt sie für 5 Sek."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7586 = "Schattenteleport"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
+        "Teleportiert sich an einen anderen Ort."
 
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "Stratholme"

@@ -2651,6 +2651,18 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Верховный маг Аругал"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "Верховный маг Аругал — бывший маг Даларана, который жил в руинах Крепости Теневого Клыка и позже был воскрешен из мертвых на службе Плети. Он наиболее известен тем, что снова выпустил в мир воргенов, освободив их из Изумрудного сна."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7588 = "Стрела Бездны"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7588 =
+        "Наносит противнику урон от темной магии."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7621 = "Проклятие Аругала"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7621 =
+        "Превращает противника в обжору Темного Клыка и подчиняет цель на 10 сек. Снимите это проклятие."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7803 = "Громовой шок"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7803 =
+        "Наносит урон от сил природы ближайшим противникам и оглушает их на 5 сек."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7586 = "Теневой портал"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
+        "Телепортируется в другое место."
 
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "Стратхольм"

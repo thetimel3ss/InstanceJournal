@@ -269,7 +269,7 @@ SFK.Bosses = {
             [3] = {IJDB.I[3748], DropChance = 50}
         }
     },
-    [10] = { -- NOTE: Missing abilities
+    [10] = {
         Id = "4275",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "arugal" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "arugal" .. IMPF,
@@ -277,6 +277,33 @@ SFK.Bosses = {
         Story = IJ_DB_DUNGEON_SFK_BOSS_STORY_4275,
         MapCoordinateX = 73.8,
         MapCoordinateY = 6.9,
+        Abilities = {
+            [1] = {
+                Id = "7588",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7588,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7588
+            },
+            [2] = {
+                Id = "7621",
+                Icon = "Spell_Shadow_GatherShadows",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7621,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7621,
+                Flags = {IMAF.Curse}
+            },
+            [3] = {
+                Id = "7803",
+                Icon = "Spell_Lightning_LightningBolt01",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7803,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7803
+            },
+            [4] = {
+                Id = "7586",
+                Icon = "Spell_Shadow_AntiShadow",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7586,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6220], DropChance = 33}, 
             [2] = {IJDB.I[6324], DropChance = 33}, 

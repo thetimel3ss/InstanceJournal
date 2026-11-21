@@ -2623,6 +2623,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Arquimago Arugal"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "O Arquimago Arugal é um ex-mago de Dalaran que viveu nas ruínas da Fortaleza Presa Negra e mais tarde foi ressuscitado dos mortos a serviço do Flagelo. Ele é mais famoso por ter libertado os worgens mais uma vez para o mundo, libertando-os do Sonho Esmeralda."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7588 = "Seta do Vazio"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7588 =
+        "Causa dano de Sombra a um inimigo."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7621 = "Maldição de Arugal"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7621 =
+        "Transforma um inimigo em um Glutão de Presa Negra e controla o alvo por 10 s. Remova esta maldição."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7803 = "Choque Trovejante"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7803 =
+        "Causa dano de Natureza aos inimigos próximos e os atordoa por 5 s."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7586 = "Teleporte Sombrio"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
+        "Teleporta-se para outro local."
 
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "Stratholme"

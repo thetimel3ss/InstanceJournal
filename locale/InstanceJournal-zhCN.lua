@@ -3732,6 +3732,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "大法师阿鲁高"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "大法师阿鲁高是达拉然的前法师，住在影牙城堡的废墟中，后来为天灾军团复活。他最为臭名昭著的是他将狼人从翡翠梦境中解放出来，再次将他们释放到了世界上。"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7588 = "虚空箭"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7588 =
+        "对一名敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7621 = "阿鲁高的诅咒"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7621 =
+        "将一名敌人变成影牙暴食者并控制目标10秒。解除此诅咒。"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7803 = "雷霆震击"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7803 =
+        "对附近的敌人造成自然伤害并使其昏迷5秒。"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7586 = "暗影传送"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
+        "传送到另一个位置。"
 
     -- SFK Quests
     IJ_QUEST_NAME_1654 = "正义的考验"

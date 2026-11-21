@@ -2626,6 +2626,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Archimage Arugal"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "L'archimage Arugal est un ancien mage de Dalaran qui vivait dans les ruines du Donjon d'Ombrecroc et qui fut ensuite ressuscité des morts au service du Fléau. Il est surtout connu pour avoir libéré les worgens une fois de plus dans le monde en les libérant du Rêve d'Émeraude."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7588 = "Éclair du Vide"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7588 =
+        "Inflige des dégâts d’Ombre à un ennemi."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7621 = "Malédiction d’Arugal"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7621 =
+        "Transforme un ennemi en glouton Ombrecroc et contrôle la cible pendant 10 s. Dissipez cette malédiction."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7803 = "Choc de tonnerre"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7803 =
+        "Inflige des dégâts de Nature aux ennemis proches et les étourdit pendant 5 s."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7586 = "Téléportation de l’ombre"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
+        "Se téléporte à un autre endroit."
 
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "Stratholme"

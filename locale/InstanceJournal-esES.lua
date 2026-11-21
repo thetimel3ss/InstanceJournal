@@ -2626,6 +2626,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Archimago Arugal"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4275 =
         "El Archimago Arugal es un antiguo mago de Dalaran que vivió dentro de las ruinas de Shadowfang Keep y luego resucitó de entre los muertos al servicio de la Plaga. Es más conocido por haber desatado a los huargen una vez más en el mundo liberándolos del Sueño Esmeralda."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7588 = "Descarga de vacío"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7588 =
+        "Inflige daño de las Sombras a un enemigo."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7621 = "Maldición de Arugal"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7621 =
+        "Transforma a un enemigo en un glotón de Colmillo Oscuro y controla al objetivo durante 10 s. Elimina esta maldición."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7803 = "Choque de trueno"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7803 =
+        "Inflige daño de Naturaleza a los enemigos cercanos y los aturde durante 5 s."
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_NAME_7586 = "Teletransporte de las Sombras"
+    IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
+        "Se teletransporta a otra ubicación."
 
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "estratholme"
