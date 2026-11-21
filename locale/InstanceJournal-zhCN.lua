@@ -1161,6 +1161,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4887 = "加摩拉"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4887 =
         "当暮光之锤邪教到来时，它的追随者唤醒并囚禁了艾露恩神殿中最后的和平生物之一。该邪教多年来以折磨这只巨龟为乐，剥削它的思想和身体，直到它陷入疯狂。邪教徒将这只野兽命名为加穆拉，训练它攻击外来者并保卫上古之神的神殿。"
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_NAME_5568 = "践踏"
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_EFFECT_5568 =
+        "对附近的敌人造成物理伤害。"
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "萨利维丝女士"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "暮光之锤授予萨瑞维斯女士位于黑暗深渊的私人海湾，不断为她送来新鲜的祭品。信徒们希望她的仪式和研究能够带来魔法保护，让他们能够崇拜深渊核心的可怕九头蛇，而不必担心成为他的下一顿美餐。"

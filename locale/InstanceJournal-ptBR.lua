@@ -796,6 +796,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4887 = "Ghamoo-ra"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4887 =
         "Quando o culto do Martelo do Crepúsculo chegou, seus seguidores despertaram e aprisionaram uma das últimas criaturas pacíficas que viviam no templo de Eluna. O culto teve prazer em atormentar a tartaruga gigante durante anos, esfolando sua mente e corpo até que ela sucumbisse à loucura. Chamando a besta de Ghamoo-Ra, os cultistas a treinaram para atacar estranhos e defender o santuário dos Deuses Antigos."
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_NAME_5568 = "Atropelar"
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_EFFECT_5568 =
+        "Causa dano Físico aos inimigos próximos."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "Senhora Sarevess"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "O Martelo do Crepúsculo concedeu a Lady Sarevess sua própria enseada particular dentro das Profundezas Negras, enviando-lhe continuamente novos sacrifícios. Os cultistas esperam que seus rituais e pesquisas resultem em proteção mágica que lhes permitirá adorar a terrível hidra no centro das profundezas sem medo de se tornar sua próxima refeição."

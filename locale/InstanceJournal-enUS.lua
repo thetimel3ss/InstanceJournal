@@ -1065,6 +1065,9 @@ IJ_DB_DUNGEON_BFD_STORY =
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4887 = "Ghamoo-ra"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_4887 =
     "When the Twilight's Hammer cult arrived, its followers roused and imprisoned one of the last peaceful creatures living in Elune's temple. The cult delighted in tormenting the giant turtle for years, flaying its mind and body until it succumbed to madness. Naming the beast Ghamoo-Ra, the cultists trained it to attack outsiders and defend the Old Gods' shrine."
+IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_NAME_5568 = "Trample"
+IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_EFFECT_5568 =
+    "Deals Physical damage to nearby enemies."
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "Lady Sarevess"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
     "The Twilight's Hammer granted Lady Sarevess her own private cove within Blackfathom Deeps, continuously sending her fresh sacrifices. The cultists hope that her rituals and research will result in magical protection that will allow them to worship the terrifying hydra at the deeps' core without fear of becoming his next meal."

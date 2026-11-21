@@ -800,6 +800,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4887 = "Ghamoo-ra"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4887 =
         "Als der Zwielichthammer-Kult aufkam, weckten seine Anhänger eine der letzten friedlichen Kreaturen, die in Elunes Tempel lebten, und sperrten sie ein. Der Kult hatte seinen Spaß daran, die Riesenschildkröte jahrelang zu quälen und ihren Geist und Körper zu häuten, bis sie dem Wahnsinn verfiel. Die Kultisten gaben dem Biest den Namen Ghamoo-Ra und trainierten es, Außenstehende anzugreifen und den Schrein der Alten Götter zu verteidigen."
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_NAME_5568 = "Trampeln"
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_EFFECT_5568 =
+        "Fügt nahen Gegnern körperlichen Schaden zu."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "Lady Sarevess"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "Der Twilight's Hammer gewährte Lady Sarevess ihre eigene private Bucht in den Blackfathom Deeps und sandte ihr ständig neue Opfer. Die Kultisten hoffen, dass ihre Rituale und Forschungen zu einem magischen Schutz führen, der es ihnen ermöglicht, die schreckliche Hydra im Innersten der Tiefen zu verehren, ohne befürchten zu müssen, dass sie zu seiner nächsten Mahlzeit wird."

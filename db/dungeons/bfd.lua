@@ -30,7 +30,7 @@ BFD.Entrances = {
     }
 }
 BFD.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "4887",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "ghamoora" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "ghamoora" .. IMPF,
@@ -38,6 +38,14 @@ BFD.Bosses = {
         Story = IJ_DB_DUNGEON_BFD_BOSS_STORY_4887,
         MapCoordinateX = 22.5,
         MapCoordinateY = 41.0,
+        Abilities = {
+            [1] = {
+                Id = "5568",
+                Icon = "Spell_Nature_NaturesWrath",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_NAME_5568,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_EFFECT_5568
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6907], DropChance = 50}, 
             [2] = {IJDB.I[6908], DropChance = 50}, 

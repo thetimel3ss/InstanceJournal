@@ -798,6 +798,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4887 = "Ghamoo-ra"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4887 =
         "Lorsque le culte du Marteau du Crépuscule est arrivé, ses adeptes ont réveillé et emprisonné l'une des dernières créatures paisibles vivant dans le temple d'Elune. La secte aimait tourmenter la tortue géante pendant des années, écorchant son esprit et son corps jusqu'à ce qu'elle succombe à la folie. Nommant la bête Ghamoo-Ra, les cultistes l'ont entraînée à attaquer les étrangers et à défendre le sanctuaire des Dieux très anciens."
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_NAME_5568 = "Piétinement"
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_EFFECT_5568 =
+        "Inflige des dégâts physiques aux ennemis proches."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "Dame Sarevess"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "Le Marteau du Crépuscule a accordé à Lady Sarevess sa propre crique privée au sein des Profondeurs de Fathom Noire, lui envoyant continuellement de nouveaux sacrifices. Les cultistes espèrent que ses rituels et ses recherches aboutiront à une protection magique qui leur permettra d'adorer la terrifiante hydre au cœur des profondeurs sans craindre de devenir son prochain repas."

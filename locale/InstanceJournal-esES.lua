@@ -798,6 +798,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4887 = "Ghamoo-ra"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4887 =
         "Cuando llegó el culto del Martillo Crepuscular, sus seguidores despertaron y encarcelaron a una de las últimas criaturas pacíficas que vivían en el templo de Elune. El culto se deleitaba en atormentar a la tortuga gigante durante años, desollando su mente y su cuerpo hasta que sucumbió a la locura. Llamando a la bestia Ghamoo-Ra, los cultistas la entrenaron para atacar a los forasteros y defender el santuario de los Dioses Antiguos."
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_NAME_5568 = "Pisotear"
+    IJ_DB_DUNGEON_BFD_BOSS_4887_ABILITY_EFFECT_5568 =
+        "Inflige daño físico a los enemigos cercanos."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4831 = "señora sareves"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4831 =
         "El Martillo Crepuscular le concedió a Lady Sarevess su propia cala privada dentro de Blackfathom Deeps, enviándole continuamente nuevos sacrificios. Los cultistas esperan que sus rituales e investigaciones resulten en una protección mágica que les permita adorar a la aterradora hidra en el centro de las profundidades sin temor a convertirse en su próxima comida."
