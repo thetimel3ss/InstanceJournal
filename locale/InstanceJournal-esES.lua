@@ -2129,6 +2129,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Señora Anacondra"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
         "Scarletleaf fue la primera en ofrecerse como voluntaria para la misión autoproclamada de Naralex en Los Baldíos. Después de que la pesadilla de su maestro destrozara su mente, la joven acólita dejó de lado su nombre y ahora imagina un siniestro futuro reptil para Azeroth."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_9532 = "Descarga de relámpagos"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_9532 =
+        "Golpea a un enemigo con un rayo que inflige daño de Naturaleza."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_5187 = "Toque de sanación"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_5187 =
+        "Sana a un objetivo aliado."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_700 = "Dormir"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_700 =
+        "Duerme a un enemigo hasta 20 s. El daño despierta al objetivo. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_8148 = "Aura de espinas"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_8148 =
+        "Rodea a los aliados cercanos de espinas que infligen daño de Naturaleza a los atacantes cuerpo a cuerpo."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "Mutanus el Devorador"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
         "Desde los rincones más oscuros de la retorcida mente de Naralex, la corrupción que asola el Sueño Esmeralda se ha manifestado en la forma del peor enemigo del druida: los múrlocs. La aberración conocida como Mutanus ha llegado al mundo de la vigilia para devorar a cualquiera que busque liberar a Naralex de las garras de Nightmare."

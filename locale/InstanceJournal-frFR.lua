@@ -2129,6 +2129,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Dame Anacondra"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
         "Scarletleaf fut la première à se porter volontaire pour la mission autoproclamée de Naralex dans les Tarides. Après que le cauchemar de son maître lui ait brisé l'esprit, la jeune acolyte a mis son nom de côté, envisageant désormais un sinistre avenir reptilien pour Azeroth."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_9532 = "Éclair"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_9532 =
+        "Frappe un ennemi avec un éclair qui inflige des dégâts de Nature."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_5187 = "Toucher guérisseur"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_5187 =
+        "Soigne une cible alliée."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_700 = "Sommeil"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_700 =
+        "Endort un ennemi pendant 20 s au maximum. Les dégâts réveillent la cible. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_8148 = "Aura d’épines"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_8148 =
+        "Entoure les alliés proches d’épines qui infligent des dégâts de Nature aux attaquants en mêlée."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "Mutanus le Dévoreur"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
         "Depuis les recoins les plus sombres de l'esprit tordu de Naralex, la corruption qui sévit dans le Rêve d'Émeraude s'est manifestée sous la forme du pire ennemi du druide : les murlocs. L'aberration connue sous le nom de Mutanus est venue dans le monde éveillé pour dévorer tous ceux qui cherchent à libérer Naralex des griffes du Cauchemar."

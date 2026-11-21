@@ -2131,6 +2131,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Lady Anacondra"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
         "Scarletleaf war der erste, der sich freiwillig für Naralex‘ selbsternannte Mission im Brachland meldete. Nachdem der Albtraum ihres Meisters ihren Verstand erschüttert hatte, legte die junge Akolythin ihren Namen beiseite und stellte sich nun eine finstere Reptilienzukunft für Azeroth vor."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_9532 = "Blitzschlag"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_9532 =
+        "Trifft einen Gegner mit einem Blitz und verursacht Naturschaden."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_5187 = "Heilende Berührung"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_5187 =
+        "Heilt ein verbündetes Ziel."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_700 = "Schlaf"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_700 =
+        "Versetzt einen Gegner bis zu 20 Sek. lang in Schlaf. Schaden weckt das Ziel auf. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_8148 = "Dornenaura"
+    IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_8148 =
+        "Umhüllt nahe Verbündete mit Dornen, die Nahkampfangreifern Naturschaden zufügen."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "Mutanus der Verschlinger"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
         "Aus den dunkelsten Ecken von Naralex‘ verdrehtem Verstand hat sich die Verderbnis, die den Smaragdgrünen Traum heimsucht, in Form des schlimmsten Feindes des Druiden manifestiert: Murlocs. Die als Mutanus bekannte Verirrung ist in die wache Welt gekommen, um jeden zu verschlingen, der Naralex aus den Fängen des Albtraums befreien will."

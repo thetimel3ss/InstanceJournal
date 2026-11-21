@@ -2907,6 +2907,18 @@ IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_3671 = "Lady Anacondra"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3671 =
     "Scarletleaf was the first to volunteer for Naralex's self-appointed mission to the Barrens. After her master's nightmare shattered her mind, the young acolyte cast aside her name, now envisioning a sinister reptilian future for Azeroth."
+IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_9532 = "Lightning Bolt"
+IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_9532 =
+    "Blasts an enemy with lightning, dealing Nature damage."
+IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_5187 = "Healing Touch"
+IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_5187 =
+    "Heals a friendly target."
+IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_700 = "Sleep"
+IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_700 =
+    "Puts an enemy to sleep for up to 20 sec. Damage awakens the target. Dispel this Magic effect."
+IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_8148 = "Thorns Aura"
+IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_8148 =
+    "Surrounds nearby allies with thorns that deal Nature damage to melee attackers."
 IJ_DB_DUNGEON_WC_BOSS_NAME_3654 = "Mutanus the Devourer"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3654 =
     "From the darkest corners of Naralex's twisted mind, the corruption plaguing the Emerald Dream has manifested in the form of the druid's worst enemy: murlocs. The aberration known as Mutanus has come to the waking world to devour any who seek to liberate Naralex from the Nightmare's clutches."

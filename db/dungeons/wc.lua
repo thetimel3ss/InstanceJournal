@@ -256,7 +256,7 @@ WC.Bosses = {
             [4] = {IJDB.I[5970], DropChance = 25}
         }
     },
-    [9] = { -- NOTE: Missing abilities
+    [9] = {
         Id = "3671",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "anacondra" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "anacondra" .. IMPF,
@@ -264,6 +264,33 @@ WC.Bosses = {
         Story = IJ_DB_DUNGEON_WC_BOSS_STORY_3671,
         MapCoordinateX = 50.5,
         MapCoordinateY = 25.0,
+        Abilities = {
+            [1] = {
+                Id = "9532",
+                Icon = "Spell_Nature_Lightning",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_9532,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_9532
+            },
+            [2] = {
+                Id = "5187",
+                Icon = "Spell_Nature_HealingTouch",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_5187,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_5187
+            },
+            [3] = {
+                Id = "700",
+                Icon = "Spell_Nature_Sleep",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_700,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_700,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "8148",
+                Icon = "Spell_Nature_Thorns",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_NAME_8148,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3671_ABILITY_EFFECT_8148
+            }
+        },
         Loot = {
             [1] = {IJDB.I[5404], DropChance = 25}, 
             [2] = {IJDB.I[6446], DropChance = 25}, 
