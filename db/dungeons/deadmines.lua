@@ -197,7 +197,7 @@ DEADMINES.Bosses = {
             [2] = {IJDB.I[1156], DropChance = 45}
         }
     },
-    [6] = { -- NOTE: Probably has abilities, none are listed on the database
+    [6] = { -- NOTE: Only auto attacks observed in reviewed logs; no abilities listed in the database
         Id = "61963",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "harvester" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "harvester" .. IMPF,
