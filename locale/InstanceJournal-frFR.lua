@@ -278,9 +278,11 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 =
         "Considéré comme le chef de la Lame brûlante, Taragaman se cache dans les profondeurs enflammées du Gouffre de Ragefire et utilise son influence démoniaque pour corrompre les citoyens d'Orgrimmar."
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_11970 = "Feu Nova"
-    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 = "Taragaman l'Amoureux inflige des dégâts de feu aux ennemis proches."
+    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 =
+        "Inflige des dégâts de Feu aux ennemis dans un rayon de 10 mètres."
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_18072 = "Uppercut"
-    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 = "Taragaman l'Amoureux frappe un ennemi et le repousse."
+    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 =
+        "Inflige des dégâts physiques à un ennemi et le repousse."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "Jergosh l'invocateur"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
         "Jergosh l'Invocateur a rejeté les idéaux des orcs et pratique les arts sombres et démoniaques du sorcier. Chef des cultistes de Searing Blade, Jergosh habite dans Ragefire Chasm, concoctant un plan suffisamment dangereux pour attirer l'attention de Thrall lui-même."

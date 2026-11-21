@@ -339,9 +339,11 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11520 = "饥饿者塔拉加曼"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 = "塔拉加曼被认为是灼热之刃的领袖，他隐藏在怒火裂谷的炽热深处，并利用他的恶魔影响力腐蚀奥格瑞玛的公民。"
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_11970 = "火焰新星"
-    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 = "饥饿者塔拉加曼对附近的敌人造成火焰伤害。"
+    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 =
+        "对10码内的敌人造成火焰伤害。"
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_18072 = "上钩拳"
-    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 = "饥饿者塔拉加曼猛击敌人，将他们击退。"
+    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 =
+        "对一名敌人造成物理伤害，并将其击退。"
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "祈求者耶戈什"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
         "祈求者耶戈什拒绝了兽人的理想，并实践了术士的黑暗恶魔艺术。作为灼热之刃邪教徒的领袖，杰戈什居住在怒火裂谷中，策划了一个足以引起萨尔本人注意的危险计划。"

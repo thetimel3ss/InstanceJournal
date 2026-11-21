@@ -243,9 +243,11 @@ IJ_DB_DUNGEON_RFC_BOSS_NAME_11520 = "Taragaman the Hungerer"
 IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 =
     "Thought to be the leader of the Searing Blade, Taragaman can be found hiding in the fiery depths of Ragefire Chasm and using his demonic influence to corrupt the citizens of Orgrimmar."
 IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_11970 = "Fire Nova"
-IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 = "Taragaman the Hungerer inflicts fire damage to nearby enemies."
+IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 =
+    "Deals Fire damage to enemies within 10 yards."
 IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_18072 = "Uppercut"
-IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 = "Taragaman the Hungerer punches an enemy, knocking them back."
+IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 =
+    "Deals Physical damage to an enemy and knocks them back."
 IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "Jergosh the Invoker"
 IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
     "Jergosh the Invoker has rejected the ideals of the orcs and practices the dark and demonic arts of the warlock. A leader of the Searing Blade cultists, Jergosh dwells within Ragefire Chasm, concocting a scheme dangerous enough to draw the attention of Thrall himself."

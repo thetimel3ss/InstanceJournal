@@ -279,9 +279,11 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 =
         "Taragaman gilt als Anführer der Sengenden Klinge und versteckt sich in den feurigen Tiefen von Ragefire Chasm, wo er seinen dämonischen Einfluss nutzt, um die Bürger von Orgrimmar zu korrumpieren."
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_11970 = "Feuernova"
-    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 = "Taragaman der Hungernde fügt Gegnern in der Nähe Feuerschaden zu."
+    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 =
+        "Fügt Gegnern innerhalb von 10 Metern Feuerschaden zu."
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_18072 = "Uppercut"
-    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 = "Taragaman der Hungernde schlägt einen Feind und stößt ihn zurück."
+    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 =
+        "Fügt einem Gegner körperlichen Schaden zu und stößt ihn zurück."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "Jergosh der Anrufer"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
         "Jergosh der Beschwörer hat die Ideale der Orks abgelehnt und praktiziert die dunklen und dämonischen Künste des Hexenmeisters. Jergosh, ein Anführer der Sengenden Klinge-Kultisten, lebt in Ragefire Chasm und heckt einen Plan aus, der gefährlich genug ist, um die Aufmerksamkeit von Thrall selbst auf sich zu ziehen."

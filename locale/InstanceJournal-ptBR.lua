@@ -279,9 +279,11 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11520 =
         "Considerado o líder da Searing Blade, Taragaman pode ser encontrado escondido nas profundezas ardentes do Ragefire Chasm e usando sua influência demoníaca para corromper os cidadãos de Orgrimmar."
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_11970 = "Fogo Nova"
-    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 = "Taragaman, o Faminto, causa dano de fogo aos inimigos próximos."
+    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_11970 =
+        "Causa dano de Fogo aos inimigos em um raio de 10 m."
     IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_NAME_18072 = "Uppercut"
-    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 = "Taragaman, o Faminto, dá um soco em um inimigo, repelindo-o."
+    IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 =
+        "Causa dano físico a um inimigo e o repele."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "Jergosh, o Invocador"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
         "Jergosh, o Invocador, rejeitou os ideais dos orcs e pratica as artes sombrias e demoníacas do bruxo. Líder dos cultistas da Searing Blade, Jergosh mora no Ragefire Chasm, tramando um esquema perigoso o suficiente para chamar a atenção do próprio Thrall."
