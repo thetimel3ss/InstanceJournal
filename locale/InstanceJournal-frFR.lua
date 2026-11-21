@@ -2608,6 +2608,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus le Dévoreur"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "Fenrus est l'animal de compagnie d'Arugal, archimage de Shadowfang Keep. Fenrus rôde dans l'étude principale des chambres d'Arugal. Il est incroyablement grand et il est possible que le worg ait été soumis à la magie noire de la part d'Arugal ou des worgens."
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_NAME_7125 = "Salive toxique"
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_EFFECT_7125 =
+        "Inflige des dégâts de Nature et transfère du mana de la cible au lanceur toutes les 6 s pendant 2 min. Dissipez cet effet de poison."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Maître des loups Nandos"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 =
         "Il est le maître worgen des worgs inférieurs et possède sa propre meute qui combattra les héros avant qu'ils ne l'engagent. Il est le dernier homme de main d'Arugal à obstruer le chemin."

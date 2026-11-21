@@ -2605,6 +2605,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus, o Devorador"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "Fenrus é o animal de estimação de Arugal, Arquimago da Fortaleza Presa Negra. Fenrus ronda o escritório principal dos aposentos de Arugal. Ele é inacreditavelmente grande, e é possível que o worg tenha sido submetido à magia negra pelas mãos de Arugal ou dos worgens."
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_NAME_7125 = "Saliva Tóxica"
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_EFFECT_7125 =
+        "Causa dano de Natureza e transfere mana do alvo para o lançador a cada 6 s por 2 min. Remova este efeito de veneno."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Mestre Lobo Nandos"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 =
         "Ele é o mestre worgen dos worgs inferiores e tem sua própria matilha que lutará contra os heróis antes que eles o enfrentem. Ele é o último capanga de Arugal a obstruir o caminho."

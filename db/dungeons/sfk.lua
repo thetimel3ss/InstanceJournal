@@ -212,7 +212,7 @@ SFK.Bosses = {
             [2] = {IJDB.I[6642], DropChance = 50}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "4274",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "fenrus" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "fenrus" .. IMPF,
@@ -221,6 +221,15 @@ SFK.Bosses = {
         MapCoordinateX = 68.9,
         MapCoordinateY = 34.3,
         MapIsBelow = true,
+        Abilities = {
+            [1] = {
+                Id = "7125",
+                Icon = "Spell_Nature_CorrosiveBreath",
+                Name = IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_NAME_7125,
+                Effect = IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_EFFECT_7125,
+                Flags = {IMAF.Poison}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[3230], DropChance = 50}, 
             [2] = {IJDB.I[6340], DropChance = 50}

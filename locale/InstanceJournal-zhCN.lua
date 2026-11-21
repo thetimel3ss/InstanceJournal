@@ -3715,6 +3715,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "吞噬者芬鲁斯"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "芬鲁斯是影牙城堡大法师阿鲁高的宠物。芬鲁斯在阿鲁高房间的主要书房里徘徊。他的体型大得令人难以置信，而且这只座狼很可能受到了阿鲁高或狼人手中的黑魔法的影响。"
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_NAME_7125 = "毒性唾液"
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_EFFECT_7125 =
+        "每6秒造成一次自然伤害并将目标的法力值转移给施法者，持续2分钟。解除此中毒效果。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "狼王南杜斯"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 = "他是小狼的狼人主人，并且拥有自己的狼群，可以在英雄与他交战之前与他们战斗。他是阿鲁高最后一个阻碍道路的追随者。"
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "大法师阿鲁高"

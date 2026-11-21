@@ -2608,6 +2608,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus el devorador"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "Fenrus es la mascota de Arugal, Archimago de Shadowfang Keep. Fenrus merodea por el estudio principal de las cámaras de Arugal. Es increíblemente grande y es posible que el huargen estuviera sujeto a magia oscura a manos de Arugal o los huargen."
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_NAME_7125 = "Saliva tóxica"
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_EFFECT_7125 =
+        "Inflige daño de Naturaleza y transfiere maná del objetivo al taumaturgo cada 6 s durante 2 min. Elimina este efecto de veneno."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Maestro Lobo Nandos"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 =
         "Es el maestro huargen de los huargen menores y tiene su propia manada que luchará contra los héroes antes de que se enfrenten a él. Es el último hombre de confianza de Arugal que obstruye el camino."

@@ -3622,6 +3622,9 @@ IJ_DB_DUNGEON_SFK_BOSS_3872_ABILITY_EFFECT_9080 =
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus the Devourer"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
     "Fenrus is the pet of Arugal, Archmage of Shadowfang Keep. Fenrus prowls the main study of Arugal's chambers. He is unbelievably large, and it is possible the worg was subject to dark magic at the hands of Arugal or the worgen."
+IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_NAME_7125 = "Toxic Saliva"
+IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_EFFECT_7125 =
+    "Deals Nature damage and transfers mana from the target to the caster every 6 sec. for 2 min. Remove this Poison effect."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Wolf Master Nandos"
 IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 = "He is the worgen master of the lesser worgs, and has his own pack which will fight heroes before they engage him. He is the last henchman of Arugal to obstruct the path."
 IJ_DB_DUNGEON_SFK_BOSS_NAME_4275 = "Archmage Arugal"

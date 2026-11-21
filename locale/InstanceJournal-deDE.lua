@@ -2610,6 +2610,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_NAME_4274 = "Fenrus der Verschlinger"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_4274 =
         "Fenrus ist das Haustier von Arugal, dem Erzmagier der Burg Schattenfang. Fenrus durchstreift die Hauptstudie von Arugals Gemächern. Er ist unglaublich groß und es ist möglich, dass der Worg der dunklen Magie durch Arugal oder die Worgen ausgesetzt war."
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_NAME_7125 = "Giftiger Speichel"
+    IJ_DB_DUNGEON_SFK_BOSS_4274_ABILITY_EFFECT_7125 =
+        "Verursacht 2 Min. lang alle 6 Sek. Naturschaden und überträgt Mana vom Ziel auf den Zaubernden. Entfernt diesen Gifteffekt."
     IJ_DB_DUNGEON_SFK_BOSS_NAME_3927 = "Wolfsmeister Nandos"
     IJ_DB_DUNGEON_SFK_BOSS_STORY_3927 =
         "Er ist der Worgen-Meister der niederen Worgs und hat sein eigenes Rudel, das gegen Helden kämpft, bevor sie ihn angreifen. Er ist der letzte Handlanger von Arugal, der ihm den Weg versperrt."
