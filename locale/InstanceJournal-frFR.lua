@@ -4281,11 +4281,14 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds =
         "Kan'za commence le combat avec deux Frostmane Snowcaller qui l'assisteront.\n\nCes ajouts devraient être prioritaires par les donneurs de dégâts plutôt que par le boss."
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt = "Éclair de givre"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt = "Le Frostmane Snowcaller lance un éclair de givre sur sa cible, lui infligeant des dégâts de gel et la ralentissant."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzablizzard = "Blizzard"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzablizzard = "Kan'za lance un blizzard glacial, infligeant des dégâts de gel dans une zone d'effet."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzafrostbolt = "Éclair de givre"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzafrostbolt = "Kan'za lance un éclair de givre sur sa cible, lui infligeant des dégâts de gel et la ralentissant."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt =
+        "Inflige des dégâts de Givre et réduit la vitesse de déplacement de la cible de 40% pendant 6 s.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_6141 = "Blizzard"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141 =
+        "Canalise des dégâts de Givre dans une zone pendant 8 s.\n\nSortez de la zone affectée."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "Éclair de givre"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
+        "Inflige des dégâts de Givre et réduit la vitesse de déplacement de la cible de 40% pendant 6 s.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "Ritualistes crins-de-givre"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds =
         "Hailar commence le combat avec cinq Ritualistes Frostmane qui continueront à le soigner tant qu'ils seront en vie.\n\nLe groupe doit tuer ces ajouts avant de pouvoir tuer Hailar."

@@ -4281,11 +4281,14 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds =
         "Kan'za beginnt den Kampf mit zwei Frostmähnen-Schneerufern, die ihm helfen werden.\n\nDiese Adds sollten von den Schadensverursachern Vorrang vor dem Boss haben"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt = "Frostblitz"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt = "Der Frostmähnen-Schneerufer wirft einen Frostblitz auf sein Ziel, verursacht Frostschaden und verlangsamt es."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzablizzard = "Schneesturm"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzablizzard = "Kan'za erzeugt einen eisigen Schneesturm, der im Wirkungsbereich Frostschaden verursacht."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzafrostbolt = "Frostblitz"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzafrostbolt = "Kan'za wirft einen Frostblitz auf sein Ziel, der ihm Frostschaden zufügt und es verlangsamt."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt =
+        "Verursacht Frostschaden und verringert das Bewegungstempo des Ziels 6 Sek. lang um 40%.\n\nBannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_6141 = "Schneesturm"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141 =
+        "Kanalisiert 8 Sek. lang Frostschaden in einen Bereich.\n\nVerlasst den betroffenen Bereich."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "Frostblitz"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
+        "Verursacht Frostschaden und verringert das Bewegungstempo des Ziels 6 Sek. lang um 40%.\n\nBannt diesen magischen Effekt."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "Ritualisten der Frostmähnen"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds =
         "Hailar beginnt den Kampf mit fünf Frostmähnen-Ritualisten, die ihn solange heilen, wie sie leben.\n\nDie Gruppe muss diese Adds töten, bevor sie Hailar töten kann."

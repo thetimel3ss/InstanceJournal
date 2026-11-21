@@ -4345,11 +4345,13 @@ if GetLocale() == "ruRU" then
         "Кан'за начинает бой с двумя ледяными призывателями снега, которые будут ему помогать. ||н||  ||н|| Эти адды должны быть приоритетными для дилеров урона, а не для босса."
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt = "Ледяная стрела"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt =
-        "Морозногривый призыватель снега бросает в цель ледяную стрелу, нанося ей урон от холода и замедляя ее."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzablizzard = "Метель"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzablizzard = "Кан'за вызывает леденящую метель, нанося урон от холода в области действия."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzafrostbolt = "Ледяная стрела"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzafrostbolt = "Кан'за бросает в цель ледяную стрелу, нанося ей урон от льда и замедляя ее."
+        "Наносит урон от магии льда и снижает скорость передвижения цели на 40% на 6 сек.\n\nРассеяйте этот магический эффект."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_6141 = "Метель"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141 =
+        "В течение 8 сек. поддерживает заклинание, наносящее урон от магии льда в области действия.\n\nВыйдите из пораженной области."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "Ледяная стрела"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
+        "Наносит урон от магии льда и снижает скорость передвижения цели на 40% на 6 сек.\n\nРассеяйте этот магический эффект."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "Ритуалисты Ледяной Гривы"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds =
         "Хайлар начинает бой с пятью ритуалистами Ледяной Гривы, которые будут исцелять его, пока они живы. ||н||  ||н|| Группе необходимо убить этих аддов, прежде чем они смогут убить Хайлара."

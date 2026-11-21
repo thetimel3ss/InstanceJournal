@@ -4457,11 +4457,14 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaadds = "坎扎的援兵"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds = "坎扎在战斗开始时会派出两名霜鬃唤雪者来协助他。\n \n这些附加内容应该由伤害经销商优先于 首领"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt = "寒冰箭"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt = "霜鬃唤雪者向目标施放冰箭，造成冰霜伤害并减速目标。"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzablizzard = "暴风雪"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzablizzard = "坎扎施放寒冷的暴风雪，对一定范围内造成冰霜伤害。"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzafrostbolt = "寒冰箭"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzafrostbolt = "坎扎向目标施放冰箭，造成冰霜伤害并减速目标。"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt =
+        "造成冰霜伤害，并使目标的移动速度降低40%，持续6秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_6141 = "暴风雪"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141 =
+        "引导法术，在一片区域内造成冰霜伤害，持续8秒。\n\n离开受影响的区域。"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "寒冰箭"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
+        "造成冰霜伤害，并使目标的移动速度降低40%，持续6秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "冰冷的海乐"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "霜鬃峡谷的冰冻深处夺去了许多人的生命；他们中是否有人知道寒冷海拉尔的真实身份仍然未知。"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "霜鬃仪祭师"

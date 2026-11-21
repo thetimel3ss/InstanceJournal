@@ -4281,11 +4281,14 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds =
         "Kan'za comienza la pelea con dos Frostmane Snowcaller que lo ayudarán. ||norte||  ||norte|| Estos agregados deben ser priorizados por los que causan daños sobre el jefe."
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt = "Descarga de Escarcha"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt = "Frostmane Snowcaller lanza un rayo de escarcha a su objetivo, lo que le inflige daño de escarcha y lo ralentiza."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzablizzard = "Ventisca"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzablizzard = "Kan'za lanza una tormenta de nieve escalofriante que inflige daño de escarcha en un área de efecto."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzafrostbolt = "Descarga de Escarcha"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzafrostbolt = "Kan'za lanza un rayo de escarcha a su objetivo, lo que le inflige daño de escarcha y lo ralentiza."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt =
+        "Inflige daño de Escarcha y reduce la velocidad de movimiento del objetivo un 40% durante 6 s.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_6141 = "Ventisca"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141 =
+        "Canaliza daño de Escarcha en una zona durante 8 s.\n\nSal de la zona afectada."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "Descarga de Escarcha"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
+        "Inflige daño de Escarcha y reduce la velocidad de movimiento del objetivo un 40% durante 6 s.\n\nDisipa este efecto mágico."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "Ritualistas Peloescarcha"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds =
         "Hailar comienza la pelea con cinco ritualistas de Frostmane que seguirán curándolo mientras estén vivos. ||norte||  ||norte|| El grupo necesita matar a estos agregados antes de poder matar a Hailar."

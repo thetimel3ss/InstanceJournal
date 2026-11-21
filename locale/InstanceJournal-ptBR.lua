@@ -4270,11 +4270,14 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaadds = "Adições de Kan'za"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds = "Kan'za começa a luta com dois Frostmane Snowcaller que irão ajudá-lo.\n\nEsses acréscimos devem ser priorizados pelos causadores de dano em vez do chefe"
     IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt = "Seta de Gelo"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt = "O Frostmane Snowcaller lança um raio de gelo em seu alvo, causando dano de gelo e retardando-o."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzablizzard = "Nevasca"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzablizzard = "Kan'za lança uma nevasca arrepiante, causando dano de gelo em uma área de efeito."
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzafrostbolt = "Seta de Gelo"
-    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzafrostbolt = "Kan'za lança um raio de gelo em seu alvo, causando dano de gelo e retardando-o."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt =
+        "Causa dano de Gelo e reduz a velocidade de movimento do alvo em 40% por 6 s.\n\nDissipe este efeito mágico."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_6141 = "Nevasca"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141 =
+        "Canaliza dano de Gelo em uma área por 8 s.\n\nSaia da área afetada."
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "Seta de Gelo"
+    IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
+        "Causa dano de Gelo e reduz a velocidade de movimento do alvo em 40% por 6 s.\n\nDissipe este efeito mágico."
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "Ritualistas da Juba Gélida"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_hailaradds =
         "Hailar começa a luta com cinco Ritualistas Frostmane que continuarão curando-o enquanto estiverem vivos.\n\nO grupo precisa matar esses anúncios antes de poder matar Hailar."

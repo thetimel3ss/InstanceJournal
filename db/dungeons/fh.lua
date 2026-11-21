@@ -120,23 +120,23 @@ FH.Bosses = {
                         Icon = "spell_frost_frostbolt02",
                         Name = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt,
                         Effect = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt,
-                        Flags = {IMAF.Interruptible}
+                        Flags = {IMAF.Interruptible, IMAF.Magic}
                     }
                 }
             },
             [2] = {
-                Id = "kanzablizzard",
+                Id = "6141",
                 Icon = "spell_frost_icestorm",
-                Name = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzablizzard,
-                Effect = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzablizzard,
+                Name = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_6141,
+                Effect = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141,
                 Flags = {IMAF.Interruptible}
             },
             [3] = {
-                Id = "kanzafrostbolt",
+                Id = "837",
                 Icon = "spell_frost_frostbolt02",
-                Name = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzafrostbolt,
-                Effect = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzafrostbolt,
-                Flags = {IMAF.Interruptible}
+                Name = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837,
+                Effect = IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837,
+                Flags = {IMAF.Interruptible, IMAF.Magic}
             }
         },
         Loot = {

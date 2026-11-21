@@ -4332,11 +4332,14 @@ IJ_DB_DUNGEON_FH_BOSS_STORY_kanza = "Those who have entered Frostmane Hollow and
 IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaadds = "Kan'za's Adds"
 IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaadds = "Kan'za starts the fight with two Frostmane Snowcaller that will assist him.\n\nThese adds should be prioritized by the damage dealers over the boss"
 IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzaaddsfrostbolt = "Frostbolt"
-IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt = "The Frostmane Snowcaller casts a frostbolt at his target, dealing frost damage and slowing them."
-IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzablizzard = "Blizzard"
-IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzablizzard = "Kan'za casts a chilling blizzard, dealing frost damage in an area of effect."
-IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_kanzafrostbolt = "Frostbolt"
-IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzafrostbolt = "Kan'za casts a frostbolt at his target, dealing frost damage and slowing them."
+IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_kanzaaddsfrostbolt =
+    "Deals Frost damage and reduces the target’s movement speed by 40% for 6 sec.\n\nDispel this Magic effect."
+IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_6141 = "Blizzard"
+IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_6141 =
+    "Channels Frost damage into an area for 8 sec.\n\nMove out of the affected area."
+IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_NAME_837 = "Frostbolt"
+IJ_DB_DUNGEON_FH_BOSS_kanza_ABILITY_EFFECT_837 =
+    "Deals Frost damage and reduces the target’s movement speed by 40% for 6 sec.\n\nDispel this Magic effect."
 IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar the Frigid"
 IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "The frozen depths of Frostmane Hollow have claimed many lives; whether any of them ever learned who Hailar the Frigid truly was remains unknown."
 IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_hailaradds = "Frostmane Ritualists"
