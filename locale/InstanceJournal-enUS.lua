@@ -2892,6 +2892,15 @@ IJ_DB_DUNGEON_WC_BOSS_61965_ABILITY_EFFECT_21055 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Lord Serpentis"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
     "The Druids of the Fang's leader was once Naralex's finest student. His tragic downfall stemmed from his desire to become a shan'do, or honored teacher like Naralex. As insanity took root, Serpentis rallied his brethren to his side and formed the Druids of the Fang."
+IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_9532 = "Lightning Bolt"
+IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_9532 =
+    "Blasts an enemy with lightning, dealing Nature damage."
+IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_6778 = "Healing Touch"
+IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_6778 =
+    "Heals a friendly target."
+IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_700 = "Sleep"
+IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_700 =
+    "Puts an enemy to sleep for up to 20 sec. Damage awakens the target. Dispel this Magic effect."
 IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan the Everliving"
 IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
     "Little is known about this creature prior to Naralex's arrival at the Wailing Caverns. Thought to be the caves' original guardian, Verdan the Everliving could not escape the corruption that befell its home. Verdan is allied with the insane druids and maintains its vigil against those who trespass into its domain."

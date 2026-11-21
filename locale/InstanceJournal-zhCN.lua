@@ -2985,6 +2985,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "瑟芬迪斯领主"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "尖牙德鲁伊的领袖曾经是纳拉雷克斯最出色的学生。他的悲剧性堕落，源于他渴望成为一位杉多，也就是像纳拉雷克斯那样受人尊敬的老师。随着疯狂蔓延，蛇王将他的兄弟们召集到自己麾下，并组建了尖牙德鲁伊。"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_9532 = "闪电箭"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_9532 =
+        "以闪电击中一名敌人，造成自然伤害。"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_6778 = "治疗之触"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_6778 =
+        "治疗一个友方目标。"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_700 = "催眠术"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_700 =
+        "使一名敌人沉睡，最多持续20秒。受到伤害会醒来。驱散此魔法效果。"
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "永生者沃尔丹"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "在纳拉雷克斯抵达哀嚎洞穴之前，人们对这种生物知之甚少。永生者维尔丹被认为是洞穴最初的守护者，但他无法逃脱降临到其家园的腐化。维尔丹与疯狂的德鲁伊结盟，并对那些侵入其领地的人保持警惕。"

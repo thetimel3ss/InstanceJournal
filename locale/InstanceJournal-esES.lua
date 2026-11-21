@@ -2114,6 +2114,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Señor serpiente"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "El líder de los Druidas del Colmillo fue una vez el mejor alumno de Naralex. Su trágica caída se debió a su deseo de convertirse en un shan'do, o maestro honorable como Naralex. Cuando la locura echó raíces, Serpentis reunió a sus hermanos a su lado y formó los Druidas del Colmillo."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_9532 = "Descarga de relámpagos"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_9532 =
+        "Golpea a un enemigo con un rayo que inflige daño de Naturaleza."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_6778 = "Toque de sanación"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_6778 =
+        "Sana a un objetivo aliado."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_700 = "Dormir"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_700 =
+        "Duerme a un enemigo hasta 20 s. El daño despierta al objetivo. Disipa este efecto mágico."
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan el Eterno"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "Poco se sabe sobre esta criatura antes de la llegada de Naralex a las Cavernas de los Lamentos. Verdan el Eterno, considerado el guardián original de las cuevas, no pudo escapar de la corrupción que afectó a su hogar. Verdan está aliado con los druidas locos y mantiene su vigilancia contra aquellos que invaden sus dominios."

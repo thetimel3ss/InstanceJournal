@@ -2112,6 +2112,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Senhor Serpentis"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "O líder dos Druidas da Presa já foi o melhor aluno de Naralex. Sua trágica queda resultou de seu desejo de se tornar um shan'do, ou professor honrado como Naralex. À medida que a insanidade se enraizou, Serpentis reuniu seus irmãos ao seu lado e formou os Druidas da Presa."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_9532 = "Raio"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_9532 =
+        "Atinge um inimigo com um raio, causando dano de Natureza."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_6778 = "Toque de Cura"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_6778 =
+        "Cura um alvo aliado."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_700 = "Sono"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_700 =
+        "Faz um inimigo dormir por até 20 s. Dano desperta o alvo. Dissipe este efeito mágico."
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan, o Eterno Vivo"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "Pouco se sabe sobre esta criatura antes da chegada de Naralex às Wailing Caverns. Considerado o guardião original das cavernas, Verdan, o Eterno Vivo, não conseguiu escapar da corrupção que se abateu sobre seu lar. Verdan é aliado dos druidas insanos e mantém sua vigília contra aqueles que invadem seus domínios."

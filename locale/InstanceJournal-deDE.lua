@@ -2116,6 +2116,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Lord Serpentis"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "Der Anführer der Druids of the Fang war einst Naralex‘ bester Schüler. Sein tragischer Untergang resultierte aus seinem Wunsch, ein Shan'do oder ein angesehener Lehrer wie Naralex zu werden. Als der Wahnsinn Einzug hielt, scharte Serpentis seine Brüder auf seine Seite und gründete die Druiden des Fangzahns."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_9532 = "Blitzschlag"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_9532 =
+        "Trifft einen Gegner mit einem Blitz und verursacht Naturschaden."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_6778 = "Heilende Berührung"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_6778 =
+        "Heilt ein verbündetes Ziel."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_700 = "Schlaf"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_700 =
+        "Versetzt einen Gegner bis zu 20 Sek. lang in Schlaf. Schaden weckt das Ziel auf. Bannt diesen magischen Effekt."
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan der Immerlebende"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "Über diese Kreatur ist vor Naralex‘ Ankunft in den Wailing Caverns wenig bekannt. Verdan, der Ewige, galt als ursprünglicher Wächter der Höhle und konnte der Verderbnis, die seine Heimat befiel, nicht entkommen. Verdan ist mit den wahnsinnigen Druiden verbündet und wacht gegen diejenigen, die in seine Domäne eindringen."

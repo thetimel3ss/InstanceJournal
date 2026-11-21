@@ -220,7 +220,7 @@ WC.Bosses = {
             [3] = {IJDB.I[55373], DropChance = 25}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "3673",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "serpentis" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "serpentis" .. IMPF,
@@ -228,6 +228,27 @@ WC.Bosses = {
         Story = IJ_DB_DUNGEON_WC_BOSS_STORY_3673,
         MapCoordinateX = 69.0,
         MapCoordinateY = 42.9,
+        Abilities = {
+            [1] = {
+                Id = "9532",
+                Icon = "Spell_Nature_Lightning",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_9532,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_9532
+            },
+            [2] = {
+                Id = "6778",
+                Icon = "Spell_Nature_HealingTouch",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_6778,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_6778
+            },
+            [3] = {
+                Id = "700",
+                Icon = "Spell_Nature_Sleep",
+                Name = IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_700,
+                Effect = IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_700,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10411], DropChance = 25}, 
             [2] = {IJDB.I[6469], DropChance = 25}, 

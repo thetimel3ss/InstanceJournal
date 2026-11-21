@@ -2114,6 +2114,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_3673 = "Seigneur Serpentis"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3673 =
         "Le chef des Druides du Croc était autrefois le meilleur élève de Naralex. Sa chute tragique découle de son désir de devenir un shan'do, ou un professeur honoré comme Naralex. Alors que la folie prenait racine, Serpentis rallia ses frères à ses côtés et forma les Druides du Croc."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_9532 = "Éclair"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_9532 =
+        "Frappe un ennemi avec un éclair qui inflige des dégâts de Nature."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_6778 = "Toucher guérisseur"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_6778 =
+        "Soigne une cible alliée."
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_NAME_700 = "Sommeil"
+    IJ_DB_DUNGEON_WC_BOSS_3673_ABILITY_EFFECT_700 =
+        "Endort un ennemi pendant 20 s au maximum. Les dégâts réveillent la cible. Dissipez cet effet magique."
     IJ_DB_DUNGEON_WC_BOSS_NAME_5775 = "Verdan l'Éternel"
     IJ_DB_DUNGEON_WC_BOSS_STORY_5775 =
         "On sait peu de choses sur cette créature avant l'arrivée de Naralex aux Grottes des Lamentations. Considéré comme le gardien originel des grottes, Verdan l'Eternel ne pouvait pas échapper à la corruption qui s'abattait sur sa demeure. Verdan est allié aux druides fous et maintient sa vigilance contre ceux qui pénètrent dans son domaine."
