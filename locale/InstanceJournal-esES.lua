@@ -287,10 +287,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "Jergosh el Invocador"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
         "Jergosh el Invocador ha rechazado los ideales de los orcos y practica las artes oscuras y demoníacas del brujo. Jergosh, líder de los cultistas de Searing Blade, habita en Ragefire Chasm, ideando un plan lo suficientemente peligroso como para llamar la atención del propio Thrall."
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_348 = "Inmolar"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_348 = "Jergosh el Invocador quema a un enemigo y le inflige daño de fuego con el tiempo."
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_702 = "Maldición de debilidad"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_702 = "Jergosh the Invoker maldice a un enemigo, reduciendo el daño físico infligido durante 30 segundos."
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_20800 = "Inmolar"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_20800 =
+        "Inflige daño de Fuego inmediato y cada 3 s durante 21 s.\n\nDisipa este efecto mágico."
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_18267 = "Maldición de debilidad"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_18267 =
+        "Reduce el daño físico infligido por un enemigo durante 30 s.\n\nElimina la maldición."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11519 = "Bazzalan"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 = "Bazzalan lidera a los cultistas de Searing Blade junto con Jergosh the Invoker. Sus motivos no están claros, pero como todo sátiro, es un enemigo rápido y astuto."
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_744 = "Veneno"

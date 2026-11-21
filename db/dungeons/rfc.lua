@@ -92,16 +92,17 @@ RFC.Bosses = {
         MapCoordinateY = 81.5,
         Abilities = {
             [1] = {
-                Id = "348", 
+                Id = "20800",
                 Icon = "Spell_Fire_Immolation", 
-                Name = IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_348, 
-                Effect = IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_348
+                Name = IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_20800,
+                Effect = IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_20800,
+                Flags = {IMAF.Magic}
             },
             [2] = {
-                Id = "702", 
+                Id = "18267",
                 Icon = "Spell_Shadow_CurseOfMannoroth", 
-                Name = IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_702, 
-                Effect = IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_702, 
+                Name = IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_18267,
+                Effect = IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_18267,
                 Flags = {IMAF.Curse}
             }
         },

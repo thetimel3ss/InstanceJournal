@@ -286,10 +286,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "Jergosh l'invocateur"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
         "Jergosh l'Invocateur a rejeté les idéaux des orcs et pratique les arts sombres et démoniaques du sorcier. Chef des cultistes de Searing Blade, Jergosh habite dans Ragefire Chasm, concoctant un plan suffisamment dangereux pour attirer l'attention de Thrall lui-même."
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_348 = "Immoler"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_348 = "Jergosh l'Invocateur brûle un ennemi, lui infligeant des dégâts de feu sur la durée."
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_702 = "Malédiction de faiblesse"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_702 = "Jergosh l'Invocateur maudit un ennemi, réduisant les dégâts physiques qu'il inflige pendant 30 secondes."
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_20800 = "Immoler"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_20800 =
+        "Inflige des dégâts de Feu immédiatement, puis toutes les 3 s pendant 21 s.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_18267 = "Malédiction de faiblesse"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_18267 =
+        "Réduit les dégâts physiques infligés par un ennemi pendant 30 s.\n\nDissipez la malédiction."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11519 = "Bazzalan"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 = "Bazzalan dirige les cultistes de Searing Blade avec Jergosh l'Invocateur. Ses motivations ne sont pas claires, mais comme tout satyre, c'est un ennemi rapide et rusé."
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_744 = "Poison"

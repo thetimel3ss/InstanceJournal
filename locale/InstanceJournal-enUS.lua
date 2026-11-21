@@ -251,10 +251,12 @@ IJ_DB_DUNGEON_RFC_BOSS_11520_ABILITY_EFFECT_18072 =
 IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "Jergosh the Invoker"
 IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
     "Jergosh the Invoker has rejected the ideals of the orcs and practices the dark and demonic arts of the warlock. A leader of the Searing Blade cultists, Jergosh dwells within Ragefire Chasm, concocting a scheme dangerous enough to draw the attention of Thrall himself."
-IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_348 = "Immolate"
-IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_348 = "Jergosh the Invoker burns an enemy, inflicting fire damage over time."
-IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_702 = "Curse of Weakness"
-IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_702 = "Jergosh the Invoker curses an enemy, reducing their physical damage dealt for 30 seconds."
+IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_20800 = "Immolate"
+IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_20800 =
+    "Deals Fire damage immediately and every 3 sec. for 21 sec.\n\nDispel this Magic effect."
+IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_18267 = "Curse of Weakness"
+IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_18267 =
+    "Reduces an enemy’s Physical damage dealt for 30 sec.\n\nRemove the curse."
 IJ_DB_DUNGEON_RFC_BOSS_NAME_11519 = "Bazzalan"
 IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 = "Bazzalan leads the Searing Blade cultists along with Jergosh the Invoker. His motives are unclear, but like all satyr, he is a swift and cunning foe."
 IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_744 = "Poison"

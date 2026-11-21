@@ -347,10 +347,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "祈求者耶戈什"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
         "祈求者耶戈什拒绝了兽人的理想，并实践了术士的黑暗恶魔艺术。作为灼热之刃邪教徒的领袖，杰戈什居住在怒火裂谷中，策划了一个足以引起萨尔本人注意的危险计划。"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_348 = "献祭"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_348 = "祈求者耶戈什会燃烧一名敌人，并持续造成火焰伤害。"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_702 = "虚弱诅咒"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_702 = "祈求者耶戈什诅咒一名敌人，减少他们造成的物理伤害，持续 30 秒。"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_20800 = "献祭"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_20800 =
+        "立即造成火焰伤害，并每3秒造成一次额外伤害，持续21秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_18267 = "虚弱诅咒"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_18267 =
+        "降低一名敌人造成的物理伤害，持续30秒。\n\n解除此诅咒。"
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11519 = "巴札兰"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 =
         "巴札兰与祈求者耶戈什一同统领着灼热之刃教派的教徒。他的真实动机尚不明确，但与所有萨特一样，他是一名身手敏捷、诡计多端的强敌。"

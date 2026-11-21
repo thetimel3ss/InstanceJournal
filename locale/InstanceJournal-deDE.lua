@@ -287,10 +287,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11518 = "Jergosh der Anrufer"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11518 =
         "Jergosh der Beschwörer hat die Ideale der Orks abgelehnt und praktiziert die dunklen und dämonischen Künste des Hexenmeisters. Jergosh, ein Anführer der Sengenden Klinge-Kultisten, lebt in Ragefire Chasm und heckt einen Plan aus, der gefährlich genug ist, um die Aufmerksamkeit von Thrall selbst auf sich zu ziehen."
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_348 = "Opfern"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_348 = "Jergosh der Beschwörer verbrennt einen Feind und fügt ihm mit der Zeit Feuerschaden zu."
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_702 = "Fluch der Schwäche"
-    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_702 = "Jergosh der Beschwörer verflucht einen Feind und verringert 30 Sekunden lang seinen verursachten physischen Schaden."
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_20800 = "Opfern"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_20800 =
+        "Verursacht sofort Feuerschaden und anschließend 21 Sek. lang alle 3 Sek. weiteren Feuerschaden.\n\nBannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_NAME_18267 = "Fluch der Schwäche"
+    IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_18267 =
+        "Verringert den körperlichen Schaden eines Gegners für 30 Sek.\n\nEntfernt den Fluch."
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11519 = "Bazzalan"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 =
         "Bazzalan führt zusammen mit Jergosh dem Beschwörer die Kultisten der Sengenden Klinge an. Seine Motive sind unklar, aber wie alle Satyrn ist er ein schneller und gerissener Feind."
