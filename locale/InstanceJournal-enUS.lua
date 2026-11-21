@@ -260,7 +260,8 @@ IJ_DB_DUNGEON_RFC_BOSS_11518_ABILITY_EFFECT_18267 =
 IJ_DB_DUNGEON_RFC_BOSS_NAME_11519 = "Bazzalan"
 IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 = "Bazzalan leads the Searing Blade cultists along with Jergosh the Invoker. His motives are unclear, but like all satyr, he is a swift and cunning foe."
 IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_744 = "Poison"
-IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_744 = "Bazzalan poisons an enemy, dealing nature damage over time."
+IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_744 =
+    "Deals Nature damage every 3 sec. for 30 sec.\n\nRemove this Poison effect."
 IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_14873 = "Sinister Strike"
 IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_14873 = "Bazzalan strikes an enemy, dealing physical damage."
 

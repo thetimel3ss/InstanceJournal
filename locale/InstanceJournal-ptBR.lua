@@ -296,7 +296,8 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_RFC_BOSS_NAME_11519 = "Bazzalan"
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 = "Bazzalan lidera os cultistas da Searing Blade junto com Jergosh, o Invocador. Seus motivos não são claros, mas como todos os sátiros, ele é um inimigo rápido e astuto."
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_744 = "Tóxico"
-    IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_744 = "Bazzalan envenena um inimigo, causando dano natural ao longo do tempo."
+    IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_744 =
+        "Causa dano de Natureza a cada 3 s por 30 s.\n\nRemova este efeito de veneno."
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_14873 = "Ataque Sinistro"
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_14873 = "Bazzalan ataca um inimigo, causando dano físico."
 

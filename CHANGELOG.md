@@ -2,6 +2,12 @@
 
 All changes to this project will be documented in this file.
 
+## [Unreleased]
+
+### Changed
+
+- Corrected boss spell references and clarified ability descriptions in `Ragefire Chasm`
+
 ## [1.4.8] - 2026-11-16
 
 ### Added

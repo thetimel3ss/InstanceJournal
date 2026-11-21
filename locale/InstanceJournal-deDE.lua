@@ -297,7 +297,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 =
         "Bazzalan führt zusammen mit Jergosh dem Beschwörer die Kultisten der Sengenden Klinge an. Seine Motive sind unklar, aber wie alle Satyrn ist er ein schneller und gerissener Feind."
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_744 = "Gift"
-    IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_744 = "Bazzalan vergiftet einen Feind und verursacht im Laufe der Zeit Naturschaden."
+    IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_744 =
+        "Verursacht 30 Sek. lang alle 3 Sek. Naturschaden.\n\nEntfernt diesen Gifteffekt."
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_14873 = "Unheimlicher Schlag"
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_14873 = "Bazzalan schlägt einen Feind und verursacht physischen Schaden."
 

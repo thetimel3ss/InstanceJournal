@@ -357,7 +357,8 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_RFC_BOSS_STORY_11519 =
         "巴札兰与祈求者耶戈什一同统领着灼热之刃教派的教徒。他的真实动机尚不明确，但与所有萨特一样，他是一名身手敏捷、诡计多端的强敌。"
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_744 = "毒药"
-    IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_744 = "巴札兰使敌人中毒，随着时间的推移造成自然伤害。"
+    IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_744 =
+        "每3秒造成一次自然伤害，持续30秒。\n\n解除此中毒效果。"
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_14873 = "邪恶攻击"
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_14873 = "巴札兰攻击敌人，造成物理伤害。"
 
