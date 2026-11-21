@@ -2075,6 +2075,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61968 = "Zandara Sabot-vent"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61968 =
         "Aussi glissant que les ombres elles-mêmes, le centaure Kolkar a trouvé son chemin dans une branche cachée du Gouffre sinueux à travers les fissures les plus étroites. À la tête de cette invasion se trouve la zélée Zandara Windhoof, qui a audacieusement revendiqué les Grottes des Lamentations comme son propre droit de naissance. Sa présence est une insulte directe à la Terre-Mère, n'apportant que la destruction à un endroit qui souffre déjà sous le poids du rêve raté de Naralex."
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_15659 = "Chaîne d’éclairs"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_15659 =
+        "Inflige des dégâts de Nature avec un éclair qui rebondit entre 3 cibles au maximum."
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_6982 = "Coup de vent"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_6982 =
+        "Étourdit les ennemis proches pendant 4 s."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Seigneur Pythas"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "Ami d'enfance de Naralex, le guerrier Aryn a rapidement étudié le druidisme. Malgré sa formation, l'acolyte était sans défense contre la corruption qui lui ôterait la raison. Aryn a pris le nom de Pythas, combinant ses impressionnantes prouesses au corps à corps avec son arsenal druidique pour vaincre les intrus."

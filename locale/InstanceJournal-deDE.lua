@@ -2077,6 +2077,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61968 = "Zandara Windhuf"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61968 =
         "So glitschig wie die Schatten selbst, fand der Kolkar-Zentaur durch die engsten Risse seinen Weg in einen verborgenen Zweig des Winding Chasm. Angeführt wird diese Invasion von der eifrigen Zandara Windhoof, die kühn die Klagehöhlen als ihr Geburtsrecht beansprucht hat. Ihre Anwesenheit ist eine direkte Beleidigung für die Erdenmutter und bringt nichts als Zerstörung an einen Ort, der bereits unter der Last von Naralex‘ gescheitertem Traum leidet."
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_15659 = "Kettenblitzschlag"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_15659 =
+        "Verursacht Naturschaden mit einem Blitz, der auf bis zu 3 Ziele überspringt."
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_6982 = "Windstoß"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_6982 =
+        "Betäubt nahe Gegner für 4 Sek."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Lord Pythas"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "Der Krieger Aryn, ein Kindheitsfreund von Naralex, lernte schnell das Druidentum. Trotz seiner Ausbildung war der Akolyth der Verderbnis, die ihm den Verstand rauben würde, schutzlos ausgeliefert. Aryn hat den Namen Pythas angenommen und kombiniert seine beeindruckenden Nahkampffähigkeiten mit seinem druidischen Arsenal, um Eindringlinge zu besiegen."

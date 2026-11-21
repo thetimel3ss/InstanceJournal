@@ -2073,6 +2073,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61968 = "Zandara Casco De Vento"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61968 =
         "Tão escorregadio quanto as próprias sombras, o centauro Kolkar encontrou o caminho para um ramo oculto do Abismo Sinuoso através da mais estreita das fendas. Liderando esta invasão está a zelosa Zandara Windhoof, que audaciosamente reivindicou as Cavernas das Lamentações como seu direito de nascença. Sua presença é um insulto direto à Mãe Terra, trazendo nada além de destruição para um lugar que já sofre sob o peso do sonho fracassado de Naralex."
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_15659 = "Cadeia de Raios"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_15659 =
+        "Causa dano de Natureza com raios que saltam entre até 3 alvos."
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_6982 = "Rajada de Vento"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_6982 =
+        "Atordoa os inimigos próximos por 4 s."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Senhor Pythas"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "Amigo de infância de Naralex, o guerreiro Aryn estudou rapidamente o druidismo. Apesar de seu treinamento, o acólito estava indefeso contra a corrupção que acabaria com sua sanidade. Aryn assumiu o nome de Pythas, combinando sua impressionante habilidade corpo a corpo com seu arsenal druídico para derrotar intrusos."

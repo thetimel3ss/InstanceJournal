@@ -2853,6 +2853,12 @@ IJ_DB_DUNGEON_WC_BOSS_STORY_5912 =
 IJ_DB_DUNGEON_WC_BOSS_NAME_61968 = "Zandara Windhoof"
 IJ_DB_DUNGEON_WC_BOSS_STORY_61968 =
     "As slippery as the shadows themselves, the Kolkar centaur found their way into a hidden branch of the Winding Chasm through the narrowest of cracks. Leading this invasion is the zealous Zandara Windhoof, who has audaciously claimed the Wailing Caverns as her own birthright. Her presence is a direct insult to the Earthmother, bringing nothing but destruction to a place already suffering under the weight of Naralex's failed dream."
+IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_15659 = "Chain Lightning"
+IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_15659 =
+    "Deals Nature damage with lightning that arcs between up to 3 targets."
+IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_6982 = "Gust of Wind"
+IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_6982 =
+    "Stuns nearby enemies for 4 sec."
 IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Lord Pythas"
 IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
     "A childhood friend of Naralex, the warrior Aryn was a quick study in druidism. Despite his training, the acolyte was defenseless against the corruption that would strip away his sanity. Aryn has taken on the name Pythas, combining his impressive melee prowess with his druidic arsenal to vanquish intruders."

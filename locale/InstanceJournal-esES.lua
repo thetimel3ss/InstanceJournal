@@ -2075,6 +2075,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61968 = "Zandara Pezuña de Viento"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61968 =
         "Tan resbaladizo como las propias sombras, el centauro Kolkar encontró su camino hacia una rama oculta del Winding Chasm a través de las grietas más estrechas. Liderando esta invasión está la celosa Zandara Windhoof, quien audazmente ha reclamado las Cuevas de los Lamentos como su derecho de nacimiento. Su presencia es un insulto directo a la Madre Tierra, y no trae nada más que destrucción a un lugar que ya sufre bajo el peso del sueño fallido de Naralex."
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_15659 = "Cadena de relámpagos"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_15659 =
+        "Inflige daño de Naturaleza con un rayo que salta entre un máximo de 3 objetivos."
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_6982 = "Racha"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_6982 =
+        "Aturde a los enemigos cercanos durante 4 s."
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "Señor pitas"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "Amiga de la infancia de Naralex, la guerrera Aryn aprendió rápidamente el druidismo. A pesar de su entrenamiento, el acólito estaba indefenso ante la corrupción que le quitaría la cordura. Aryn ha adoptado el nombre de Pythas y combina su impresionante destreza cuerpo a cuerpo con su arsenal druídico para vencer a los intrusos."

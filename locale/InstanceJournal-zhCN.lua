@@ -2946,6 +2946,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WC_BOSS_NAME_61968 = "赞达拉·风蹄"
     IJ_DB_DUNGEON_WC_BOSS_STORY_61968 =
         "就像阴影本身一样滑溜，科卡半人马通过最狭窄的裂缝进入了蜿蜒峡谷的一个隐藏分支。领导这次入侵的是热心的赞达拉·风蹄，她大胆地宣称哀嚎洞穴是她与生俱来的权利。她的存在是对大地母亲的直接侮辱，只会给这个已经因纳拉雷克斯失败的梦想而遭受重压的地方带来毁灭。"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_15659 = "闪电链"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_15659 =
+        "以闪电造成自然伤害，最多在3个目标之间跳跃。"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_NAME_6982 = "阵风"
+    IJ_DB_DUNGEON_WC_BOSS_61968_ABILITY_EFFECT_6982 =
+        "使附近的敌人昏迷4秒。"
     IJ_DB_DUNGEON_WC_BOSS_NAME_3670 = "皮萨斯领主"
     IJ_DB_DUNGEON_WC_BOSS_STORY_3670 =
         "战士艾林是纳拉雷克斯儿时的朋友，他对德鲁伊教的研究很快。尽管受过训练，这位侍僧对于那些会剥夺他理智的腐败毫无防御能力。艾林化名为皮萨斯，将他令人印象深刻的近战能力与德鲁伊武库相结合，以击败入侵者。"
