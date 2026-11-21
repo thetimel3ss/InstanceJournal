@@ -148,7 +148,7 @@ BFD.Bosses = {
             [4] = {IJDB.I[58123], DropChance = 25}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "4830",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "serrakis" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "serrakis" .. IMPF,
@@ -156,6 +156,14 @@ BFD.Bosses = {
         Story = IJ_DB_DUNGEON_BFD_BOSS_STORY_4830,
         MapCoordinateX = 53.4,
         MapCoordinateY = 78.3,
+        Abilities = {
+            [1] = {
+                Id = "8433",
+                Icon = "Spell_Holy_SealOfSacrifice",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_NAME_8433,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_EFFECT_8433
+            }
+        },
         Loot = {
             [1] = {IJDB.I[6904], DropChance = 33}, 
             [2] = {IJDB.I[6902], DropChance = 33}, 

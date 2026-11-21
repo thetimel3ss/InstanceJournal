@@ -833,6 +833,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Vieux Serra'kis"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4830 =
         "De nombreuses créatures nageant sous les ruines du sanctuaire lunaire ont été tuées pour se nourrir après que le culte du Marteau du Crépuscule ait élu domicile, mais le plus gros renard de l'eau s'est avéré inattrapable, et ceux qui ont persisté à le chasser sont inévitablement morts dans cette tentative."
+    IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_NAME_8433 = "Pulsation drainante"
+    IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_EFFECT_8433 =
+        "Draine périodiquement la vie des ennemis proches, infligeant des dégâts d’Ombre et soignant le lanceur."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "Seigneur du Crépuscule Kelris"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
         "Lorsque les cultistes trouvèrent une étrange créature à trois têtes dans le ventre des Profondeurs de Fathom Noire, le Seigneur du Crépuscule Kelris fut convaincu que l'hydre était un héraut du retour des Dieux très anciens en Azeroth... et de son ticket pour l'immortalité. Kelris supervise personnellement la croissance du monstre, lui donnant même ses propres sujets pour satisfaire sa faim sauvage."

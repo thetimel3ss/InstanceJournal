@@ -835,6 +835,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Alte Serra'kis"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4830 =
         "Viele der Kreaturen, die unter den Ruinen des Mondschreins schwammen, wurden zu Nahrungszwecken getötet, nachdem der Kult des Schattenhammers Einzug gehalten hatte, doch der größte Drescher im Wasser erwies sich als uneinholbar, und diejenigen, die darauf beharrten, ihn zu jagen, kamen unweigerlich bei dem Versuch ums Leben."
+    IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_NAME_8433 = "Saugpuls"
+    IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_EFFECT_8433 =
+        "Entzieht nahen Gegnern regelmäßig Gesundheit, verursacht Schattenschaden und heilt den Zaubernden."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "Zwielichtlord Kelris"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
         "Als die Kultisten im Bauch der Blackfathom Deeps eine seltsame dreiköpfige Kreatur fanden, war Twilight Lord Kelris überzeugt, dass die Hydra ein Vorbote der Rückkehr der Alten Götter nach Azeroth war ... und seine Eintrittskarte in die Unsterblichkeit. Kelris überwacht persönlich das Wachstum des Monsters und füttert ihn sogar mit seinen eigenen Untertanen, um seinen wilden Hunger zu stillen."

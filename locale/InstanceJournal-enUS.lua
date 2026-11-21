@@ -1100,6 +1100,9 @@ IJ_DB_DUNGEON_BFD_BOSS_STORY_62530 = "An ancient satyr, skulking in the ancient 
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Old Serra'kis"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_4830 =
     "Many of the creatures swimming beneath the Moonshrine Ruins were killed for food after the Twilight's Hammer cult took up residence, but the largest thresher in the water proved to be uncatchable, and those who persisted in hunting it inevitably died in the attempt."
+IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_NAME_8433 = "Leech Pulse"
+IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_EFFECT_8433 =
+    "Periodically drains health from nearby enemies, dealing Shadow damage and healing the caster."
 IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "Twilight Lord Kelris"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
     "When the cultists found a strange three-headed creature in the belly of Blackfathom Deeps, Twilight Lord Kelris was convinced the hydra was a herald of the Old Gods' return to Azeroth... and his ticket to immortality. Kelris personally supervises the growth of the monster, even feeding him his own subjects to satisfy his wild hunger."

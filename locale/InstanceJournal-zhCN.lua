@@ -1195,6 +1195,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "老瑟拉吉斯"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4830 =
         "在暮光之锤邪教定居后，许多在月神殿废墟下游泳的生物都被杀死作为食物，但事实证明水中最大的长尾鲨是无法捕获的，那些坚持狩猎它的人不可避免地会在尝试中死亡。"
+    IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_NAME_8433 = "吸血脉冲"
+    IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_EFFECT_8433 =
+        "周期性吸取附近敌人的生命值，造成暗影伤害并治疗施法者。"
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "梦游者克尔里斯"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
         "当信徒们在黑暗深渊的腹地发现了一种奇怪的三头生物时，暮光领主凯里斯确信这只九头蛇是上古之神重返艾泽拉斯的先驱……也是他永生的门票。凯里斯亲自监督怪物的成长，甚至喂养他自己的臣民来满足他的疯狂饥饿。"

@@ -833,6 +833,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4830 = "Viejo Serra'kis"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4830 =
         "Muchas de las criaturas que nadaban bajo las Ruinas del Santuario Lunar fueron asesinadas para alimentarse después de que el culto del Martillo Crepuscular se estableciera, pero el trillador más grande en el agua resultó ser imposible de capturar, y aquellos que persistieron en cazarlo inevitablemente murieron en el intento."
+    IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_NAME_8433 = "Pulso de succión"
+    IJ_DB_DUNGEON_BFD_BOSS_4830_ABILITY_EFFECT_8433 =
+        "Drena periódicamente la salud de los enemigos cercanos, infligiendo daño de las Sombras y sanando al taumaturgo."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_4832 = "Señor del Crepúsculo Kelris"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_4832 =
         "Cuando los cultistas encontraron una extraña criatura de tres cabezas en el vientre de Blackfathom Deeps, Twilight Lord Kelris estaba convencido de que la hidra era un heraldo del regreso de los Dioses Antiguos a Azeroth... y su boleto a la inmortalidad. Kelris supervisa personalmente el crecimiento del monstruo, incluso alimentándolo con sus propios súbditos para satisfacer su hambre salvaje."
