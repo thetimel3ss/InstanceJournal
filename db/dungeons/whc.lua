@@ -176,7 +176,7 @@ WHC.Bosses = {
             [4] = {IJDB.I[33033], DropChance = 25}
         }
     },
-    [5] = { -- NOTE: Missing abilities
+    [5] = {
         Id = "narlgom",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "narlgom" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "narlgom" .. IMPF,
@@ -185,6 +185,28 @@ WHC.Bosses = {
         MapCoordinateX = 36.8,
         MapCoordinateY = 56.8,
         MapIsBelow = true,
+        Abilities = {
+            [1] = {
+                Id = "11445",
+                Icon = "Spell_Shadow_UnholyStrength",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_11445,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_11445,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "57747",
+                Icon = "Spell_Shadow_RainOfFire",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_57747,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_57747,
+                Flags = {IMAF.Important}
+            },
+            [3] = {
+                Id = "42004",
+                Icon = "Spell_Shadow_SummonVoidWalker",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_42004,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004
+            }
+        },
         Loot = {
             [1] = {IJDB.I[42276], DropChance = 25}, 
             [2] = {IJDB.I[33040], DropChance = 25}, 

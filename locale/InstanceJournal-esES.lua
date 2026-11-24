@@ -4506,7 +4506,17 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
         "Aumenta el daño infligido y la velocidad de ataque."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Narlgom Hablahuesos"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Entre los Tótem Siniestro que se apoderaron del Cañón Cuerno de Viento se cuenta el Hablahuesos Narlgom... y eso es, en su totalidad, todo lo que se sabe."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom =
+        "Narlgom Hablahuesos emplea una armadura de hueso y magia de fuego destructiva en el Cañón del Cuerno de Viento. Sus conjuros llaman a Rotag, vinculando su nombre a los ritos oscuros de la fortaleza ocupada. Quienes lo enfrentan deben superar tanto su hechicería protectora como el fuego que hace llover sobre ellos."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_11445 = "Armadura de hueso"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_11445 =
+        "Rodea al taumaturgo con una armadura de hueso que absorbe daño hasta 60 s. Disipa este beneficio mágico."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_57747 = "Lluvia de Fuego"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_57747 =
+        "Canaliza una lluvia de fuego que inflige daño de Fuego en una zona cada 3 s durante 9 s. Sal de la zona afectada."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_42004 = "Invocar a Rotag"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
+        "Llama a Rotag con un lanzamiento de 5 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Profeta Pezuña Tormenta"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Los profetas hablan de lo que vendrá. Si el Profeta Stormhoof alguna vez lo hizo, no quedó nadie para escribirlo."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Cacique Chalk Viento Negro"

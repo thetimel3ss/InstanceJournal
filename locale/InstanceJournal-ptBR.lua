@@ -4497,7 +4497,17 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
         "Aumenta o dano causado e a velocidade de ataque."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Orador de Ossos Narlgom"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Entre os Temível Totem que tomaram o Cânion Chifre de Vento, o Orador dos Ossos Narlgom é contado – e essa é, na íntegra, a extensão do que se sabe."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom =
+        "Orador de Ossos Narlgom empunha uma armadura de ossos e magia de fogo destrutiva no Desfiladeiro Chifre do Vento. Suas invocações chamam por Rotag, ligando seu nome aos ritos sombrios praticados na fortaleza ocupada. Aqueles que o enfrentam precisam lidar tanto com sua feitiçaria protetora quanto com o fogo que faz chover sobre eles."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_11445 = "Armadura de Ossos"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_11445 =
+        "Envolve o lançador em uma armadura de ossos que absorve dano por até 60 s. Dissipe este benefício mágico."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_57747 = "Chuva de Fogo"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_57747 =
+        "Canaliza uma chuva de fogo que causa dano de Fogo em uma área a cada 3 s por 9 s. Saia da área afetada."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_42004 = "Invocar Rotag"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
+        "Chama por Rotag com um lançamento de 5 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Profeta Casco Tempestuoso"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Os profetas falam de coisas que virão. Se o Profeta Casco Tempestuoso alguma vez o fez, não sobrou ninguém para anotá-lo."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Chefe Shalk Vento Negro"

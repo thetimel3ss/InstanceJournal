@@ -4771,7 +4771,17 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
         "提高造成的伤害和攻击速度。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "骨语者纳尔格姆"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "在占领风角峡谷的恐怖图腾中，骨语者纳尔戈姆也被算在内——这就是我们所知的全部范围。"
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom =
+        "骨语者纳尔格姆在风角峡谷施展白骨护甲和毁灭性的火焰魔法。他的咒语呼唤罗塔格，将这个名字与被占领要塞中的黑暗仪式联系起来。挑战他的人既要应对他的防护法术，也要躲避从天而降的火雨。"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_11445 = "白骨护甲"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_11445 =
+        "使施法者被白骨护甲包围，吸收伤害，最多持续60秒。驱散此魔法增益效果。"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_57747 = "火焰之雨"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_57747 =
+        "引导火焰之雨，每3秒对区域内的敌人造成一次火焰伤害，持续9秒。离开受影响区域。"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_42004 = "召唤罗塔格"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
+        "施法5秒，呼唤罗塔格。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "雷角"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "先知谈论将要发生的事情。如果先知暴蹄真的这么做了，也没有人会把它写下来。"
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "腐蚀术"

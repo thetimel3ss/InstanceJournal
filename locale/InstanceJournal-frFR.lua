@@ -4506,7 +4506,17 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
         "Augmente les dégâts infligés et la vitesse d’attaque."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Parle-Os Narlgom"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Parmi les Totems-Sinistres qui se sont emparés du Canyon Windhorn, le Parle-Os Narlgom est compté - et c'est là, dans son intégralité, l'étendue de ce que l'on sait."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom =
+        "Parle-Os Narlgom manie une armure d’os et une magie de feu destructrice dans le canyon Corne du Vent. Ses incantations font appel à Rotag, liant son nom aux rites obscurs de la forteresse occupée. Ceux qui l’affrontent doivent surmonter autant sa sorcellerie protectrice que le feu qu’il fait pleuvoir sur eux."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_11445 = "Armure d’os"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_11445 =
+        "Entoure le lanceur d’une armure d’os qui absorbe les dégâts pendant 60 s au maximum. Dissipez cet effet magique bénéfique."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_57747 = "Pluie de feu"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_57747 =
+        "Canalise une pluie de feu qui inflige des dégâts de Feu dans une zone toutes les 3 s pendant 9 s. Quittez la zone affectée."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_42004 = "Invocation de Rotag"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
+        "Fait appel à Rotag avec une incantation de 5 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophète Sabot-Tempête"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Les prophètes parlent des choses à venir. Si le prophète Stormhoof l’a jamais fait, il ne restait plus personne pour l’écrire."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Chef Shalk Vent Noir"

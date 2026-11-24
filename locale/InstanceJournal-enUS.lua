@@ -4646,7 +4646,17 @@ IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_28131 = "Enrage"
 IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
     "Increases damage dealt and attack speed."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Bonespeaker Narlgom"
-IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Among the Grimtotem who seized Windhorn Canyon, Bonespeaker Narlgom is counted - and that is, in full, the extent of what is known."
+IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom =
+    "Bonespeaker Narlgom wields bone armor and destructive fire magic within Windhorn Canyon. His incantations call upon Rotag, binding his name to the dark rites practiced in the occupied stronghold. Those who confront him must contend with both his protective sorcery and the fire he rains upon them."
+IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_11445 = "Bone Armor"
+IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_11445 =
+    "Surrounds the caster with bone armor that absorbs damage for up to 60 sec. Dispel this Magic buff."
+IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_57747 = "Rain of Fire"
+IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_57747 =
+    "Channels a rain of fire that deals Fire damage in an area every 3 sec. for 9 sec. Move out of the affected area."
+IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_42004 = "Summon Rotag"
+IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
+    "Calls upon Rotag with a 5 sec. cast."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophet Stormhoof"
 IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Prophets speak of things to come. If Prophet Stormhoof ever did, no one was left to write it down."
 IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Corruption"

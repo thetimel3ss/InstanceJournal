@@ -4507,7 +4507,17 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
         "Erhöht den verursachten Schaden und das Angriffstempo."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Knochensprecher Narlgom"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Zu den Grimmtotem, die die Windhornschlucht eroberten, zählt auch Knochensprecher Narlgom – und das ist alles, was bekannt ist."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom =
+        "Knochensprecher Narlgom setzt im Windhorn Canyon Knochenrüstung und zerstörerische Feuermagie ein. Seine Beschwörungen rufen Rotag an und verbinden dessen Namen mit den dunklen Riten in der besetzten Festung. Wer ihn herausfordert, muss sowohl seine schützende Zauberei als auch den Feuerregen überstehen."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_11445 = "Knochenrüstung"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_11445 =
+        "Umhüllt den Zaubernden mit einer Knochenrüstung, die bis zu 60 Sek. lang Schaden absorbiert. Bannt diesen magischen Stärkungseffekt."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_57747 = "Feuerregen"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_57747 =
+        "Kanalisiert einen Feuerregen, der in einem Bereich 9 Sek. lang alle 3 Sek. Feuerschaden verursacht. Verlasst den betroffenen Bereich."
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_42004 = "Rotag beschwören"
+    IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
+        "Ruft Rotag mit einer Zauberzeit von 5 Sek. an."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophet Sturmhuf"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Propheten sprechen von zukünftigen Dingen. Wenn der Prophet Sturmhuf es jemals tat, blieb niemand übrig, der es niederschreiben konnte."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Häuptling Shalk Blackwind"
