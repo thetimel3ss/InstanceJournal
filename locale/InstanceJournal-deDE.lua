@@ -325,9 +325,11 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_7164 = "Defensive Haltung"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_7164 = "Kam Deepfury nimmt eine defensive Haltung ein und verringert so den erlittenen Schaden."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_8242 = "Schildschlag"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 = "Kam Deepfury schleudert seinen Schild gegen einen Feind, verursacht Schaden und betäubt ihn 2 Sekunden lang."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_871 = "Schildwall"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_871 = "Kam Deepfury hebt seinen Schild und reduziert 12 Sekunden lang jeglichen erlittenen Schaden um 60 %."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 =
+        "Fügt einem Gegner körperlichen Schaden zu und betäubt ihn für 2 Sek."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_3419 = "Verbessertes Blocken"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_3419 =
+        "Erhöht die Blockchance 6 Sek. lang um 75%."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1717 = "Hamhock"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
         "In Sturmwind verbreiteten sich Gerüchte, dass Hamhock ein gefangener Oger aus dem Dämmerwald sei, was ihn möglicherweise zu einem Splitterfaust-Oger machte. Wenn das wahr wäre, würde er möglicherweise unter das Kommando von Zzarc'Vul fallen, dem Anführer des Clans am Ogerhügel von Vul'Gol. Alternativ könnte er ein gefangenes Mitglied der Defias-Bruderschaft sein."

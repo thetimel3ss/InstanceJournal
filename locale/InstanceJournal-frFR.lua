@@ -323,9 +323,11 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_7164 = "Position défensive"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_7164 = "Kam Deepfury adopte une position défensive, réduisant ainsi les dégâts subis."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_8242 = "Coup de bouclier"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 = "Kam Deepfury claque son bouclier contre un ennemi, lui infligeant des dégâts et l'étourdissant pendant 2 secondes."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_871 = "Mur de bouclier"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_871 = "Kam Deepfury lève son bouclier, réduisant tous les dégâts reçus de 60 % pendant 12 secondes."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 =
+        "Inflige des dégâts physiques à un ennemi et l’étourdit pendant 2 s."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_3419 = "Blocage amélioré"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_3419 =
+        "Augmente les chances de blocage de 75% pendant 6 s."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1717 = "Hamhock"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
         "Certaines rumeurs se sont répandues à travers Hurlevent selon lesquelles Hamhock était un ogre capturé de Bois de la Pénombre, faisant peut-être de lui un Ogre Splinter Fist. Si cela était vrai, il tomberait sous le commandement possible de Zzarc'Vul, chef du clan de Vul'Gol Ogre Mound. Alternativement, il pourrait être un membre capturé de la Confrérie Défias."

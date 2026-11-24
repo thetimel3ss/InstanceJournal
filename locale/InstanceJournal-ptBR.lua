@@ -324,9 +324,11 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_7164 = "Postura Defensiva"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_7164 = "Kam Deepfury assume uma postura defensiva, reduzindo o dano recebido."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_8242 = "Golpe de Escudo"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 = "Kam Deepfury bate seu escudo contra um inimigo, causando dano e atordoando-o por 2 segundos."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_871 = "Parede de Escudo"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_871 = "Kam Deepfury levanta seu escudo, reduzindo todo o dano recebido em 60% por 12 segundos."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 =
+        "Causa dano Físico a um inimigo e o atordoa por 2 s."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_3419 = "Bloqueio Aprimorado"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_3419 =
+        "Aumenta a chance de bloqueio em 75% por 6 s."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1717 = "Hamhock"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
         "Alguns rumores se espalharam por Ventobravo de que Hamhock era um ogro capturado da Floresta do Crepúsculo, possivelmente fazendo dele um Ogro do Punho Estilhaçado. Se isso fosse verdade, ele ficaria sob o possível comando de Zzarc'Vul, líder do clã em Vul'Gol Ogre Mound. Alternativamente, ele poderia ser um membro capturado da Irmandade Défias."

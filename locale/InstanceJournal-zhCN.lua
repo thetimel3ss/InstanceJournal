@@ -404,9 +404,11 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_7164 = "防御姿态"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_7164 = "卡姆·深怒采取防御姿态，减少传入的伤害。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_8242 = "盾牌猛击"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 = "卡姆·深怒用盾牌猛击敌人，造成伤害并使他们昏迷 2 秒。"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_871 = "盾墙"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_871 = "卡姆·深怒 举起护盾，将所有受到的伤害降低 60%，持续 12 秒。"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 =
+        "对一名敌人造成物理伤害并使其昏迷2秒。"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_3419 = "强化格挡"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_3419 =
+        "格挡几率提高75%，持续6秒。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1717 = "哈姆霍克"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
         "一些谣言在暴风城流传，说哈姆霍克是从暮色森林捕获的食人魔，这可能使他成为裂拳食人魔。如果这是真的，他可能会受到扎克沃尔的指挥，扎克沃尔是沃尔戈尔食人魔土丘的氏族领袖。或者，他可能是迪菲亚兄弟会的一名被俘成员。"

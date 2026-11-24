@@ -307,9 +307,11 @@ IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1666 =
 IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_7164 = "Defensive Stance"
 IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_7164 = "Kam Deepfury assumes a defensive stance, reducing incoming damage."
 IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_8242 = "Shield Slam"
-IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 = "Kam Deepfury slams his shield against an enemy, dealing damage and stunning them for 2 seconds."
-IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_871 = "Shield Wall"
-IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_871 = "Kam Deepfury raises his shield, reducing all incoming damage by 60% for 12 seconds."
+IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242 =
+    "Deals Physical damage to an enemy and stuns them for 2 sec."
+IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_3419 = "Improved Blocking"
+IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_3419 =
+    "Increases block chance by 75% for 6 sec."
 IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1717 = "Hamhock"
 IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
     "Some rumors spread throughout Stormwind that Hamhock was a captured ogre from Duskwood, possibly making him a Splinter Fist Ogre. If this were true, he would fall under the possible command of Zzarc'Vul, leader of the clan at Vul'Gol Ogre Mound. Alternatively, he could be a captured member of the Defias Brotherhood."

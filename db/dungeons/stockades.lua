@@ -76,21 +76,22 @@ STOCKADES.Bosses = {
         MapCoordinateY = 30.2,
         Abilities = {
             [1] = {
-                Id = "7164", Icon = "Ability_Warrior_DefensiveStance", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_7164, 
+                Id = "7164",
+                Icon = "Ability_Warrior_DefensiveStance",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_7164,
                 Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_7164
             },
             [2] = {
-                Id = "8242", 
-                Icon = "Ability_Warrior_ShieldBash", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_8242, 
+                Id = "8242",
+                Icon = "Ability_Warrior_ShieldBash",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_8242,
                 Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_8242
             },
             [3] = {
-                Id = "871", 
-                Icon = "Ability_Warrior_ShieldWall", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_871, 
-                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_871
+                Id = "3419",
+                Icon = "Spell_Fire_FireArmor",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_NAME_3419,
+                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1666_ABILITY_EFFECT_3419
             }
         },
         Loot = {
