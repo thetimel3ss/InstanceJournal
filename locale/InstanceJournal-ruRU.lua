@@ -315,8 +315,12 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599 = "Разгневать"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599 =
         "Таргорр Ужасный приходит в ярость, увеличивая свой физический урон и скорость атаки на 2 минуты."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Трэш"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 = "Таргорр Ужасающий получает шанс нанести две дополнительные атаки."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Взбучка"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 =
+        "Получает шанс совершить две дополнительные атаки ближнего боя."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3391 = "Взбучка"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3391 =
+        "Совершает две дополнительные атаки ближнего боя при срабатывании Взбучки."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1666 = "Кэм Дипфури"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1666 =
         "Кам Глубинная Ярость, по данным разведки Альянса в Дун Модре, установлен как организатор взрыва, разрушившего один из мостов в Тандол-пролете, а также гибели одного из родственников Длиннокоса Мрачного. В отличие от большинства других заключенных в частоколе, он не является членом Братства Справедливости."

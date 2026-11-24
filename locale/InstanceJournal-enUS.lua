@@ -296,7 +296,11 @@ IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1696 =
 IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599 = "Enrage"
 IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599 = "Targorr the Dread becomes enraged, increasing his physical damage and attack speed for 2 minutes."
 IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Thrash"
-IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 = "Targorr the Dread gains a chance to do two additional attacks."
+IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 =
+    "Gains a chance to perform two additional melee attacks."
+IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3391 = "Thrash"
+IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3391 =
+    "Performs two additional melee attacks when Thrash triggers."
 IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1666 = "Kam Deepfury"
 IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1666 =
     "Kam Deepfury, according to Alliance intelligence in Dun Modr, has been determined as the organizer of the explosion that destroyed one of the bridges in the Thandol Span, as well as the death of one of Longbraid the Grim's kin. Unlike most other prisoners in the Stockade, he is not a member of the Defias Brotherhood."

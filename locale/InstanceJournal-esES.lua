@@ -312,8 +312,12 @@ if GetLocale() == "esES" then
         "Targorr el Temible sirvió a los orcos Roca Negra bajo el mando de Gath'Ilzogg como verdugo supremo. Sus métodos eran despiadados, incluso para los estándares orcos. Los hombres que lucharon valientemente para defender Ventormenta fueron torturados a su antojo. Targorr fue capturado y enviado a la Empalizada, sin embargo, debido al sistema legal corrupto e ineficiente, no fue ejecutado como sus acciones tan merecidas. Durante el levantamiento en la Empalizada, el despiadado orco se alineó con los alborotadores de Defias."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599 = "Enfurecer"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599 = "Targorr the Dread se enfurece, aumentando su daño físico y velocidad de ataque durante 2 minutos."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Movimiento de piernas"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 = "Targorr the Dread tiene la posibilidad de realizar dos ataques adicionales."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Vapulear"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 =
+        "Obtiene una probabilidad de realizar dos ataques cuerpo a cuerpo adicionales."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3391 = "Vapulear"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3391 =
+        "Realiza dos ataques cuerpo a cuerpo adicionales cuando se activa Vapulear."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1666 = "Kam Furia Profunda"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1666 =
         "Kam Deepfury, según la inteligencia de la Alianza en Dun Modr, ha sido determinado como el organizador de la explosión que destruyó uno de los puentes en Thandol Span, así como de la muerte de uno de los parientes de Longbraid the Grim. A diferencia de la mayoría de los demás prisioneros de la Empalizada, no es miembro de la Hermandad Defias."

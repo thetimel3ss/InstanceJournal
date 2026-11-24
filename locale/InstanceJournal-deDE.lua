@@ -313,8 +313,12 @@ if GetLocale() == "deDE" then
         "Targorr der Schreckliche diente den Schwarzfels-Orks unter Gath'Ilzogg als oberster Henker. Seine Methoden waren selbst nach orkischen Maßstäben rücksichtslos. Männer, die tapfer für die Verteidigung Sturmwinds kämpften, wurden aus seiner Laune heraus gefoltert. Targorr wurde gefangen genommen und ins Gefängnis geschickt, doch aufgrund des korrupten und ineffizienten Rechtssystems wurde er nicht hingerichtet, wie es seine Taten so sehr verdient hätten. Während des Aufstands in der Stockade stellte sich der skrupellose Orc auf die Seite der Defias-Randalierer."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599 = "Wütend"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599 = "Targorr der Schreckliche wird wütend und erhöht 2 Minuten lang seinen physischen Schaden und sein Angriffstempo."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Thrash"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 = "Targorr der Schrecken erhält die Chance, zwei zusätzliche Angriffe auszuführen."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Hauen"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 =
+        "Erhält eine Chance, zwei zusätzliche Nahkampfangriffe auszuführen."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3391 = "Hauen"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3391 =
+        "Führt zwei zusätzliche Nahkampfangriffe aus, wenn Hauen ausgelöst wird."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1666 = "Kam Deepfury"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1666 =
         "Laut Geheimdienstinformationen der Allianz in Dun Modr wurde Kam Deepfury als Organisator der Explosion ermittelt, die eine der Brücken im Thandol Span zerstörte und für den Tod eines Angehörigen von Longbraid the Grim verantwortlich war. Im Gegensatz zu den meisten anderen Gefangenen im Stockade ist er kein Mitglied der Defias-Bruderschaft."

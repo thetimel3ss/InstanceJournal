@@ -393,7 +393,11 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599 = "狂怒"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599 = "恐惧者塔戈尔变得愤怒，增加他的物理伤害和攻击速度，持续 2 分钟。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "痛击"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 = "恐惧者塔戈尔有机会进行两次额外攻击。"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 =
+        "有一定几率发动两次额外的近战攻击。"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3391 = "痛击"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3391 =
+        "痛击触发时发动两次额外的近战攻击。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1666 = "卡姆·深怒"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1666 =
         "根据丹莫德的联盟情报，卡姆·深怒已被确定为摧毁坦多尔跨度的一座桥梁的爆炸的组织者，以及冷酷者长布雷德的一名亲属的死亡。与监狱中的大多数其他囚犯不同，他不是迪菲亚兄弟会的成员。"

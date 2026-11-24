@@ -312,8 +312,12 @@ if GetLocale() == "ptBR" then
         "Targorr, o Pavor, serviu aos orcs Rocha Negra sob o comando de Gath'Ilzogg como executor supremo. Seus métodos eram implacáveis, mesmo para os padrões orcs. Homens que lutaram bravamente para defender Ventobravo foram torturados por capricho dele. Targorr foi capturado e enviado para a Paliçada, porém devido ao sistema legal corrupto e ineficiente ele não foi executado como suas ações tão merecidas. Durante a revolta na Paliçada, o implacável orc alinhou-se com os desordeiros de Défias."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599 = "Enfurecer"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599 = "Targorr, o Pavoroso, fica furioso, aumentando seu dano físico e velocidade de ataque por 2 minutos."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "lixo"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 = "Targorr, o Pavor, ganha uma chance de realizar dois ataques adicionais."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Surra"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 =
+        "Ganha uma chance de realizar dois ataques corpo a corpo adicionais."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3391 = "Surra"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3391 =
+        "Realiza dois ataques corpo a corpo adicionais quando Surra é ativada."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1666 = "Kam Profunda Fúria"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1666 =
         "Kam Deepfury, de acordo com a inteligência da Aliança em Dun Modr, foi determinado como o organizador da explosão que destruiu uma das pontes em Thandol Span, bem como a morte de um dos parentes de Longbraid, o Grim. Ao contrário da maioria dos outros prisioneiros da Paliçada, ele não é membro da Irmandade Défias."

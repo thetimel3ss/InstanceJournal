@@ -311,8 +311,12 @@ if GetLocale() == "frFR" then
         "Targorr l'Effroi servait les orcs Rochenoire sous les ordres de Gath'Ilzogg en tant que bourreau suprême. Ses méthodes étaient impitoyables, même selon les normes orcs. Les hommes qui se sont battus courageusement pour défendre Hurlevent ont été torturés à sa guise. Targorr a été capturé et envoyé à la Palissade, mais en raison du système juridique corrompu et inefficace, il n'a pas été exécuté comme ses actions le méritaient tant. Lors du soulèvement de la Palissade, l'orc impitoyable s'est rangé aux côtés des émeutiers Défias."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599 = "Enrager"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599 = "Targorr the Dread devient enragé, augmentant ses dégâts physiques et sa vitesse d'attaque pendant 2 minutes."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Débattre"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 = "Targorr l'Effroi a une chance de lancer deux attaques supplémentaires."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417 = "Rosser"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417 =
+        "Obtient une chance d’effectuer deux attaques de mêlée supplémentaires."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3391 = "Rosser"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3391 =
+        "Effectue deux attaques de mêlée supplémentaires lorsque Rosser se déclenche."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1666 = "Kam Deepfury"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1666 =
         "Kam Deepfury, selon les renseignements de l'Alliance à Dun Modr, a été identifié comme l'organisateur de l'explosion qui a détruit l'un des ponts de Thandol Span, ainsi que de la mort de l'un des parents de Longbraid the Grim. Contrairement à la plupart des autres prisonniers de la Palissade, il n'est pas membre de la Confrérie Défias."

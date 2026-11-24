@@ -40,17 +40,25 @@ STOCKADES.Bosses = {
         MapCoordinateY = 21.2,
         Abilities = {
             [1] = {
-                Id = "8599", 
-                Icon = "Spell_Shadow_UnholyFrenzy", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599, 
-                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599, 
+                Id = "8599",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_8599,
+                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_8599,
                 Flags = {IMAF.Heal}
             },
             [2] = {
-                Id = "3417", 
-                Icon = "Ability_GhoulFrenzy", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417, 
-                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417
+                Id = "3417",
+                Icon = "Ability_GhoulFrenzy",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3417,
+                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3417,
+                SubAbilities = {
+                    [1] = {
+                        Id = "3391",
+                        Icon = "Ability_GhoulFrenzy",
+                        Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_NAME_3391,
+                        Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1696_ABILITY_EFFECT_3391
+                    }
+                }
             }
         },
         Loot = {
