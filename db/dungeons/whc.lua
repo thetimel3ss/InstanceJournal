@@ -214,7 +214,7 @@ WHC.Bosses = {
             [4] = {IJDB.I[33037], DropChance = 25}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "stormhoof",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "stormhoof" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "stormhoof" .. IMPF,
@@ -232,11 +232,24 @@ WHC.Bosses = {
         },
         Abilities = {
             [1] = {
-                Id = "stormhoofcorruption",
-                Icon = "spell_shadow_abominationexplosion",
-                Name = IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption,
-                Effect = IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption,
+                Id = "11672",
+                Icon = "Spell_Shadow_AbominationExplosion",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11672,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11672,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "11712",
+                Icon = "Spell_Shadow_CurseOfSargeras",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11712,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11712,
                 Flags = {IMAF.Curse}
+            },
+            [3] = {
+                Id = "57748",
+                Icon = "Spell_Nature_Lightning",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748
             }
         }
     },

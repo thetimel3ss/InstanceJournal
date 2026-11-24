@@ -4783,9 +4783,17 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
         "施法5秒，呼唤罗塔格。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "雷角"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "先知谈论将要发生的事情。如果先知暴蹄真的这么做了，也没有人会把它写下来。"
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "腐蚀术"
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "暴蹄会腐化一名随机敌人，随着时间的推移造成暗影伤害。"
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof =
+        "雷角领导着死亡图腾，这是恐怖图腾中一个通过与黑暗势力交易来追求力量的秘密分支。他的追随者从风角峡谷出发，威胁着牛头人部族之间脆弱的和平。当凯恩·血蹄得知这个教派的消息后，大酋长要求消灭风暴蹄，以终结其阴谋并维护部族的团结。"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11672 = "腐蚀术"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11672 =
+        "腐蚀一名随机敌人，每3秒造成一次暗影伤害，持续18秒。驱散此魔法效果。"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11712 = "痛苦诅咒"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11712 =
+        "在24秒内造成暗影伤害，伤害随时间增加。解除此诅咒。"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748 = "灵魂哀嚎"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
+        "对附近的敌人造成暗影伤害，燃烧其法力值并将其击退。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "酋长沙尔克・黑风"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "他征服了。他统治。除此之外，峡谷中没有任何酋长沙克·黑风的踪影。"
     IJ_LOOT_NAME_33048 = "风角之心"

@@ -4518,7 +4518,17 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
         "Fait appel à Rotag avec une incantation de 5 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophète Sabot-Tempête"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Les prophètes parlent des choses à venir. Si le prophète Stormhoof l’a jamais fait, il ne restait plus personne pour l’écrire."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof =
+        "Prophète Sabot-Tempête dirige les Deathtotem, une branche secrète des Totems-sinistres qui recherche le pouvoir par des pactes avec des forces obscures. Depuis le canyon Corne du Vent, ses fidèles menacent la paix fragile entre les tribus taurènes. Lorsque Cairne Sabot-de-Sang apprend l’existence du culte, le grand chef réclame la mort de Sabot-Tempête pour mettre fin à ses projets et préserver l’unité des tribus."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11672 = "Corruption"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11672 =
+        "Corrompt un ennemi aléatoire, lui infligeant des dégâts d’Ombre toutes les 3 s pendant 18 s. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11712 = "Malédiction d’agonie"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11712 =
+        "Inflige des dégâts d’Ombre pendant 24 s, qui augmentent avec le temps. Dissipez cette malédiction."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748 = "Lamentation des âmes"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
+        "Inflige des dégâts d’Ombre aux ennemis proches, brûle leur mana et les repousse."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Chef Shalk Vent Noir"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Il a vaincu. Il règne. Au-delà de cela, le canyon n’offre rien du Chieftain Shalk Blackwind."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Flamme d’ombre"
@@ -4571,8 +4581,6 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Éclair de givre"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Inflige des dégâts de Givre et réduit la vitesse de déplacement de la cible de 40% pendant 7 s.\n\nDissipez cet effet magique."
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Corruption"
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Stormhoof corrompt un ennemi aléatoire, infligeant des dégâts d'ombre au fil du temps."
     IJ_SPELL_NAME_5503 = "Détecter les morts-vivants"
     IJ_QUEST_NAME_1654 = "Le test de la justice"
     IJ_QUEST_OBJECTIVE_1654 =

@@ -4566,7 +4566,16 @@ if GetLocale() == "ruRU" then
         "Взывает к Ротагу, произнося заклинание в течение 5 сек."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Пророк Штормовое Копыто"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof =
-        "Пророки говорят о будущем. Если Пророк Штормовое Копытце когда-либо и сделал это, то некому было бы это записать."
+        "Пророк Штормовое Копыто возглавляет Тотем Смерти, тайную ветвь Зловещего Тотема, ищущую могущество через сделки с тёмными силами. Из каньона Уиндхорн его последователи угрожают хрупкому миру между племенами тауренов. Когда вести о культе достигают Кэрна Кровавого Копыта, верховный вождь требует смерти пророка, чтобы положить конец его замыслам и сохранить единство племён."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11672 = "Порча"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11672 =
+        "Поражает случайного противника порчей, нанося урон от темной магии каждые 3 сек. в течение 18 сек. Рассеяйте этот магический эффект."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11712 = "Проклятие агонии"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11712 =
+        "Наносит урон от темной магии в течение 24 сек., усиливающийся со временем. Снимите это проклятие."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748 = "Вопль душ"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
+        "Наносит урон от темной магии ближайшим противникам, сжигает их ману и отбрасывает их."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Вождь Шалк Черный Ветер"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Он победил. Он правит. Помимо этого, в каньоне нет ничего от вождя Шалка Блэквинда."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Темное пламя"
@@ -4620,9 +4629,6 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Ледяная стрела"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Наносит урон от магии льда и снижает скорость передвижения цели на 40% на 7 сек.\n\nРассеяйте этот магический эффект."
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Коррупция"
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption =
-        "Штормовое Копыто оскверняет случайного врага, нанося периодический урон от темной магии."
     IJ_SPELL_NAME_5503 = "Чувствовать нежить"
     IJ_QUEST_NAME_1654 = "Испытание праведности"
     IJ_QUEST_OBJECTIVE_1654 =

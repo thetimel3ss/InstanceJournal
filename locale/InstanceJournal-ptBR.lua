@@ -4509,7 +4509,17 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
         "Chama por Rotag com um lançamento de 5 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Profeta Casco Tempestuoso"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Os profetas falam de coisas que virão. Se o Profeta Casco Tempestuoso alguma vez o fez, não sobrou ninguém para anotá-lo."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof =
+        "Profeta Casco Tempestuoso lidera os Deathtotem, um ramo secreto dos Grimtotem que busca poder por meio de acordos com forças sombrias. A partir do Desfiladeiro Chifre do Vento, seus seguidores ameaçam a frágil paz entre as tribos taurens. Quando os relatos sobre o culto chegam a Cairne Bloodhoof, o Grande Chefe ordena a morte de Casco Tempestuoso para pôr fim aos seus planos e preservar a união das tribos."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11672 = "Corrupção"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11672 =
+        "Corrompe um inimigo aleatório, causando dano de Sombra a cada 3 s por 18 s. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11712 = "Maldição da Agonia"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11712 =
+        "Causa dano de Sombra ao longo de 24 s, com dano crescente ao longo do tempo. Remova esta maldição."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748 = "Lamento das Almas"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
+        "Causa dano de Sombra aos inimigos próximos, queima a mana deles e os repele."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Chefe Shalk Vento Negro"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Ele conquistou. Ele governa. Além disso, o cânion não oferece nada do Chefe Shalk Blackwind."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Chama Sombria"
@@ -4561,8 +4571,6 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Seta de Gelo"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Causa dano de Gelo e reduz a velocidade de movimento do alvo em 40% por 7 s.\n\nDissipe este efeito mágico."
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Corrupção"
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Stormhoof corrompe um inimigo aleatório, causando dano de sombra ao longo do tempo."
     IJ_SPELL_NAME_5503 = "Sentir mortos-vivos"
     IJ_QUEST_NAME_1654 = "O Teste da Justiça"
     IJ_QUEST_OBJECTIVE_1654 =

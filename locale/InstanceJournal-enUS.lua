@@ -4658,9 +4658,17 @@ IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_NAME_42004 = "Summon Rotag"
 IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
     "Calls upon Rotag with a 5 sec. cast."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophet Stormhoof"
-IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Prophets speak of things to come. If Prophet Stormhoof ever did, no one was left to write it down."
-IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Corruption"
-IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Stormhoof corrupts a random enemy, dealing shadow damage over time."
+IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof =
+    "Prophet Stormhoof leads the Deathtotem, a secretive branch of the Grimtotem that seeks power through dealings with dark forces. From Windhorn Canyon, his followers threaten the fragile peace between the tauren tribes. When reports of the cult reach Cairne Bloodhoof, the High Chieftain calls for Stormhoof’s death to end its schemes and preserve the tribes’ unity."
+IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11672 = "Corruption"
+IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11672 =
+    "Corrupts a random enemy, dealing Shadow damage every 3 sec. for 18 sec. Dispel this Magic effect."
+IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11712 = "Curse of Agony"
+IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11712 =
+    "Deals Shadow damage over 24 sec., with damage increasing over time. Remove this Curse."
+IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748 = "Wail of Souls"
+IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
+    "Deals Shadow damage to nearby enemies, burns their mana and knocks them back."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Chieftain Shalk Blackwind"
 IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "He conquered. He rules. Beyond that, the canyon offers nothing of Chieftain Shalk Blackwind."
 

@@ -4518,7 +4518,17 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
         "Llama a Rotag con un lanzamiento de 5 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Profeta Pezuña Tormenta"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Los profetas hablan de lo que vendrá. Si el Profeta Stormhoof alguna vez lo hizo, no quedó nadie para escribirlo."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof =
+        "Profeta Pezuña Tormenta lidera a los Deathtotem, una rama secreta de los Tótem Siniestro que busca poder mediante pactos con fuerzas oscuras. Desdel Cañón del Cuerno de Viento, sus seguidores amenazan la frágil paz entre las tribus tauren. Cuando Cairne Pezuña de Sangre recibe noticias del culto, el Gran Jefe ordena la muerte de Pezuña Tormenta para acabar con sus planes y preservar la unidad de las tribus."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11672 = "Corrupción"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11672 =
+        "Corrompe a un enemigo aleatorio, infligiendo daño de las Sombras cada 3 s durante 18 s. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11712 = "Maldición de agonía"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11712 =
+        "Inflige daño de las Sombras durante 24 s, aumentando con el tiempo. Elimina esta maldición."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748 = "Lamento de almas"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
+        "Inflige daño de las Sombras a los enemigos cercanos, quema su maná y los repele."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Cacique Chalk Viento Negro"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Él conquistó. Él gobierna. Más allá de eso, el cañón no ofrece nada del Cacique Shalk Blackwind."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Llama de las Sombras"
@@ -4571,8 +4581,6 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Descarga de Escarcha"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Inflige daño de Escarcha y reduce la velocidad de movimiento del objetivo un 40% durante 7 s.\n\nDisipa este efecto mágico."
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Corrupción"
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Stormhoof corrompe a un enemigo aleatorio y le inflige daño de las sombras con el tiempo."
     IJ_SPELL_NAME_5503 = "Sentir no-muertos"
     IJ_QUEST_NAME_1654 = "La prueba de la justicia"
     IJ_QUEST_OBJECTIVE_1654 =

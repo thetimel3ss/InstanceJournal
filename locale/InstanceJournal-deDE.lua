@@ -4519,7 +4519,17 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WHC_BOSS_narlgom_ABILITY_EFFECT_42004 =
         "Ruft Rotag mit einer Zauberzeit von 5 Sek. an."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophet Sturmhuf"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof = "Propheten sprechen von zukünftigen Dingen. Wenn der Prophet Sturmhuf es jemals tat, blieb niemand übrig, der es niederschreiben konnte."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_stormhoof =
+        "Prophet Sturmhuf führt die Deathtotem an, einen geheimen Zweig der Grimmtotem, der durch Bündnisse mit dunklen Mächten nach Macht strebt. Vom Windhorn Canyon aus bedrohen seine Anhänger den zerbrechlichen Frieden zwischen den Taurenstämmen. Als Cairne Bluthuf vom Kult erfährt, fordert der Oberhäuptling Sturmhufs Tod, um dessen Pläne zu beenden und die Einheit der Stämme zu bewahren."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11672 = "Verderbnis"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11672 =
+        "Verdirbt einen zufälligen Gegner und verursacht 18 Sek. lang alle 3 Sek. Schattenschaden. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_11712 = "Fluch der Pein"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_11712 =
+        "Verursacht über 24 Sek. Schattenschaden, der mit der Zeit zunimmt. Entfernt diesen Fluch."
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748 = "Klage der Seelen"
+    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
+        "Fügt nahen Gegnern Schattenschaden zu, verbrennt ihr Mana und stößt sie zurück."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Häuptling Shalk Blackwind"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Er hat gesiegt. Er regiert. Darüber hinaus bietet die Schlucht nichts von Häuptling Shalk Blackwind."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Schattenflamme"
@@ -4572,8 +4582,6 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Frostblitz"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Verursacht Frostschaden und verringert das Bewegungstempo des Ziels 7 Sek. lang um 40%.\n\nBannt diesen magischen Effekt."
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Korruption"
-    IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Sturmhuf verdirbt einen zufälligen Feind und verursacht im Laufe der Zeit Schattenschaden."
     IJ_SPELL_NAME_5503 = "Untote spüren"
     IJ_QUEST_NAME_1654 = "Der Test der Gerechtigkeit"
     IJ_QUEST_OBJECTIVE_1654 =
