@@ -110,7 +110,7 @@ No original Blizzard Encounter Journal code was used; the addon was recreated fr
 [Blizzard](https://www.blizzard.com) - Original Encounter Journal, UI elements  
 [Speedz](https://forum.turtlecraft.gg/viewtopic.php?t=14904) - Boss artwork assistance  
 [cat-nep](https://github.com/cat-nep) - Ability writing assistance  
-[thetimel3ss](https://github.com/thetimel3ss) - Boss abilities, OctoWoW data changes and cleanup  
+[Timeless](https://github.com/thetimel3ss) - Boss abilities, OctoWoW data changes and cleanup  
 [byCFM2](https://github.com/byCFM2) - AtlasTW Data  
 [tilare](https://github.com/tilare)  
 Aeliren - Boss stories lore fact-checking and assistance

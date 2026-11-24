@@ -4530,7 +4530,14 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
         "Inflige des dégâts d’Ombre aux ennemis proches, brûle leur mana et les repousse."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Chef Shalk Vent Noir"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Il a vaincu. Il règne. Au-delà de cela, le canyon n’offre rien du Chieftain Shalk Blackwind."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk =
+        "Chef Shalk Vent Noir règne sur les taurens Vent Noir qui occupent le canyon Corne du Vent, autrefois foyer et refuge de la tribu Corne du Vent. La conquête des Totems-sinistres a poussé les anciens habitants à l’exil et mis leurs reliques ancestrales en péril. Alors que les aventuriers progressent dans la forteresse prise, Shalk en demeure le dernier défenseur, soutenu par ses fidèles gardes de sang."
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_19471 = "Charge de berserker"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_19471 =
+        "Charge un ennemi, lui inflige des dégâts physiques et le repousse."
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_41121 = "Flamme de Shalk"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_41121 =
+        "Inflige des dégâts de Feu toutes les 5 s et réduit les soins reçus de 50% pendant 60 s."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Flamme d’ombre"
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_EFFECT_22539 = "Inflige des dégâts d’Ombre aux ennemis dans un cône frontal.\n\nOrientez Gueule-de-feu à l’opposé du raid."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22682 = "Dégâts de Flamme d’ombre"

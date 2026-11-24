@@ -253,7 +253,7 @@ WHC.Bosses = {
             }
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "shalk",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "shalk" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "shalk" .. IMPF,
@@ -261,6 +261,20 @@ WHC.Bosses = {
         Story = IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk,
         MapCoordinateX = 48.6,
         MapCoordinateY = 44.0,
+        Abilities = {
+            [1] = {
+                Id = "19471",
+                Icon = "Ability_Warrior_Charge",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_19471,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_19471
+            },
+            [2] = {
+                Id = "41121",
+                Icon = "Spell_Holy_Excorcism_02",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_41121,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_41121
+            }
+        },
         Loot = {
             [1] = {IJDB.I[33047], DropChance = 33},
             [2] = {IJDB.I[33046], DropChance = 33},

@@ -10,6 +10,7 @@ All changes to this project will be documented in this file.
 
 ### Changed
 
+- Updated boss abilities and expanded boss lore in `Windhorn Canyon`
 - Updated boss abilities and spell references in `The Stockade`
 - Updated boss abilities and spell references in `The Deadmines`
 - Updated boss abilities and expanded selected boss lore in `Frostmane Hollow`

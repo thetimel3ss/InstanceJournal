@@ -4521,7 +4521,14 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
         "Causa dano de Sombra aos inimigos próximos, queima a mana deles e os repele."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Chefe Shalk Vento Negro"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Ele conquistou. Ele governa. Além disso, o cânion não oferece nada do Chefe Shalk Blackwind."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk =
+        "Chefe Shalk Vento Negro governa os taurens Vento Negro que ocupam o Desfiladeiro Chifre do Vento, outrora lar e refúgio da tribo Chifre do Vento. A conquista dos Grimtotem levou os antigos habitantes ao exílio e colocou suas relíquias ancestrais em risco. Enquanto os aventureiros avançam pela fortaleza tomada, Shalk permanece como seu último defensor, apoiado por seus leais guardas de sangue."
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_19471 = "Investida do Berserker"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_19471 =
+        "Investe contra um inimigo, causando dano Físico e o repelindo."
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_41121 = "Chama de Shalk"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_41121 =
+        "Causa dano de Fogo a cada 5 s e reduz a cura recebida em 50% por 60 s."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Chama Sombria"
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_EFFECT_22539 = "Causa dano de Sombra aos inimigos em um cone frontal.\n\nMantenha Firemaw virado para longe da raid."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22682 = "Dano de Chama Sombria"

@@ -4531,7 +4531,14 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
         "Fügt nahen Gegnern Schattenschaden zu, verbrennt ihr Mana und stößt sie zurück."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Häuptling Shalk Blackwind"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Er hat gesiegt. Er regiert. Darüber hinaus bietet die Schlucht nichts von Häuptling Shalk Blackwind."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk =
+        "Häuptling Shalk Blackwind herrscht über die Blackwind-Tauren, die den Windhorn Canyon besetzen, einst Heimat und Zuflucht des Windhorn-Stamms. Die Eroberung durch die Grimmtotem vertrieb die früheren Bewohner ins Exil und gefährdete ihre Ahnenrelikte. Während Abenteurer in die eroberte Festung vordringen, steht Shalk als letzter Verteidiger bereit, unterstützt von seinen treuen Blutwachen."
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_19471 = "Berserkeransturm"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_19471 =
+        "Stürmt auf einen Gegner zu, fügt ihm körperlichen Schaden zu und stößt ihn zurück."
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_41121 = "Flamme von Shalk"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_41121 =
+        "Verursacht 60 Sek. lang alle 5 Sek. Feuerschaden und verringert die erhaltene Heilung um 50%."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Schattenflamme"
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_EFFECT_22539 = "Fügt Gegnern in einem frontalen Kegel Schattenschaden zu.\n\nDreht Feuerschwinge vom Schlachtzug weg."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22682 = "Schattenflammenschaden"

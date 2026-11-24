@@ -4670,7 +4670,14 @@ IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_57748 = "Wail of Souls"
 IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
     "Deals Shadow damage to nearby enemies, burns their mana and knocks them back."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Chieftain Shalk Blackwind"
-IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "He conquered. He rules. Beyond that, the canyon offers nothing of Chieftain Shalk Blackwind."
+IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk =
+    "Chieftain Shalk Blackwind rules the Blackwind tauren occupying Windhorn Canyon, once a home and sanctuary of the Windhorn tribe. The Grimtotem conquest drove the former inhabitants into exile and left their ancestral relics at risk. As adventurers push into the seized stronghold, Shalk stands as its final defender, backed by his loyal bloodguards."
+IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_19471 = "Berserker Charge"
+IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_19471 =
+    "Charges at an enemy, dealing Physical damage and knocking them back."
+IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_41121 = "Flame of Shalk"
+IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_41121 =
+    "Deals Fire damage every 5 sec. and reduces healing received by 50% for 60 sec."
 
 -- WHC Loot
 IJ_LOOT_NAME_33048 = "Heart of Windhorn"

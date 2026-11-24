@@ -4795,7 +4795,14 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
         "对附近的敌人造成暗影伤害，燃烧其法力值并将其击退。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "酋长沙尔克・黑风"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "他征服了。他统治。除此之外，峡谷中没有任何酋长沙克·黑风的踪影。"
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk =
+        "酋长沙尔克・黑风统治着占据风角峡谷的黑风牛头人，这里曾是风角部族的家园和避难所。恐怖图腾的征服迫使原住民流亡，也使其祖传遗物面临危险。当冒险者深入这座被夺取的要塞时，沙尔克在忠诚血卫的支持下，成为其最后的守卫。"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_19471 = "狂暴冲锋"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_19471 =
+        "向一名敌人冲锋，造成物理伤害并将其击退。"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_41121 = "沙尔克之焰"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_41121 =
+        "每5秒造成一次火焰伤害，并使受到的治疗效果降低50%，持续60秒。"
     IJ_LOOT_NAME_33048 = "风角之心"
     IJ_LOOT_NAME_70243 = "图样：恐怖图腾护腕"
     IJ_LOOT_NAME_70242 = "图鉴：科多之心项链"

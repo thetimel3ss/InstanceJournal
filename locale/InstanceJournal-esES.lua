@@ -4530,7 +4530,14 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_57748 =
         "Inflige daño de las Sombras a los enemigos cercanos, quema su maná y los repele."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_shalk = "Cacique Chalk Viento Negro"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk = "Él conquistó. Él gobierna. Más allá de eso, el cañón no ofrece nada del Cacique Shalk Blackwind."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_shalk =
+        "Cacique Chalk Viento Negro gobierna a los tauren Viento Negro que ocupan el Cañón del Cuerno de Viento, antaño hogar y refugio de la tribu Cuerno de Viento. La conquista de los Tótem Siniestro llevó a sus antiguos habitantes al exilio y puso en peligro sus reliquias ancestrales. Mientras los aventureros avanzan por la fortaleza tomada, Shalk se alza como su último defensor, respaldado por sus leales guardias de sangre."
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_19471 = "Carga de rabioso"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_19471 =
+        "Carga contra un enemigo, infligiendo daño físico y repeliéndolo."
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_NAME_41121 = "Llama de Shalk"
+    IJ_DB_DUNGEON_WHC_BOSS_shalk_ABILITY_EFFECT_41121 =
+        "Inflige daño de Fuego cada 5 s y reduce la sanación recibida un 50% durante 60 s."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22539 = "Llama de las Sombras"
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_EFFECT_22539 = "Inflige daño de las Sombras a los enemigos en un cono frontal.\n\nMantén a Faucefogo de espaldas a la banda."
     IJ_DB_RAID_BWL_BOSS_11983_ABILITY_NAME_22682 = "Daño de Llama de las Sombras"
