@@ -334,11 +334,12 @@ IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1720 =
     "An elusive dwarf, rarely seen among the general incarcerated population of Stormwind's Stockades. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."
 IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1663 = "Dextren Ward"
 IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1663 = "Ward had been caught stealing bodies from Raven Hill Cemetery and selling them to Morbent Fel, a crime that ultimately led to his capture and grim notoriety."
-IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_5246 = "Frightening Shout"
-IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_5246 =
-    "Dextren Ward shouts at nearby enemies, causing them to flee in fear for 6 seconds.\n\nMake sure to clear the rooms around the encounter or you might accidentally overpull while feared!"
+IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_19134 = "Intimidating Shout"
+IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_19134 =
+    "Causes the targeted enemy to cower in fear and nearby enemies to flee for 8 sec.\n\nClear the nearby rooms before engaging to avoid pulling additional enemies while feared."
 IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_11976 = "Strike"
-IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 = "Dextren Ward strikes his target for additional physical damage."
+IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 =
+    "Deals Physical damage to an enemy."
 
 -- Stockades Loot
 IJ_LOOT_NAME_80721 = "Heavy Prison Cuffs"

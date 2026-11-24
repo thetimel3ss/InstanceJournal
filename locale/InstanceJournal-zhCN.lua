@@ -431,11 +431,12 @@ if GetLocale() == "zhCN" then
         "一个难以捉摸的矮人，在暴风城监狱的一般囚犯中很少见到。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1663 = "迪克斯特·瓦德"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1663 = "沃德因从乌鸦山公墓偷走尸体并将其卖给莫本特·费尔而被捕，这一犯罪行为最终导致他被捕并声名狼藉。"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_5246 = "破胆怒吼"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_5246 =
-        "德克斯特伦·沃德对附近的敌人大喊大叫，导致他们在恐惧中逃跑 6 秒。\n \n确保清理遭遇战周围的房间，否则你可能会在害怕时意外过度拉力！"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_19134 = "破胆怒吼"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_19134 =
+        "使目标因恐惧而畏缩，并使附近的敌人逃跑，持续8秒。\n\n开战前清理附近的房间，以免在恐惧期间引来更多敌人。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_11976 = "打击"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 = "德克斯特伦·沃德 (迪克斯特·瓦德) 攻击目标时会造成额外物理伤害。"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 =
+        "对一名敌人造成物理伤害。"
 
     -- Stockades Loot
     IJ_LOOT_NAME_80721 = "重型监狱镣铐"

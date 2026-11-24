@@ -183,16 +183,16 @@ STOCKADES.Bosses = {
         MapCoordinateY = 20.9,
         Abilities = {
             [1] = {
-                Id = "5246", 
-                Icon = "Ability_GolemThunderClap", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_5246, 
-                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_5246, 
+                Id = "19134",
+                Icon = "Ability_GolemThunderClap",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_19134,
+                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_19134,
                 Flags = {IMAF.Important}
             },
             [2] = {
-                Id = "11976", 
-                Icon = "Ability_Rogue_Ambush", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_11976, 
+                Id = "11976",
+                Icon = "Ability_Rogue_Ambush",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_11976,
                 Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976
             }
         },

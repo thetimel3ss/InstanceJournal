@@ -10,6 +10,7 @@ All changes to this project will be documented in this file.
 
 ### Changed
 
+- Updated boss abilities and spell references in `The Stockade`
 - Updated boss abilities and spell references in `The Deadmines`
 - Updated boss abilities and expanded selected boss lore in `Frostmane Hollow`
 - Corrected boss spell references and clarified ability descriptions in `Ragefire Chasm`

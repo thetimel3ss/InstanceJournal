@@ -353,11 +353,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1663 = "Dextren Ward"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1663 =
         "Ward war dabei erwischt worden, wie er Leichen vom Raven Hill Cemetery stahl und sie an Morbent Fel verkaufte, ein Verbrechen, das letztendlich zu seiner Gefangennahme und düsteren Berühmtheit führte."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_5246 = "Erschreckender Schrei"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_5246 =
-        "Dextren Ward schreit Gegner in der Nähe an und lässt sie 6 Sekunden lang voller Angst fliehen.\n\nStellen Sie sicher, dass Sie die Räume rund um die Begegnung räumen, sonst könnten Sie aus Angst versehentlich überziehen!"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_19134 = "Drohruf"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_19134 =
+        "Lässt das Ziel vor Furcht erstarren und nahe Gegner 8 Sek. lang fliehen.\n\nRäumt vor dem Kampf die nahen Räume, um während der Furcht keine weiteren Gegner anzulocken."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_11976 = "Schlagen"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 = "Dextren Ward trifft sein Ziel und fügt ihm zusätzlichen physischen Schaden zu."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 =
+        "Fügt einem Gegner körperlichen Schaden zu."
 
     -- SV
     IJ_DB_DUNGEON_SV_NAME = "Sturmwind-Tresor"

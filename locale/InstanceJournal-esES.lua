@@ -352,11 +352,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1663 = "Barrio Dextren"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1663 =
         "Ward había sido sorprendido robando cuerpos del cementerio de Raven Hill y vendiéndolos a Morbent Fel, un crimen que finalmente lo llevó a su captura y a su sombría notoriedad."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_5246 = "Grito aterrador"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_5246 =
-        "Dextren Ward les grita a los enemigos cercanos, lo que hace que huyan aterrorizados durante 6 segundos. ||norte||  ||norte|| ¡Asegúrate de despejar las habitaciones alrededor del encuentro o podrías tirar demasiado accidentalmente mientras tienes miedo!"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_19134 = "Grito intimidador"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_19134 =
+        "Hace que el objetivo se encoja de miedo y los enemigos cercanos huyan durante 8 s.\n\nDespeja las salas cercanas antes del combate para evitar atraer a más enemigos durante el miedo."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_11976 = "Huelga"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 = "Dextren Ward golpea a su objetivo y le inflige daño físico adicional."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 =
+        "Inflige daño físico a un enemigo."
 
     -- SV
     IJ_DB_DUNGEON_SV_NAME = "Bóveda de Ventormenta"

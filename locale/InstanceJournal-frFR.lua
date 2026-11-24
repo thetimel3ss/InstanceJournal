@@ -351,11 +351,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1663 = "Quartier Dextre"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1663 =
         "Ward avait été surpris en train de voler des corps au cimetière de Raven Hill et de les vendre à Morbent Fel, un crime qui a finalement conduit à sa capture et à sa sombre notoriété."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_5246 = "Cri effrayant"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_5246 =
-        "Dextre Ward crie sur les ennemis proches, les faisant fuir de peur pendant 6 secondes.\n\nAssurez-vous de vider les pièces autour de la rencontre, sinon vous pourriez accidentellement surcharger si vous avez peur !"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_19134 = "Cri d'intimidation"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_19134 =
+        "Fige la cible de peur et fait fuir les ennemis proches pendant 8 s.\n\nVidez les salles proches avant le combat pour éviter d’attirer d’autres ennemis sous l’effet de la peur."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_11976 = "Grève"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 = "Dextre Ward frappe sa cible et lui inflige des dégâts physiques supplémentaires."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 =
+        "Inflige des dégâts physiques à un ennemi."
 
     -- SV
     IJ_DB_DUNGEON_SV_NAME = "Coffre de Hurlevent"

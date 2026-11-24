@@ -351,11 +351,12 @@ if GetLocale() == "ptBR" then
         "Um anão esquivo, raramente visto entre a população encarcerada das Paliçadas de Ventobravo. Diz-se que ele possui muitos itens cobiçados que muitos gostariam de poder colocar em suas mãos, se ao menos pudessem encontrá-lo em primeiro lugar..."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1663 = "Ala Dextren"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1663 = "Ward foi pego roubando corpos do Cemitério Raven Hill e vendendo-os para Morbent Fel, um crime que levou à sua captura e à sua sombria notoriedade."
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_5246 = "Grito assustador"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_5246 =
-        "Dextren Ward grita com os inimigos próximos, fazendo-os fugir de medo por 6 segundos.\n\nCertifique-se de limpar as salas ao redor do encontro ou você pode acidentalmente sobrecarregar enquanto estiver com medo!"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_19134 = "Brado Intimidador"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_19134 =
+        "Faz o alvo se encolher de medo e os inimigos próximos fugirem por 8 s.\n\nLimpe as salas próximas antes de iniciar a luta para evitar atrair outros inimigos durante o medo."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_NAME_11976 = "Batida"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 = "Dextren Ward atinge seu alvo causando dano físico adicional."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1663_ABILITY_EFFECT_11976 =
+        "Causa dano Físico a um inimigo."
 
     -- SV
     IJ_DB_DUNGEON_SV_NAME = "Cofre de Ventobravo"
