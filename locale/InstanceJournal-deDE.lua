@@ -4461,7 +4461,17 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Botschafter Vortalus"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Im Windhorn Canyon gibt es keine Aufzeichnungen über Botschafter Vortalus – nur den Titel und die damit verbundene Bedrohung."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Duskhide"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun = "Was auch immer Pathun Duskhide in die Schlucht brachte, es wurde nicht aufgezeichnet. Was auch immer ihn dort gehalten hat, noch weniger."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
+        "Pathun Duskhide ist der Meister der Jagd im Windhorn Canyon. Mit Hakennetzen und der rohen Kraft eines Jägers macht er die besetzte Schlucht zu seinem Jagdrevier und streckt Eindringlinge mit zermalmenden Stampfern nieder."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_14030 = "Hakennetz"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_14030 =
+        "Fügt einem Gegner körperlichen Schaden zu und macht ihn für 10 Sek. bewegungsunfähig."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_11554 = "Demoralisierender Ruf"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_11554 =
+        "Verringert die Nahkampfangriffskraft naher Gegner für 30 Sek."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_6266 = "Kodostampfen"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
+        "Fügt nahen Gegnern körperlichen Schaden zu und betäubt sie für 3 Sek."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos der Reine"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Rein in welcher Hinsicht und nach wessen Maß – diejenigen, die hätten antworten können, sind schon lange aus dem Windhorn Canyon verschwunden."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan-Blutrufer"

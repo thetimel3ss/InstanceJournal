@@ -4451,7 +4451,17 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Embaixador Vortalus"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Windhorn Canyon não possui nenhum registro do Embaixador Vortalus - apenas o título e a ameaça que isso implica."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Couro do Crepúsculo"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun = "O que quer que tenha trazido Pathun Duskhide ao cânion não foi registrado. O que quer que o tenha mantido ali, menos ainda."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
+        "Pathun Couro do Crepúsculo é o Mestre da Caça no Desfiladeiro Chifre do Vento. Armado com redes farpadas e a força brutal de um caçador, ele transforma o cânion ocupado em seu território de caça e derruba os intrusos com pisadas esmagadoras."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_14030 = "Rede Farpada"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_14030 =
+        "Causa dano Físico a um inimigo e o enraíza por 10 s."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_11554 = "Brado Desmoralizador"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_11554 =
+        "Reduz o poder de ataque corpo a corpo dos inimigos próximos por 30 s."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_6266 = "Pisada do Kodo"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
+        "Causa dano Físico aos inimigos próximos e os atordoa por 3 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos, o Puro"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Puro em que aspecto e em que medida - aqueles que poderiam ter respondido já se foram há muito tempo do Windhorn Canyon."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Invocador de Sangue"

@@ -4460,7 +4460,17 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Ambassadeur Vortalus"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Windhorn Canyon ne détient aucune trace de l'Ambassadeur Vortalus - seulement le titre et la menace qu'il implique."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Peau du Crépuscule"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun = "Ce qui a amené Pathun Duskhide au canyon, cela n’a pas été enregistré. Ce qui l'avait retenu là-bas, l'était encore moins."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
+        "Pathun Peau du Crépuscule est le maître de la chasse du canyon Corne du Vent. Armé de filets à crochets et de la force brutale d’un chasseur, il fait du canyon occupé son terrain de chasse et abat les intrus à coups de piétinements dévastateurs."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_14030 = "Filet à crochets"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_14030 =
+        "Inflige des dégâts physiques à un ennemi et l’immobilise pendant 10 s."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_11554 = "Cri démoralisant"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_11554 =
+        "Réduit la puissance d’attaque en mêlée des ennemis proches pendant 30 s."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_6266 = "Piétinement de kodo"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
+        "Inflige des dégâts physiques aux ennemis proches et les étourdit pendant 3 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos le Pur"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Purs à cet égard et selon quelle mesure - ceux qui auraient pu répondre sont partis depuis longtemps du Windhorn Canyon."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Invocateur de sang"

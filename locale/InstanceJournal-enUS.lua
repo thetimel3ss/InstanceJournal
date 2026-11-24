@@ -4604,7 +4604,17 @@ IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus stuns a random e
 IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Chain Lightning"
 IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "Vortalus creates a lightning bolt that chains between all enemies."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Duskhide"
-IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun = "Whatever brought Pathun Duskhide to the canyon, it was not recorded. Whatever kept him there, even less so."
+IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
+    "Pathun Duskhide is the Master of Hunt within Windhorn Canyon. Armed with hooked nets and a hunter’s brutal strength, he turns the occupied canyon into his hunting ground and brings down intruders with crushing stomps."
+IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_14030 = "Hooked Net"
+IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_14030 =
+    "Deals Physical damage to an enemy and roots them for 10 sec."
+IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_11554 = "Demoralizing Shout"
+IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_11554 =
+    "Reduces the melee attack power of nearby enemies for 30 sec."
+IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_6266 = "Kodo Stomp"
+IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
+    "Deals Physical damage to nearby enemies and stuns them for 3 sec."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos the Pure"
 IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Pure in what regard, and by whose measure - those who might have answered are long gone from Windhorn Canyon."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Bloodcaller"

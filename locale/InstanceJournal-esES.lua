@@ -4460,7 +4460,17 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Embajador Vortalus"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Windhorn Canyon no tiene ningún registro del Embajador Vortalus, sólo el título y la amenaza que implica."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Piel Oscura"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun = "Lo que sea que llevó a Pathun Duskhide al cañón, no fue registrado. Lo que sea que lo mantuviera allí, menos aún."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
+        "Pathun Piel Oscura es el Maestro de la Caza del Cañón del Cuerno de Viento. Armado con redes de ganchos y la fuerza brutal de un cazador, convierte el cañón ocupado en su coto de caza y derriba a los intrusos con pisotones aplastantes."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_14030 = "Red con ganchos"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_14030 =
+        "Inflige daño físico a un enemigo y lo inmoviliza durante 10 s."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_11554 = "Grito desmoralizador"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_11554 =
+        "Reduce el poder de ataque cuerpo a cuerpo de los enemigos cercanos durante 30 s."
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_6266 = "Pisotón de kodo"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
+        "Inflige daño físico a los enemigos cercanos y los aturde durante 3 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos el Puro"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Puro en qué sentido y en qué medida: aquellos que podrían haber respondido ya no están en Windhorn Canyon."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Clamasangre Walgan"

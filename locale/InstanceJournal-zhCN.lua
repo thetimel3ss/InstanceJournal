@@ -4729,7 +4729,17 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "闪电链"
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "沃塔勒斯制造出一道闪电，将所有敌人束缚在一起。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "帕斯恩・暮皮"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun = "到底是什么让巴吞·暮色来到了峡谷，却没有被记录下来。无论是什么让他留在那里，甚至更不如此。"
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
+        "帕斯恩・暮皮是风角峡谷的狩猎大师。他以钩网和猎人的蛮力为武器，将被占领的峡谷化作自己的猎场，用沉重的践踏击倒闯入者。"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_14030 = "钩网"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_14030 =
+        "对一名敌人造成物理伤害并使其定身10秒。"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_11554 = "挫志怒吼"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_11554 =
+        "降低附近敌人的近战攻击强度，持续30秒。"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_6266 = "科多兽践踏"
+    IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
+        "对附近的敌人造成物理伤害并使其昏迷3秒。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "纯洁者阿格图斯"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "纯粹在什么方面，以及以谁的标准来衡量——那些可能回答的人早已从风角峡谷消失了。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "瓦尔根・唤血者"

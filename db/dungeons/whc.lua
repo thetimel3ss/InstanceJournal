@@ -30,7 +30,7 @@ WHC.Entrances = {
     }
 }
 WHC.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "pathun",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "pathun" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "pathun" .. IMPF,
@@ -38,6 +38,26 @@ WHC.Bosses = {
         Story = IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun,
         MapCoordinateX = 33.1,
         MapCoordinateY = 44.3,
+        Abilities = {
+            [1] = {
+                Id = "14030",
+                Icon = "Ability_Ensnare",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_14030,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_14030
+            },
+            [2] = {
+                Id = "11554",
+                Icon = "Ability_Warrior_WarCry",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_11554,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_11554
+            },
+            [3] = {
+                Id = "6266",
+                Icon = "Ability_WarStomp",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_6266,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266
+            }
+        },
         Loot = {
             [1] = {IJDB.I[33025], DropChance = 25}, 
             [2] = {IJDB.I[33026], DropChance = 25}, 
