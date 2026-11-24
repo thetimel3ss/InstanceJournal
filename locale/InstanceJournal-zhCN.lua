@@ -4723,11 +4723,17 @@ if GetLocale() == "zhCN" then
 
     -- WHC Bosses
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "沃尔塔卢斯大使"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "风角峡谷没有沃塔罗斯大使的记录——只有头衔和它所暗示的威胁。"
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus =
+        "沃尔塔卢斯大使是空气元素与占据风角峡谷的黑风牛头人联盟的核心人物。大地之环追查到的一份敕令揭示，元素趁组织防御薄弱之际策划了协同攻击。盟约的目的仍不明确，舒沃因此派遣一名萨满祭司前去放逐沃塔鲁斯，以阻止他们进一步推进计划。"
     IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "阵风"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "沃塔洛斯随机击晕一名敌人，使其在 4 秒内无法移动或攻击。"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "闪电链"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "沃塔勒斯制造出一道闪电，将所有敌人束缚在一起。"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 =
+        "使附近的敌人昏迷4秒。"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_22355 = "闪电链"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_22355 =
+        "以闪电造成自然伤害，最多在3个目标之间跳跃。"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_36578 = "吞噬漩涡"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_36578 =
+        "每3秒对附近的敌人造成一次自然伤害，并使其命中几率降低10%。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "帕斯恩・暮皮"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
         "帕斯恩・暮皮是风角峡谷的狩猎大师。他以钩网和猎人的蛮力为武器，将被占领的峡谷化作自己的猎场，用沉重的践踏击倒闯入者。"

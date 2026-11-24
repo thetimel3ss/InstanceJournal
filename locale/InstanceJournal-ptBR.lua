@@ -4449,7 +4449,17 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar, o Frígido"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "As profundezas congeladas de Frostmane Hollow ceifaram muitas vidas; se algum deles descobriu quem realmente era Hailar, o Frígido, permanece desconhecido."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Embaixador Vortalus"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Windhorn Canyon não possui nenhum registro do Embaixador Vortalus - apenas o título e a ameaça que isso implica."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus =
+        "Embaixador Vortalus está no centro de uma aliança entre os elementais do ar e os taurens Vento Negro que ocupam o Desfiladeiro Chifre do Vento. Um édito investigado pelo Earthen Ring revela que os elementais coordenaram um ataque enquanto as defesas da ordem estavam enfraquecidas. O propósito do pacto permanece incerto, levando Shovu a enviar um xamã para banir Vortalus antes que seus planos avancem."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Rajada de Vento"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 =
+        "Atordoa os inimigos próximos por 4 s."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_22355 = "Cadeia de Raios"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_22355 =
+        "Causa dano de Natureza com raios que saltam entre até 3 alvos."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_36578 = "Vórtice Envolvente"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_36578 =
+        "Causa dano de Natureza aos inimigos próximos a cada 3 s e reduz a chance de acerto deles em 10%."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Couro do Crepúsculo"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
         "Pathun Couro do Crepúsculo é o Mestre da Caça no Desfiladeiro Chifre do Vento. Armado com redes farpadas e a força brutal de um caçador, ele transforma o cânion ocupado em seu território de caça e derruba os intrusos com pisadas esmagadoras."
@@ -4531,10 +4541,6 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Seta de Gelo"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Causa dano de Gelo e reduz a velocidade de movimento do alvo em 40% por 7 s.\n\nDissipe este efeito mágico."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Rajada de Vento"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus atordoa um inimigo aleatório, impossibilitando-o de se mover ou atacar por 4 segundos."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Cadeia de Relâmpagos"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "Vortalus cria um raio que se conecta a todos os inimigos."
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Corrupção"
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Stormhoof corrompe um inimigo aleatório, causando dano de sombra ao longo do tempo."
     IJ_SPELL_NAME_5503 = "Sentir mortos-vivos"

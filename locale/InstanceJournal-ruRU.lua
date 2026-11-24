@@ -4506,7 +4506,16 @@ if GetLocale() == "ruRU" then
         "Ледяные глубины Лощины Ледяной Гривы унесли множество жизней; Узнал ли кто-нибудь из них когда-либо, кем на самом деле был Хайлар Холодный, остается неизвестным."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Посол Ворталус"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus =
-        "В каньоне Виндхорн нет записей о посол Ворталусе — только титул и угроза, которую он подразумевает."
+        "Посол Ворталус стоит в центре союза воздушных элементалей и тауренов племени Черного Ветра, занявших каньон Уиндхорн. Указ, изученный Служителями Земли, раскрывает, что элементали согласовали нападение в момент ослабления обороны ордена. Цель их соглашения остаётся неясной, и Шову отправляет шамана изгнать Ворталуса, прежде чем их планы продвинутся дальше."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Порыв ветра"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 =
+        "Оглушает ближайших противников на 4 сек."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_22355 = "Цепная молния"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_22355 =
+        "Наносит урон от сил природы молнией, перескакивающей между максимум 3 целями."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_36578 = "Поглощающий вихрь"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_36578 =
+        "Наносит урон от сил природы ближайшим противникам каждые 3 сек. и снижает их вероятность попадания на 10%."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Патун Сумеречная Шкура"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
         "Патун Сумеречная Шкура — мастер охоты в каньоне Уиндхорн. Вооружённый сетями с крючьями и грубой силой охотника, он превращает захваченный каньон в свои охотничьи угодья и сокрушает незваных гостей мощным топотом."
@@ -4593,11 +4602,6 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Ледяная стрела"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Наносит урон от магии льда и снижает скорость передвижения цели на 40% на 7 сек.\n\nРассеяйте этот магический эффект."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Порыв ветра"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 =
-        "Ворталус оглушает случайного врага, лишая его возможности двигаться или атаковать в течение 4 секунд."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Цепная молния"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "Ворталус создает молнию, которая сковывает всех врагов."
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Коррупция"
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption =
         "Штормовое Копыто оскверняет случайного врага, нанося периодический урон от темной магии."

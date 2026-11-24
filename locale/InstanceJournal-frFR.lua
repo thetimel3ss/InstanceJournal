@@ -4458,7 +4458,17 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar le glacial"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "Les profondeurs gelées de Frostmane Hollow ont coûté de nombreuses vies ; on ne sait pas si l'un d'entre eux a jamais appris qui était réellement Hailar le Frigid."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Ambassadeur Vortalus"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Windhorn Canyon ne détient aucune trace de l'Ambassadeur Vortalus - seulement le titre et la menace qu'il implique."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus =
+        "L’ambassadeur Vortalus est au cœur d’une alliance entre les élémentaires d’air et les taurens Vent Noir qui occupent le canyon Corne du Vent. Un édit étudié par le Cercle terrestre révèle que les élémentaires ont coordonné une attaque alors que les défenses de l’ordre étaient affaiblies. Le but de leur pacte reste incertain, poussant Shovu à envoyer un chaman bannir Vortalus avant que leurs desseins ne progressent."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Coup de vent"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 =
+        "Étourdit les ennemis proches pendant 4 s."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_22355 = "Chaîne d’éclairs"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_22355 =
+        "Inflige des dégâts de Nature avec un éclair qui rebondit entre 3 cibles au maximum."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_36578 = "Vortex engloutissant"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_36578 =
+        "Inflige des dégâts de Nature aux ennemis proches toutes les 3 s et réduit leurs chances de toucher de 10%."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Peau du Crépuscule"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
         "Pathun Peau du Crépuscule est le maître de la chasse du canyon Corne du Vent. Armé de filets à crochets et de la force brutale d’un chasseur, il fait du canyon occupé son terrain de chasse et abat les intrus à coups de piétinements dévastateurs."
@@ -4541,10 +4551,6 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Éclair de givre"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Inflige des dégâts de Givre et réduit la vitesse de déplacement de la cible de 40% pendant 7 s.\n\nDissipez cet effet magique."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Coup de vent"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus étourdit un ennemi aléatoire, le rendant incapable de bouger ou d'attaquer pendant 4 secondes."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Chaîne d'éclairs"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "Vortalus crée un éclair qui s'enchaîne entre tous les ennemis."
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Corruption"
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Stormhoof corrompt un ennemi aléatoire, infligeant des dégâts d'ombre au fil du temps."
     IJ_SPELL_NAME_5503 = "Détecter les morts-vivants"

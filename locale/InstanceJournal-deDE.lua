@@ -4459,7 +4459,17 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar der Kalte"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "Die gefrorenen Tiefen von Frostmane Hollow haben viele Menschenleben gefordert; Ob einer von ihnen jemals erfahren hat, wer Hailar der Kalte wirklich war, bleibt unbekannt."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Botschafter Vortalus"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Im Windhorn Canyon gibt es keine Aufzeichnungen über Botschafter Vortalus – nur den Titel und die damit verbundene Bedrohung."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus =
+        "Botschafter Vortalus steht im Mittelpunkt eines Bündnisses zwischen Luftelementaren und den Blackwind-Tauren, die den Windhorn Canyon besetzen. Ein vom Irdenen Ring untersuchter Erlass offenbart, dass die Elementare einen Angriff koordinierten, als die Verteidigung des Ordens geschwächt war. Der Zweck ihres Pakts bleibt unklar, weshalb Shovu einen Schamanen entsendet, um Vortalus zu verbannen, bevor ihre Pläne weiter voranschreiten."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Windstoß"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 =
+        "Betäubt nahe Gegner für 4 Sek."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_22355 = "Kettenblitzschlag"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_22355 =
+        "Verursacht Naturschaden mit einem Blitz, der auf bis zu 3 Ziele überspringt."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_36578 = "Verschlingender Wirbel"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_36578 =
+        "Fügt nahen Gegnern alle 3 Sek. Naturschaden zu und verringert ihre Trefferchance um 10%."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Duskhide"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
         "Pathun Duskhide ist der Meister der Jagd im Windhorn Canyon. Mit Hakennetzen und der rohen Kraft eines Jägers macht er die besetzte Schlucht zu seinem Jagdrevier und streckt Eindringlinge mit zermalmenden Stampfern nieder."
@@ -4542,10 +4552,6 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Frostblitz"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Verursacht Frostschaden und verringert das Bewegungstempo des Ziels 7 Sek. lang um 40%.\n\nBannt diesen magischen Effekt."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Windstoß"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus betäubt einen zufälligen Feind und macht ihn 4 Sekunden lang bewegungs- oder angreifbar."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Kettenblitz"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "Vortalus erzeugt einen Blitz, der alle Feinde miteinander verbindet."
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Korruption"
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Sturmhuf verdirbt einen zufälligen Feind und verursacht im Laufe der Zeit Schattenschaden."
     IJ_SPELL_NAME_5503 = "Untote spüren"

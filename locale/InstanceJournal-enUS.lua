@@ -4598,11 +4598,17 @@ IJ_DB_DUNGEON_WHC_STORY =
 
 -- WHC Bosses
 IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Ambassador Vortalus"
-IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Windhorn Canyon holds no record of Ambassador Vortalus - only the title, and the threat it implies."
+IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus =
+    "Ambassador Vortalus stands at the center of an alliance between air elementals and the Blackwind tauren occupying Windhorn Canyon. An edict traced by the Earthen Ring reveals that the elementals coordinated an attack while the order’s defenses were weakened. The purpose of their pact remains uncertain, prompting Shovu to send a shaman to banish Vortalus before their designs can advance."
 IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Gust of Wind"
-IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus stuns a random enemy, rendering them unable to move or attack for 4 seconds."
-IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Chain Lightning"
-IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "Vortalus creates a lightning bolt that chains between all enemies."
+IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 =
+    "Stuns nearby enemies for 4 sec."
+IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_22355 = "Chain Lightning"
+IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_22355 =
+    "Deals Nature damage with lightning that arcs between up to 3 targets."
+IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_36578 = "Engulfing Vortex"
+IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_36578 =
+    "Deals Nature damage to nearby enemies every 3 sec. and reduces their chance to hit by 10%."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Duskhide"
 IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
     "Pathun Duskhide is the Master of Hunt within Windhorn Canyon. Armed with hooked nets and a hunter’s brutal strength, he turns the occupied canyon into his hunting ground and brings down intruders with crushing stomps."

@@ -4458,7 +4458,17 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_FH_BOSS_NAME_hailar = "Hailar el Frígido"
     IJ_DB_DUNGEON_FH_BOSS_STORY_hailar = "Las heladas profundidades de Frostmane Hollow se han cobrado muchas vidas; Se desconoce si alguno de ellos supo alguna vez quién era realmente Hailar el Frígido."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_vortalus = "Embajador Vortalus"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus = "Windhorn Canyon no tiene ningún registro del Embajador Vortalus, sólo el título y la amenaza que implica."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_vortalus =
+        "El embajador Vortalus ocupa un lugar central en una alianza entre los elementales de aire y los tauren Viento Negro que ocupan el Cañón del Cuerno de Viento. Un edicto investigado por el Anillo de la Tierra revela que los elementales coordinaron un ataque cuando las defensas de la orden estaban debilitadas. El propósito del pacto sigue siendo incierto, por lo que Shovu envía a un chamán para desterrar a Vortalus antes de que sus planes avancen."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Racha"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 =
+        "Aturde a los enemigos cercanos durante 4 s."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_22355 = "Cadena de relámpagos"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_22355 =
+        "Inflige daño de Naturaleza con un rayo que salta entre un máximo de 3 objetivos."
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_36578 = "Vórtice envolvente"
+    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_36578 =
+        "Inflige daño de Naturaleza a los enemigos cercanos cada 3 s y reduce su probabilidad de golpear un 10%."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_pathun = "Pathun Piel Oscura"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_pathun =
         "Pathun Piel Oscura es el Maestro de la Caza del Cañón del Cuerno de Viento. Armado con redes de ganchos y la fuerza brutal de un cazador, convierte el cañón ocupado en su coto de caza y derriba a los intrusos con pisotones aplastantes."
@@ -4541,10 +4551,6 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_NAME_8406 = "Descarga de Escarcha"
     IJ_DB_DUNGEON_FH_BOSS_hailar_ABILITY_EFFECT_8406 =
         "Inflige daño de Escarcha y reduce la velocidad de movimiento del objetivo un 40% durante 7 s.\n\nDisipa este efecto mágico."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982 = "Racha"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982 = "Vortalus aturde a un enemigo aleatorio, dejándolo incapaz de moverse o atacar durante 4 segundos."
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning = "Cadena de relámpagos"
-    IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning = "Vortalus crea un rayo que se encadena entre todos los enemigos."
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_NAME_stormhoofcorruption = "Corrupción"
     IJ_DB_DUNGEON_WHC_BOSS_stormhoof_ABILITY_EFFECT_stormhoofcorruption = "Stormhoof corrompe a un enemigo aleatorio y le inflige daño de las sombras con el tiempo."
     IJ_SPELL_NAME_5503 = "Sentir no-muertos"

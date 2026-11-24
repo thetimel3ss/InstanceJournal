@@ -103,7 +103,7 @@ WHC.Bosses = {
             [4] = {IJDB.I[33021], DropChance = 25}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "vortalus",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "vortalus" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "vortalus" .. IMPF,
@@ -121,17 +121,23 @@ WHC.Bosses = {
         Abilities = {
             [1] = {
                 Id = "6982",
-                Icon = "spell_nature_earthbind",
+                Icon = "Spell_Nature_EarthBind",
                 Name = IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_6982,
                 Effect = IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_6982,
                 Flags = {IMAF.Interruptible, IMAF.Important}
             },
             [2] = {
-                Id = "vortaluschainlightning",
-                Icon = "spell_nature_chainlightning",
-                Name = IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_vortaluschainlightning,
-                Effect = IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_vortaluschainlightning,
+                Id = "22355",
+                Icon = "Spell_Nature_ChainLightning",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_22355,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_22355,
                 Flags = {IMAF.Interruptible}
+            },
+            [3] = {
+                Id = "36578",
+                Icon = "Spell_Nature_Cyclone",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_NAME_36578,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_vortalus_ABILITY_EFFECT_36578
             }
         }
     },
