@@ -333,9 +333,11 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
         "Alguns rumores se espalharam por Ventobravo de que Hamhock era um ogro capturado da Floresta do Crepúsculo, possivelmente fazendo dele um Ogro do Punho Estilhaçado. Se isso fosse verdade, ele ficaria sob o possível comando de Zzarc'Vul, líder do clã em Vul'Gol Ogre Mound. Alternativamente, ele poderia ser um membro capturado da Irmandade Défias."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_6742 = "Sede de sangue"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 = "Hamhock é tomado pela sede de sangue, aumentando a velocidade de ataque dele e de seus aliados em 30% por 30 segundos."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 =
+        "Aumenta a velocidade de ataque do alvo em 30% por 30 s. Dissipe este benefício mágico."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_421 = "Cadeia de Relâmpagos"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 = "Hamhock lança um raio em um inimigo, saltando para outros dois alvos e causando 190 a 220 de dano natural a cada um."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 =
+        "Causa dano de Natureza com raios que saltam entre até 3 alvos. Cada salto reduz o dano em 30%."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1716 = "Bazil Thredd"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1716 =
         "Bazil Thredd é o tenente e assistente de maior confiança de Edwin VanCleef. Ele foi pego durante os tumultos que levaram à morte da Rainha Tiffin e preso, mais tarde assumindo a liderança sobre os bandidos da Irmandade Défias na Stockade."

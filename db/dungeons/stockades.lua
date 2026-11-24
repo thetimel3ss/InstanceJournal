@@ -110,11 +110,11 @@ STOCKADES.Bosses = {
         MapCoordinateY = 45.8,
         Abilities = {
             [1] = {
-                Id = "6742", 
-                Icon = "Spell_Nature_BloodLust", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_6742, 
-                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742, 
-                Flags = {IMAF.Heal}
+                Id = "6742",
+                Icon = "Spell_Nature_BloodLust",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_6742,
+                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742,
+                Flags = {IMAF.Heal, IMAF.Magic}
             },
             [2] = {
                 Id = "421",

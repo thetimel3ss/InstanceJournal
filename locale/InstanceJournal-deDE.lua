@@ -334,9 +334,11 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
         "In Sturmwind verbreiteten sich Gerüchte, dass Hamhock ein gefangener Oger aus dem Dämmerwald sei, was ihn möglicherweise zu einem Splitterfaust-Oger machte. Wenn das wahr wäre, würde er möglicherweise unter das Kommando von Zzarc'Vul fallen, dem Anführer des Clans am Ogerhügel von Vul'Gol. Alternativ könnte er ein gefangenes Mitglied der Defias-Bruderschaft sein."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_6742 = "Blutdurst"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 = "Hamhock wird vom Blutdurst gepackt, was die Angriffsgeschwindigkeit von ihm und seinen Verbündeten 30 Sekunden lang um 30 % erhöht."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 =
+        "Erhöht das Angriffstempo des Ziels 30 Sek. lang um 30%. Bannt diesen magischen Stärkungseffekt."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_421 = "Kettenblitz"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 = "Hamhock wirft einen Blitz auf einen Feind, springt zu zwei anderen Zielen und fügt jedem 190 bis 220 Naturschaden zu."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 =
+        "Verursacht Naturschaden mit einem Blitz, der auf bis zu 3 Ziele überspringt. Jeder Sprung verringert den Schaden um 30%."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1716 = "Bazil Thredd"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1716 =
         "Bazil Thredd ist der Leutnant und vertrauenswürdigste Assistent von Edwin VanCleef. Er wurde während der Unruhen, die zum Tod von Königin Tiffin führten, gefasst und eingesperrt. Später übernahm er die Führung über die Banditen der Defias-Bruderschaft im Stockade."

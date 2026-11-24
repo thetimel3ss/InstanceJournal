@@ -332,9 +332,11 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
         "Certaines rumeurs se sont répandues à travers Hurlevent selon lesquelles Hamhock était un ogre capturé de Bois de la Pénombre, faisant peut-être de lui un Ogre Splinter Fist. Si cela était vrai, il tomberait sous le commandement possible de Zzarc'Vul, chef du clan de Vul'Gol Ogre Mound. Alternativement, il pourrait être un membre capturé de la Confrérie Défias."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_6742 = "Soif de sang"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 = "Hamhock est pris de soif de sang, ce qui augmente sa vitesse d'attaque et celle de ses alliés de 30 % pendant 30 secondes."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 =
+        "Augmente la vitesse d’attaque de la cible de 30% pendant 30 s. Dissipez cet effet magique bénéfique."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_421 = "Chaîne d'éclairs"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 = "Hamhock lance un éclair sur un ennemi, sautant vers deux autres cibles et infligeant 190 à 220 dégâts de nature à chacune."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 =
+        "Inflige des dégâts de Nature avec un éclair qui rebondit entre 3 cibles au maximum. Chaque rebond réduit les dégâts de 30%."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1716 = "Bazil Thredd"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1716 =
         "Bazil Thredd est le lieutenant et l'assistant le plus fiable d'Edwin VanCleef. Il a été arrêté lors des émeutes qui ont conduit à la mort de la reine Tiffin et emprisonné, prenant plus tard la tête des bandits de la Confrérie Défias dans la Palissade."

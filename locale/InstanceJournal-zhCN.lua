@@ -413,9 +413,11 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
         "一些谣言在暴风城流传，说哈姆霍克是从暮色森林捕获的食人魔，这可能使他成为裂拳食人魔。如果这是真的，他可能会受到扎克沃尔的指挥，扎克沃尔是沃尔戈尔食人魔土丘的氏族领袖。或者，他可能是迪菲亚兄弟会的一名被俘成员。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_6742 = "嗜血术"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 = "哈姆霍克陷入嗜血，使他和盟友的攻击速度提高 30%，持续 30 秒。"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 =
+        "使目标的攻击速度提高30%，持续30秒。驱散此魔法增益效果。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_421 = "闪电链"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 = "哈姆霍克向一名敌人发射一道闪电，跳到另外两个目标上，对每个目标造成 190 到 220 点自然伤害。"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 =
+        "以闪电造成自然伤害，最多在3个目标之间跳跃。每次跳跃伤害降低30%。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1716 = "巴基尔·斯瑞德"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1716 =
         "巴齐尔·斯雷德是埃德温·范克里夫的中尉和最值得信赖的助手。他在导致蒂芬女王死亡的骚乱中被捕并入狱，后来领导了寨子里迪菲亚兄弟会的强盗。"

@@ -316,9 +316,11 @@ IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1717 = "Hamhock"
 IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1717 =
     "Some rumors spread throughout Stormwind that Hamhock was a captured ogre from Duskwood, possibly making him a Splinter Fist Ogre. If this were true, he would fall under the possible command of Zzarc'Vul, leader of the clan at Vul'Gol Ogre Mound. Alternatively, he could be a captured member of the Defias Brotherhood."
 IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_6742 = "Bloodlust"
-IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 = "Hamhock is taken by bloodlust, increasing him and his allies' attack speed by 30% for 30 seconds."
+IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_6742 =
+    "Increases the target’s attack speed by 30% for 30 sec. Dispel this Magic buff."
 IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_NAME_421 = "Chain Lightning"
-IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 = "Hamhock casts a lightning bolt at an enemy, jumping to two other targets and dealing 190 to 220 nature damage to each."
+IJ_DB_DUNGEON_STOCKADES_BOSS_1717_ABILITY_EFFECT_421 =
+    "Deals Nature damage with lightning that jumps between up to 3 targets. Each jump reduces the damage by 30%."
 IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1716 = "Bazil Thredd"
 IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1716 =
     "Bazil Thredd is the lieutenant and most trusted assistant of Edwin VanCleef. He was caught during the riots leading to the death of Queen Tiffin and imprisoned, later taking lead over the bandits of the Defias Brotherhood in the Stockade."
