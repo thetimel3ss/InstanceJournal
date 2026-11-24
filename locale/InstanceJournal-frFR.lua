@@ -4472,7 +4472,17 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
         "Inflige des dégâts physiques aux ennemis proches et les étourdit pendant 3 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos le Pur"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Purs à cet égard et selon quelle mesure - ceux qui auraient pu répondre sont partis depuis longtemps du Windhorn Canyon."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos =
+        "Ahgk'tos le Pur est un serpent des vents du canyon Corne du Vent. La foudre s’accumule autour de la créature, formant un bouclier contre les attaquants et des nuages d’orage qui ravagent le sol alentour. L’origine de son titre reste inconnue."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_23105 = "Nuage de foudre"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_23105 =
+        "Crée un nuage de foudre qui inflige des dégâts de Nature immédiatement puis toutes les 5 s pendant 15 s. Quittez la zone affectée."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_12882 = "Battement d’ailes"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_12882 =
+        "Repousse les ennemis dans un cône devant le lanceur."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_945 = "Bouclier de foudre"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
+        "Entoure le lanceur de 3 charges de foudre qui infligent des dégâts de Nature aux attaquants. Chaque riposte consomme une charge. Dissipez cet effet magique bénéfique."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Invocateur de sang"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "Le nom de Walgan Bloodcaller n'est passé dans aucune chronique, n'a laissé aucune marque - rien que le nom lui-même."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Parle-Os Narlgom"

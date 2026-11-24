@@ -4616,7 +4616,17 @@ IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_NAME_6266 = "Kodo Stomp"
 IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
     "Deals Physical damage to nearby enemies and stuns them for 3 sec."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos the Pure"
-IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Pure in what regard, and by whose measure - those who might have answered are long gone from Windhorn Canyon."
+IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos =
+    "Ahgk’tos the Pure is a wind serpent found within Windhorn Canyon. Lightning gathers around the creature, forming a shield against attackers and storm clouds that scour the surrounding ground. The origin of its title remains unknown."
+IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_23105 = "Lightning Cloud"
+IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_23105 =
+    "Creates a lightning cloud that deals Nature damage immediately and every 5 sec. for 15 sec. Move out of the affected area."
+IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_12882 = "Wing Flap"
+IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_12882 =
+    "Knocks back enemies in a cone in front of the caster."
+IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_945 = "Lightning Shield"
+IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
+    "Surrounds the caster with 3 charges of lightning that deal Nature damage to attackers. Each retaliation consumes a charge. Dispel this Magic buff."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Bloodcaller"
 IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "The name Walgan Bloodcaller has passed through no chronicle, left no mark - nothing but the name itself."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Bonespeaker Narlgom"

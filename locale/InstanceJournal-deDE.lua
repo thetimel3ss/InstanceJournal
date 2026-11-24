@@ -4473,7 +4473,17 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
         "Fügt nahen Gegnern körperlichen Schaden zu und betäubt sie für 3 Sek."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos der Reine"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Rein in welcher Hinsicht und nach wessen Maß – diejenigen, die hätten antworten können, sind schon lange aus dem Windhorn Canyon verschwunden."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos =
+        "Ahgk'tos der Reine ist eine Windnatter im Windhorn Canyon. Blitze sammeln sich um die Kreatur und bilden einen Schild gegen Angreifer sowie Sturmwolken, die den umliegenden Boden verheeren. Der Ursprung seines Titels bleibt unbekannt."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_23105 = "Blitzwolke"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_23105 =
+        "Erzeugt eine Blitzwolke, die sofort und dann 15 Sek. lang alle 5 Sek. Naturschaden verursacht. Verlasst den betroffenen Bereich."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_12882 = "Flügelschlag"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_12882 =
+        "Stößt Gegner in einem kegelförmigen Bereich vor dem Zaubernden zurück."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_945 = "Blitzschlagschild"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
+        "Umhüllt den Zaubernden mit 3 Blitzladungen, die Angreifern Naturschaden zufügen. Jeder Gegenschlag verbraucht eine Ladung. Bannt diesen magischen Stärkungseffekt."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan-Blutrufer"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "Der Name Walgan Bloodcaller hat keine Chronik durchlaufen, keine Spuren hinterlassen – nichts als den Namen selbst."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Knochensprecher Narlgom"

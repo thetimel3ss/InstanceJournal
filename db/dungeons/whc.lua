@@ -66,7 +66,7 @@ WHC.Bosses = {
             [5] = {IJDB.I[70242], DropChance = 6}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "ahgktos",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "ahgktos" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "ahgktos" .. IMPF,
@@ -74,6 +74,28 @@ WHC.Bosses = {
         Story = IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos,
         MapCoordinateX = 26.3,
         MapCoordinateY = 9.7,
+        Abilities = {
+            [1] = {
+                Id = "23105",
+                Icon = "Spell_Nature_CallStorm",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_23105,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_23105,
+                Flags = {IMAF.Important}
+            },
+            [2] = {
+                Id = "12882",
+                Icon = "Spell_Nature_EarthBind",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_12882,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_12882
+            },
+            [3] = {
+                Id = "945",
+                Icon = "Spell_Nature_LightningShield",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_945,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[33024], DropChance = 25}, 
             [2] = {IJDB.I[33022], DropChance = 25}, 

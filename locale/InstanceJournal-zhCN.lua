@@ -4741,7 +4741,17 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
         "对附近的敌人造成物理伤害并使其昏迷3秒。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "纯洁者阿格图斯"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "纯粹在什么方面，以及以谁的标准来衡量——那些可能回答的人早已从风角峡谷消失了。"
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos =
+        "纯洁者阿格图斯是一条栖息在风角峡谷的风蛇。闪电在它周围聚集，形成抵御攻击者的护盾，以及肆虐附近地面的雷云。其称号的由来仍不为人知。"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_23105 = "闪电之云"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_23105 =
+        "制造闪电之云，立即造成自然伤害，此后每5秒造成一次自然伤害，持续15秒。离开受影响区域。"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_12882 = "振翅"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_12882 =
+        "击退施法者前方锥形区域内的敌人。"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_945 = "闪电之盾"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
+        "使施法者被3层闪电护盾包围，对攻击者造成自然伤害。每次反击消耗一层。驱散此魔法增益效果。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "瓦尔根・唤血者"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "沃尔根·唤血者这个名字没有出现在编年史中，没有留下任何痕迹——除了名字本身，什么也没有。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "骨语者纳尔格姆"

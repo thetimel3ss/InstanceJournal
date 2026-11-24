@@ -4463,7 +4463,17 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
         "Causa dano Físico aos inimigos próximos e os atordoa por 3 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos, o Puro"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Puro em que aspecto e em que medida - aqueles que poderiam ter respondido já se foram há muito tempo do Windhorn Canyon."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos =
+        "Ahgk'tos, o Puro é uma serpente alada encontrada no Desfiladeiro Chifre do Vento. Raios se acumulam ao redor da criatura, formando um escudo contra os atacantes e nuvens de tempestade que castigam o solo ao redor. A origem de seu título permanece desconhecida."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_23105 = "Nuvem de Raios"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_23105 =
+        "Cria uma nuvem de raios que causa dano de Natureza imediatamente e a cada 5 s por 15 s. Saia da área afetada."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_12882 = "Bater de Asas"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_12882 =
+        "Repele os inimigos em um cone à frente do lançador."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_945 = "Escudo de Raios"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
+        "Envolve o lançador em 3 cargas de raios que causam dano de Natureza aos atacantes. Cada retaliação consome uma carga. Dissipe este benefício mágico."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Invocador de Sangue"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "O nome Walgan Bloodcaller não passou por nenhuma crônica, não deixou nenhuma marca – nada além do próprio nome."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Orador de Ossos Narlgom"

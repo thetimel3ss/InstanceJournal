@@ -4472,7 +4472,17 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WHC_BOSS_pathun_ABILITY_EFFECT_6266 =
         "Inflige daño físico a los enemigos cercanos y los aturde durante 3 s."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_ahgktos = "Ahgk'tos el Puro"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos = "Puro en qué sentido y en qué medida: aquellos que podrían haber respondido ya no están en Windhorn Canyon."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_ahgktos =
+        "Ahgk'tos el Puro es una serpiente alada que habita en el Cañón del Cuerno de Viento. Los relámpagos se reúnen a su alrededor, formando un escudo contra los atacantes y nubes de tormenta que azotan el suelo cercano. El origen de su título sigue siendo desconocido."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_23105 = "Nube de relámpagos"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_23105 =
+        "Crea una nube de relámpagos que inflige daño de Naturaleza inmediatamente y cada 5 s durante 15 s. Sal de la zona afectada."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_12882 = "Aleteo"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_12882 =
+        "Repele a los enemigos en un cono frente al taumaturgo."
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_945 = "Escudo de relámpagos"
+    IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
+        "Rodea al taumaturgo con 3 cargas de relámpagos que infligen daño de Naturaleza a los atacantes. Cada represalia consume una carga. Disipa este beneficio mágico."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Clamasangre Walgan"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "El nombre Walgan Bloodcaller no ha pasado por ninguna crónica, no ha dejado ninguna marca, nada más que el nombre mismo."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Narlgom Hablahuesos"
