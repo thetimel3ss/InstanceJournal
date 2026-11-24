@@ -4485,7 +4485,17 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
         "Envolve o lançador em 3 cargas de raios que causam dano de Natureza aos atacantes. Cada retaliação consome uma carga. Dissipe este benefício mágico."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Invocador de Sangue"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "O nome Walgan Bloodcaller não passou por nenhuma crônica, não deixou nenhuma marca – nada além do próprio nome."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan =
+        "Walgan Invocador de Sangue atua como Mestre de Armas no Desfiladeiro Chifre do Vento. Seus golpes de clivagem e pisadas esmagadoras o tornam um adversário formidável para qualquer um que busque passagem pela fortaleza ocupada, enquanto sua fúria o leva a uma violência ainda maior quando desafiado."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16044 = "Cutilada"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16044 =
+        "Causa dano Físico a um inimigo e aos aliados próximos dele."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16727 = "Pisada de Guerra"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16727 =
+        "Causa dano Físico aos inimigos próximos e os atordoa por 5 s."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_28131 = "Enfurecer"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
+        "Aumenta o dano causado e a velocidade de ataque."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Orador de Ossos Narlgom"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Entre os Temível Totem que tomaram o Cânion Chifre de Vento, o Orador dos Ossos Narlgom é contado – e essa é, na íntegra, a extensão do que se sabe."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Profeta Casco Tempestuoso"

@@ -4634,7 +4634,17 @@ IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_NAME_945 = "Lightning Shield"
 IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
     "Surrounds the caster with 3 charges of lightning that deal Nature damage to attackers. Each retaliation consumes a charge. Dispel this Magic buff."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Bloodcaller"
-IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "The name Walgan Bloodcaller has passed through no chronicle, left no mark - nothing but the name itself."
+IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan =
+    "Walgan Bloodcaller serves as the Master of Arms within Windhorn Canyon. His cleaving strikes and crushing stomps make him a formidable opponent for anyone seeking passage through the occupied stronghold, while his fury drives him to even greater violence when challenged."
+IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16044 = "Cleave"
+IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16044 =
+    "Deals Physical damage to an enemy and nearby allies."
+IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16727 = "War Stomp"
+IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16727 =
+    "Deals Physical damage to nearby enemies and stuns them for 5 sec."
+IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_28131 = "Enrage"
+IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
+    "Increases damage dealt and attack speed."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Bonespeaker Narlgom"
 IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Among the Grimtotem who seized Windhorn Canyon, Bonespeaker Narlgom is counted - and that is, in full, the extent of what is known."
 IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophet Stormhoof"

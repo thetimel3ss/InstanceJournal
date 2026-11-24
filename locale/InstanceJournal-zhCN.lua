@@ -4759,7 +4759,17 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
         "使施法者被3层闪电护盾包围，对攻击者造成自然伤害。每次反击消耗一层。驱散此魔法增益效果。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "瓦尔根・唤血者"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "沃尔根·唤血者这个名字没有出现在编年史中，没有留下任何痕迹——除了名字本身，什么也没有。"
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan =
+        "瓦尔根・唤血者担任风角峡谷的武器大师。他的顺劈攻击和沉重践踏使他成为穿越这座被占领要塞者的强敌。当受到挑战时，愤怒会驱使他施展更加凶暴的攻击。"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16044 = "顺劈斩"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16044 =
+        "对一名敌人及其附近的友方单位造成物理伤害。"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16727 = "战争践踏"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16727 =
+        "对附近的敌人造成物理伤害并使其昏迷5秒。"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_28131 = "激怒"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
+        "提高造成的伤害和攻击速度。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "骨语者纳尔格姆"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "在占领风角峡谷的恐怖图腾中，骨语者纳尔戈姆也被算在内——这就是我们所知的全部范围。"
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "雷角"

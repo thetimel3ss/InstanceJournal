@@ -141,7 +141,7 @@ WHC.Bosses = {
             }
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "walgan",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "walgan" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "walgan" .. IMPF,
@@ -149,6 +149,26 @@ WHC.Bosses = {
         Story = IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan,
         MapCoordinateX = 18.2,
         MapCoordinateY = 68.7,
+        Abilities = {
+            [1] = {
+                Id = "16044",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16044,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16044
+            },
+            [2] = {
+                Id = "16727",
+                Icon = "Ability_BullRush",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16727,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16727
+            },
+            [3] = {
+                Id = "28131",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_28131,
+                Effect = IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131
+            }
+        },
         Loot = {
             [1] = {IJDB.I[33082], DropChance = 25}, 
             [2] = {IJDB.I[33035], DropChance = 25}, 

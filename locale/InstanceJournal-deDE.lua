@@ -4495,7 +4495,17 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
         "Umhüllt den Zaubernden mit 3 Blitzladungen, die Angreifern Naturschaden zufügen. Jeder Gegenschlag verbraucht eine Ladung. Bannt diesen magischen Stärkungseffekt."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan-Blutrufer"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "Der Name Walgan Bloodcaller hat keine Chronik durchlaufen, keine Spuren hinterlassen – nichts als den Namen selbst."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan =
+        "Walgan-Blutrufer dient als Waffenmeister im Windhorn Canyon. Seine spaltenden Hiebe und zermalmenden Stampfer machen ihn zu einem furchteinflößenden Gegner für jeden, der die besetzte Festung durchqueren will. Wird er herausgefordert, treibt ihn seine Wut zu noch größerer Gewalt."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16044 = "Spalten"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16044 =
+        "Fügt einem Gegner und seinen nahen Verbündeten körperlichen Schaden zu."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16727 = "Kriegsdonner"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16727 =
+        "Fügt nahen Gegnern körperlichen Schaden zu und betäubt sie für 5 Sek."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_28131 = "Wutanfall"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
+        "Erhöht den verursachten Schaden und das Angriffstempo."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Knochensprecher Narlgom"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Zu den Grimmtotem, die die Windhornschlucht eroberten, zählt auch Knochensprecher Narlgom – und das ist alles, was bekannt ist."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophet Sturmhuf"

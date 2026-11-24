@@ -4494,7 +4494,17 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
         "Entoure le lanceur de 3 charges de foudre qui infligent des dégâts de Nature aux attaquants. Chaque riposte consomme une charge. Dissipez cet effet magique bénéfique."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Walgan Invocateur de sang"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "Le nom de Walgan Bloodcaller n'est passé dans aucune chronique, n'a laissé aucune marque - rien que le nom lui-même."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan =
+        "Walgan Invocateur de sang est le maître d’armes du canyon Corne du Vent. Ses frappes fauchantes et ses piétinements dévastateurs en font un adversaire redoutable pour quiconque cherche à traverser la forteresse occupée, tandis que sa fureur le pousse à une violence accrue lorsqu’il est défié."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16044 = "Enchaînement"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16044 =
+        "Inflige des dégâts physiques à un ennemi et à ses alliés proches."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16727 = "Choc martial"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16727 =
+        "Inflige des dégâts physiques aux ennemis proches et les étourdit pendant 5 s."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_28131 = "Enrager"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
+        "Augmente les dégâts infligés et la vitesse d’attaque."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Parle-Os Narlgom"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Parmi les Totems-Sinistres qui se sont emparés du Canyon Windhorn, le Parle-Os Narlgom est compté - et c'est là, dans son intégralité, l'étendue de ce que l'on sait."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Prophète Sabot-Tempête"

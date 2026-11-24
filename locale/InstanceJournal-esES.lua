@@ -4494,7 +4494,17 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_WHC_BOSS_ahgktos_ABILITY_EFFECT_945 =
         "Rodea al taumaturgo con 3 cargas de relámpagos que infligen daño de Naturaleza a los atacantes. Cada represalia consume una carga. Disipa este beneficio mágico."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_walgan = "Clamasangre Walgan"
-    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan = "El nombre Walgan Bloodcaller no ha pasado por ninguna crónica, no ha dejado ninguna marca, nada más que el nombre mismo."
+    IJ_DB_DUNGEON_WHC_BOSS_STORY_walgan =
+        "Clamasangre Walgan ejerce como Maestro de Armas en el Cañón del Cuerno de Viento. Sus golpes de barrido y pisotones aplastantes lo convierten en un adversario formidable para quienes buscan atravesar la fortaleza ocupada, mientras que su furia lo impulsa a una violencia aún mayor cuando lo desafían."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16044 = "Rajar"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16044 =
+        "Inflige daño físico a un enemigo y sus aliados cercanos."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_16727 = "Pisotón de guerra"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_16727 =
+        "Inflige daño físico a los enemigos cercanos y los aturde durante 5 s."
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_NAME_28131 = "Enfurecer"
+    IJ_DB_DUNGEON_WHC_BOSS_walgan_ABILITY_EFFECT_28131 =
+        "Aumenta el daño infligido y la velocidad de ataque."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_narlgom = "Narlgom Hablahuesos"
     IJ_DB_DUNGEON_WHC_BOSS_STORY_narlgom = "Entre los Tótem Siniestro que se apoderaron del Cañón Cuerno de Viento se cuenta el Hablahuesos Narlgom... y eso es, en su totalidad, todo lo que se sabe."
     IJ_DB_DUNGEON_WHC_BOSS_NAME_stormhoof = "Profeta Pezuña Tormenta"
