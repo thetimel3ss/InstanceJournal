@@ -424,7 +424,8 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_9128 = "战斗怒吼"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_9128 = "巴兹尔·斯雷德大喊，赋予他和其他盟友额外的近战攻击力，持续 2 分钟。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_7964 = "烟雾弹"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 = "巴兹尔·斯雷德投掷烟雾弹，使附近所有敌人昏迷 4 秒。"
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 =
+        "使附近的敌人昏迷4秒。驱散此魔法效果。"
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1720 = "布鲁戈·艾尔克纳寇"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1720 =
         "一个难以捉摸的矮人，在暴风城监狱的一般囚犯中很少见到。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"

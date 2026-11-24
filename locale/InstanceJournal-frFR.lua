@@ -343,7 +343,8 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_9128 = "Cri de bataille"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_9128 = "Bazil Thredd crie, lui donnant ainsi ainsi qu'à d'autres alliés une puissance d'attaque en mêlée supplémentaire pendant 2 minutes."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_7964 = "Bombe fumigène"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 = "Bazil Thredd lance une bombe fumigène qui étourdit tous les ennemis proches pendant 4 secondes."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 =
+        "Étourdit les ennemis proches pendant 4 s. Dissipez cet effet magique."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1720 = "Poing-de-fer de Bruegal"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1720 =
         "Un nain insaisissable, rarement vu parmi la population incarcérée des Forteresses de Hurlevent. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."

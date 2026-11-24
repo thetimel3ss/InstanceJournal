@@ -139,17 +139,17 @@ STOCKADES.Bosses = {
         MapCoordinateY = 51.6,
         Abilities = {
             [1] = {
-                Id = "9128", 
-                Icon = "Ability_Warrior_BattleShout", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_9128, 
+                Id = "9128",
+                Icon = "Ability_Warrior_BattleShout",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_9128,
                 Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_9128
             },
             [2] = {
-                Id = "7964", 
-                Icon = "Ability_Hibernation", 
-                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_7964, 
-                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964, 
-                Flags = {IMAF.Important}
+                Id = "7964",
+                Icon = "Ability_Hibernation",
+                Name = IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_7964,
+                Effect = IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964,
+                Flags = {IMAF.Important, IMAF.Magic}
             }
         },
         Loot = {

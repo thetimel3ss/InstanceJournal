@@ -344,7 +344,8 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_9128 = "Grito de Batalha"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_9128 = "Bazil Thredd grita, fortalecendo ele e outros aliados, concedendo-lhes poder de ataque corpo a corpo extra por 2 minutos."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_7964 = "Bomba de fumaça"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 = "Bazil Thredd lança uma bomba de fumaça, atordoando todos os inimigos próximos por 4 segundos."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 =
+        "Atordoa os inimigos próximos por 4 s. Dissipe este efeito mágico."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1720 = "Bruegal Junta de Ferro"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1720 =
         "Um anão esquivo, raramente visto entre a população encarcerada das Paliçadas de Ventobravo. Diz-se que ele possui muitos itens cobiçados que muitos gostariam de poder colocar em suas mãos, se ao menos pudessem encontrá-lo em primeiro lugar..."

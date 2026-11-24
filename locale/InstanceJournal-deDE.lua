@@ -345,7 +345,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_9128 = "Schlachtruf"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_9128 = "Bazil Thredd schreit und stärkt ihn und andere Verbündete, die ihnen 2 Minuten lang zusätzliche Nahkampfangriffskraft verleihen."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_7964 = "Rauchbombe"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 = "Bazil Thredd wirft eine Rauchbombe, die alle Gegner in der Nähe 4 Sekunden lang betäubt."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 =
+        "Betäubt nahe Gegner für 4 Sek. Bannt diesen magischen Effekt."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1720 = "Bruegal Ironknuckle"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1720 =
         "Ein schwer fassbarer Zwerg, der unter der allgemeinen inhaftierten Bevölkerung der Palisaden von Sturmwind selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."

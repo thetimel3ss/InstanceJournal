@@ -327,7 +327,8 @@ IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1716 =
 IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_9128 = "Battle Shout"
 IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_9128 = "Bazil Thredd shouts, empowering him and other allies granting them extra melee attack power for 2 minutes."
 IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_7964 = "Smoke Bomb"
-IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 = "Bazil Thredd throws a smoke bomb, stunning all nearby enemies for 4 seconds."
+IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 =
+    "Stuns nearby enemies for 4 sec. Dispel this Magic effect."
 IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1720 = "Bruegal Ironknuckle"
 IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1720 =
     "An elusive dwarf, rarely seen among the general incarcerated population of Stormwind's Stockades. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."

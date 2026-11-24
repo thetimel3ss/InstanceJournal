@@ -344,7 +344,8 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_9128 = "Grito de batalla"
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_9128 = "Bazil Thredd grita, fortaleciéndolo a él y a otros aliados, otorgándoles poder de ataque cuerpo a cuerpo adicional durante 2 minutos."
     IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_NAME_7964 = "Bomba de humo"
-    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 = "Bazil Thredd lanza una bomba de humo que aturde a todos los enemigos cercanos durante 4 segundos."
+    IJ_DB_DUNGEON_STOCKADES_BOSS_1716_ABILITY_EFFECT_7964 =
+        "Aturde a los enemigos cercanos durante 4 s. Disipa este efecto mágico."
     IJ_DB_DUNGEON_STOCKADES_BOSS_NAME_1720 = "Nudillo de hierro bruegal"
     IJ_DB_DUNGEON_STOCKADES_BOSS_STORY_1720 =
         "Un enano esquivo, rara vez visto entre la población encarcelada en general de las Empalizadas de Ventormenta. Se dice que posee muchos objetos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlo en primer lugar..."
