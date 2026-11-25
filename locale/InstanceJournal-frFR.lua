@@ -754,6 +754,21 @@ if GetLocale() == "frFR" then
         "Absorbe les dégâts pendant 30 s au maximum. Dissipez cet effet magique bénéfique."
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Hérode"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Hérode est l'un des quatre dirigeants de la Croisade écarlate du monastère écarlate. Champion de la Croisade Écarlate, il est connu pour sa réputation de brutalité."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8260 = "Charge précipitée"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8260 =
+        "Augmente la vitesse de déplacement pendant 4 s et les dégâts de la première attaque."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8269 = "Enrager"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8269 =
+        "Augmente les dégâts physiques infligés et la vitesse d’attaque pendant 2 min."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15496 = "Enchaînement"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15496 =
+        "Inflige des dégâts physiques à un ennemi et à son allié le plus proche."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8989 = "Tourbillon"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8989 =
+        "Canalise un tourbillon pendant 10 s, devient insensible aux dégâts magiques et frappe les ennemis proches. Éloignez-vous pendant la canalisation."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15578 = "Tourbillon"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15578 =
+        "Inflige des dégâts physiques aux ennemis proches toutes les 2 s pendant la canalisation de Tourbillon."
 
     -- SMCATH
     IJ_DB_DUNGEON_SMCATH_NAME = "Monastère écarlate (cathédrale)"

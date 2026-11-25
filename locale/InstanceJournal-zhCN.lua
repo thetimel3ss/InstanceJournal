@@ -1023,6 +1023,21 @@ if GetLocale() == "zhCN" then
         "吸收伤害，最多持续30秒。驱散此魔法增益效果。"
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "赫洛德"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "希律是血色修道院的四位血色十字军领袖之一。作为血色十字军的冠军，他以野蛮的名声而闻名。"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8260 = "急速冲锋"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8260 =
+        "提高移动速度，持续4秒，并提高首次攻击的伤害。"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8269 = "激怒"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8269 =
+        "提高造成的物理伤害和攻击速度，持续2分钟。"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15496 = "顺劈斩"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15496 =
+        "对一名敌人及其最近的友方单位造成物理伤害。"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8989 = "旋风斩"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8989 =
+        "引导旋风斩10秒，免疫魔法伤害并攻击附近的敌人。引导期间远离首领。"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15578 = "旋风斩"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15578 =
+        "引导旋风斩期间，每2秒对附近的敌人造成一次物理伤害。"
 
     -- SMARM Loot
     IJ_LOOT_NAME_55474 = "平衡锋利飞刀"

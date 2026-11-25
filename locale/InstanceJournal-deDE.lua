@@ -756,6 +756,21 @@ if GetLocale() == "deDE" then
         "Absorbiert bis zu 30 Sek. lang Schaden. Bannt diesen magischen Stärkungseffekt."
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Herodes"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Herodes ist einer der vier Anführer des Scharlachroten Kreuzzugs im Scharlachroten Kloster. Als Champion des Scharlachroten Kreuzzugs ist er für seinen brutalen Ruf bekannt."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8260 = "Sturmangriff"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8260 =
+        "Erhöht die Bewegungsgeschwindigkeit für 4 Sek. und den Schaden des ersten Angriffs."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8269 = "Wutanfall"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8269 =
+        "Erhöht den verursachten körperlichen Schaden und das Angriffstempo für 2 Min."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15496 = "Spalten"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15496 =
+        "Fügt einem Gegner und seinem nächsten Verbündeten körperlichen Schaden zu."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8989 = "Wirbelwind"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8989 =
+        "Kanalisiert 10 Sek. lang einen Wirbelwind, wird gegen magischen Schaden immun und trifft nahe Gegner. Haltet während der Kanalisierung Abstand."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15578 = "Wirbelwind"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15578 =
+        "Fügt nahen Gegnern während der Kanalisierung von Wirbelwind alle 2 Sek. körperlichen Schaden zu."
 
     -- SMCATH
     IJ_DB_DUNGEON_SMCATH_NAME = "Scharlachrotes Kloster (Kathedrale)"

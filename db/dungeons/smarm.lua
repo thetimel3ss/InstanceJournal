@@ -70,7 +70,7 @@ SMARM.Bosses = {
             [4] = {IJDB.I[55477], DropChance = 25}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "3975",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "herod" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "herod" .. IMPF,
@@ -79,6 +79,41 @@ SMARM.Bosses = {
         MapCoordinateX = 78.7,
         MapCoordinateY = IZI.SMArm,
         MapId = "1",
+        Abilities = {
+            [1] = {
+                Id = "8260",
+                Icon = "Ability_WarStomp",
+                Name = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8260,
+                Effect = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8260
+            },
+            [2] = {
+                Id = "8269",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8269,
+                Effect = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8269
+            },
+            [3] = {
+                Id = "15496",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15496,
+                Effect = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15496
+            },
+            [4] = {
+                Id = "8989",
+                Icon = "Ability_Whirlwind",
+                Name = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8989,
+                Effect = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8989,
+                Flags = {IMAF.Important},
+                SubAbilities = {
+                    [1] = {
+                        Id = "15578",
+                        Icon = "Ability_Whirlwind",
+                        Name = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15578,
+                        Effect = IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15578
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[7717], DropChance = 25}, 
             [2] = {IJDB.I[7718], DropChance = 25}, 

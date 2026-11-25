@@ -755,6 +755,21 @@ if GetLocale() == "esES" then
         "Absorbe daño hasta 30 s. Disipa este beneficio mágico."
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Herodes"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Herodes es uno de los cuatro líderes de la Cruzada Escarlata en el Monasterio Escarlata. Campeón de la Cruzada Escarlata, es conocido por su reputación brutal."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8260 = "Carga impetuosa"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8260 =
+        "Aumenta la velocidad de movimiento durante 4 s y el daño del primer ataque."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8269 =
+        "Aumenta el daño físico infligido y la velocidad de ataque durante 2 min."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15496 = "Rajar"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15496 =
+        "Inflige daño físico a un enemigo y a su aliado más cercano."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8989 = "Torbellino"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8989 =
+        "Canaliza un torbellino durante 10 s, volviéndose inmune al daño mágico y golpeando a los enemigos cercanos. Aléjate durante la canalización."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15578 = "Torbellino"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15578 =
+        "Inflige daño físico a los enemigos cercanos cada 2 s mientras se canaliza Torbellino."
 
     -- SMCATH
     IJ_DB_DUNGEON_SMCATH_NAME = "Monasterio Escarlata (Catedral)"

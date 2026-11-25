@@ -764,6 +764,21 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Ирод"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 =
         "Ирод — один из четырех лидеров Алого ордена в Монастыре Алого ордена. Чемпион Алого Ордена, он известен своей жестокой репутацией."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8260 = "Стремительный рывок"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8260 =
+        "Повышает скорость передвижения на 4 сек. и урон первой атаки."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8269 = "Исступление"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8269 =
+        "Повышает наносимый физический урон и скорость атаки на 2 мин."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15496 = "Рассекающий удар"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15496 =
+        "Наносит физический урон противнику и его ближайшему союзнику."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8989 = "Вихрь"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8989 =
+        "Поддерживает вихрь 10 сек., становясь невосприимчивым к магическому урону и поражая ближайших противников. Отойдите на время поддержания."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15578 = "Вихрь"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15578 =
+        "Наносит физический урон ближайшим противникам каждые 2 сек. во время поддержания Вихря."
 
     -- SMCATH
     IJ_DB_DUNGEON_SMCATH_NAME = "Монастырь Алого ордена (собор)"

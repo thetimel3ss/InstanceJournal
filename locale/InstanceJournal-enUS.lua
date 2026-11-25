@@ -927,6 +927,21 @@ IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_28810 =
     "Absorbs damage for up to 30 sec. Dispel this Magic buff."
 IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Herod"
 IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Herod is one of the four Scarlet Crusade leaders in the Scarlet Monastery. A champion of the Scarlet Crusade, he is known for his brutish reputation."
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8260 = "Rushing Charge"
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8260 =
+    "Increases movement speed for 4 sec. and the damage of the first attack."
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8269 = "Enrage"
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8269 =
+    "Increases Physical damage dealt and attack speed for 2 min."
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15496 = "Cleave"
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15496 =
+    "Deals Physical damage to an enemy and their nearest ally."
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8989 = "Whirlwind"
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8989 =
+    "Channels a whirlwind for 10 sec., becoming immune to Magic damage and striking nearby enemies. Move away during the channel."
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15578 = "Whirlwind"
+IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15578 =
+    "Deals Physical damage to nearby enemies every 2 sec. while Whirlwind is channeled."
 
 -- SMARM Loot
 IJ_LOOT_NAME_55474 = "Balanced Razor Shivs"

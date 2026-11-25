@@ -753,6 +753,21 @@ if GetLocale() == "ptBR" then
         "Absorve dano por até 30 s. Dissipe este benefício mágico."
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Herodes"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Herodes é um dos quatro líderes da Cruzada Escarlate no Mosteiro Escarlate. Campeão da Cruzada Escarlate, ele é conhecido por sua reputação brutal."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8260 = "Investida Impetuosa"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8260 =
+        "Aumenta a velocidade de movimento por 4 s e o dano do primeiro ataque."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8269 =
+        "Aumenta o dano Físico causado e a velocidade de ataque por 2 min."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15496 = "Cutilada"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15496 =
+        "Causa dano Físico a um inimigo e ao aliado mais próximo dele."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_8989 = "Redemoinho"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_8989 =
+        "Canaliza um redemoinho por 10 s, tornando-se imune a dano mágico e atingindo os inimigos próximos. Afaste-se durante a canalização."
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_NAME_15578 = "Redemoinho"
+    IJ_DB_DUNGEON_SMARM_BOSS_3975_ABILITY_EFFECT_15578 =
+        "Causa dano Físico aos inimigos próximos a cada 2 s enquanto Redemoinho é canalizado."
 
     -- SMCATH
     IJ_DB_DUNGEON_SMCATH_NAME = "Mosteiro Escarlate (Catedral)"
