@@ -745,6 +745,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_61982 = "Rüstmeister der Waffenkammer Daghelm"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_61982 =
         "Daghelm war einst ein vielversprechender Lehrling des Meisterschmieds Basil Frye und entschied sich, im Kloster zu bleiben, als die Geißel zuschlug, während sein Mentor in den Dreck der Unterstadt floh. Die Jahre der Isolation und des Fanatismus haben ihn zu einem psychotischen Eiferer gemacht, der davon besessen ist, im Rahmen der „Segen“ des Lichts eine Rüstung zu schmieden. Er trägt immer noch das Tagebuch seines Mentors in Form von Lightforge-Barren bei sich und weigert sich, die kostbaren Notizen herzugeben, selbst als der Kreuzzug, dem er dient, um ihn herum in Korruption zerfällt."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_8380 = "Rüstung zerreißen"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_8380 =
+        "Verringert die Rüstung des Ziels für 30 Sek. Bis zu 5-mal stapelbar."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_15588 = "Donnerknall"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_15588 =
+        "Fügt nahen Gegnern Naturschaden zu und verlangsamt ihre Angriffe und Bewegung für 10 Sek. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_28810 = "Rüstung des Glaubens"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_28810 =
+        "Absorbiert bis zu 30 Sek. lang Schaden. Bannt diesen magischen Stärkungseffekt."
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Herodes"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Herodes ist einer der vier Anführer des Scharlachroten Kreuzzugs im Scharlachroten Kloster. Als Champion des Scharlachroten Kreuzzugs ist er für seinen brutalen Ruf bekannt."
 

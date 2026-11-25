@@ -916,6 +916,15 @@ IJ_DB_DUNGEON_SMARM_STORY =
 IJ_DB_DUNGEON_SMARM_BOSS_NAME_61982 = "Armory Quartermaster Daghelm"
 IJ_DB_DUNGEON_SMARM_BOSS_STORY_61982 =
     "Once a promising apprentice to the master blacksmith Basil Frye, Daghelm chose to stay at the Monastery when the Scourge hit, while his mentor fled to the muck of the Undercity. The years of isolation and fanaticism have turned him into a psychotic zealot, obsessed with forging armor within the 'blessings' of the Light. He still carries his mentor's journal on Lightforge ingots, refusing to relinquish the precious notes even as the Crusade he serves crumbles into corruption around him."
+IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_8380 = "Sunder Armor"
+IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_8380 =
+    "Reduces the target’s armor for 30 sec. Stacks up to 5 times."
+IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_15588 = "Thunderclap"
+IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_15588 =
+    "Deals Nature damage to nearby enemies and slows their attacks and movement for 10 sec. Dispel this Magic effect."
+IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_28810 = "Armor of Faith"
+IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_28810 =
+    "Absorbs damage for up to 30 sec. Dispel this Magic buff."
 IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Herod"
 IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Herod is one of the four Scarlet Crusade leaders in the Scarlet Monastery. A champion of the Scarlet Crusade, he is known for his brutish reputation."
 

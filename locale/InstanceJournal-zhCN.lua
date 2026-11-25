@@ -1012,6 +1012,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_61982 = "军械库军需官达格海姆"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_61982 =
         "达海姆曾经是铁匠大师巴兹尔·弗莱的一名很有前途的学徒，当天灾袭击时，达海姆选择留在修道院，而他的导师则逃到了幽暗城的淤泥中。多年的孤立和狂热让他变成了一个疯狂的狂热分子，痴迷于在圣光的“祝福”下锻造盔甲。他仍然带着导师用光铸锭写的日记，拒绝放弃这些珍贵的笔记，即使他所服务的远征在他周围陷入腐败。"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_8380 = "破甲攻击"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_8380 =
+        "降低目标的护甲，持续30秒，最多叠加5层。"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_15588 = "雷霆一击"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_15588 =
+        "对附近的敌人造成自然伤害，并降低其攻击和移动速度，持续10秒。驱散此魔法效果。"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_28810 = "信仰护甲"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_28810 =
+        "吸收伤害，最多持续30秒。驱散此魔法增益效果。"
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "赫洛德"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "希律是血色修道院的四位血色十字军领袖之一。作为血色十字军的冠军，他以野蛮的名声而闻名。"
 

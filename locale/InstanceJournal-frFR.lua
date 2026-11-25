@@ -743,6 +743,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_61982 = "Intendant de l'armurerie Daghelm"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_61982 =
         "Autrefois apprenti prometteur du maître forgeron Basil Frye, Daghelm a choisi de rester au monastère lorsque le Fléau a frappé, tandis que son mentor s'enfuyait dans la boue d'Undercity. Les années d'isolement et de fanatisme l'ont transformé en un fanatique psychotique, obsédé par l'idée de forger une armure dans le cadre des « bénédictions » de la Lumière. Il porte toujours le journal de son mentor sur des lingots de Lightforge, refusant de renoncer aux précieuses notes alors même que la Croisade qu'il sert s'effondre dans la corruption autour de lui."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_8380 = "Fracasser armure"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_8380 =
+        "Réduit l’armure de la cible pendant 30 s. Cumulable jusqu’à 5 fois."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_15588 = "Coup de tonnerre"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_15588 =
+        "Inflige des dégâts de Nature aux ennemis proches et ralentit leurs attaques et leurs déplacements pendant 10 s. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_28810 = "Armure de foi"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_28810 =
+        "Absorbe les dégâts pendant 30 s au maximum. Dissipez cet effet magique bénéfique."
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Hérode"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Hérode est l'un des quatre dirigeants de la Croisade écarlate du monastère écarlate. Champion de la Croisade Écarlate, il est connu pour sa réputation de brutalité."
 

@@ -32,7 +32,7 @@ SMARM.Entrances = {
     }
 }
 SMARM.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "61982",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "daghelm" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "daghelm" .. IMPF,
@@ -41,6 +41,28 @@ SMARM.Bosses = {
         MapCoordinateX = 57.4,
         MapCoordinateY = 38.5,
         MapId = IZI.SMArm,
+        Abilities = {
+            [1] = {
+                Id = "8380",
+                Icon = "Ability_Warrior_Sunder",
+                Name = IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_8380,
+                Effect = IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_8380
+            },
+            [2] = {
+                Id = "15588",
+                Icon = "Spell_Nature_ThunderClap",
+                Name = IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_15588,
+                Effect = IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_15588,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "28810",
+                Icon = "Spell_Holy_BlessingOfProtection",
+                Name = IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_28810,
+                Effect = IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_28810,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[55474], DropChance = 25}, 
             [2] = {IJDB.I[55475], DropChance = 25}, 

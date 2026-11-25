@@ -742,6 +742,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_61982 = "Intendente do Arsenal Daghelm"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_61982 =
         "Outrora um promissor aprendiz do mestre ferreiro Basil Frye, Daghelm escolheu ficar no Monastério quando o Flagelo o atingiu, enquanto seu mentor fugia para a lama da Cidade Baixa. Os anos de isolamento e fanatismo transformaram-no num fanático psicótico, obcecado em forjar uma armadura dentro das “bênçãos” da Luz. Ele ainda carrega o diário de seu mentor em lingotes de Lightforge, recusando-se a abrir mão das notas preciosas, mesmo quando a Cruzada que ele serve desmorona em corrupção ao seu redor."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_8380 = "Fender Armadura"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_8380 =
+        "Reduz a armadura do alvo por 30 s. Acumula até 5 vezes."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_15588 = "Trovoada"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_15588 =
+        "Causa dano de Natureza aos inimigos próximos e reduz a velocidade de ataque e movimento deles por 10 s. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_NAME_28810 = "Armadura da Fé"
+    IJ_DB_DUNGEON_SMARM_BOSS_61982_ABILITY_EFFECT_28810 =
+        "Absorve dano por até 30 s. Dissipe este benefício mágico."
     IJ_DB_DUNGEON_SMARM_BOSS_NAME_3975 = "Herodes"
     IJ_DB_DUNGEON_SMARM_BOSS_STORY_3975 = "Herodes é um dos quatro líderes da Cruzada Escarlate no Mosteiro Escarlate. Campeão da Cruzada Escarlate, ele é conhecido por sua reputação brutal."
 
