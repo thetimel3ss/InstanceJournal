@@ -32,7 +32,7 @@ SMGY.Entrances = {
     }
 }
 SMGY.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "3983",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "vishas" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "vishas" .. IMPF,
@@ -41,6 +41,15 @@ SMGY.Bosses = {
         MapCoordinateX = 72.1,
         MapCoordinateY = 59.8,
         MapId = IZI.SMGy,
+        Abilities = {
+            [1] = {
+                Id = "2767",
+                Icon = "Spell_Shadow_ShadowWordPain",
+                Name = IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_NAME_2767,
+                Effect = IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_EFFECT_2767,
+                Flags = {IMAF.Magic}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[7682], DropChance = 25}, 
             [2] = {IJDB.I[7683], DropChance = 25}, 

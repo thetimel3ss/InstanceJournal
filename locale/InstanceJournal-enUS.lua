@@ -795,6 +795,9 @@ IJ_DB_DUNGEON_SMGY_STORY =
 IJ_DB_DUNGEON_SMGY_BOSS_NAME_3983 = "Interrogator Vishas"
 IJ_DB_DUNGEON_SMGY_BOSS_STORY_3983 =
     "James Vishas is the Scarlet Crusade's lead interrogator at the Scarlet Monastery. He enjoys torturing any captured undead and takes great pride in his work. Vishas is known for his unrelenting sadism, cruel expertise, and high pitched voice."
+IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_NAME_2767 = "Shadow Word: Pain"
+IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_EFFECT_2767 =
+    "Deals Shadow damage every 3 sec. for 18 sec. Dispel this Magic effect."
 IJ_DB_DUNGEON_SMGY_BOSS_NAME_61972 = "Duke Dreadmoore"
 IJ_DB_DUNGEON_SMGY_BOSS_STORY_61972 =
     "Not much is known about Duke Dreadmoore, a death knight believed to be a harbinger of Naxxramas. Recently captured by the Scarlet Crusade, he lies imprisoned within the monastery’s underground cells beneath the torture chambers, where he is subjected to relentless experimentation. Though bound and studied, Dreadmoore remains far from broken, biding his time and awaiting the moment to unleash the full extent of his dark power upon his captors."

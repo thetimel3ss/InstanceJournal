@@ -659,6 +659,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_3983 = "Vishas de l’interrogateur"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_3983 =
         "James Vishas est le principal interrogateur de la Croisade écarlate au monastère écarlate. Il aime torturer tous les morts-vivants capturés et est très fier de son travail. Vishas est connu pour son sadisme implacable, son expertise cruelle et sa voix aiguë."
+    IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_NAME_2767 = "Mot de l’ombre : Douleur"
+    IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_EFFECT_2767 =
+        "Inflige des dégâts d’Ombre toutes les 3 s pendant 18 s. Dissipez cet effet magique."
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_61972 = "Duc Dreadmoore"
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_6489 = "Épine de fer"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_6489 =

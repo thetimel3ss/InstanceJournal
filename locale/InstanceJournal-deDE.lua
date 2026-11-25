@@ -661,6 +661,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_3983 = "Vernehmer Vishas"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_3983 =
         "James Vishas ist der leitende Vernehmer des Scharlachroten Kreuzzugs im Scharlachroten Kloster. Er genießt es, gefangene Untote zu foltern und ist sehr stolz auf seine Arbeit. Vishas ist bekannt für seinen unerbittlichen Sadismus, sein grausames Fachwissen und seine hohe Stimme."
+    IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_NAME_2767 = "Schattenwort: Schmerz"
+    IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_EFFECT_2767 =
+        "Verursacht 18 Sek. lang alle 3 Sek. Schattenschaden. Bannt diesen magischen Effekt."
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_61972 = "Herzog Dreadmoore"
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_6489 = "Ironspine"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_6489 =

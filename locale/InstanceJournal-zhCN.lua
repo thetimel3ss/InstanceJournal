@@ -892,6 +892,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_3983 = "审讯员韦沙斯"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_3983 =
         "詹姆斯·维沙斯是血色十字军在血色修道院的首席审讯官。他喜欢折磨任何被捕获的不死生物，并对自己的工作感到非常自豪。维沙斯以其无情的虐待狂、残酷的专业知识和高亢的声音而闻名。"
+    IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_NAME_2767 = "暗言术：痛"
+    IJ_DB_DUNGEON_SMGY_BOSS_3983_ABILITY_EFFECT_2767 =
+        "每3秒造成一次暗影伤害，持续18秒。驱散此魔法效果。"
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_61972 = "达德摩尔公爵"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_61972 = "关于德雷德摩尔公爵，人们知之甚少。他是来自纳克萨玛斯的死亡骑士，最近被血色十字军俘虏并被囚禁在修道院的监狱里。"
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_6489 = "铁脊死灵"
