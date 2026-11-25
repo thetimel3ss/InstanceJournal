@@ -706,6 +706,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Frère Wystan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "Frère Wystan sert de gardien des archives du monastère, protégeant fanatiquement les objets « hérétiques » que la Croisade a saisis du monde extérieur. Parmi sa collection se trouve un servo accordé en thorium, une pièce d'ingénierie complexe qu'il considère comme un affront à la Lumière. Alors que de nombreux mages comme Elias ont fui l'ordre après avoir été témoins de la descente de l'élite dans la folie et la nécromancie, Wystan reste un bouclier solide, garantissant qu'aucune influence « contre nature » ne quitte les murs de la bibliothèque."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_8402 = "Boule de feu"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_8402 =
+        "Inflige des dégâts de Feu immédiatement puis toutes les 2 s pendant 8 s."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_15618 = "Coup de pied vif"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_15618 =
+        "Inflige des dégâts physiques et étourdit la cible pendant 2 s."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_22916 = "Uppercut"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_22916 =
+        "Inflige des dégâts physiques à un ennemi et le repousse."
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arcaniste Doan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "Doan est le gardien de la bibliothèque du monastère écarlate ; un gardien des arcanes dont la Croisade écarlate se méfierait, selon la rumeur. Pourtant, il est en effet un fonctionnaire de confiance de la Croisade, détenant une clé vitale qui donnait accès aux opérations écarlates à travers les Maleterres. L'arcaniste Doan pense que la magie arcanique est le seul moyen de débarrasser Lordaeron du Fléau."

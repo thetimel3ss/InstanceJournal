@@ -708,6 +708,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Bruder Wystan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "Bruder Wystan fungiert als Pförtner der Klosterarchive und schützt fanatisch die „ketzerischen“ Objekte, die der Kreuzzug beschlagnahmt hat, vor der Außenwelt. Zu seiner Sammlung gehört ein Thorium Tuned Servo, ein komplexes Stück Technik, das er als Affront gegen das Licht betrachtet. Während viele Magier wie Elias aus dem Orden geflohen sind, nachdem sie den Abstieg der Elite in Wahnsinn und Nekromantie miterlebt haben, bleibt Wystan ein treuer Schutzschild, der dafür sorgt, dass kein „unnatürlicher“ Einfluss die Mauern der Bibliothek verlässt."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_8402 = "Feuerball"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_8402 =
+        "Verursacht sofort und dann 8 Sek. lang alle 2 Sek. Feuerschaden."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_15618 = "Schneller Tritt"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_15618 =
+        "Verursacht körperlichen Schaden und betäubt das Ziel für 2 Sek."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_22916 = "Aufwärtshaken"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_22916 =
+        "Fügt einem Gegner körperlichen Schaden zu und stößt ihn zurück."
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arkanist Doan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "Doan fungiert als Verwalter der Bibliothek des Scharlachroten Klosters; ein Hüter des Arkanen, dem der Scharlachrote Kreuzzug angeblich misstraut. Dennoch ist er in der Tat ein vertrauenswürdiger Beamter des Kreuzzugs und verfügt über einen wichtigen Schlüssel, der den Zugang zu Scharlachroten Operationen in den Pestländern ermöglicht. Arkanist Doan glaubt, dass arkane Magie die einzige Möglichkeit ist, Lordaeron von der Geißel zu befreien."

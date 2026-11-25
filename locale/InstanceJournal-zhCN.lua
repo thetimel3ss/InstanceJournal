@@ -962,6 +962,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "威斯坦修士"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "威斯坦修士担任修道院档案的看门人，狂热地保护十字军从外界夺取的“异端”物品。他的收藏中有一个钍调谐伺服系统，这是一个复杂的工程，他认为这是对圣光的侮辱。虽然许多像埃利亚斯这样的法师在目睹了精英们陷入疯狂和死灵魔法后逃离了组织，但维斯坦仍然是一个坚定的盾牌，确保“不自然”的影响不会离开图书馆的墙壁。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_8402 = "火球术"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_8402 =
+        "立即造成火焰伤害，此后每2秒造成一次火焰伤害，持续8秒。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_15618 = "瞬发踢"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_15618 =
+        "造成物理伤害并使目标昏迷2秒。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_22916 = "上勾拳"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_22916 =
+        "对一名敌人造成物理伤害并将其击退。"
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "秘法师杜安"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "多安担任血色修道院图书馆的管理员；传闻这位奥术守护者并不受血色十字军信任。但他确实是远征军中值得信赖的官员，持有一把至关重要的钥匙，使他得以参与瘟疫之地的血色行动。奥术师多安相信，奥术魔法是消灭洛丹伦天灾军团的唯一方法。"

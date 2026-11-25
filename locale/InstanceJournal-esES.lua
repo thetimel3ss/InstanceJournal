@@ -707,6 +707,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Hermano Wystan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "El hermano Wystan actúa como guardián de los archivos del Monasterio, protegiendo fanáticamente los objetos \"heréticos\" que la Cruzada ha confiscado del mundo exterior. Entre su colección se encuentra un servo sintonizado con torio, una compleja pieza de ingeniería que considera una afrenta a la Luz. Si bien muchos magos como Elias han huido de la orden después de presenciar el descenso de la élite a la locura y la nigromancia, Wystan sigue siendo un escudo incondicional, asegurando que ninguna influencia \"antinatural\" salga de las paredes de la Biblioteca."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_8402 = "Bola de Fuego"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_8402 =
+        "Inflige daño de Fuego inmediatamente y cada 2 s durante 8 s."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_15618 = "Patada rápida"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_15618 =
+        "Inflige daño físico y aturde al objetivo durante 2 s."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_22916 = "Gancho"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_22916 =
+        "Inflige daño físico a un enemigo y lo repele."
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arcanista Doan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "Doan actúa como guardián de la biblioteca del Monasterio Escarlata; un guardián de lo arcano del que se rumorea que la Cruzada Escarlata desconfía. Sin embargo, es un funcionario de confianza de la Cruzada y conserva una llave vital que otorga acceso a las operaciones Escarlata en las Tierras de la Peste. El arcanista Doan cree que la magia arcana es la única forma de librar a Lordaeron de la Plaga."

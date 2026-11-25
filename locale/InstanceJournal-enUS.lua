@@ -866,6 +866,15 @@ IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_trackinghounds =
 IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Brother Wystan"
 IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
     "Brother Wystan serves as a gatekeeper of the Monastery's archives, fanatically protecting the 'heretical' objects the Crusade has seized from the outside world. Among his collection is a Thorium Tuned Servo, a complex piece of engineering he considers an affront to the Light. While many mages like Elias have fled the order after witnessing the elite's descent into madness and necromancy, Wystan remains a stalwart shield, ensuring no 'unnatural' influence leaves the Library's walls."
+IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_8402 = "Fireball"
+IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_8402 =
+    "Deals Fire damage immediately and every 2 sec. for 8 sec."
+IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_15618 = "Snap Kick"
+IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_15618 =
+    "Deals Physical damage and stuns the target for 2 sec."
+IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_22916 = "Uppercut"
+IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_22916 =
+    "Deals Physical damage to an enemy and knocks them back."
 IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arcanist Doan"
 IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
     "Doan acts as the keeper of the Scarlet Monastery's library; a guardian of the arcane that the Scarlet Crusade is rumored to distrust. Yet he is indeed a trusted official of the Crusade, keeping a vital key that granted access to Scarlet operations across the Plaguelands. Arcanist Doan believes that arcane magic is the only way to rid Lordaeron of the Scourge."

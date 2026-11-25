@@ -63,7 +63,7 @@ SMLIB.Bosses = {
             [4] = {IJDB.I[51217], DropChance = 1}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "61983",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "wystan" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "wystan" .. IMPF,
@@ -72,6 +72,26 @@ SMLIB.Bosses = {
         MapCoordinateX = 71.8,
         MapCoordinateY = 40.8,
         MapId = IZI.SMLib,
+        Abilities = {
+            [1] = {
+                Id = "8402",
+                Icon = "Spell_Fire_FlameBolt",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_8402,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_8402
+            },
+            [2] = {
+                Id = "15618",
+                Icon = "Ability_Kick",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_15618,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_15618
+            },
+            [3] = {
+                Id = "22916",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_22916,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_22916
+            }
+        },
         Loot = {
             [1] = {IJDB.I[55470], DropChance = 25}, 
             [2] = {IJDB.I[55471], DropChance = 25}, 

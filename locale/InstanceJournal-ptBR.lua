@@ -705,6 +705,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Irmão Wystan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "O irmão Wystan serve como guardião dos arquivos do Mosteiro, protegendo fanaticamente os objetos “heréticos” que a Cruzada apreendeu do mundo exterior. Entre sua coleção está um Thorium Tuned Servo, uma complexa peça de engenharia que ele considera uma afronta à Luz. Embora muitos magos como Elias tenham fugido da ordem depois de testemunhar a queda da elite na loucura e na necromancia, Wystan continua sendo um escudo robusto, garantindo que nenhuma influência “não natural” saia das paredes da Biblioteca."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_8402 = "Bola de Fogo"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_8402 =
+        "Causa dano de Fogo imediatamente e a cada 2 s por 8 s."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_15618 = "Chute Rápido"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_15618 =
+        "Causa dano Físico e atordoa o alvo por 2 s."
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_NAME_22916 = "Gancho"
+    IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_22916 =
+        "Causa dano Físico a um inimigo e o repele."
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arcanista Doan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "Doan atua como guardião da biblioteca do Mosteiro Escarlate; um guardião do arcano de quem há rumores de que a Cruzada Escarlate desconfia. No entanto, ele é de fato um oficial de confiança da Cruzada, mantendo uma chave vital que concedeu acesso às operações Escarlate nas Terras Pestilentas. O Arcanista Doan acredita que a magia arcana é a única maneira de livrar Lordaeron do Flagelo."
