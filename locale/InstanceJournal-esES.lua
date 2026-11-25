@@ -676,6 +676,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_4543 = "Mago de sangre Thalnos"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_4543 =
         "Thalnos se ganó reputación en la Cruzada Escarlata por los brutales métodos de tortura que utilizó para \"purificar\" a los nuevos reclutas. Al final, el mago sádico contrajo la plaga de la no-muerte y surgió como un temible ser esquelético. El vengativo Thalnos merodeaba por el cementerio del monasterio ordenando apariciones y criaturas zombificadas que atacaran a cualquiera que invadiera sus impíos dominios."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8053 = "Choque de llamas"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8053 =
+        "Inflige daño de Fuego inmediatamente y cada 3 s durante 12 s. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8814 = "Pilar de llamas"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8814 =
+        "Quema a los enemigos en una zona seleccionada inmediatamente y cada 3 s durante 9 s. Sal de la zona afectada."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_9613 = "Descarga de las Sombras"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_9613 =
+        "Inflige daño de las Sombras a un enemigo."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_12470 = "Nova de Fuego"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_12470 =
+        "Inflige daño de Fuego a los enemigos cercanos."
 
     -- SMLIB
     IJ_DB_DUNGEON_SMLIB_NAME = "Monasterio Escarlata (Biblioteca)"

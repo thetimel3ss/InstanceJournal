@@ -675,6 +675,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_4543 = "Mage de sang Thalnos"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_4543 =
         "Thalnos s'est forgé une réputation au sein de la Croisade Écarlate grâce aux méthodes de torture brutales qu'il a utilisées pour « purifier » les nouvelles recrues. Finalement, le mage sadique contracta le fléau de la non-vie et réapparut sous la forme d'un redoutable être squelettique. Le vengeur Thalnos rôdait dans le cimetière du monastère, ordonnant aux apparitions et aux créatures zombifiées d'attaquer quiconque pénétrait dans son domaine impie."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8053 = "Horion de flammes"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8053 =
+        "Inflige des dégâts de Feu immédiatement puis toutes les 3 s pendant 12 s. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8814 = "Pilier de flammes"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8814 =
+        "Brûle les ennemis dans une zone ciblée immédiatement puis toutes les 3 s pendant 9 s. Quittez la zone affectée."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_9613 = "Trait de l’ombre"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_9613 =
+        "Inflige des dégâts d’Ombre à un ennemi."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_12470 = "Nova de feu"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_12470 =
+        "Inflige des dégâts de Feu aux ennemis proches."
 
     -- SMLIB
     IJ_DB_DUNGEON_SMLIB_NAME = "Monastère Écarlate (Bibliothèque)"

@@ -122,7 +122,7 @@ SMGY.Bosses = {
             [3] = {IJDB.I[7691], DropChance = 33}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "4543",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "thalnos" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "thalnos" .. IMPF,
@@ -132,6 +132,34 @@ SMGY.Bosses = {
         MapCoordinateY = 56.2,
         MapId = IZI.SMGy,
         MapIsBelow = true,
+        Abilities = {
+            [1] = {
+                Id = "8053",
+                Icon = "Spell_Fire_FlameShock",
+                Name = IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8053,
+                Effect = IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8053,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "8814",
+                Icon = "Spell_Fire_SelfDestruct",
+                Name = IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8814,
+                Effect = IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8814,
+                Flags = {IMAF.Important}
+            },
+            [3] = {
+                Id = "9613",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_9613,
+                Effect = IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_9613
+            },
+            [4] = {
+                Id = "12470",
+                Icon = "Spell_Fire_SealOfFire",
+                Name = IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_12470,
+                Effect = IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_12470
+            }
+        },
         Loot = {
             [1] = {IJDB.I[7685], DropChance = 50}, 
             [2] = {IJDB.I[7684], DropChance = 35}, 

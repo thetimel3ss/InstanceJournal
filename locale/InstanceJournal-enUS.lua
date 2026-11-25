@@ -813,6 +813,18 @@ IJ_DB_DUNGEON_SMGY_BOSS_STORY_6488 =
 IJ_DB_DUNGEON_SMGY_BOSS_NAME_4543 = "Bloodmage Thalnos"
 IJ_DB_DUNGEON_SMGY_BOSS_STORY_4543 =
     "Thalnos earned repute in the Scarlet Crusade for the brutal torture methods he used to \"purify\" new recruits. Ultimately the sadistic mage contracted the plague of undeath and arose as a fearsome skeletal being. The vengeful Thalnos prowled the monastery's graveyard commanding apparitions and zombified creatures to attack anyone who trespasses on his unholy domain."
+IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8053 = "Flame Shock"
+IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8053 =
+    "Deals Fire damage immediately and every 3 sec. for 12 sec. Dispel this Magic effect."
+IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8814 = "Flame Spike"
+IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8814 =
+    "Burns enemies in a selected area immediately and every 3 sec. for 9 sec. Move out of the affected area."
+IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_9613 = "Shadow Bolt"
+IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_9613 =
+    "Deals Shadow damage to an enemy."
+IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_12470 = "Fire Nova"
+IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_12470 =
+    "Deals Fire damage to nearby enemies."
 
 -- SMGY Loot
 IJ_LOOT_NAME_7682 = "Torturing Poker"

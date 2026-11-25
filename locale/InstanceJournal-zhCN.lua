@@ -909,6 +909,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_4543 = "血法师萨尔诺斯"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_4543 =
         "萨尔诺斯因用残酷的酷刑方法“净化”新兵而在血色十字军中赢得了声誉。最终，这位虐待狂法师感染了亡灵瘟疫，并成为了可怕的骷髅生物。复仇心切的萨尔诺斯在修道院的墓地中徘徊，指挥幽灵和僵尸生物攻击任何侵入他邪恶领地的人。"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8053 = "烈焰震击"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8053 =
+        "立即造成火焰伤害，此后每3秒造成一次火焰伤害，持续12秒。驱散此魔法效果。"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8814 = "烈焰之刺"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8814 =
+        "立即灼烧选定区域内的敌人，此后每3秒灼烧一次，持续9秒。离开受影响区域。"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_9613 = "暗影箭"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_9613 =
+        "对一名敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_12470 = "火焰新星"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_12470 =
+        "对附近的敌人造成火焰伤害。"
 
     -- SMGY Loot
     IJ_LOOT_NAME_7682 = "烙铁棍"

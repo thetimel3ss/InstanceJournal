@@ -677,6 +677,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_4543 = "Blutmagier Thalnos"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_4543 =
         "Thalnos erwarb sich im Scharlachroten Kreuzzug einen guten Ruf durch die brutalen Foltermethoden, die er zur „Reinigung“ neuer Rekruten einsetzte. Letztendlich erkrankte der sadistische Magier an der Plage des Untodes und verwandelte sich in ein furchterregendes Skelettwesen. Der rachsüchtige Thalnos streifte über den Friedhof des Klosters und befahl Erscheinungen und zombifizierten Kreaturen, jeden anzugreifen, der in sein unheiliges Reich eindringt."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8053 = "Flammenschock"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8053 =
+        "Verursacht sofort und dann 12 Sek. lang alle 3 Sek. Feuerschaden. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8814 = "Flammensäule"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8814 =
+        "Verbrennt Gegner in einem ausgewählten Bereich sofort und dann 9 Sek. lang alle 3 Sek. Verlasst den betroffenen Bereich."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_9613 = "Schattenblitz"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_9613 =
+        "Fügt einem Gegner Schattenschaden zu."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_12470 = "Feuernova"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_12470 =
+        "Fügt nahen Gegnern Feuerschaden zu."
 
     -- SMLIB
     IJ_DB_DUNGEON_SMLIB_NAME = "Scharlachrotes Kloster (Bibliothek)"

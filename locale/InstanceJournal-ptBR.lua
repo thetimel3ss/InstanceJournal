@@ -674,6 +674,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SMGY_BOSS_NAME_4543 = "Mago Sangrento Thalnos"
     IJ_DB_DUNGEON_SMGY_BOSS_STORY_4543 =
         "Thalnos ganhou reputação na Cruzada Escarlate pelos métodos brutais de tortura que usou para “purificar” novos recrutas. No final das contas, o mago sádico contraiu a praga dos mortos-vivos e surgiu como um temível ser esquelético. O vingativo Thalnos rondava o cemitério do mosteiro comandando aparições e criaturas zumbificadas para atacar qualquer um que invadisse seu domínio profano."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8053 = "Choque Flamejante"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8053 =
+        "Causa dano de Fogo imediatamente e a cada 3 s por 12 s. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_8814 = "Espeto de Chamas"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_8814 =
+        "Queima os inimigos em uma área escolhida imediatamente e a cada 3 s por 9 s. Saia da área afetada."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_9613 = "Seta Sombria"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_9613 =
+        "Causa dano de Sombra a um inimigo."
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_NAME_12470 = "Nova de Fogo"
+    IJ_DB_DUNGEON_SMGY_BOSS_4543_ABILITY_EFFECT_12470 =
+        "Causa dano de Fogo aos inimigos próximos."
 
     -- SMLIB
     IJ_DB_DUNGEON_SMLIB_NAME = "Mosteiro Escarlate (Biblioteca)"
