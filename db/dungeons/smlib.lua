@@ -32,7 +32,7 @@ SMLIB.Entrances = {
     }
 }
 SMLIB.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "3974",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "loksey" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "loksey" .. IMPF,
@@ -41,6 +41,21 @@ SMLIB.Bosses = {
         MapCoordinateX = 29.4,
         MapCoordinateY = 84.4,
         MapId = IZI.SMLib,
+        Abilities = {
+            [1] = {
+                Id = "6742",
+                Icon = "Spell_Nature_BloodLust",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_6742,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_6742,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "trackinghounds",
+                Icon = "Ability_Hunter_Pet_Wolf",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_trackinghounds,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_trackinghounds
+            }
+        },
         Loot = {
             [1] = {IJDB.I[7710], DropChance = 33}, 
             [2] = {IJDB.I[3456], DropChance = 33}, 

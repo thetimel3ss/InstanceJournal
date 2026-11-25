@@ -698,6 +698,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_3974 = "Maestro de canes Loksey"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_3974 =
         "El maestro de perros Loksey es uno de los cuatro líderes del Monasterio Escarlata y el capitán encargado de entrenar a los perros que la Cruzada Escarlata utiliza para localizar a sus enemigos. Loksey cuenta con la lealtad de perros temibles que pueden destrozar a sus víctimas miembro por miembro en cuestión de minutos."
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_6742 = "Ansia de sangre"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_6742 =
+        "Aumenta la velocidad de ataque de un aliado un 30% durante 30 s. Disipa este beneficio mágico."
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_trackinghounds = "Sabuesos rastreadores Escarlata"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_trackinghounds =
+        "Loksey está acompañado por sabuesos rastreadores Escarlata."
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Hermano Wystan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "El hermano Wystan actúa como guardián de los archivos del Monasterio, protegiendo fanáticamente los objetos \"heréticos\" que la Cruzada ha confiscado del mundo exterior. Entre su colección se encuentra un servo sintonizado con torio, una compleja pieza de ingeniería que considera una afrenta a la Luz. Si bien muchos magos como Elias han huido de la orden después de presenciar el descenso de la élite a la locura y la nigromancia, Wystan sigue siendo un escudo incondicional, asegurando que ninguna influencia \"antinatural\" salga de las paredes de la Biblioteca."

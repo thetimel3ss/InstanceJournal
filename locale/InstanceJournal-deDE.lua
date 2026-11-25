@@ -699,6 +699,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_3974 = "Hundemeister Loksey"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_3974 =
         "Hundemeister Loksey ist einer der vier Anführer des Scharlachroten Klosters und der Kapitän, der für die Ausbildung der Hunde verantwortlich ist, mit denen der Scharlachrote Kreuzzug seine Feinde aufspürt. Loksey verfügt über die Loyalität furchterregender Hunde, die ihre Opfer innerhalb von Minuten Stück für Stück auseinanderreißen können."
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_6742 = "Kampfrausch"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_6742 =
+        "Erhöht das Angriffstempo eines Verbündeten 30 Sek. lang um 30%. Bannt diesen magischen Stärkungseffekt."
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_trackinghounds = "Scharlachrote Fährtenleserhunde"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_trackinghounds =
+        "Loksey wird von Scharlachroten Fährtenleserhunden begleitet."
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Bruder Wystan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "Bruder Wystan fungiert als Pförtner der Klosterarchive und schützt fanatisch die „ketzerischen“ Objekte, die der Kreuzzug beschlagnahmt hat, vor der Außenwelt. Zu seiner Sammlung gehört ein Thorium Tuned Servo, ein komplexes Stück Technik, das er als Affront gegen das Licht betrachtet. Während viele Magier wie Elias aus dem Orden geflohen sind, nachdem sie den Abstieg der Elite in Wahnsinn und Nekromantie miterlebt haben, bleibt Wystan ein treuer Schutzschild, der dafür sorgt, dass kein „unnatürlicher“ Einfluss die Mauern der Bibliothek verlässt."

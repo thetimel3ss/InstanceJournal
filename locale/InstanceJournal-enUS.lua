@@ -857,6 +857,12 @@ IJ_DB_DUNGEON_SMLIB_STORY =
 IJ_DB_DUNGEON_SMLIB_BOSS_NAME_3974 = "Houndmaster Loksey"
 IJ_DB_DUNGEON_SMLIB_BOSS_STORY_3974 =
     "Houndmaster Loksey is one of the four leaders of the Scarlet Monastery, and the captain in charge of training the hounds that the Scarlet Crusade uses to track down their enemies. Loksey commands the loyalty of fearsome dogs that can tear their victims apart limb by limb within minutes."
+IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_6742 = "Bloodlust"
+IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_6742 =
+    "Increases an ally’s attack speed by 30% for 30 sec. Dispel this Magic buff."
+IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_trackinghounds = "Scarlet Tracking Hounds"
+IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_trackinghounds =
+    "Loksey is accompanied by Scarlet Tracking Hounds."
 IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Brother Wystan"
 IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
     "Brother Wystan serves as a gatekeeper of the Monastery's archives, fanatically protecting the 'heretical' objects the Crusade has seized from the outside world. Among his collection is a Thorium Tuned Servo, a complex piece of engineering he considers an affront to the Light. While many mages like Elias have fled the order after witnessing the elite's descent into madness and necromancy, Wystan remains a stalwart shield, ensuring no 'unnatural' influence leaves the Library's walls."

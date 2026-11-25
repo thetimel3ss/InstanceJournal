@@ -953,6 +953,12 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_3974 = "驯犬者洛克希"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_3974 =
         "猎犬大师洛克西是血色修道院的四位领袖之一，也是负责训练血色十字军用来追踪敌人的猎犬的队长。洛克西指挥着可怕的狗的忠诚，它们可以在几分钟内将受害者肢解。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_6742 = "嗜血"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_6742 =
+        "使一个友方目标的攻击速度提高30%，持续30秒。驱散此魔法增益效果。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_trackinghounds = "血色追踪犬"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_trackinghounds =
+        "洛克希身边有血色追踪犬。"
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "威斯坦修士"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "威斯坦修士担任修道院档案的看门人，狂热地保护十字军从外界夺取的“异端”物品。他的收藏中有一个钍调谐伺服系统，这是一个复杂的工程，他认为这是对圣光的侮辱。虽然许多像埃利亚斯这样的法师在目睹了精英们陷入疯狂和死灵魔法后逃离了组织，但维斯坦仍然是一个坚定的盾牌，确保“不自然”的影响不会离开图书馆的墙壁。"

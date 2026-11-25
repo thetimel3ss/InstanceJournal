@@ -697,6 +697,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_3974 = "Maître-chien Loksey"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_3974 =
         "Le maître-chien Loksey est l'un des quatre dirigeants du monastère écarlate et le capitaine chargé de dresser les chiens que la Croisade écarlate utilise pour traquer ses ennemis. Loksey s'appuie sur la loyauté de chiens redoutables qui peuvent déchirer leurs victimes membre par membre en quelques minutes."
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_6742 = "Furie sanguinaire"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_6742 =
+        "Augmente la vitesse d’attaque d’un allié de 30% pendant 30 s. Dissipez cet effet magique bénéfique."
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_trackinghounds = "Chiens de pistage écarlates"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_trackinghounds =
+        "Loksey est accompagné de chiens de pistage écarlates."
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Frère Wystan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "Frère Wystan sert de gardien des archives du monastère, protégeant fanatiquement les objets « hérétiques » que la Croisade a saisis du monde extérieur. Parmi sa collection se trouve un servo accordé en thorium, une pièce d'ingénierie complexe qu'il considère comme un affront à la Lumière. Alors que de nombreux mages comme Elias ont fui l'ordre après avoir été témoins de la descente de l'élite dans la folie et la nécromancie, Wystan reste un bouclier solide, garantissant qu'aucune influence « contre nature » ne quitte les murs de la bibliothèque."

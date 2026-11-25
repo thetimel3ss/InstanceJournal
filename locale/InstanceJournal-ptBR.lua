@@ -696,6 +696,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_3974 = "Mestre de Caça Loksey"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_3974 =
         "Houndmaster Loksey é um dos quatro líderes do Monastério Escarlate e o capitão encarregado de treinar os cães que a Cruzada Escarlate usa para rastrear seus inimigos. Loksey comanda a lealdade de cães temíveis que podem despedaçar suas vítimas membro por membro em poucos minutos."
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_6742 = "Sede de Sangue"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_6742 =
+        "Aumenta a velocidade de ataque de um aliado em 30% por 30 s. Dissipe este benefício mágico."
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_NAME_trackinghounds = "Cães Farejadores Escarlates"
+    IJ_DB_DUNGEON_SMLIB_BOSS_3974_ABILITY_EFFECT_trackinghounds =
+        "Loksey é acompanhado por Cães Farejadores Escarlates."
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_61983 = "Irmão Wystan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_61983 =
         "O irmão Wystan serve como guardião dos arquivos do Mosteiro, protegendo fanaticamente os objetos “heréticos” que a Cruzada apreendeu do mundo exterior. Entre sua coleção está um Thorium Tuned Servo, uma complexa peça de engenharia que ele considera uma afronta à Luz. Embora muitos magos como Elias tenham fugido da ordem depois de testemunhar a queda da elite na loucura e na necromancia, Wystan continua sendo um escudo robusto, garantindo que nenhuma influência “não natural” saia das paredes da Biblioteca."
