@@ -778,6 +778,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_4542 = "Alto Inquisidor Fairbanks"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_4542 =
         "Outrora sacerdote e membro dos Cavaleiros da Mão de Prata, como o conselheiro mais próximo do Grão-lorde Mograine, ele também foi o ex-Alto Inquisidor da Cruzada Escarlate. Executado pelos cruzados por suas acusações blasfemas contra Saidan Dathrohan e Renault Mograine, ele acabou se tornando um morto-vivo."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_8282 = "Maldição do Sangue"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_8282 =
+        "Aumenta o dano Físico recebido por 10 min. Remova esta maldição."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_11647 = "Palavra de Poder: Escudo"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_11647 =
+        "Absorve dano Físico e mágico por até 30 s."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_12039 = "Curar"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_12039 =
+        "Cura um alvo aliado."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Comandante Escarlate Mograine"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "Em sua juventude, Renault foi membro dos Cavaleiros da Mão de Prata e filho de seu líder, o Grão-lorde Alexandros Mograine. Manipulado por Balnazzar através do cadáver possuído de Saidan Dathrohan, e com ciúmes da atenção dada a seu irmão Darion Mograine, Renault aceitou a oferta do Grande Cruzado e conduziu seu pai para uma emboscada antes de assassiná-lo com o Ashbringer. Como prometido, Renault tornou-se o Comandante Escarlate do Mosteiro Escarlate."

@@ -32,7 +32,7 @@ SMCATH.Entrances = {
     }
 }
 SMCATH.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "4542",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "fairbanks" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "fairbanks" .. IMPF,
@@ -41,6 +41,27 @@ SMCATH.Bosses = {
         MapCoordinateX = 55.5,
         MapCoordinateY = 25.2,
         MapId = IZI.SMCath,
+        Abilities = {
+            [1] = {
+                Id = "8282",
+                Icon = "Spell_Shadow_RitualOfSacrifice",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_8282,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_8282,
+                Flags = {IMAF.Curse}
+            },
+            [2] = {
+                Id = "11647",
+                Icon = "Spell_Holy_PowerWordShield",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_11647,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_11647
+            },
+            [3] = {
+                Id = "12039",
+                Icon = "Spell_Holy_Heal",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_12039,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_12039
+            }
+        },
         Loot = {
             [1] = {IJDB.I[19507], DropChance = 33}, 
             [2] = {IJDB.I[19508], DropChance = 33}, 

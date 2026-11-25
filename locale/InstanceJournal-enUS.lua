@@ -962,6 +962,15 @@ IJ_DB_DUNGEON_SMCATH_STORY =
 IJ_DB_DUNGEON_SMCATH_BOSS_NAME_4542 = "High Inquisitor Fairbanks"
 IJ_DB_DUNGEON_SMCATH_BOSS_STORY_4542 =
     "Once a priest and member of the Knights of the Silver Hand, as the closest advisor to Highlord Mograine, he was also the former High Inquisitor of the Scarlet Crusade. Executed by the crusaders for his blasphemous accusations against Saidan Dathrohan and Renault Mograine, he eventually became an undead."
+IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_8282 = "Curse of Blood"
+IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_8282 =
+    "Increases Physical damage taken for 10 min. Remove this Curse."
+IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_11647 = "Power Word: Shield"
+IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_11647 =
+    "Absorbs Physical and magical damage for up to 30 sec."
+IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_12039 = "Heal"
+IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_12039 =
+    "Heals a friendly target."
 IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Scarlet Commander Mograine"
 IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
     "In his youth, Renault was a member of the Knights of the Silver Hand and the son of their leader, Highlord Alexandros Mograine. Manipulated by Balnazzar through the possessed corpse of Saidan Dathrohan, and jealous of the attention given to his brother Darion Mograine, Renault accepted the offer of the Grand Crusader and led his father into an ambush before murdering him with the Ashbringer. As promised, Renault became the Scarlet Commander of the Scarlet Monastery."

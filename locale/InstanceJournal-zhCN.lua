@@ -1058,6 +1058,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_4542 = "大检察官法尔班克斯"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_4542 =
         "他曾经是一名牧师和白银之手骑士团成员，是莫格莱尼大领主最亲密的顾问，也是前血色十字军的高级审判官。他因对赛丹·达索汉和雷诺·莫格莱尼的亵渎指控而被十字军处决，最终成为不死族。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_8282 = "血之诅咒"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_8282 =
+        "使受到的物理伤害提高，持续10分钟。解除此诅咒。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_11647 = "真言术：盾"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_11647 =
+        "吸收物理和魔法伤害，最多持续30秒。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_12039 = "治疗术"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_12039 =
+        "治疗一个友方目标。"
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "血色十字军指挥官莫格莱尼"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "年轻时，雷诺是白银之手骑士团的成员，也是他们的领袖亚历山德罗斯·莫格莱尼大领主的儿子。雷诺被巴纳扎尔通过赛丹·达索汉附身的尸体操纵，并嫉妒他的兄弟达里安·莫格莱尼受到的关注，他接受了大十字军的提议，并带领他的父亲陷入伏击，然后用灰烬使者谋杀了他。雷诺按照约定，成为了血色修道院的血色指挥官。"

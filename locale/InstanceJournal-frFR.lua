@@ -779,6 +779,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_4542 = "Grand Inquisiteur Fairbanks"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_4542 =
         "Autrefois prêtre et membre des Chevaliers de la Main d'Argent, en tant que conseiller le plus proche du généralissime Mograine, il était également l'ancien grand inquisiteur de la Croisade écarlate. Exécuté par les croisés pour ses accusations blasphématoires contre Saidan Dathrohan et Renault Mograine, il devint finalement un mort-vivant."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_8282 = "Malédiction du sang"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_8282 =
+        "Augmente les dégâts physiques subis pendant 10 min. Dissipez cette malédiction."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_11647 = "Mot de pouvoir : Bouclier"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_11647 =
+        "Absorbe les dégâts physiques et magiques pendant 30 s au maximum."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_12039 = "Soins"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_12039 =
+        "Soigne une cible alliée."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Commandant écarlate Mograine"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "Dans sa jeunesse, Renault était membre des Chevaliers de la Main d'Argent et fils de leur chef, le généralissime Alexandros Mograine. Manipulé par Balnazzar à travers le cadavre possédé de Saidan Dathrohan, et jaloux de l'attention portée à son frère Darion Mograine, Renault accepta l'offre du Grand Croisé et mena son père dans une embuscade avant de l'assassiner avec le Porte-cendres. Comme promis, Renault est devenu le commandant écarlate du monastère écarlate."

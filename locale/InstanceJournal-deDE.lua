@@ -781,6 +781,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_4542 = "Hochinquisitor Fairbanks"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_4542 =
         "Einst Priester und Mitglied der Ritter der Silbernen Hand, war er als engster Berater von Hochlord Mograine auch der ehemalige Hochinquisitor des Scharlachroten Kreuzzugs. Er wurde von den Kreuzfahrern wegen seiner blasphemischen Anschuldigungen gegen Saidan Dathrohan und Renault Mograine hingerichtet und wurde schließlich ein Untoter."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_8282 = "Fluch des Blutes"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_8282 =
+        "Erhöht den erlittenen körperlichen Schaden für 10 Min. Entfernt diesen Fluch."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_11647 = "Machtwort: Schild"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_11647 =
+        "Absorbiert bis zu 30 Sek. lang körperlichen und magischen Schaden."
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_NAME_12039 = "Heilen"
+    IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_12039 =
+        "Heilt ein verbündetes Ziel."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Scharlachroter Kommandant Mograine"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "In seiner Jugend war Renault Mitglied der Ritter der Silbernen Hand und der Sohn ihres Anführers, Hochlord Alexandros Mograine. Renault wurde von Balnazzar durch die besessene Leiche von Saidan Dathrohan manipuliert und war eifersüchtig auf die Aufmerksamkeit, die er seinem Bruder Darion Mograine schenkte. Er nahm das Angebot des Großen Kreuzfahrers an und führte seinen Vater in einen Hinterhalt, bevor er ihn mit dem Aschenbringer ermordete. Wie versprochen wurde Renault der Scharlachrote Kommandant des Scharlachroten Klosters."
