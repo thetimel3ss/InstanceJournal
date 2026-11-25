@@ -974,6 +974,21 @@ IJ_DB_DUNGEON_SMCATH_BOSS_4542_ABILITY_EFFECT_12039 =
 IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Scarlet Commander Mograine"
 IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
     "In his youth, Renault was a member of the Knights of the Silver Hand and the son of their leader, Highlord Alexandros Mograine. Manipulated by Balnazzar through the possessed corpse of Saidan Dathrohan, and jealous of the attention given to his brother Darion Mograine, Renault accepted the offer of the Grand Crusader and led his father into an ambush before murdering him with the Ashbringer. As promised, Renault became the Scarlet Commander of the Scarlet Monastery."
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_14518 = "Crusader Strike"
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_14518 =
+    "Deals Physical damage and increases Holy damage taken for 30 sec. Stacks up to 5 times. Dispel this Magic effect."
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_5589 = "Hammer of Justice"
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_5589 =
+    "Stuns the target for 5 sec. Dispel this Magic effect."
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_8990 = "Retribution Aura"
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_8990 =
+    "Surrounds nearby allies with an aura that deals Holy damage to melee attackers."
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_1020 = "Divine Shield"
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_1020 =
+    "Becomes immune to Physical and magical damage for 12 sec., but attacks more slowly."
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_9257 = "Lay on Hands"
+IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_9257 =
+    "Heals Whitemane after she revives Mograine."
 IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "High Inquisitor Whitemane"
 IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 = "Sally Whitemane is a priestess of the Light and the High Inquisitor of the Scarlet Crusade. She directs their activities from within the Scarlet Monastery's Cathedral."
 

@@ -793,6 +793,21 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Scharlachroter Kommandant Mograine"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "In seiner Jugend war Renault Mitglied der Ritter der Silbernen Hand und der Sohn ihres Anführers, Hochlord Alexandros Mograine. Renault wurde von Balnazzar durch die besessene Leiche von Saidan Dathrohan manipuliert und war eifersüchtig auf die Aufmerksamkeit, die er seinem Bruder Darion Mograine schenkte. Er nahm das Angebot des Großen Kreuzfahrers an und führte seinen Vater in einen Hinterhalt, bevor er ihn mit dem Aschenbringer ermordete. Wie versprochen wurde Renault der Scharlachrote Kommandant des Scharlachroten Klosters."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_14518 = "Kreuzfahrerstoß"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_14518 =
+        "Verursacht körperlichen Schaden und erhöht den erlittenen Heiligschaden für 30 Sek. Bis zu 5-mal stapelbar. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_5589 = "Hammer der Gerechtigkeit"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_5589 =
+        "Betäubt das Ziel für 5 Sek. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_8990 = "Aura der Vergeltung"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_8990 =
+        "Umhüllt nahe Verbündete mit einer Aura, die Nahkampfangreifern Heiligschaden zufügt."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_1020 = "Gottesschild"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_1020 =
+        "Wird 12 Sek. lang gegen körperlichen und magischen Schaden immun, greift aber langsamer an."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_9257 = "Handauflegung"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_9257 =
+        "Heilt Weißmähne, nachdem sie Mograine wiederbelebt hat."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Hochinquisitor Weißmähne"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 =
         "Sally Whitemane ist eine Priesterin des Lichts und die Hohe Inquisitorin des Scharlachroten Kreuzzugs. Sie leitet ihre Aktivitäten von der Kathedrale des Scharlachroten Klosters aus."

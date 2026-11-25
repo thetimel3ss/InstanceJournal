@@ -790,6 +790,21 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Comandante Escarlate Mograine"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "Em sua juventude, Renault foi membro dos Cavaleiros da Mão de Prata e filho de seu líder, o Grão-lorde Alexandros Mograine. Manipulado por Balnazzar através do cadáver possuído de Saidan Dathrohan, e com ciúmes da atenção dada a seu irmão Darion Mograine, Renault aceitou a oferta do Grande Cruzado e conduziu seu pai para uma emboscada antes de assassiná-lo com o Ashbringer. Como prometido, Renault tornou-se o Comandante Escarlate do Mosteiro Escarlate."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_14518 = "Golpe do Cruzado"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_14518 =
+        "Causa dano Físico e aumenta o dano Sagrado recebido por 30 s. Acumula até 5 vezes. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_5589 = "Martelo da Justiça"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_5589 =
+        "Atordoa o alvo por 5 s. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_8990 = "Aura de Retribuição"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_8990 =
+        "Envolve os aliados próximos em uma aura que causa dano Sagrado aos atacantes corpo a corpo."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_1020 = "Escudo Divino"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_1020 =
+        "Torna-se imune a dano Físico e mágico por 12 s, mas ataca mais lentamente."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_9257 = "Imposição de Mãos"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_9257 =
+        "Cura Juba Branca após ela reviver Mograine."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Alto Inquisidor Juba Branca"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 = "Sally Whitemane é uma sacerdotisa da Luz e Alta Inquisidora da Cruzada Escarlate. Ela dirige suas atividades de dentro da Catedral do Mosteiro Escarlate."
 

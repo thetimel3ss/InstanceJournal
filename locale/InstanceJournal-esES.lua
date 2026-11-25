@@ -792,6 +792,21 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Comandante Escarlata Mograine"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "En su juventud, Renault fue miembro de los Caballeros de la Mano de Plata e hijo de su líder, el Alto Señor Alexandros Mograine. Manipulado por Balnazzar a través del cadáver poseído de Saidan Dathrohan y celoso de la atención prestada a su hermano Darion Mograine, Renault aceptó la oferta del Gran Cruzado y llevó a su padre a una emboscada antes de asesinarlo con el Ashbringer. Como prometió, Renault se convirtió en el Comandante Escarlata del Monasterio Escarlata."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_14518 = "Golpe de cruzado"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_14518 =
+        "Inflige daño físico y aumenta el daño Sagrado recibido durante 30 s. Se acumula hasta 5 veces. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_5589 = "Martillo de Justicia"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_5589 =
+        "Aturde al objetivo durante 5 s. Disipa este efecto mágico."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_8990 = "Aura de reprensión"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_8990 =
+        "Rodea a los aliados cercanos con un aura que inflige daño Sagrado a los atacantes cuerpo a cuerpo."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_1020 = "Escudo divino"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_1020 =
+        "Se vuelve inmune al daño físico y mágico durante 12 s, pero ataca más despacio."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_9257 = "Imposición de manos"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_9257 =
+        "Sana a Melena Blanca después de que resucita a Mograine."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Alto Inquisidor Melena Blanca"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 = "Sally Whitemane es una sacerdotisa de la Luz y la Alta Inquisidora de la Cruzada Escarlata. Ella dirige sus actividades desde la Catedral del Monasterio Escarlata."
 

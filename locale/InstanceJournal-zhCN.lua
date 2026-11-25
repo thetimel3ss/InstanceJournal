@@ -1070,6 +1070,21 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "血色十字军指挥官莫格莱尼"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "年轻时，雷诺是白银之手骑士团的成员，也是他们的领袖亚历山德罗斯·莫格莱尼大领主的儿子。雷诺被巴纳扎尔通过赛丹·达索汉附身的尸体操纵，并嫉妒他的兄弟达里安·莫格莱尼受到的关注，他接受了大十字军的提议，并带领他的父亲陷入伏击，然后用灰烬使者谋杀了他。雷诺按照约定，成为了血色修道院的血色指挥官。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_14518 = "十字军打击"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_14518 =
+        "造成物理伤害，并使受到的神圣伤害提高，持续30秒，最多叠加5层。驱散此魔法效果。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_5589 = "制裁之锤"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_5589 =
+        "使目标昏迷5秒。驱散此魔法效果。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_8990 = "惩戒光环"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_8990 =
+        "使附近的友方单位被光环包围，对近战攻击者造成神圣伤害。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_1020 = "圣盾术"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_1020 =
+        "免疫物理和魔法伤害，持续12秒，但攻击速度降低。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_9257 = "圣疗术"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_9257 =
+        "在怀特迈恩复活莫格莱尼后治疗她。"
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "大检察官怀特迈恩"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 = "莎莉·怀特迈恩是一名圣光女祭司，也是血色十字军的高级审判官。她在血色修道院大教堂内指挥他们的活动。"
 

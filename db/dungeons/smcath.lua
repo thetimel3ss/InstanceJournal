@@ -68,7 +68,7 @@ SMCATH.Bosses = {
             [3] = {IJDB.I[19509], DropChance = 33}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "3976",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "mograine" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "mograine" .. IMPF,
@@ -77,6 +77,40 @@ SMCATH.Bosses = {
         MapCoordinateX = 49.1,
         MapCoordinateY = 27.7,
         MapId = IZI.SMCath,
+        Abilities = {
+            [1] = {
+                Id = "14518",
+                Icon = "Spell_Holy_HolySmite",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_14518,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_14518,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "5589",
+                Icon = "Spell_Holy_SealOfMight",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_5589,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_5589,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "8990",
+                Icon = "Spell_Holy_AuraOfLight",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_8990,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_8990
+            },
+            [4] = {
+                Id = "1020",
+                Icon = "Spell_Holy_DivineIntervention",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_1020,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_1020
+            },
+            [5] = {
+                Id = "9257",
+                Icon = "Spell_Holy_LayOnHands",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_9257,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_9257
+            }
+        },
         Loot = {
             [1] = {IJDB.I[7723], DropChance = 25},
             [2] = {IJDB.I[7724], DropChance = 25},

@@ -791,6 +791,21 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3976 = "Commandant écarlate Mograine"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3976 =
         "Dans sa jeunesse, Renault était membre des Chevaliers de la Main d'Argent et fils de leur chef, le généralissime Alexandros Mograine. Manipulé par Balnazzar à travers le cadavre possédé de Saidan Dathrohan, et jaloux de l'attention portée à son frère Darion Mograine, Renault accepta l'offre du Grand Croisé et mena son père dans une embuscade avant de l'assassiner avec le Porte-cendres. Comme promis, Renault est devenu le commandant écarlate du monastère écarlate."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_14518 = "Frappe du croisé"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_14518 =
+        "Inflige des dégâts physiques et augmente les dégâts du Sacré subis pendant 30 s. Cumulable jusqu’à 5 fois. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_5589 = "Marteau de la justice"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_5589 =
+        "Étourdit la cible pendant 5 s. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_8990 = "Aura de vindicte"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_8990 =
+        "Entoure les alliés proches d’une aura qui inflige des dégâts du Sacré aux attaquants en mêlée."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_1020 = "Bouclier divin"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_1020 =
+        "Devient insensible aux dégâts physiques et magiques pendant 12 s, mais attaque plus lentement."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_NAME_9257 = "Imposition des mains"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_9257 =
+        "Soigne Blanchetête après qu’elle a ressuscité Mograine."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Grand Inquisiteur Blanchetête"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 =
         "Sally Whitemane est une prêtresse de la Lumière et la grande inquisitrice de la Croisade écarlate. Elle dirige leurs activités depuis la cathédrale du monastère écarlate."
