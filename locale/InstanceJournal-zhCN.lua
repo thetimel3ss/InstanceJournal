@@ -974,6 +974,21 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "秘法师杜安"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "多安担任血色修道院图书馆的管理员；传闻这位奥术守护者并不受血色十字军信任。但他确实是远征军中值得信赖的官员，持有一把至关重要的钥匙，使他得以参与瘟疫之地的血色行动。奥术师多安相信，奥术魔法是消灭洛丹伦天灾军团的唯一方法。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_8988 = "沉默"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_8988 =
+        "使附近的敌人沉默10秒，无法施法。驱散此魔法效果。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9433 = "魔爆术"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9433 =
+        "对附近的敌人造成奥术伤害。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_13323 = "变形术"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_13323 =
+        "使一名敌人变成绵羊，最多持续20秒，无法攻击或施法，但会快速恢复生命值。受到伤害会打破效果。驱散此魔法效果。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9438 = "奥术气泡"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9438 =
+        "免疫物理和魔法伤害，持续8秒。杜安在此保护下施放爆炸。"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9435 = "爆炸"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9435 =
+        "施法5秒后，对30码内的敌人造成火焰伤害。在施法结束前离开范围。"
 
     -- SMLIB Loot
     IJ_LOOT_NAME_7710 = "洛克希的教鞭"

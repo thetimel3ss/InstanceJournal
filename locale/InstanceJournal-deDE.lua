@@ -720,6 +720,21 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arkanist Doan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "Doan fungiert als Verwalter der Bibliothek des Scharlachroten Klosters; ein Hüter des Arkanen, dem der Scharlachrote Kreuzzug angeblich misstraut. Dennoch ist er in der Tat ein vertrauenswürdiger Beamter des Kreuzzugs und verfügt über einen wichtigen Schlüssel, der den Zugang zu Scharlachroten Operationen in den Pestländern ermöglicht. Arkanist Doan glaubt, dass arkane Magie die einzige Möglichkeit ist, Lordaeron von der Geißel zu befreien."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_8988 = "Stille"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_8988 =
+        "Bringt nahe Gegner für 10 Sek. zum Schweigen und verhindert das Wirken von Zaubern. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9433 = "Arkane Explosion"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9433 =
+        "Fügt nahen Gegnern Arkanschaden zu."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_13323 = "Verwandlung"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_13323 =
+        "Verwandelt einen Gegner bis zu 20 Sek. lang in ein Schaf, das weder angreifen noch zaubern kann und schnell Gesundheit regeneriert. Schaden beendet den Effekt. Bannt diesen magischen Effekt."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9438 = "Arkane Blase"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9438 =
+        "Wird 8 Sek. lang gegen körperlichen und magischen Schaden immun. Doan wirkt während dieses Schutzes Detonation."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9435 = "Detonation"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9435 =
+        "Fügt Gegnern im Umkreis von 30 Metern nach einer Zauberzeit von 5 Sek. Feuerschaden zu. Verlasst die Reichweite, bevor der Zauber abgeschlossen wird."
 
     -- SMARM
     IJ_DB_DUNGEON_SMARM_NAME = "Scharlachrotes Kloster (Waffenkammer)"

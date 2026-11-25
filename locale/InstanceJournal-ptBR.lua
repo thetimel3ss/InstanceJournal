@@ -717,6 +717,21 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arcanista Doan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "Doan atua como guardião da biblioteca do Mosteiro Escarlate; um guardião do arcano de quem há rumores de que a Cruzada Escarlate desconfia. No entanto, ele é de fato um oficial de confiança da Cruzada, mantendo uma chave vital que concedeu acesso às operações Escarlate nas Terras Pestilentas. O Arcanista Doan acredita que a magia arcana é a única maneira de livrar Lordaeron do Flagelo."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_8988 = "Silêncio"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_8988 =
+        "Silencia os inimigos próximos por 10 s, impedindo o lançamento de feitiços. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9433 = "Explosão Arcana"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9433 =
+        "Causa dano Arcano aos inimigos próximos."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_13323 = "Polimorfia"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_13323 =
+        "Transforma um inimigo em ovelha por até 20 s, impedindo ataques e feitiços enquanto restaura vida rapidamente. Dano encerra o efeito. Dissipe este efeito mágico."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9438 = "Bolha Arcana"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9438 =
+        "Torna-se imune a dano Físico e mágico por 8 s. Doan lança Detonação durante essa proteção."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9435 = "Detonação"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9435 =
+        "Após um lançamento de 5 s, causa dano de Fogo aos inimigos em um raio de 30 metros. Saia do alcance antes que o lançamento termine."
 
     -- SMARM
     IJ_DB_DUNGEON_SMARM_NAME = "Mosteiro Escarlate (Arsenal)"

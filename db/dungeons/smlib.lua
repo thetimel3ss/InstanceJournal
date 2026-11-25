@@ -99,7 +99,7 @@ SMLIB.Bosses = {
             [4] = {IJDB.I[55473], DropChance = 25}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "6487",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "doan" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "doan" .. IMPF,
@@ -108,6 +108,42 @@ SMLIB.Bosses = {
         MapCoordinateX = 83.4,
         MapCoordinateY = 74.6,
         MapId = IZI.SMLib,
+        Abilities = {
+            [1] = {
+                Id = "8988",
+                Icon = "Spell_Holy_Silence",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_8988,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_8988,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "9433",
+                Icon = "Spell_Nature_WispSplode",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9433,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9433
+            },
+            [3] = {
+                Id = "13323",
+                Icon = "Spell_Nature_Polymorph",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_13323,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_13323,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "9438",
+                Icon = "Spell_Holy_DivineIntervention",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9438,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9438,
+                Flags = {IMAF.Important}
+            },
+            [5] = {
+                Id = "9435",
+                Icon = "Spell_Fire_SelfDestruct",
+                Name = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9435,
+                Effect = IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9435,
+                Flags = {IMAF.Important}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[7711], DropChance = 25}, 
             [2] = {IJDB.I[7712], DropChance = 25}, 

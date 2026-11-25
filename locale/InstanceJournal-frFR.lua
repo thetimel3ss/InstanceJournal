@@ -718,6 +718,21 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arcaniste Doan"
     IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
         "Doan est le gardien de la bibliothèque du monastère écarlate ; un gardien des arcanes dont la Croisade écarlate se méfierait, selon la rumeur. Pourtant, il est en effet un fonctionnaire de confiance de la Croisade, détenant une clé vitale qui donnait accès aux opérations écarlates à travers les Maleterres. L'arcaniste Doan pense que la magie arcanique est le seul moyen de débarrasser Lordaeron du Fléau."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_8988 = "Silence"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_8988 =
+        "Réduit les ennemis proches au silence pendant 10 s, les empêchant de lancer des sorts. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9433 = "Explosion des arcanes"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9433 =
+        "Inflige des dégâts des Arcanes aux ennemis proches."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_13323 = "Métamorphose"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_13323 =
+        "Transforme un ennemi en mouton pendant 20 s au maximum, l’empêchant d’attaquer et de lancer des sorts tout en régénérant rapidement sa vie. Les dégâts brisent l’effet. Dissipez cet effet magique."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9438 = "Bulle des arcanes"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9438 =
+        "Devient insensible aux dégâts physiques et magiques pendant 8 s. Doan lance Détonation pendant cette protection."
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9435 = "Détonation"
+    IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9435 =
+        "Après une incantation de 5 s, inflige des dégâts de Feu aux ennemis à moins de 30 mètres. Éloignez-vous avant la fin de l’incantation."
 
     -- SMARM
     IJ_DB_DUNGEON_SMARM_NAME = "Monastère Écarlate (Armurerie)"

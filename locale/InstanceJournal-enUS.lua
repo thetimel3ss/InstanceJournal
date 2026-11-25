@@ -878,6 +878,21 @@ IJ_DB_DUNGEON_SMLIB_BOSS_61983_ABILITY_EFFECT_22916 =
 IJ_DB_DUNGEON_SMLIB_BOSS_NAME_6487 = "Arcanist Doan"
 IJ_DB_DUNGEON_SMLIB_BOSS_STORY_6487 =
     "Doan acts as the keeper of the Scarlet Monastery's library; a guardian of the arcane that the Scarlet Crusade is rumored to distrust. Yet he is indeed a trusted official of the Crusade, keeping a vital key that granted access to Scarlet operations across the Plaguelands. Arcanist Doan believes that arcane magic is the only way to rid Lordaeron of the Scourge."
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_8988 = "Silence"
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_8988 =
+    "Silences nearby enemies for 10 sec., preventing spellcasting. Dispel this Magic effect."
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9433 = "Arcane Explosion"
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9433 =
+    "Deals Arcane damage to nearby enemies."
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_13323 = "Polymorph"
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_13323 =
+    "Transforms an enemy into a sheep for up to 20 sec., preventing attacks and spellcasting while rapidly restoring health. Damage breaks the effect. Dispel this Magic effect."
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9438 = "Arcane Bubble"
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9438 =
+    "Becomes immune to Physical and magical damage for 8 sec. Doan casts Detonation during this protection."
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_NAME_9435 = "Detonation"
+IJ_DB_DUNGEON_SMLIB_BOSS_6487_ABILITY_EFFECT_9435 =
+    "After a 5 sec. cast, deals Fire damage to enemies within 30 yards. Move out of range before the cast finishes."
 
 -- SMLIB Loot
 IJ_LOOT_NAME_7710 = "Loksey's Training Stick"
