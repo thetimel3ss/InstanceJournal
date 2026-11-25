@@ -809,6 +809,24 @@ if GetLocale() == "esES" then
         "Sana a Melena Blanca después de que resucita a Mograine."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Alto Inquisidor Melena Blanca"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 = "Sally Whitemane es una sacerdotisa de la Luz y la Alta Inquisidora de la Cruzada Escarlata. Ella dirige sus actividades desde la Catedral del Monasterio Escarlata."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9481 = "Punición Sagrada"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9481 =
+        "Inflige daño Sagrado a un enemigo."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_12039 = "Sanar"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_12039 =
+        "Sana a un objetivo aliado."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_22187 = "Palabra de poder: escudo"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_22187 =
+        "Absorbe daño físico y mágico hasta 30 s. Disipa este beneficio mágico."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9256 = "Sueño profundo"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9256 =
+        "Duerme a los enemigos cercanos hasta 10 s. El daño los despierta. Después, Melena Blanca lanza Resurrección Escarlata."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9232 = "Resurrección Escarlata"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9232 =
+        "Resucita a Mograine, que vuelve al combate junto a Melena Blanca."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_14515 = "Dominar mente"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_14515 =
+        "Controla a un enemigo hasta 15 s. Disipa este efecto mágico."
 
     -- ZF
     IJ_DB_DUNGEON_ZF_NAME = "Zul'Farrak"

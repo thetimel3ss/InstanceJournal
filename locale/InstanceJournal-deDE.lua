@@ -811,6 +811,24 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Hochinquisitor Weißmähne"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 =
         "Sally Whitemane ist eine Priesterin des Lichts und die Hohe Inquisitorin des Scharlachroten Kreuzzugs. Sie leitet ihre Aktivitäten von der Kathedrale des Scharlachroten Klosters aus."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9481 = "Heilige Pein"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9481 =
+        "Fügt einem Gegner Heiligschaden zu."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_12039 = "Heilen"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_12039 =
+        "Heilt ein verbündetes Ziel."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_22187 = "Machtwort: Schild"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_22187 =
+        "Absorbiert bis zu 30 Sek. lang körperlichen und magischen Schaden. Bannt diesen magischen Stärkungseffekt."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9256 = "Tiefschlaf"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9256 =
+        "Versetzt nahe Gegner bis zu 10 Sek. lang in Schlaf. Schaden weckt sie auf. Weißmähne wirkt anschließend Scharlachrote Auferstehung."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9232 = "Scharlachrote Auferstehung"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9232 =
+        "Belebt Mograine wieder, der anschließend an Weißmähnes Seite weiterkämpft."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_14515 = "Gedankenkontrolle"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_14515 =
+        "Übernimmt bis zu 15 Sek. lang die Kontrolle über einen Gegner. Bannt diesen magischen Effekt."
 
     -- ZF
     IJ_DB_DUNGEON_ZF_NAME = "Zul'Farrak"

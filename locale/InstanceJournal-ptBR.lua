@@ -807,6 +807,24 @@ if GetLocale() == "ptBR" then
         "Cura Juba Branca após ela reviver Mograine."
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Alto Inquisidor Juba Branca"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 = "Sally Whitemane é uma sacerdotisa da Luz e Alta Inquisidora da Cruzada Escarlate. Ela dirige suas atividades de dentro da Catedral do Mosteiro Escarlate."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9481 = "Punição Sagrada"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9481 =
+        "Causa dano Sagrado a um inimigo."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_12039 = "Curar"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_12039 =
+        "Cura um alvo aliado."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_22187 = "Palavra de Poder: Escudo"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_22187 =
+        "Absorve dano Físico e mágico por até 30 s. Dissipe este benefício mágico."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9256 = "Sono Profundo"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9256 =
+        "Faz os inimigos próximos dormirem por até 10 s. Dano os desperta. Em seguida, Juba Branca lança Ressurreição Escarlate."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9232 = "Ressurreição Escarlate"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9232 =
+        "Revive Mograine, fazendo-o retornar ao combate ao lado de Juba Branca."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_14515 = "Dominar Mente"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_14515 =
+        "Assume o controle de um inimigo por até 15 s. Dissipe este efeito mágico."
 
     -- ZF
     IJ_DB_DUNGEON_ZF_NAME = "Zul'Farrak"

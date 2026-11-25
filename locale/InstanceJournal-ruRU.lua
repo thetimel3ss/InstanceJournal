@@ -819,6 +819,24 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Верховный инквизитор Вайтмейн"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 =
         "Салли Вайтмейн — жрица Света и Верховный инквизитор Алого ордена. Она руководит их деятельностью из Собора Алого монастыря."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9481 = "Священная кара"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9481 =
+        "Наносит противнику урон от светлой магии."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_12039 = "Исцеление"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_12039 =
+        "Исцеляет дружественную цель."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_22187 = "Слово силы: Щит"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_22187 =
+        "Поглощает физический и магический урон до 30 сек. Рассеяйте этот положительный магический эффект."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9256 = "Глубокий сон"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9256 =
+        "Погружает ближайших противников в сон на срок до 10 сек. Урон пробуждает их. Затем Вайтмейн применяет Алое воскрешение."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9232 = "Алое воскрешение"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9232 =
+        "Возвращает Могрейна к жизни, и он продолжает бой вместе с Вайтмейн."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_14515 = "Подчинение разума"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_14515 =
+        "Подчиняет противника на срок до 15 сек. Рассеяйте этот магический эффект."
 
     -- ZF
     IJ_DB_DUNGEON_ZF_NAME = "Зул'Фаррак"

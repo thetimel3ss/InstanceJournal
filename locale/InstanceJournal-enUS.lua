@@ -991,6 +991,24 @@ IJ_DB_DUNGEON_SMCATH_BOSS_3976_ABILITY_EFFECT_9257 =
     "Heals Whitemane after she revives Mograine."
 IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "High Inquisitor Whitemane"
 IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 = "Sally Whitemane is a priestess of the Light and the High Inquisitor of the Scarlet Crusade. She directs their activities from within the Scarlet Monastery's Cathedral."
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9481 = "Holy Smite"
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9481 =
+    "Deals Holy damage to an enemy."
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_12039 = "Heal"
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_12039 =
+    "Heals a friendly target."
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_22187 = "Power Word: Shield"
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_22187 =
+    "Absorbs Physical and magical damage for up to 30 sec. Dispel this Magic buff."
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9256 = "Deep Sleep"
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9256 =
+    "Puts nearby enemies to sleep for up to 10 sec. Damage awakens them. Whitemane then casts Scarlet Resurrection."
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9232 = "Scarlet Resurrection"
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9232 =
+    "Revives Mograine, returning him to combat alongside Whitemane."
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_14515 = "Dominate Mind"
+IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_14515 =
+    "Takes control of an enemy for up to 15 sec. Dispel this Magic effect."
 
 -- SMCATH Loot
 IJ_LOOT_NAME_19507 = "Inquisitor's Shawl"

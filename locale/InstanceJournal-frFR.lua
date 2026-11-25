@@ -809,6 +809,24 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "Grand Inquisiteur Blanchetête"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 =
         "Sally Whitemane est une prêtresse de la Lumière et la grande inquisitrice de la Croisade écarlate. Elle dirige leurs activités depuis la cathédrale du monastère écarlate."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9481 = "Châtiment sacré"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9481 =
+        "Inflige des dégâts du Sacré à un ennemi."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_12039 = "Soins"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_12039 =
+        "Soigne une cible alliée."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_22187 = "Mot de pouvoir : Bouclier"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_22187 =
+        "Absorbe les dégâts physiques et magiques pendant 30 s au maximum. Dissipez cet effet magique bénéfique."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9256 = "Sommeil profond"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9256 =
+        "Endort les ennemis proches pendant 10 s au maximum. Les dégâts les réveillent. Blanchetête lance ensuite Résurrection écarlate."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9232 = "Résurrection écarlate"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9232 =
+        "Ressuscite Mograine, qui reprend le combat aux côtés de Blanchetête."
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_14515 = "Domination mentale"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_14515 =
+        "Prend le contrôle d’un ennemi pendant 15 s au maximum. Dissipez cet effet magique."
 
     -- ZF
     IJ_DB_DUNGEON_ZF_NAME = "Zul’Farrak"

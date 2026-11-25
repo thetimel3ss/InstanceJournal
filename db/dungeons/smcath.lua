@@ -120,7 +120,7 @@ SMCATH.Bosses = {
             [6] = {IJDB.I[51217], DropChance = 1}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "3977",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "whitemane" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "whitemane" .. IMPF,
@@ -129,6 +129,48 @@ SMCATH.Bosses = {
         MapCoordinateX = 49.1,
         MapCoordinateY = 16.8,
         MapId = IZI.SMCath,
+        Abilities = {
+            [1] = {
+                Id = "9481",
+                Icon = "Spell_Holy_HolySmite",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9481,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9481
+            },
+            [2] = {
+                Id = "12039",
+                Icon = "Spell_Holy_Heal",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_12039,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_12039
+            },
+            [3] = {
+                Id = "22187",
+                Icon = "Spell_Holy_PowerWordShield",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_22187,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_22187,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "9256",
+                Icon = "Spell_Nature_Sleep",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9256,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9256,
+                Flags = {IMAF.Important}
+            },
+            [5] = {
+                Id = "9232",
+                Icon = "Spell_Holy_Resurrection",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9232,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9232,
+                Flags = {IMAF.Important}
+            },
+            [6] = {
+                Id = "14515",
+                Icon = "Spell_Shadow_ShadowWordDominate",
+                Name = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_14515,
+                Effect = IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_14515,
+                Flags = {IMAF.Magic, IMAF.Important}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[7720], DropChance = 33}, 
             [2] = {IJDB.I[7721], DropChance = 33}, 

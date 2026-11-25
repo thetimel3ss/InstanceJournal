@@ -1087,6 +1087,24 @@ if GetLocale() == "zhCN" then
         "在怀特迈恩复活莫格莱尼后治疗她。"
     IJ_DB_DUNGEON_SMCATH_BOSS_NAME_3977 = "大检察官怀特迈恩"
     IJ_DB_DUNGEON_SMCATH_BOSS_STORY_3977 = "莎莉·怀特迈恩是一名圣光女祭司，也是血色十字军的高级审判官。她在血色修道院大教堂内指挥他们的活动。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9481 = "神圣惩击"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9481 =
+        "对一名敌人造成神圣伤害。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_12039 = "治疗术"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_12039 =
+        "治疗一个友方目标。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_22187 = "真言术：盾"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_22187 =
+        "吸收物理和魔法伤害，最多持续30秒。驱散此魔法增益效果。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9256 = "沉睡"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9256 =
+        "使附近的敌人沉睡，最多持续10秒。受到伤害会醒来。怀特迈恩随后施放血色复活术。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_9232 = "血色复活术"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_9232 =
+        "复活莫格莱尼，使其重新加入战斗，与怀特迈恩并肩作战。"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_NAME_14515 = "支配心智"
+    IJ_DB_DUNGEON_SMCATH_BOSS_3977_ABILITY_EFFECT_14515 =
+        "控制一名敌人，最多持续15秒。驱散此魔法效果。"
 
     -- SMCATH Loot
     IJ_LOOT_NAME_19507 = "审讯者披肩"
