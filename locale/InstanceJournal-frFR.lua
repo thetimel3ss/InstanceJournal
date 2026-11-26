@@ -2501,6 +2501,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Le bricoleur Gizlock"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
         "Le bricoleur Gizlock et cinq autres chasseurs de pierres précieuses se sont faufilés dans Maraudon pour extraire ses cristaux très prisés. Leur plan a horriblement mal tourné lorsque les satyres ont massacré tous les membres du groupe à l'exception de Gizlock. Le gobelin, piégé dans les grottes et au bord de la folie, se considère comme le nouveau dirigeant de la région souterraine."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_9143 = "Bombe"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_9143 =
+        "Lance une bombe sur une zone, infligeant des dégâts de Feu aux ennemis dans un rayon de 5 mètres."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_16100 = "Tir"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_16100 =
+        "Tire sur une cible et lui inflige des dégâts physiques."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_21833 = "Lance-flammes gobelin"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_21833 =
+        "Canalise des rafales de dégâts de Feu toutes les secondes pendant 8 secondes.\n\nÉvitez de vous tenir devant Gizlock pendant qu’il utilise son arme."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_29419 = "Bombe éclair"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_29419 =
+        "Fait fuir de peur les bêtes dans un rayon de 5 mètres pendant 10 secondes."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "Glissement de terrain"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
         "Pendant des années, l'ancien géant des montagnes connu sous le nom de Landslide a cultivé de brillants jardins de cristal à Maraudon, mais Theradras a captivé le géant lorsqu'elle y a élu domicile. Ce géant autrefois stoïque ne vit désormais que pour servir son nouveau maître tyrannique."

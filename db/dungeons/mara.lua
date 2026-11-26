@@ -204,7 +204,7 @@ MARA.Bosses = {
             [5] = {IJDB.I[51217], DropChance = 1}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "13601",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "gizlock" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "gizlock" .. IMPF,
@@ -212,6 +212,32 @@ MARA.Bosses = {
         Story = IJ_DB_DUNGEON_MARA_BOSS_STORY_13601,
         MapCoordinateX = 37.7,
         MapCoordinateY = 75.1,
+        Abilities = {
+            [1] = {
+                Id = "9143",
+                Icon = "Spell_Fire_SelfDestruct",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_9143,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_9143
+            },
+            [2] = {
+                Id = "16100",
+                Icon = "Ability_Marksmanship",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_16100,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_16100
+            },
+            [3] = {
+                Id = "21833",
+                Icon = "Spell_Fire_Incinerate",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_21833,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_21833
+            },
+            [4] = {
+                Id = "29419",
+                Icon = "Spell_Shadow_DarkSummoning",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_29419,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_29419
+            }
+        },
         Loot = {
             [1] = {IJDB.I[17717], DropChance = 33}, 
             [2] = {IJDB.I[17718], DropChance = 33}, 

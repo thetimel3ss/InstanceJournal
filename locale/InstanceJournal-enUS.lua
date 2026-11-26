@@ -3317,6 +3317,18 @@ IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21968 =
 IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Tinkerer Gizlock"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
     "Tinkerer Gizlock and five other gem hunters snuck into Maraudon to mine its highly prized crystals. Their plan went horribly wrong when satyrs slaughtered everyone in the party save for Gizlock. The goblin, trapped within the caves and driven to the brink of madness, sees himself as the subterranean region's new ruler."
+IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_9143 = "Bomb"
+IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_9143 =
+    "Throws a bomb at an area, dealing Fire damage to enemies within 5 yards."
+IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_16100 = "Shoot"
+IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_16100 =
+    "Shoots at a target, dealing Physical damage."
+IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_21833 = "Goblin Dragon Gun"
+IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_21833 =
+    "Channels bursts of Fire damage every second for 8 seconds.\n\nAvoid standing in front of Gizlock while he uses the gun."
+IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_29419 = "Flash Bomb"
+IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_29419 =
+    "Causes beasts in a 5-yard radius to flee in fear for 10 seconds."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "Landslide"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
     "For years, the ancient mountain giant known as Landslide cultivated brilliant crystal gardens in Maraudon, but Theradras enthralled the behemoth when she took up residence there. This once-stoic giant now lives only to serve his tyrannical new master."

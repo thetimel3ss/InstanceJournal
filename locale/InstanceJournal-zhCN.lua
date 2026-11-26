@@ -3410,6 +3410,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "工匠吉兹洛克"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
         "修补匠吉兹洛克和其他五名宝石猎人潜入玛拉顿开采其珍贵的水晶。当萨特们屠杀了队伍中除了吉兹洛克之外的所有人时，他们的计划出了严重的错误。被困在洞穴中并被逼到疯狂边缘的妖精将自己视为地下区域的新统治者。"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_9143 = "炸弹"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_9143 =
+        "向一片区域投掷炸弹，对5码范围内的敌人造成火焰伤害。"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_16100 = "射击"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_16100 =
+        "射击一个目标，造成物理伤害。"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_21833 = "地精龙枪"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_21833 =
+        "引导火焰攻击，每秒造成火焰伤害，持续8秒。\n\n吉兹洛克使用龙枪时，避免站在他前方。"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_29419 = "闪光雷"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_29419 =
+        "使5码范围内的野兽因恐惧而逃跑，持续10秒。"
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "兰斯利德"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
         "多年来，被称为“滑坡”的古老山地巨人在玛拉顿培育了辉煌的水晶花园，但当瑟莱德丝在那里定居时，她被这个庞然大物迷住了。这个曾经坚忍的巨人现在活着只是为了服务他暴虐的新主人。"

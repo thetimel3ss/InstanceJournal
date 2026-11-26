@@ -2503,6 +2503,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Bastler Gizlock"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
         "Tüftler Gizlock und fünf weitere Edelsteinjäger schlichen sich nach Maraudon, um dort die hochgeschätzten Kristalle abzubauen. Ihr Plan ging furchtbar schief, als Satyrn alle Mitglieder der Gruppe bis auf Gizlock abschlachteten. Der Kobold, gefangen in den Höhlen und an den Rand des Wahnsinns getrieben, sieht sich selbst als neuer Herrscher der unterirdischen Region."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_9143 = "Bombe"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_9143 =
+        "Wirft eine Bombe auf ein Gebiet und fügt Gegnern innerhalb von 5 Metern Feuerschaden zu."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_16100 = "Schießen"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_16100 =
+        "Schießt auf ein Ziel und verursacht körperlichen Schaden."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_21833 = "Goblin-Drachenwerfer"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_21833 =
+        "Kanalisiert 8 Sekunden lang jede Sekunde Feuerstöße.\n\nSteht nicht vor Gizlock, während er den Drachenwerfer benutzt."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_29419 = "Blitzstrahlbombe"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_29419 =
+        "Versetzt Wildtiere innerhalb eines Radius von 5 Metern 10 Sekunden lang in Furcht."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "Erdrutsch"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
         "Jahrelang kultivierte der uralte Bergriese namens Erdslide leuchtende Kristallgärten in Maraudon, doch Theradras faszinierte den Giganten, als sie sich dort niederließ. Dieser einst stoische Riese lebt jetzt nur noch, um seinem tyrannischen neuen Herrn zu dienen."

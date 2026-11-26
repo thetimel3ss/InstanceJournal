@@ -2501,6 +2501,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Manitas Gizlock"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
         "Tinkerer Gizlock y otros cinco cazadores de gemas se colaron en Maraudon para extraer sus preciados cristales. Su plan salió terriblemente mal cuando los sátiros masacraron a todos los miembros del grupo excepto a Gizlock. El duende, atrapado dentro de las cuevas y llevado al borde de la locura, se ve a sí mismo como el nuevo gobernante de la región subterránea."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_9143 = "Bomba"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_9143 =
+        "Lanza una bomba sobre una zona, infligiendo daño de Fuego a los enemigos en un radio de 5 metros."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_16100 = "Disparar"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_16100 =
+        "Dispara a un objetivo y le inflige daño físico."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_21833 = "Escopeta dragón goblin"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_21833 =
+        "Canaliza ráfagas de daño de Fuego cada segundo durante 8 segundos.\n\nEvitad colocaros delante de Gizlock mientras utiliza el arma."
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_NAME_29419 = "Bomba cegadora"
+    IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_29419 =
+        "Hace que las bestias en un radio de 5 metros huyan aterrorizadas durante 10 segundos."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "Corrimiento de tierras"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
         "Durante años, el antiguo gigante de las montañas conocido como Landslide cultivó brillantes jardines de cristal en Maraudon, pero Theradras cautivó al gigante cuando se instaló allí. Este gigante que alguna vez fue estoico ahora vive solo para servir a su nuevo y tiránico amo."
