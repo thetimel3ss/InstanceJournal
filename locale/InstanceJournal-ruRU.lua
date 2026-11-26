@@ -894,7 +894,10 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
         "Оглушает противников в радиусе 20 м на 2 секунды."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Порождение Хаккара"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Одно из многих порождений Хаккара, бродящее по залам затонувшего храма..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Порождение Хаккара — крылатый змей, бродящий по Залу Змей в нижних ярусах храма Атал'Хаккара."
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280 = "Кислота Хаккара"
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
+        "Наносит цели урон от сил природы каждые 2 сек. в течение 60 сек."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Гашер"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Один из шести троллей-защитников, не дающих сновидцу спать..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Мижан"

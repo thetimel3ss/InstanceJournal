@@ -68,7 +68,7 @@ ST.Bosses = {
             [5] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "5708",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "spawn" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "spawn" .. IMPF,
@@ -77,6 +77,14 @@ ST.Bosses = {
         MapCoordinateX = 50.0,
         MapCoordinateY = 66.3,
         MapIsBelow = true,
+        Abilities = {
+            [1] = {
+                Id = "12280",
+                Icon = "Spell_Nature_Acid_01",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10801], DropChance = 47}, 
             [2] = {IJDB.I[10802], DropChance = 26}

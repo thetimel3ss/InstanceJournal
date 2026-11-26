@@ -1108,7 +1108,10 @@ IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_6524 = "Ground Tremor"
 IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
     "Stuns enemies within 20 yards for 2 seconds."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Spawn of Hakkar"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "One of the many spawns of Hakkar, wandering through the halls of the sunken temple..."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Spawn of Hakkar is a wind serpent that prowls the Hall of Serpents in the lower reaches of the Temple of Atal'Hakkar."
+IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280 = "Acid of Hakkar"
+IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
+    "Deals Nature damage to a target every 2 seconds for 60 seconds."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "One of the six trolls protectors, keeping the dreamer asleep..."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"

@@ -883,7 +883,10 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
         "Aturde a los enemigos en un radio de 20 metros durante 2 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Engendro de Hakkar"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Uno de los muchos engendros de Hakkar, deambulando por los pasillos del templo hundido..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "El Engendro de Hakkar es una serpiente alada que merodea por la Sala de las Serpientes en las zonas inferiores del Templo de Atal'Hakkar."
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280 = "Ácido de Hakkar"
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
+        "Inflige daño de Naturaleza a un objetivo cada 2 segundos durante 60 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Uno de los seis trolls protectores, manteniendo dormido al soñador..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Miján"

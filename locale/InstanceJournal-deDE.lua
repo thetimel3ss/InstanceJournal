@@ -885,7 +885,10 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
         "Betäubt Gegner im Umkreis von 20 Metern für 2 Sekunden."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Brut von Hakkar"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Eine der vielen Bruten von Hakkar, die durch die Hallen des versunkenen Tempels wandert ..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Brut von Hakkar ist eine Windnatter, die durch die Halle der Schlangen in den unteren Bereichen des Tempels von Atal'Hakkar streift."
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280 = "Säure von Hakkar"
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
+        "Fügt einem Ziel 60 Sekunden lang alle 2 Sekunden Naturschaden zu."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"

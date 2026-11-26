@@ -883,7 +883,10 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
         "Étourdit les ennemis dans un rayon de 20 mètres pendant 2 secondes."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Apparition d'Hakkar"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "L'un des nombreux rejetons d'Hakkar, errant dans les couloirs du temple englouti..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "L’Apparition d'Hakkar est un serpent des vents qui rôde dans la salle des Serpents, dans les profondeurs du temple d'Atal'Hakkar."
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280 = "Acide d’Hakkar"
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
+        "Inflige des dégâts de Nature à une cible toutes les 2 secondes pendant 60 secondes."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "L'un des six trolls protecteurs, gardant le rêveur endormi..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"

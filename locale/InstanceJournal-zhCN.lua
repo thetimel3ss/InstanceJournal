@@ -1204,7 +1204,10 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
         "使20码范围内的敌人昏迷2秒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "哈卡的后代"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "哈卡的众多重生之一，在沉没神庙的大厅里徘徊……"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "哈卡的后代是一条风蛇，在阿塔哈卡神庙下层的毒蛇大厅中游荡。"
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280 = "哈卡酸液"
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
+        "每2秒对一个目标造成自然伤害，持续60秒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "加什尔"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "六名巨魔保护者之一，让做梦者保持睡眠......"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "米杉"

@@ -881,7 +881,10 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
         "Atordoa inimigos em um raio de 20 jardas por 2 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Cria de Hakkar"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Uma das muitas crias de Hakkar, vagando pelos corredores do templo submerso..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "A Cria de Hakkar é uma serpente alada que ronda o Salão das Serpentes nas regiões inferiores do Templo de Atal'Hakkar."
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280 = "Ácido de Hakkar"
+    IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
+        "Causa dano de Natureza a um alvo a cada 2 segundos por 60 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"
