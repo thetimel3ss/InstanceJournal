@@ -1326,7 +1326,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
         "击退正面锥形区域内的敌人。\n\n除坦克外，其他玩家应站在巨龙身后。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "哈扎斯"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "梦想家伊兰尼库斯直接麾下的四龙之一。他们监视着他，防止任何潜在的入侵者把他从睡梦中吵醒。"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "哈扎斯是一条强大的绿龙，在守卫们于翡翠梦境中漫长沉睡期间遭到腐化。尼雷米乌斯·暗风很久以前就认识他，如今请求冒险者结束他的痛苦并取回他的心脏。"
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_NAME_12884 = "酸性吐息"
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12884 =
+        "对正面锥形区域内的敌人造成自然伤害，随后每5秒造成额外自然伤害，持续45秒。\n\n使巨龙背对队伍。"
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_NAME_12882 = "拍翼"
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12882 =
+        "击退正面锥形区域内的敌人。\n\n除坦克外，其他玩家应站在巨龙身后。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "伊兰尼库斯的阴影"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
         "伊瑟拉的前配偶伊兰尼库斯被派去守卫阿塔哈卡的废墟并阻止哈卡的出现。一旦进入圣殿，他和他的随从就被黑暗力量所腐蚀，他变成了一个阴影，被拉扯在翡翠梦境和物理位面之间。尽管被腐化，伊兰尼库斯仍然可以召唤他作为绿龙的力量向他的敌人喷出腐蚀性酸液或将他们困在深度睡眠中。"

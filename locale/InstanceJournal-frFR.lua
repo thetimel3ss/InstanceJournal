@@ -1005,7 +1005,13 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
         "Repousse les ennemis dans un cône frontal.\n\nRestez derrière le dragon, sauf si vous le tankez."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "Hazzas"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "L'un des quatre drakes sous le commandement direct d'Eranikus, le Rêveur. Ils veillent sur lui et empêchent tout intrus potentiel de le réveiller de son sommeil."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "Hazzas est un puissant drake vert corrompu durant le long sommeil des défenseurs dans le Rêve d'émeraude. Niremius Darkwind l'a connu il y a longtemps et demande maintenant aux aventuriers de mettre fin à son tourment et de récupérer son cœur."
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_NAME_12884 = "Souffle d’acide"
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12884 =
+        "Inflige des dégâts de Nature aux ennemis dans un cône frontal, puis des dégâts de Nature supplémentaires toutes les 5 secondes pendant 45 secondes.\n\nGardez le dragon dos au groupe."
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_NAME_12882 = "Battement d’ailes"
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12882 =
+        "Repousse les ennemis dans un cône frontal.\n\nRestez derrière le dragon, sauf si vous le tankez."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Ombre d'Eranikus"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
         "Eranikus, ancienne épouse d'Ysera la Rêveuse, fut envoyée pour garder les ruines d'Atal'Hakkar et empêcher l'émergence de Hakkar. Une fois à l'intérieur du temple, lui et sa suite furent corrompus par ses forces obscures, et il devint une ombre, tiré entre les royaumes du Rêve d'Émeraude et le plan physique. Malgré sa corruption, Eranikus peut toujours faire appel à ses pouvoirs de dragon vert pour cracher de l'acide corrosif sur ses ennemis ou les piéger dans un profond sommeil."

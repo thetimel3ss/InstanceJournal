@@ -1005,7 +1005,13 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
         "Repele a los enemigos en un cono frontal.\n\nQuedaos detrás del dragón salvo que lo estéis tanqueando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "hazzas"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "Uno de los cuatro dracos bajo el mando directo de Eranikus, el Soñador. Lo vigilan y evitan que cualquier posible intruso lo despierte de su letargo."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "Hazzas es un poderoso draco verde corrompido durante el largo letargo de los defensores en el Sueño Esmeralda. Niremius Darkwind lo conoció hace mucho tiempo y ahora pide a los aventureros que pongan fin a su tormento y recuperen su corazón."
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_NAME_12884 = "Aliento ácido"
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12884 =
+        "Inflige daño de Naturaleza a los enemigos en un cono frontal y después daño de Naturaleza adicional cada 5 segundos durante 45 segundos.\n\nMantened al dragón de espaldas al grupo."
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_NAME_12882 = "Aleteo"
+    IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12882 =
+        "Repele a los enemigos en un cono frontal.\n\nQuedaos detrás del dragón salvo que lo estéis tanqueando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Sombra de Eranikus"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
         "Eranikus, ex consorte de Ysera la Soñadora, fue enviado a proteger las ruinas de Atal'Hakkar y evitar la aparición de Hakkar. Una vez dentro del templo, él y su séquito fueron corrompidos por las fuerzas oscuras y se convirtió en una sombra, arrastrada entre los reinos del Sueño Esmeralda y el plano físico. A pesar de su corrupción, Eranikus aún puede recurrir a sus poderes de dragón verde para arrojar ácido corrosivo a sus enemigos o atraparlos en un sueño profundo."

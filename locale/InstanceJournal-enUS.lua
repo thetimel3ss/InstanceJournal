@@ -1230,7 +1230,13 @@ IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12882 = "Wing Flap"
 IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
     "Knocks back enemies in a frontal cone.\n\nStay behind the dragon unless you are tanking it."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "Hazzas"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "One of the four drake under the direct command of Eranikus, the Dreamer. They are watching over him and prevent any potential intruder from waking him from his slumber."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "Hazzas is a powerful green drake corrupted during the defenders' long slumber in the Emerald Dream. Niremius Darkwind knew him long ago and now asks adventurers to end his torment and recover his heart."
+IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_NAME_12884 = "Acid Breath"
+IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12884 =
+    "Deals Nature damage to enemies in a frontal cone, followed by additional Nature damage every 5 seconds for 45 seconds.\n\nKeep the dragon facing away from the group."
+IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_NAME_12882 = "Wing Flap"
+IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12882 =
+    "Knocks back enemies in a frontal cone.\n\nStay behind the dragon unless you are tanking it."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Shade of Eranikus"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
     "Eranikus, former consort to Ysera the Dreamer, was sent to guard the ruins of Atal'Hakkar and prevent Hakkar's emergence. Once within the temple, he and his retinue were corrupted by its dark forces, and he became a shade, pulled between the realms of the Emerald Dream and the physical plane. Despite his corruption, Eranikus may still call upon his powers as a green dragon to spew corrosive acid at his enemies or trap them in a deep slumber."
