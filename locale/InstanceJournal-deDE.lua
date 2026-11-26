@@ -922,7 +922,28 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
         "Verringert 60 Sekunden lang alle Attribute von Gegnern innerhalb von 10 Metern.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Hukku ist einer von sechs Wächtern der Atal'ai auf den Balkonen, deren vereinte Magie Jammal'an den Propheten schützt. Hukku gebietet über dämonische Wächter und dunkle Magie."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12471 = "Schattenblitz"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12471 =
+        "Fügt einem Ziel Schattenschaden zu."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_9081 = "Schattenblitzsalve"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_9081 =
+        "Fügt Gegnern im Umkreis von 30 Metern Schattenschaden zu."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12279 = "Fluch des Blutes"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12279 =
+        "Erhöht 10 Minuten lang den körperlichen Schaden, den ein Ziel erleidet.\n\nEntfernt diesen Fluch."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12790 = "Hukkus Wächter"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12790 =
+        "Beschwört einen Leerwandler, einen Sukkubus und einen Wichtel, die Hukku unterstützen."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11779 = "Schmerzenspeitsche"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11779 =
+        "Der Sukkubus fügt einem Ziel Schattenschaden zu."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11762 = "Feuerblitz"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11762 =
+        "Der Wichtel fügt einem Ziel nach 2 Sekunden Zauberzeit Feuerschaden zu."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134 = "Feuerschild"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
+        "Der Wichtel schützt einen Verbündeten mit einem Schild, der Gegnern innerhalb von 5 Metern 60 Sekunden lang alle 3 Sekunden Feuerschaden zufügt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an der Prophet"

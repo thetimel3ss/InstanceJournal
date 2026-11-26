@@ -931,7 +931,28 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
         "Снижает все характеристики противников в радиусе 10 м на 60 сек.\n\nСнимайте этот магический эффект."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Хукку"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Один из шести троллей-защитников, не дающих сновидцу спать..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Хукку — один из шести стражей Атал'ай на балконах, чья общая магия защищает Джаммал'ана Пророка. Хукку командует демоническими стражами и владеет темной магией."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12471 = "Стрела Тьмы"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12471 =
+        "Наносит цели урон от темной магии."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_9081 = "Залп стрел Тьмы"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_9081 =
+        "Наносит урон от темной магии противникам в радиусе 30 м."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12279 = "Проклятие крови"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12279 =
+        "Увеличивает получаемый целью физический урон на 10 минут.\n\nСнимайте это проклятие."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12790 = "Стражи Хукку"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12790 =
+        "Призывает демона Бездны, суккуба и беса на помощь Хукку."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11779 = "Всплеск боли"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11779 =
+        "Суккуб наносит цели урон от темной магии."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11762 = "Огненная стрела"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11762 =
+        "Бес наносит цели урон от огня после произнесения заклинания в течение 2 сек."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134 = "Огненный щит"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
+        "Бес окружает союзника щитом, наносящим урон от огня противникам в радиусе 5 м каждые 3 сек. в течение 60 сек."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Лоро"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Один из шести троллей-защитников, не дающих сновидцу спать..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Джаммалан Пророк"

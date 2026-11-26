@@ -920,7 +920,28 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
         "Reduce todos los atributos de los enemigos en un radio de 10 metros durante 60 segundos.\n\nDisipad este efecto mágico."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Uno de los seis trolls protectores, manteniendo dormido al soñador..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Hukku es uno de los seis guardianes Atal'ai de los balcones cuya magia conjunta protege a Jammal'an el Profeta. Hukku controla guardianes demoníacos y magia oscura."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12471 = "Descarga de las Sombras"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12471 =
+        "Inflige daño de las Sombras a un objetivo."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_9081 = "Salva de descarga de las Sombras"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_9081 =
+        "Inflige daño de las Sombras a los enemigos en un radio de 30 metros."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12279 = "Maldición de sangre"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12279 =
+        "Aumenta el daño físico que recibe un objetivo durante 10 minutos.\n\nEliminad esta maldición."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12790 = "Guardianes de Hukku"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12790 =
+        "Invoca un abisario, una súcubo y un diablillo para ayudar a Hukku."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11779 = "Látigo de dolor"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11779 =
+        "La súcubo inflige daño de las Sombras a un objetivo."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11762 = "Descarga de Fuego"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11762 =
+        "El diablillo inflige daño de Fuego a un objetivo tras un lanzamiento de 2 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134 = "Escudo de Fuego"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
+        "El diablillo protege a un aliado con un escudo que inflige daño de Fuego a los enemigos en un radio de 5 metros cada 3 segundos durante 60 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "loro"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Uno de los seis trolls protectores, manteniendo dormido al soñador..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an el Profeta"

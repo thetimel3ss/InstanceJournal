@@ -918,7 +918,28 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
         "Reduz todos os atributos dos inimigos em um raio de 10 metros por 60 segundos.\n\nDissipe esse efeito mágico."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Hukku é um dos seis guardiões Atal'ai nas sacadas cuja magia conjunta protege Jammal'an, o Profeta. Hukku comanda guardiões demoníacos e magia sombria."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12471 = "Seta Sombria"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12471 =
+        "Causa dano de Sombra a um alvo."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_9081 = "Salva de Setas Sombrias"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_9081 =
+        "Causa dano de Sombra aos inimigos em até 30 metros."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12279 = "Maldição do Sangue"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12279 =
+        "Aumenta o dano Físico recebido por um alvo por 10 minutos.\n\nRemova essa maldição."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12790 = "Guardiões de Hukku"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12790 =
+        "Invoca um Emissário do Caos, uma Súcubo e um Diabrete para ajudar Hukku."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11779 = "Açoite da Dor"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11779 =
+        "A Súcubo causa dano de Sombra a um alvo."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11762 = "Seta de Fogo"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11762 =
+        "O Diabrete causa dano de Fogo a um alvo após uma conjuração de 2 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134 = "Escudo de Fogo"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
+        "O Diabrete protege um aliado com um escudo que causa dano de Fogo aos inimigos em um raio de 5 metros a cada 3 segundos por 60 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an, o Profeta"

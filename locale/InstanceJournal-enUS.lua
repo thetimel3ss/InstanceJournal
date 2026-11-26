@@ -1145,7 +1145,28 @@ IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_NAME_12530 = "Frailty"
 IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
     "Reduces all attributes of enemies within 10 yards for 60 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "One of the six trolls protectors, keeping the dreamer asleep..."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Hukku is one of six Atal'ai balcony guardians whose combined magic shields Jammal'an the Prophet. Hukku commands demonic guardians and dark magic."
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12471 = "Shadow Bolt"
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12471 =
+    "Deals Shadow damage to a target."
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_9081 = "Shadow Bolt Volley"
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_9081 =
+    "Deals Shadow damage to enemies within 30 yards."
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12279 = "Curse of Blood"
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12279 =
+    "Increases Physical damage taken by a target for 10 minutes.\n\nRemove this curse."
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12790 = "Hukku's Guardians"
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12790 =
+    "Summons a voidwalker, a succubus, and an imp to assist Hukku."
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11779 = "Lash of Pain"
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11779 =
+    "The succubus deals Shadow damage to a target."
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11762 = "Firebolt"
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11762 =
+    "The imp deals Fire damage to a target after a 2-second cast."
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134 = "Fire Shield"
+IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
+    "The imp shields an ally, dealing Fire damage to enemies within 5 yards every 3 seconds for 60 seconds."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "One of the six trolls protectors, keeping the dreamer asleep..."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an the Prophet"

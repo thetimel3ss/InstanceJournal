@@ -920,7 +920,28 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
         "Réduit toutes les caractéristiques des ennemis à moins de 10 mètres pendant 60 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "L'un des six trolls protecteurs, gardant le rêveur endormi..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Hukku est l'un des six gardiens atal'ai des balcons dont la magie combinée protège Jammal'an le Prophète. Hukku commande des gardiens démoniaques et manie la magie noire."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12471 = "Trait de l’ombre"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12471 =
+        "Inflige des dégâts d'Ombre à une cible."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_9081 = "Salve de Traits de l'ombre"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_9081 =
+        "Inflige des dégâts d'Ombre aux ennemis dans un rayon de 30 mètres."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12279 = "Malédiction du sang"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12279 =
+        "Augmente les dégâts physiques subis par une cible pendant 10 minutes.\n\nDissipez cette malédiction."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12790 = "Gardiens de Hukku"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12790 =
+        "Invoque un marcheur du Vide, une succube et un diablotin pour aider Hukku."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11779 = "Fouet de la douleur"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11779 =
+        "La succube inflige des dégâts d’Ombre à une cible."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11762 = "Éclair de feu"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11762 =
+        "Le diablotin inflige des dégâts de Feu à une cible après 2 secondes d’incantation."
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134 = "Bouclier de feu"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
+        "Le diablotin protège un allié avec un bouclier qui inflige des dégâts de Feu aux ennemis à moins de 5 mètres toutes les 3 secondes pendant 60 secondes."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "L'un des six trolls protecteurs, gardant le rêveur endormi..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an le Prophète"

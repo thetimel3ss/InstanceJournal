@@ -222,7 +222,7 @@ ST.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "5715",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "hukku" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "hukku" .. IMPF,
@@ -230,6 +230,55 @@ ST.Bosses = {
         Story = IJ_DB_DUNGEON_ST_BOSS_STORY_5715,
         MapCoordinateX = 39.6,
         MapCoordinateY = 45.8,
+        Abilities = {
+            [1] = {
+                Id = "12471",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12471,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12471,
+                Flags = {IMAF.Interruptible}
+            },
+            [2] = {
+                Id = "9081",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_9081,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_9081
+            },
+            [3] = {
+                Id = "12279",
+                Icon = "Spell_Shadow_RitualOfSacrifice",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12279,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12279,
+                Flags = {IMAF.Curse}
+            },
+            [4] = {
+                Id = "12790",
+                Icon = "Spell_Shadow_SummonVoidWalker",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12790,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12790,
+                SubAbilities = {
+                    [1] = {
+                        Id = "11779",
+                        Icon = "Spell_Shadow_Curse",
+                        Name = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11779,
+                        Effect = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11779
+                    },
+                    [2] = {
+                        Id = "11762",
+                        Icon = "Spell_Fire_FireBolt",
+                        Name = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11762,
+                        Effect = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11762
+                    },
+                    [3] = {
+                        Id = "134",
+                        Icon = "Spell_Fire_Immolation",
+                        Name = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134,
+                        Effect = IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134,
+                        Flags = {IMAF.Magic}
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10783], DropChance = 7},
             [2] = {IJDB.I[10784], DropChance = 7},

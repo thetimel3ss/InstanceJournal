@@ -1241,7 +1241,28 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
         "降低10码内敌人的所有属性，持续60秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "胡库"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "六名巨魔保护者之一，让做梦者保持睡眠......"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "胡库是六名阿塔莱露台守卫之一，他们合力维持魔法屏障，保护预言者迦玛兰。胡库统御恶魔守卫并运用黑暗魔法。"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12471 = "暗影箭"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12471 =
+        "对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_9081 = "暗影箭雨"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_9081 =
+        "对30码内的敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12279 = "血之诅咒"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12279 =
+        "提高一个目标受到的物理伤害，持续10分钟。\n\n移除此诅咒。"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_12790 = "胡库的卫士"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_12790 =
+        "召唤一名虚空行者、一名魅魔和一名小鬼协助胡库。"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11779 = "剧痛鞭笞"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11779 =
+        "魅魔对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_11762 = "火焰箭"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_11762 =
+        "小鬼施法2秒后对一个目标造成火焰伤害。"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134 = "火焰之盾"
+    IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
+        "小鬼为一名盟友施加护盾，每3秒对其周围5码内的敌人造成火焰伤害，持续60秒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "洛若尔"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "六名巨魔保护者之一，让做梦者保持睡眠......"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "预言者迦玛兰"
