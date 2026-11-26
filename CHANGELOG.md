@@ -12,6 +12,7 @@ All changes to this project will be documented in this file.
 
 ### Changed
 
+- Added Fear Ward prevention guidance for `Antnormi` in `Black Morass`
 - Updated boss abilities and expanded boss lore in `Windhorn Canyon`
 - Updated boss abilities and spell references in `The Stockade`
 - Updated boss abilities and spell references in `The Deadmines`

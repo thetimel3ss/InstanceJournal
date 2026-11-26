@@ -634,7 +634,8 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Choque de las Sombras"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Inflige daño de las Sombras a un objetivo."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Rugido aterrador"
-    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Aturde a los enemigos en un radio de 10 metros durante 5 segundos."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 =
+        "Aturde a los enemigos en un radio de 10 metros durante 5 segundos.\n\nResguardo contra el miedo puede prevenir este efecto."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Enfurecer"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "Al llegar aproximadamente al 20% de salud, aumenta el daño infligido un 25% y la velocidad de ataque un 40%.\n\nLos sanadores deben prepararse para un mayor daño sobre el tanque."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"

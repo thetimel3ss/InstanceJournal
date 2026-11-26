@@ -632,7 +632,8 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Choque Sombrio"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Causa dano de Sombra a um alvo."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Rugido Aterrorizante"
-    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Atordoa os inimigos em até 10 metros por 5 segundos."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 =
+        "Atordoa os inimigos em até 10 metros por 5 segundos.\n\nProteção contra Medo pode prevenir esse efeito."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Enfurecer"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "Com aproximadamente 20% de vida, aumenta o dano causado em 25% e a velocidade de ataque em 40%.\n\nHealers devem se preparar para o aumento de dano no tank."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"

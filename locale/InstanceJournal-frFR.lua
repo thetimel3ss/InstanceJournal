@@ -633,7 +633,8 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Horion de l'ombre"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Inflige des dégâts d'Ombre à une cible."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Rugissement intimidant"
-    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Étourdit les ennemis dans un rayon de 10 mètres pendant 5 secondes."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 =
+        "Étourdit les ennemis dans un rayon de 10 mètres pendant 5 secondes.\n\nGardien de peur peut empêcher cet effet."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Enrager"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "À environ 20% de ses points de vie, augmente les dégâts infligés de 25% et la vitesse d'attaque de 40%.\n\nLes soigneurs doivent se préparer à des dégâts accrus sur le tank."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Pourrigueule"

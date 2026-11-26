@@ -635,7 +635,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Schattenschock"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Fügt einem Ziel Schattenschaden zu."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Einschüchterndes Gebrüll"
-    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Betäubt Gegner im Umkreis von 10 Metern 5 Sekunden lang."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 =
+        "Betäubt Gegner im Umkreis von 10 Metern 5 Sekunden lang.\n\nFurchtzauberschutz kann diesen Effekt verhindern."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Wutanfall"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "Erhöht bei etwa 20% Gesundheit den verursachten Schaden um 25% und das Angriffstempo um 40%.\n\nHeiler sollten sich auf erhöhten Schaden beim Tank vorbereiten."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"

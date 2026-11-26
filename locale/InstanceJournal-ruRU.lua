@@ -642,7 +642,8 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Темный шок"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Наносит цели урон от темной магии."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Устрашающий рев"
-    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Оглушает противников в радиусе 10 м на 5 сек."
+    IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 =
+        "Оглушает противников в радиусе 10 м на 5 сек.\n\nЗащита от страха может предотвратить этот эффект."
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Исступление"
     IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "Примерно при 20% здоровья увеличивает наносимый урон на 25% и скорость атаки на 40%.\n\nЛекарям следует быть готовыми к повышенному урону по танку."
     IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Гнилая пасть"

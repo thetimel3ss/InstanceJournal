@@ -412,7 +412,6 @@ BM.Bosses = {
                 Effect = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234
             },
             [3] = {
-                -- TODO: Confirm fear-prevention interactions; the spell applies a stun but has a fleeing mechanic.
                 Id = "16096",
                 Icon = "Ability_Devour",
                 Name = IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096,

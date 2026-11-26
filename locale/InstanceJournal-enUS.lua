@@ -712,7 +712,8 @@ IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_21919 = "Grants an extra attack on An
 IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_17234 = "Shadow Shock"
 IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_17234 = "Deals Shadow damage to a target."
 IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_16096 = "Cowering Roar"
-IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 = "Stuns enemies within 10 yards for 5 seconds."
+IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_16096 =
+    "Stuns enemies within 10 yards for 5 seconds.\n\nFear Ward can prevent this effect."
 IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_NAME_28131 = "Enrage"
 IJ_DB_DUNGEON_BM_BOSS_65125_ABILITY_EFFECT_28131 = "At approximately 20% health, increases damage dealt by 25% and attack speed by 40%.\n\nHealers should prepare for increased damage on the tank."
 IJ_DB_DUNGEON_BM_BOSS_NAME_65122 = "Rotmaw"
