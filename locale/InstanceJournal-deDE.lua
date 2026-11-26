@@ -983,7 +983,13 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
         "Fügt einem Ziel 18 Sekunden lang alle 3 Sekunden Schattenschaden zu.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "Traumsense"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Einer der vier Drachen unter dem direkten Kommando von Eranikus, dem Träumer. Sie wachen über ihn und verhindern, dass ein potenzieller Eindringling ihn aus seinem Schlaf weckt."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Traumsense ist einer der grünen Drachen unter Eranikus' Befehl. Wie die anderen gefallenen Wächter des Versunkenen Tempels wurde dieser einstige Verteidiger von der Verderbnis entstellt, die während ihres Schlummers im Smaragdgrünen Traum von ihnen Besitz ergriff."
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12884 = "Säureatem"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12884 =
+        "Verursacht Naturschaden in einem kegelförmigen Bereich vor dem Drachen und anschließend 45 Sekunden lang alle 5 Sekunden zusätzlichen Naturschaden.\n\nHaltet den Drachen von der Gruppe abgewandt."
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12882 = "Flügelschlag"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12882 =
+        "Stößt Gegner in einem kegelförmigen Bereich vor dem Drachen zurück.\n\nBleibt hinter dem Drachen, sofern ihr ihn nicht tankt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Weber"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "Einer der vier Drachen unter dem direkten Kommando von Eranikus, dem Träumer. Sie wachen über ihn und verhindern, dass ein potenzieller Eindringling ihn aus seinem Schlaf weckt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morphaz"

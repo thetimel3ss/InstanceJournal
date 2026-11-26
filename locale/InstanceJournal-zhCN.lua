@@ -1302,7 +1302,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
         "每3秒对一个目标造成暗影伤害，持续18秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "德姆塞卡尔"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "梦想家伊兰尼库斯直接麾下的四龙之一。他们监视着他，防止任何潜在的入侵者把他从睡梦中吵醒。"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "德姆塞卡尔是效命于伊兰尼库斯的绿龙之一。与沉没的神庙中其他堕落的守卫一样，这位昔日的保卫者在翡翠梦境沉睡期间遭到腐化，变得扭曲。"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12884 = "酸性吐息"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12884 =
+        "对正面锥形区域内的敌人造成自然伤害，随后每5秒造成额外自然伤害，持续45秒。\n\n使巨龙背对队伍。"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12882 = "拍翼"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12882 =
+        "击退正面锥形区域内的敌人。\n\n除坦克外，其他玩家应站在巨龙身后。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "德拉维沃尔"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "梦想家伊兰尼库斯直接麾下的四龙之一。他们监视着他，防止任何潜在的入侵者把他从睡梦中吵醒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "摩弗拉斯"

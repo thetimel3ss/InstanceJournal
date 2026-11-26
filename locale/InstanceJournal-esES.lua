@@ -981,7 +981,13 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
         "Inflige daño de las Sombras a un objetivo cada 3 segundos durante 18 segundos.\n\nDisipad este efecto mágico."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "guadaña de sueños"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Uno de los cuatro dracos bajo el mando directo de Eranikus, el Soñador. Lo vigilan y evitan que cualquier posible intruso lo despierte de su letargo."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Guadaña de sueños es uno de los dracos verdes al servicio de Eranikus. Como los demás guardianes caídos del Templo Sumergido, este antiguo defensor fue retorcido por la corrupción que arraigó durante su letargo en el Sueño Esmeralda."
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12884 = "Aliento ácido"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12884 =
+        "Inflige daño de Naturaleza a los enemigos en un cono frontal y después daño de Naturaleza adicional cada 5 segundos durante 45 segundos.\n\nMantened al dragón de espaldas al grupo."
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12882 = "Aleteo"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12882 =
+        "Repele a los enemigos en un cono frontal.\n\nQuedaos detrás del dragón salvo que lo estéis tanqueando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Tejedor"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "Uno de los cuatro dracos bajo el mando directo de Eranikus, el Soñador. Lo vigilan y evitan que cualquier posible intruso lo despierte de su letargo."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "morfaz"

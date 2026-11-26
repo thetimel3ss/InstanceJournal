@@ -979,7 +979,13 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
         "Causa dano de Sombra a um alvo a cada 3 segundos por 18 segundos.\n\nDissipe esse efeito mágico."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "Foice dos Sonhos"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Um dos quatro drakes sob o comando direto de Eranikus, o Dreamer. Eles estão cuidando dele e evitando que qualquer intruso em potencial o acorde de seu sono."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Foice dos Sonhos é um dos dragonetes verdes a serviço de Eranikus. Como os outros guardiões caídos do Templo Submerso, esse antigo defensor foi desfigurado pela corrupção que se instalou durante seu sono no Sonho Esmeralda."
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12884 = "Sopro Ácido"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12884 =
+        "Causa dano de Natureza aos inimigos em um cone frontal, seguido de dano de Natureza adicional a cada 5 segundos por 45 segundos.\n\nMantenha o dragão de costas para o grupo."
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12882 = "Bater de Asas"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12882 =
+        "Repele os inimigos em um cone frontal.\n\nFique atrás do dragão, a menos que esteja tankando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Tecelão"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "Um dos quatro drakes sob o comando direto de Eranikus, o Dreamer. Eles estão cuidando dele e evitando que qualquer intruso em potencial o acorde de seu sono."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morfaz"

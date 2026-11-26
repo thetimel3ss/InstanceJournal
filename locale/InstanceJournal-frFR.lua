@@ -981,7 +981,13 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
         "Inflige des dégâts d’Ombre à une cible toutes les 3 secondes pendant 18 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "Faux de rêve"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "L'un des quatre drakes sous le commandement direct d'Eranikus, le Rêveur. Ils veillent sur lui et empêchent tout intrus potentiel de le réveiller de son sommeil."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Faux de rêve est l'un des drakes verts au service d'Eranikus. Comme les autres gardiens déchus du Temple englouti, cet ancien défenseur a été déformé par la corruption qui s'est installée pendant leur sommeil dans le Rêve d'émeraude."
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12884 = "Souffle d’acide"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12884 =
+        "Inflige des dégâts de Nature aux ennemis dans un cône frontal, puis des dégâts de Nature supplémentaires toutes les 5 secondes pendant 45 secondes.\n\nGardez le dragon dos au groupe."
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12882 = "Battement d’ailes"
+    IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12882 =
+        "Repousse les ennemis dans un cône frontal.\n\nRestez derrière le dragon, sauf si vous le tankez."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Tisserand"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "L'un des quatre drakes sous le commandement direct d'Eranikus, le Rêveur. Ils veillent sur lui et empêchent tout intrus potentiel de le réveiller de son sommeil."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morphaz"
