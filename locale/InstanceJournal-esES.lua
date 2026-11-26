@@ -2528,6 +2528,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13596 = "Rotgrip"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13596 =
         "Se rumorea que Rotgrip ha habitado en las aguas subterráneas de Maraudon durante milenios. El famoso cazador enano Hemet Nesingwary proclamó una vez que no se podía encontrar a la bestia, y varios rastreadores aficionados aceptaron el desafío de buscar a la criatura legendaria. Ninguno de ellos regresó jamás."
+    IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_NAME_15976 = "Perforación"
+    IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_EFFECT_15976 =
+        "Hace sangrar a un objetivo, infligiéndole daño físico cada 2 segundos durante 10 segundos."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "Princesa Theradras"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
         "El elemental de tierra Theradras, la única hija de Therazane la Madre Pétrea, reside en el santuario interior de Maraudon. Influenciada por los dioses antiguos, la princesa transformó su hogar en una guarida de corrupción y sufrimiento. Algunos creen que sus poderes inmundos están ligados al espíritu de su amante muerto, Zaetar. Si es así, liberar al guardián caído de la arboleda podría ser la única esperanza de limpiar a Maraudon."

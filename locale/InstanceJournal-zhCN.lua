@@ -3437,6 +3437,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13596 = "洛特格里普"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13596 =
         "有传言说，罗特格里普已经在玛拉顿的地下水中居住了数千年。著名的矮人猎人赫米特·奈辛瓦里曾宣称无法找到这种野兽，许多业余追踪者接受了寻找这种传奇生物的挑战。他们都没有回来。"
+    IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_NAME_15976 = "穿刺"
+    IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_EFFECT_15976 =
+        "使一个目标流血，每2秒造成物理伤害，持续10秒。"
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "瑟莱德丝公主"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
         "土元素瑟莱德丝是石母瑟拉赞恩的唯一女儿，居住在玛拉顿的内部圣所中。受到上古之神的影响，公主将她的家变成了腐败和痛苦的巢穴。有些人认为她的邪恶力量与她死去的爱人扎尔塔的灵魂有关。如果是这样，释放倒下的树林守护者可能是净化玛拉顿的唯一希望。"

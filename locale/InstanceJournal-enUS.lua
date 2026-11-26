@@ -3344,6 +3344,9 @@ IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_21808 =
 IJ_DB_DUNGEON_MARA_BOSS_NAME_13596 = "Rotgrip"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_13596 =
     "Rumor has it that Rotgrip has dwelled in Maraudon's subterranean waters for millennia. The famed dwarven hunter Hemet Nesingwary once proclaimed that the beast could not be found, and a number of amateur trackers accepted the challenge of seeking out the legendary creature. None of them ever returned."
+IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_NAME_15976 = "Puncture"
+IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_EFFECT_15976 =
+    "Causes a target to bleed, dealing Physical damage every 2 seconds for 10 seconds."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "Princess Theradras"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
     "The earth elemental Theradras, Therazane the Stonemother's sole daughter, resides in Maraudon's inner sanctum. Influenced by the Old Gods, the princess transformed her home into a den of corruption and suffering. Some believe that her foul powers are tied to the spirit of her dead lover, Zaetar. If so, liberating the fallen keeper of the grove might be the only hope of cleansing Maraudon."

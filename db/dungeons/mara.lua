@@ -281,7 +281,7 @@ MARA.Bosses = {
             [4] = {IJDB.I[17943], DropChance = 25}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "13596",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "rotgrip" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "rotgrip" .. IMPF,
@@ -289,6 +289,14 @@ MARA.Bosses = {
         Story = IJ_DB_DUNGEON_MARA_BOSS_STORY_13596,
         MapCoordinateX = 32.1,
         MapCoordinateY = 86.1,
+        Abilities = {
+            [1] = {
+                Id = "15976",
+                Icon = "Ability_Gouge",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_NAME_15976,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_EFFECT_15976
+            }
+        },
         Loot = {
             [1] = {IJDB.I[17728], DropChance = 33}, 
             [2] = {IJDB.I[17730], DropChance = 33}, 
