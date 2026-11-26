@@ -2472,7 +2472,7 @@ if GetLocale() == "deDE" then
         "Gewährt zwei zusätzliche Angriffe."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok der Ernter"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
-        "Ein schwer fassbares Moortier, das unter den Bewohnern von Maraudon selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihnen nur überhaupt begegnen könnten ..."
+        "Meshlok der Ernter ist eine seltene Sumpfbestie in der Nähe der Giftfälle, wo die orangefarbene und die violette Route durch Maraudon zusammentreffen."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Lord Vyletongue"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
         "Der Satyrfürst Vyletongue reiste in die Tiefen von Maraudon, nachdem er von dessen Verderbnis erfahren hatte. Theradras war zunächst misstrauisch gegenüber dem hinterhältigen Dämon, aber Vyletongue bewies seinen Wert, indem er eine Reihe elender Diener wie Noxxion und Razorlash für die Prinzessin erschuf."

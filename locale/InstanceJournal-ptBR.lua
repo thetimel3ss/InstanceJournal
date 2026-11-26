@@ -2468,7 +2468,7 @@ if GetLocale() == "ptBR" then
         "Concede dois ataques adicionais."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok, o Colhedor"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
-        "Uma fera esquiva do pântano, raramente vista entre os habitantes de Maraudon. Diz-se que possui muitos itens cobiçados que muitos gostariam de poder colocar as mãos, se ao menos pudessem encontrá-los em primeiro lugar..."
+        "Meshlok, o Colhedor, é uma fera do pântano rara encontrada perto das Cataratas Venenosas, onde as rotas laranja e roxa de Maraudon se encontram."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Lorde Vyletongue"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
         "O senhor sátiro Vyletongue viajou às profundezas de Maraudon depois de ouvir sobre sua corrupção. Theradras inicialmente foi cauteloso com o demônio conivente, mas Vyletongue provou seu valor criando uma série de lacaios miseráveis, como Noxxion e Razorlash, para a princesa."

@@ -2470,7 +2470,7 @@ if GetLocale() == "frFR" then
         "Accorde deux attaques supplémentaires."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok le moissonneur"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
-        "Une bête des tourbières insaisissable, rarement vue parmi les habitants de Maraudon. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient les trouver en premier lieu..."
+        "Meshlok le moissonneur est une rare bête des marais qui se trouve près des chutes de Poison, là où les chemins orange et violet de Maraudon se rejoignent."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Seigneur Vylelangue"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
         "Le seigneur satyre Vyletongue s'est rendu dans les profondeurs de Maraudon après avoir entendu parler de sa corruption. Au début, Theradras se méfiait du démon complice, mais Vyletongue prouva sa valeur en créant une série de misérables serviteurs, tels que Noxxion et Razorlash, pour la princesse."

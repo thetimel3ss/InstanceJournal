@@ -2470,7 +2470,7 @@ if GetLocale() == "esES" then
         "Otorga dos ataques adicionales."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok el Cosechador"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
-        "Una esquiva bestia del pantano, rara vez vista entre los habitantes de Maraudon. Se dice que posee muchos artículos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlos en primer lugar..."
+        "Meshlok el Cosechador es una bestia del pantano poco común que se encuentra cerca de las Cascadas Venenosas, donde convergen las rutas naranja y morada de Maraudon."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Señor Lengua Vyle"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
         "El señor sátiro Vyletongue viajó a las profundidades de Maraudon después de enterarse de su corrupción. Theradras desconfiaba del demonio intrigante al principio, pero Vyletongue demostró su valía creando una serie de miserables secuaces, como Noxxion y Razorlash, para la princesa."

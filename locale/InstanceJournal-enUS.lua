@@ -3286,7 +3286,7 @@ IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_3391 =
     "Grants two extra attacks."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok the Harvester"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
-    "An elusive bog beast, rarely seen among the denizens of Maraudon. It is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter it in the first place..."
+    "Meshlok the Harvester is a rare bog beast found near Poison Falls, where Maraudon's orange and purple routes converge."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Lord Vyletongue"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
     "The satyr lord Vyletongue journeyed into Maraudon's depths after hearing of its corruption. Theradras was wary of the conniving demon at first, but Vyletongue proved his worth by creating an array of wretched minions, such as Noxxion and Razorlash, for the princess."
