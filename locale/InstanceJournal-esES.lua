@@ -2473,7 +2473,19 @@ if GetLocale() == "esES" then
         "Meshlok el Cosechador es una bestia del pantano poco común que se encuentra cerca de las Cascadas Venenosas, donde convergen las rutas naranja y morada de Maraudon."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Señor Lengua Vyle"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
-        "El señor sátiro Vyletongue viajó a las profundidades de Maraudon después de enterarse de su corrupción. Theradras desconfiaba del demonio intrigante al principio, pero Vyletongue demostró su valía creando una serie de miserables secuaces, como Noxxion y Razorlash, para la princesa."
+        "El señor sátiro Vyletongue viajó a las profundidades de Maraudon después de enterarse de su corrupción. Theradras desconfiaba del demonio intrigante al principio, pero Vyletongue demostró su valía creando una serie de miserables secuaces, como Noxxion y Razorlash, para la princesa.\n\nSu corrupción envenena las mentes y frena el crecimiento de las plantas de Maraudon. Incluso después de purificar las vides Vylestem, conserva el control sobre ellas."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_7964 = "Bomba de humo"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_7964 =
+        "Aturde a los enemigos en un radio de 5 metros durante 4 segundos.\n\nEliminad este efecto mágico."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21655 = "Traslación"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21655 =
+        "Teletransporta al Señor Lengua Vyle hacia delante y lo libera de los efectos de inmovilización."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21390 = "Multidisparo"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21390 =
+        "Dispara a un objetivo y a sus aliados cercanos, afectando a un máximo de cinco objetivos."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_16100 = "Disparar"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_16100 =
+        "Dispara a un objetivo y le inflige daño físico."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Celebra la Maldita"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
         "Al enterarse del trágico destino de su tío, el noble Celebras juró liberar el espíritu de Zaetar. Sin embargo, el guardián de la arboleda no estaba preparado para los horrores que le esperaban en los oscuros corredores de Maraudon. Las energías oscuras que impregnaban el área rápidamente vencieron a Celebras, llenando su corazón de ira incontrolable."

@@ -3289,7 +3289,19 @@ IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
     "Meshlok the Harvester is a rare bog beast found near Poison Falls, where Maraudon's orange and purple routes converge."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Lord Vyletongue"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
-    "The satyr lord Vyletongue journeyed into Maraudon's depths after hearing of its corruption. Theradras was wary of the conniving demon at first, but Vyletongue proved his worth by creating an array of wretched minions, such as Noxxion and Razorlash, for the princess."
+    "The satyr lord Vyletongue journeyed into Maraudon's depths after hearing of its corruption. Theradras was wary of the conniving demon at first, but Vyletongue proved his worth by creating an array of wretched minions, such as Noxxion and Razorlash, for the princess.\n\nHis corruption poisons minds and stunts the plants of Maraudon. Even after Vylestem vines are cleansed, he retains control over them."
+IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_7964 = "Smoke Bomb"
+IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_7964 =
+    "Stuns enemies within 5 yards for 4 seconds.\n\nRemove this magic effect."
+IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21655 = "Blink"
+IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21655 =
+    "Teleports Lord Vyletongue forward and frees him from immobilizing effects."
+IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21390 = "Multi-Shot"
+IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21390 =
+    "Shoots a target and nearby allies, affecting up to five targets."
+IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_16100 = "Shoot"
+IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_16100 =
+    "Shoots at a target, dealing Physical damage."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Celebras the Cursed"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
     "Upon learning of his uncle's tragic fate, the noble Celebras swore to free Zaetar's spirit. Yet the keeper of the grove was not prepared for the horrors that awaited him in Maraudon's shadowy corridors. The dark energies permeating the area quickly overcame Celebras, filling his heart with uncontrollable rage."

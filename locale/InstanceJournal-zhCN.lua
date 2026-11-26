@@ -3382,7 +3382,19 @@ if GetLocale() == "zhCN" then
         "收割者麦什洛克是一只罕见的沼泽兽，出没于玛拉顿橙色和紫色路线交汇的毒水瀑布附近。"
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "维利塔恩"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
-        "萨特领主维勒舌在听说玛拉顿的腐败后，踏入了它的深处。瑟莱德拉斯一开始对这个阴险的恶魔很警惕，但维勒舌通过为公主创造了一系列可怜的爪牙（例如诺克西恩和剃刀拉什）证明了自己的价值。"
+        "萨特领主维勒舌在听说玛拉顿的腐败后，踏入了它的深处。瑟莱德拉斯一开始对这个阴险的恶魔很警惕，但维勒舌通过为公主创造了一系列可怜的爪牙（例如诺克西恩和剃刀拉什）证明了自己的价值。\n\n他的腐化侵蚀心智，阻碍玛拉顿植物的生长。即使维利藤蔓得到净化，他仍然控制着它们。"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_7964 = "烟雾弹"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_7964 =
+        "使5码内的敌人昏迷4秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21655 = "闪现术"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21655 =
+        "使维利塔恩向前传送，并解除其受到的定身效果。"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21390 = "多重射击"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21390 =
+        "射击一个目标及其附近的盟友，最多影响五个目标。"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_16100 = "射击"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_16100 =
+        "射击一个目标，造成物理伤害。"
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "被诅咒的塞雷布拉斯"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
         "得知叔叔的悲惨命运后，高贵的塞勒布拉斯发誓要释放扎尔塔的灵魂。然而，树林的守护者并没有准备好面对玛拉顿阴暗走廊里等待着他的恐怖。弥漫在这片区域的黑暗能量很快就征服了塞勒布拉斯，让他心中充满了无法控制的愤怒。"

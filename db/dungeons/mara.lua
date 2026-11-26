@@ -124,7 +124,7 @@ MARA.Bosses = {
             [4] = {IJDB.I[17741], DropChance = 33}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "12236",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "vyletongue" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "vyletongue" .. IMPF,
@@ -132,6 +132,33 @@ MARA.Bosses = {
         Story = IJ_DB_DUNGEON_MARA_BOSS_STORY_12236,
         MapCoordinateX = 33.0,
         MapCoordinateY = 32.8,
+        Abilities = {
+            [1] = {
+                Id = "7964",
+                Icon = "Ability_Hibernation",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_7964,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_7964,
+                Flags = {IMAF.Magic}
+            },
+            [2] = {
+                Id = "21655",
+                Icon = "Spell_Arcane_Blink",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21655,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21655
+            },
+            [3] = {
+                Id = "21390",
+                Icon = "Ability_UpgradeMoonGlaive",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21390,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21390
+            },
+            [4] = {
+                Id = "16100",
+                Icon = "Ability_Marksmanship",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_16100,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_16100
+            }
+        },
         Loot = {
             [1] = {IJDB.I[17752], DropChance = 33}, 
             [2] = {IJDB.I[17754], DropChance = 33}, 

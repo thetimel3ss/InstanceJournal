@@ -2473,7 +2473,19 @@ if GetLocale() == "frFR" then
         "Meshlok le moissonneur est une rare bête des marais qui se trouve près des chutes de Poison, là où les chemins orange et violet de Maraudon se rejoignent."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Seigneur Vylelangue"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
-        "Le seigneur satyre Vyletongue s'est rendu dans les profondeurs de Maraudon après avoir entendu parler de sa corruption. Au début, Theradras se méfiait du démon complice, mais Vyletongue prouva sa valeur en créant une série de misérables serviteurs, tels que Noxxion et Razorlash, pour la princesse."
+        "Le seigneur satyre Vyletongue s'est rendu dans les profondeurs de Maraudon après avoir entendu parler de sa corruption. Au début, Theradras se méfiait du démon complice, mais Vyletongue prouva sa valeur en créant une série de misérables serviteurs, tels que Noxxion et Razorlash, pour la princesse.\n\nSa corruption empoisonne les esprits et entrave la croissance des plantes de Maraudon. Même après la purification des lianes Vylestem, il en garde le contrôle."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_7964 = "Bombe fumigène"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_7964 =
+        "Étourdit les ennemis à moins de 5 mètres pendant 4 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21655 = "Transfert"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21655 =
+        "Téléporte le seigneur Vylelangue vers l’avant et le libère des effets d’immobilisation."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21390 = "Flèches multiples"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21390 =
+        "Tire sur une cible et ses alliés proches, touchant jusqu’à cinq cibles."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_16100 = "Tir"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_16100 =
+        "Tire sur une cible et lui inflige des dégâts physiques."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Célébras le Maudit"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
         "En apprenant le sort tragique de son oncle, le noble Celebras jura de libérer l'esprit de Zaetar. Pourtant, le gardien du bosquet n'était pas préparé aux horreurs qui l'attendaient dans les couloirs sombres de Maraudon. Les énergies sombres imprégnant la zone ont rapidement vaincu Celebras, remplissant son cœur d’une rage incontrôlable."

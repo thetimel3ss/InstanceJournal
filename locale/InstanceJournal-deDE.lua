@@ -2475,7 +2475,19 @@ if GetLocale() == "deDE" then
         "Meshlok der Ernter ist eine seltene Sumpfbestie in der Nähe der Giftfälle, wo die orangefarbene und die violette Route durch Maraudon zusammentreffen."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Lord Vyletongue"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
-        "Der Satyrfürst Vyletongue reiste in die Tiefen von Maraudon, nachdem er von dessen Verderbnis erfahren hatte. Theradras war zunächst misstrauisch gegenüber dem hinterhältigen Dämon, aber Vyletongue bewies seinen Wert, indem er eine Reihe elender Diener wie Noxxion und Razorlash für die Prinzessin erschuf."
+        "Der Satyrfürst Vyletongue reiste in die Tiefen von Maraudon, nachdem er von dessen Verderbnis erfahren hatte. Theradras war zunächst misstrauisch gegenüber dem hinterhältigen Dämon, aber Vyletongue bewies seinen Wert, indem er eine Reihe elender Diener wie Noxxion und Razorlash für die Prinzessin erschuf.\n\nSeine Verderbnis vergiftet den Geist und hemmt das Wachstum der Pflanzen in Maraudon. Selbst nach der Reinigung der Vylestemranken behält er die Kontrolle über sie."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_7964 = "Rauchbombe"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_7964 =
+        "Betäubt Gegner innerhalb von 5 Metern für 4 Sekunden.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21655 = "Blinzeln"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21655 =
+        "Teleportiert Lord Vyletongue nach vorne und befreit ihn von bewegungsunfähig machenden Effekten."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21390 = "Mehrfachschuss"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21390 =
+        "Schießt auf ein Ziel und dessen Verbündete in der Nähe und trifft bis zu fünf Ziele."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_16100 = "Schießen"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_16100 =
+        "Schießt auf ein Ziel und verursacht körperlichen Schaden."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Feiert den Verfluchten"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
         "Als der edle Celebras vom tragischen Schicksal seines Onkels erfuhr, schwor er, Zaetars Geist zu befreien. Doch der Hüter des Hains war nicht auf die Schrecken vorbereitet, die ihn in Maraudons schattigen Korridoren erwarteten. Die dunklen Energien, die das Gebiet durchdrangen, überwältigten Celebras schnell und erfüllten sein Herz mit unkontrollierbarer Wut."

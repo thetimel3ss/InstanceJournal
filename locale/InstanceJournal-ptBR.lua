@@ -2471,7 +2471,19 @@ if GetLocale() == "ptBR" then
         "Meshlok, o Colhedor, é uma fera do pântano rara encontrada perto das Cataratas Venenosas, onde as rotas laranja e roxa de Maraudon se encontram."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12236 = "Lorde Vyletongue"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12236 =
-        "O senhor sátiro Vyletongue viajou às profundezas de Maraudon depois de ouvir sobre sua corrupção. Theradras inicialmente foi cauteloso com o demônio conivente, mas Vyletongue provou seu valor criando uma série de lacaios miseráveis, como Noxxion e Razorlash, para a princesa."
+        "O senhor sátiro Vyletongue viajou às profundezas de Maraudon depois de ouvir sobre sua corrupção. Theradras inicialmente foi cauteloso com o demônio conivente, mas Vyletongue provou seu valor criando uma série de lacaios miseráveis, como Noxxion e Razorlash, para a princesa.\n\nSua corrupção envenena mentes e prejudica o crescimento das plantas de Maraudon. Mesmo depois que as vinhas Vylestem são purificadas, ele mantém o controle sobre elas."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_7964 = "Bomba de fumaça"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_7964 =
+        "Atordoa os inimigos em um raio de 5 metros por 4 segundos.\n\nRemova esse efeito mágico."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21655 = "Lampejo"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21655 =
+        "Teleporta Lorde Vyletongue para a frente e o liberta de efeitos de imobilização."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_21390 = "Tiro Múltiplo"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_21390 =
+        "Dispara contra um alvo e seus aliados próximos, atingindo até cinco alvos."
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_NAME_16100 = "Disparar"
+    IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_16100 =
+        "Dispara contra um alvo, causando dano Físico."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Celebra o Amaldiçoado"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
         "Ao saber do trágico destino de seu tio, o nobre Celebras jurou libertar o espírito de Zaetar. Contudo, o guardião do bosque não estava preparado para os horrores que o aguardavam nos corredores sombrios de Maraudon. As energias sombrias que permeavam a área rapidamente superaram Celebras, enchendo seu coração com uma raiva incontrolável."
