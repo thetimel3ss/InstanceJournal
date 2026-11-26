@@ -2490,7 +2490,16 @@ if GetLocale() == "deDE" then
         "Schießt auf ein Ziel und verursacht körperlichen Schaden."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Feiert den Verfluchten"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
-        "Als der edle Celebras vom tragischen Schicksal seines Onkels erfuhr, schwor er, Zaetars Geist zu befreien. Doch der Hüter des Hains war nicht auf die Schrecken vorbereitet, die ihn in Maraudons schattigen Korridoren erwarteten. Die dunklen Energien, die das Gebiet durchdrangen, überwältigten Celebras schnell und erfüllten sein Herz mit unkontrollierbarer Wut."
+        "Als der edle Celebras vom tragischen Schicksal seines Onkels erfuhr, schwor er, Zaetars Geist zu befreien. Doch der Hüter des Hains war nicht auf die Schrecken vorbereitet, die ihn in Maraudons schattigen Korridoren erwarteten. Die dunklen Energien, die das Gebiet durchdrangen, überwältigten Celebras schnell und erfüllten sein Herz mit unkontrollierbarer Wut.\n\nSeine Schwester Cavindra schickt Abenteurer aus, um die verstreuten Teile seines Zepters zu bergen. Von seinem Fluch befreit, hilft Celebras dabei, Stab und Diamant wieder zu vereinen und die Macht des Zepters zur Reise durch die Höhlen wiederherzustellen."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21807 = "Zorn"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21807 =
+        "Fügt einem Ziel nach 2 Sekunden Zauberzeit Naturschaden zu.\n\nUnterbrecht diesen Zauber."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_12747 = "Wucherwurzeln"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_12747 =
+        "Wurzelt ein Ziel bis zu 10 Sekunden lang fest und fügt ihm alle 3 Sekunden Naturschaden zu.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21968 = "Verderbte Naturgewalten"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21968 =
+        "Beschwört drei verderbte Naturgewalten, die Celebras bis zu 60 Sekunden lang unterstützen.\n\nKontrolliert oder besiegt die beschworenen Kreaturen."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Bastler Gizlock"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
         "Tüftler Gizlock und fünf weitere Edelsteinjäger schlichen sich nach Maraudon, um dort die hochgeschätzten Kristalle abzubauen. Ihr Plan ging furchtbar schief, als Satyrn alle Mitglieder der Gruppe bis auf Gizlock abschlachteten. Der Kobold, gefangen in den Höhlen und an den Rand des Wahnsinns getrieben, sieht sich selbst als neuer Herrscher der unterirdischen Region."

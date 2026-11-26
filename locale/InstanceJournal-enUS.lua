@@ -3304,7 +3304,16 @@ IJ_DB_DUNGEON_MARA_BOSS_12236_ABILITY_EFFECT_16100 =
     "Shoots at a target, dealing Physical damage."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Celebras the Cursed"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
-    "Upon learning of his uncle's tragic fate, the noble Celebras swore to free Zaetar's spirit. Yet the keeper of the grove was not prepared for the horrors that awaited him in Maraudon's shadowy corridors. The dark energies permeating the area quickly overcame Celebras, filling his heart with uncontrollable rage."
+    "Upon learning of his uncle's tragic fate, the noble Celebras swore to free Zaetar's spirit. Yet the keeper of the grove was not prepared for the horrors that awaited him in Maraudon's shadowy corridors. The dark energies permeating the area quickly overcame Celebras, filling his heart with uncontrollable rage.\n\nHis sister Cavindra sends adventurers to recover the scattered pieces of his scepter. Freed from his curse, Celebras helps reunite the rod and diamond, restoring the scepter's power to travel through the caverns."
+IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21807 = "Wrath"
+IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21807 =
+    "Deals Nature damage to a target after a 2-second cast.\n\nInterrupt this spell."
+IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_12747 = "Entangling Roots"
+IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_12747 =
+    "Roots a target for up to 10 seconds, dealing Nature damage every 3 seconds.\n\nRemove this magic effect."
+IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21968 = "Corrupt Forces of Nature"
+IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21968 =
+    "Summons three Corrupt Forces of Nature to aid Celebras for up to 60 seconds.\n\nControl or defeat the summoned creatures."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Tinkerer Gizlock"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
     "Tinkerer Gizlock and five other gem hunters snuck into Maraudon to mine its highly prized crystals. Their plan went horribly wrong when satyrs slaughtered everyone in the party save for Gizlock. The goblin, trapped within the caves and driven to the brink of madness, sees himself as the subterranean region's new ruler."

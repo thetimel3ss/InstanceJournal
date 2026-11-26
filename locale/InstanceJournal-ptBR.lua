@@ -2486,7 +2486,16 @@ if GetLocale() == "ptBR" then
         "Dispara contra um alvo, causando dano Físico."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Celebra o Amaldiçoado"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
-        "Ao saber do trágico destino de seu tio, o nobre Celebras jurou libertar o espírito de Zaetar. Contudo, o guardião do bosque não estava preparado para os horrores que o aguardavam nos corredores sombrios de Maraudon. As energias sombrias que permeavam a área rapidamente superaram Celebras, enchendo seu coração com uma raiva incontrolável."
+        "Ao saber do trágico destino de seu tio, o nobre Celebras jurou libertar o espírito de Zaetar. Contudo, o guardião do bosque não estava preparado para os horrores que o aguardavam nos corredores sombrios de Maraudon. As energias sombrias que permeavam a área rapidamente superaram Celebras, enchendo seu coração com uma raiva incontrolável.\n\nSua irmã Cavindra envia aventureiros para recuperar as partes dispersas de seu cetro. Livre da maldição, Celebras ajuda a reunir o bastão e o diamante, restaurando o poder do cetro de permitir viagens pelas cavernas."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21807 = "Ira"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21807 =
+        "Causa dano de Natureza a um alvo após uma conjuração de 2 segundos.\n\nInterrompa esse feitiço."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_12747 = "Raízes Entrelaçantes"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_12747 =
+        "Enraíza um alvo por até 10 segundos, causando dano de Natureza a cada 3 segundos.\n\nRemova esse efeito mágico."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21968 = "Forças da Natureza Corrompidas"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21968 =
+        "Invoca três Forças da Natureza Corrompidas para ajudar Celebras por até 60 segundos.\n\nControle ou derrote as criaturas invocadas."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Consertador Gizlock"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
         "Tinkerer Gizlock e cinco outros caçadores de gemas invadiram Maraudon para extrair seus cristais altamente valiosos. O plano deles deu terrivelmente errado quando os sátiros massacraram todos no grupo, exceto Gizlock. O goblin, preso nas cavernas e levado à beira da loucura, se vê como o novo governante da região subterrânea."

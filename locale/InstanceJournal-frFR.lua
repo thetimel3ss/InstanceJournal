@@ -2488,7 +2488,16 @@ if GetLocale() == "frFR" then
         "Tire sur une cible et lui inflige des dégâts physiques."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Célébras le Maudit"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
-        "En apprenant le sort tragique de son oncle, le noble Celebras jura de libérer l'esprit de Zaetar. Pourtant, le gardien du bosquet n'était pas préparé aux horreurs qui l'attendaient dans les couloirs sombres de Maraudon. Les énergies sombres imprégnant la zone ont rapidement vaincu Celebras, remplissant son cœur d’une rage incontrôlable."
+        "En apprenant le sort tragique de son oncle, le noble Celebras jura de libérer l'esprit de Zaetar. Pourtant, le gardien du bosquet n'était pas préparé aux horreurs qui l'attendaient dans les couloirs sombres de Maraudon. Les énergies sombres imprégnant la zone ont rapidement vaincu Celebras, remplissant son cœur d’une rage incontrôlable.\n\nSa sœur Cavindra envoie des aventuriers récupérer les morceaux éparpillés de son sceptre. Libéré de sa malédiction, Celebras aide à réunir la baguette et le diamant, rendant au sceptre son pouvoir de voyager à travers les cavernes."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21807 = "Colère"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21807 =
+        "Inflige des dégâts de Nature à une cible après 2 secondes d’incantation.\n\nInterrompez ce sort."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_12747 = "Sarments"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_12747 =
+        "Enracine une cible pendant un maximum de 10 secondes, lui infligeant des dégâts de Nature toutes les 3 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21968 = "Forces de la nature corrompues"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21968 =
+        "Invoque trois Forces de la nature corrompues pour aider Celebras pendant un maximum de 60 secondes.\n\nContrôlez ou éliminez les créatures invoquées."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Le bricoleur Gizlock"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
         "Le bricoleur Gizlock et cinq autres chasseurs de pierres précieuses se sont faufilés dans Maraudon pour extraire ses cristaux très prisés. Leur plan a horriblement mal tourné lorsque les satyres ont massacré tous les membres du groupe à l'exception de Gizlock. Le gobelin, piégé dans les grottes et au bord de la folie, se considère comme le nouveau dirigeant de la région souterraine."

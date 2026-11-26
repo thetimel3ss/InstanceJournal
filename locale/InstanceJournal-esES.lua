@@ -2488,7 +2488,16 @@ if GetLocale() == "esES" then
         "Dispara a un objetivo y le inflige daño físico."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12225 = "Celebra la Maldita"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12225 =
-        "Al enterarse del trágico destino de su tío, el noble Celebras juró liberar el espíritu de Zaetar. Sin embargo, el guardián de la arboleda no estaba preparado para los horrores que le esperaban en los oscuros corredores de Maraudon. Las energías oscuras que impregnaban el área rápidamente vencieron a Celebras, llenando su corazón de ira incontrolable."
+        "Al enterarse del trágico destino de su tío, el noble Celebras juró liberar el espíritu de Zaetar. Sin embargo, el guardián de la arboleda no estaba preparado para los horrores que le esperaban en los oscuros corredores de Maraudon. Las energías oscuras que impregnaban el área rápidamente vencieron a Celebras, llenando su corazón de ira incontrolable.\n\nSu hermana Cavindra envía aventureros a recuperar las piezas dispersas de su cetro. Liberado de su maldición, Celebras ayuda a reunir la vara y el diamante, restaurando el poder del cetro para viajar por las cavernas."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21807 = "Cólera"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21807 =
+        "Inflige daño de Naturaleza a un objetivo tras un lanzamiento de 2 segundos.\n\nInterrumpid este hechizo."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_12747 = "Raíces enredadoras"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_12747 =
+        "Enraíza a un objetivo durante un máximo de 10 segundos, infligiéndole daño de Naturaleza cada 3 segundos.\n\nEliminad este efecto mágico."
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_NAME_21968 = "Fuerzas de la Naturaleza corruptas"
+    IJ_DB_DUNGEON_MARA_BOSS_12225_ABILITY_EFFECT_21968 =
+        "Invoca tres Fuerzas de la Naturaleza corruptas que ayudan a Celebras durante un máximo de 60 segundos.\n\nControlad o derrotad a las criaturas invocadas."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13601 = "Manitas Gizlock"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13601 =
         "Tinkerer Gizlock y otros cinco cazadores de gemas se colaron en Maraudon para extraer sus preciados cristales. Su plan salió terriblemente mal cuando los sátiros masacraron a todos los miembros del grupo excepto a Gizlock. El duende, atrapado dentro de las cuevas y llevado al borde de la locura, se ve a sí mismo como el nuevo gobernante de la región subterránea."
