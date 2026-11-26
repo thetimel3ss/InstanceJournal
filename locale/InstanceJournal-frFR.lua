@@ -940,6 +940,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "Les Dieux très anciens ont appelé, et Gelihast a répondu, se frayant un chemin dans les Profondeurs de Fathom Noire et massacrant près d'une douzaine de cultistes surpris du Marteau du Crépuscule avec ses épées jumelles. Impressionné par sa férocité et sa brutalité, le culte lui permit de rester et il construisit son propre sanctuaire pour offrir des sacrifices et recevoir les bénédictions de la présence inquiétante dans les ruines du temple."
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_NAME_12024 = "Filet"
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_EFFECT_12024 =
+        "Immobilise un ennemi pendant 5 s."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lorgus Jett"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
         "Un membre mystérieux du Twilight's Hammer, censé posséder des capacités chamaniques bien qu'il soit humain. Les rumeurs disent qu'il était membre du Chevalier de la Main d'Argent avant de déserter et de rejoindre le Marteau du Crépuscule."

@@ -942,6 +942,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "Die Alten Götter riefen, und Gelihast antwortete, drang in die Blackfathom Deeps ein und schlachtete mit seinen Zwillingsschwertern fast ein Dutzend überraschter Twilight's Hammer-Kultisten ab. Beeindruckt von seiner Wildheit und Brutalität erlaubte ihm der Kult zu bleiben und er baute seinen eigenen Schrein, um Opfer darzubringen und Segen von der unheilvollen Präsenz in den Tempelruinen zu empfangen."
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_NAME_12024 = "Netz"
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_EFFECT_12024 =
+        "Macht einen Gegner 5 Sek. lang bewegungsunfähig."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lorgus Jett"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
         "Ein mysteriöses Mitglied des Zwielichthammers, dem nachgesagt wird, dass er über schamanische Fähigkeiten verfügt, obwohl er ein Mensch ist. Gerüchten zufolge war er Mitglied des Ritters der Silbernen Hand, bevor er desertierte und sich dem Twilight's Hammer anschloss."

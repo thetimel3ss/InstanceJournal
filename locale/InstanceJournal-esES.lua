@@ -940,6 +940,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "Los Dioses Antiguos llamaron, y Gelihast respondió, abriéndose camino hacia las Abismos de Brazanegra y masacrando a casi una docena de sorprendidos cultistas del Martillo Crepuscular con sus espadas gemelas. Impresionado por su ferocidad y brutalidad, el culto le permitió quedarse y construyó su propio santuario para ofrecer sacrificios y recibir bendiciones de la siniestra presencia en las ruinas del templo."
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_NAME_12024 = "Red"
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_EFFECT_12024 =
+        "Inmoviliza a un enemigo durante 5 s."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lorgus Jett"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
         "Un miembro misterioso del Martillo Crepuscular, del que se dice que posee habilidades chamánicas a pesar de ser humano. Los rumores dicen que fue miembro del Caballero de la Mano de Plata antes de desertar y unirse al Martillo Crepuscular."

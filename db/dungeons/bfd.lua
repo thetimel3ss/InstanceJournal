@@ -94,7 +94,7 @@ BFD.Bosses = {
             [3] = {IJDB.I[11121], DropChance = 33}
         }
     },
-    [3] = { -- NOTE: Only auto attacks observed in reviewed logs; no abilities listed in the database
+    [3] = {
         Id = "6243",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "gelihast" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "gelihast" .. IMPF,
@@ -102,6 +102,14 @@ BFD.Bosses = {
         Story = IJ_DB_DUNGEON_BFD_BOSS_STORY_6243,
         MapCoordinateX = 38.0,
         MapCoordinateY = 38.2,
+        Abilities = {
+            [1] = {
+                Id = "12024",
+                Icon = "Ability_Ensnare",
+                Name = IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_NAME_12024,
+                Effect = IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_EFFECT_12024
+            }
+        },
         Loot = {
             [1] = {IJDB.I[1470], DropChance = 15}, 
             [2] = {IJDB.I[80720], DropChance = 35}, 

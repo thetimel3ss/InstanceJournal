@@ -1303,6 +1303,9 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "格里哈斯特"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "上古之神呼唤，吉利哈斯特回应，强行闯入黑暗深渊，用他的双剑屠杀了近十几名令暮光之锤信徒大吃一惊的人。邪教对他的凶残和残暴印象深刻，允许他留下来，并建造了自己的神殿来祭祀并接受寺庙废墟中不祥之物的祝福。"
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_NAME_12024 = "投网"
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_EFFECT_12024 =
+        "使一名敌人无法移动，持续5秒。"
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "洛古斯·杰特"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 = "暮光之锤的神秘成员，据说虽然是人类却拥有萨满能力。有传言说他在加入暮光之锤之前曾是白银之手骑士的成员。"
     IJ_DB_DUNGEON_BFD_BOSS_12902_ABILITY_NAME_12167 = "闪电箭"

@@ -6,6 +6,7 @@ All changes to this project will be documented in this file.
 
 ### Added
 
+- Added `Net` to `Gelihast` in `Blackfathom Deeps`
 - Added missing abilities to the bosses in `Scarlet Monastery`
 - Added missing abilities to the bosses in `Wailing Caverns`, `Shadowfang Keep`, and `Blackfathom Deeps`
 

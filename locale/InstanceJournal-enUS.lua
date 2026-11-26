@@ -1207,6 +1207,9 @@ IJ_DB_DUNGEON_BFD_BOSS_4831_ABILITY_EFFECT_6660 =
 IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
     "The Old Gods called, and Gelihast answered, forcing his way into Blackfathom Deeps and slaughtering nearly a dozen surprised Twilight's Hammer cultists with his twin swords. Impressed by his ferocity and brutality, the cult allowed him to stay, and he built his own shrine to offer sacrifices and receive blessings from the ominous presence in the temple ruins."
+IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_NAME_12024 = "Net"
+IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_EFFECT_12024 =
+    "Immobilizes an enemy for 5 sec."
 IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lorgus Jett"
 IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
     "A mysterious member of the Twilight's Hammer, said to possess shamanic abilities depsite being a human. Rumors says he was a member of the Knight of the Silver Hand before deserting and joining the Twilight's Hammer."

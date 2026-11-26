@@ -938,6 +938,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BFD_BOSS_NAME_6243 = "Gelihast"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_6243 =
         "Os Deuses Antigos chamaram e Gelihast respondeu, forçando sua entrada nas Profundezas Negras e massacrando quase uma dúzia de cultistas surpresos do Martelo do Crepúsculo com suas espadas gêmeas. Impressionado com sua ferocidade e brutalidade, o culto permitiu que ele ficasse, e ele construiu seu próprio santuário para oferecer sacrifícios e receber bênçãos da presença sinistra nas ruínas do templo."
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_NAME_12024 = "Rede"
+    IJ_DB_DUNGEON_BFD_BOSS_6243_ABILITY_EFFECT_12024 =
+        "Imobiliza um inimigo por 5 s."
     IJ_DB_DUNGEON_BFD_BOSS_NAME_12902 = "Lordus Jett"
     IJ_DB_DUNGEON_BFD_BOSS_STORY_12902 =
         "Um membro misterioso do Martelo do Crepúsculo, que diz possuir habilidades xamânicas apesar de ser humano. Rumores dizem que ele era membro do Cavaleiro da Mão de Prata antes de desertar e se juntar ao Martelo do Crepúsculo."
