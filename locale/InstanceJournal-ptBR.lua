@@ -941,7 +941,13 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
         "O Diabrete protege um aliado com um escudo que causa dano de Fogo aos inimigos em um raio de 5 metros a cada 3 segundos por 60 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Loro é um dos seis guardiões Atal'ai nas sacadas cuja magia conjunta protege Jammal'an, o Profeta. Loro luta com um escudo e fortalece suas defesas contra intrusos."
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_3639 = "Bloqueio Aprimorado"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_3639 =
+        "Aumenta a chance de bloqueio em 85% por 6 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_8242 = "Golpe de Escudo"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_8242 =
+        "Causa dano Físico a um alvo e o atordoa por 2 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an, o Profeta"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
         "Jammal'an é o atual líder dos Atal'ai, a seita extremista de sacerdotes que adoram Hakkar fanaticamente. Enquanto estava em meditação profunda, Jammal'an recebeu instruções sobre como ressuscitar Hakkar usando o sangue de seus inimigos dracônicos, a revoada dragônica verde. Jammal'an e seu guarda-costas morto-vivo Ogom, o Miserável, estão prontos para se opor a qualquer um que impeça o retorno de Hakkar, embora as ações do profeta possam desencadear em Azeroth uma força ainda mais terrível: o Pesadelo Esmeralda."

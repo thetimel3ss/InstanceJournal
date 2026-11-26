@@ -943,7 +943,13 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
         "Le diablotin protège un allié avec un bouclier qui inflige des dégâts de Feu aux ennemis à moins de 5 mètres toutes les 3 secondes pendant 60 secondes."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "L'un des six trolls protecteurs, gardant le rêveur endormi..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Loro est l'un des six gardiens atal'ai des balcons dont la magie combinée protège Jammal'an le Prophète. Loro combat avec un bouclier et renforce ses défenses contre les intrus."
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_3639 = "Blocage amélioré"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_3639 =
+        "Augmente les chances de blocage de 85% pendant 6 secondes."
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_8242 = "Coup de bouclier"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_8242 =
+        "Inflige des dégâts physiques à une cible et l’étourdit pendant 2 secondes."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an le Prophète"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
         "Jammal'an est l'actuel chef des Atal'ai, la secte extrémiste de prêtres qui vénèrent fanatiquement le Hakkar. Alors qu'il était en profonde méditation, Jammal'an reçut des instructions sur la façon de ressusciter Hakkar en utilisant le sang de ses ennemis draconiques, le Vol draconique vert. Jammal'an et son garde du corps mort-vivant Ogom le Misérable se tiennent prêts à s'opposer à quiconque voudrait empêcher le retour d'Hakkar, même si les actions du prophète pourraient déclencher sur Azeroth une force encore plus terrible : le Cauchemar d'Émeraude."

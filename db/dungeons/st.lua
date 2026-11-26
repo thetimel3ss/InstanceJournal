@@ -289,7 +289,7 @@ ST.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "5714",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "loro" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "loro" .. IMPF,
@@ -297,6 +297,20 @@ ST.Bosses = {
         Story = IJ_DB_DUNGEON_ST_BOSS_STORY_5714,
         MapCoordinateX = 45.0,
         MapCoordinateY = 32.2,
+        Abilities = {
+            [1] = {
+                Id = "3639",
+                Icon = "Spell_Fire_FireArmor",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_3639,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_3639
+            },
+            [2] = {
+                Id = "8242",
+                Icon = "Ability_Warrior_ShieldBash",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_8242,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_8242
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10783], DropChance = 7},
             [2] = {IJDB.I[10784], DropChance = 7},

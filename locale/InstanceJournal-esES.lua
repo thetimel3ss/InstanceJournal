@@ -943,7 +943,13 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
         "El diablillo protege a un aliado con un escudo que inflige daño de Fuego a los enemigos en un radio de 5 metros cada 3 segundos durante 60 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "loro"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Uno de los seis trolls protectores, manteniendo dormido al soñador..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "loro es uno de los seis guardianes Atal'ai de los balcones cuya magia conjunta protege a Jammal'an el Profeta. loro lucha con un escudo y refuerza sus defensas contra los intrusos."
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_3639 = "Bloqueo mejorado"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_3639 =
+        "Aumenta la probabilidad de bloqueo un 85% durante 6 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_8242 = "Golpe de escudo"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_8242 =
+        "Inflige daño físico a un objetivo y lo aturde durante 2 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an el Profeta"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
         "Jammal'an es el actual líder de los Atal'ai, la secta extremista de sacerdotes que adoran fanáticamente a Hakkar. Mientras estaba en profunda meditación, Jammal'an recibió instrucciones sobre cómo resucitar a Hakkar usando la sangre de sus enemigos dracónicos, el Vuelo Verde. Jammal'an y su guardaespaldas no-muerto Ogom el Desdichado están listos para oponerse a cualquiera que impida el regreso de Hakkar, aunque las acciones del profeta pueden desatar sobre Azeroth una fuerza aún más terrible: la Pesadilla Esmeralda."

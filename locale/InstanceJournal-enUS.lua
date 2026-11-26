@@ -1168,7 +1168,13 @@ IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_NAME_134 = "Fire Shield"
 IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
     "The imp shields an ally, dealing Fire damage to enemies within 5 yards every 3 seconds for 60 seconds."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "One of the six trolls protectors, keeping the dreamer asleep..."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Loro is one of six Atal'ai balcony guardians whose combined magic shields Jammal'an the Prophet. Loro fights with a shield and strengthens his defenses against intruders."
+IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_3639 = "Improved Blocking"
+IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_3639 =
+    "Increases block chance by 85% for 6 seconds."
+IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_8242 = "Shield Slam"
+IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_8242 =
+    "Deals Physical damage to a target and stuns it for 2 seconds."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an the Prophet"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
     "Jammal'an is the current leader of the Atal'ai, the extremist sect of priests who fanatically worship Hakkar. While in deep meditation, Jammal'an received instructions on how to resurrect Hakkar by using the blood of his draconic foes, the green dragonflight. Jammal'an and his undead bodyguard Ogom the Wretched stand ready to oppose any who would prevent Hakkar's return, though the prophet's actions may unleash upon Azeroth an even more terrible force: the Emerald Nightmare."

@@ -1264,7 +1264,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
         "小鬼为一名盟友施加护盾，每3秒对其周围5码内的敌人造成火焰伤害，持续60秒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "洛若尔"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "六名巨魔保护者之一，让做梦者保持睡眠......"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "洛若尔是六名阿塔莱露台守卫之一，他们合力维持魔法屏障，保护预言者迦玛兰。洛若尔持盾作战，强化自身防御以抵御入侵者。"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_3639 = "强化格挡"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_3639 =
+        "使格挡几率提高85%，持续6秒。"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_8242 = "盾牌猛击"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_8242 =
+        "对一个目标造成物理伤害，并使其昏迷2秒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "预言者迦玛兰"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
         "贾玛兰是阿塔莱派的现任领袖，阿塔莱派是一个由狂热崇拜哈卡的祭司组成的极端教派。在深度冥想中，迦玛兰收到了如何使用他的龙族敌人绿龙军团的鲜血复活哈卡的指示。迦玛兰和他的亡灵保镖悲惨者奥戈姆随时准备对抗任何阻止哈卡回归的人，尽管先知的行为可能会向艾泽拉斯释放出更可怕的力量：翡翠梦魇。"

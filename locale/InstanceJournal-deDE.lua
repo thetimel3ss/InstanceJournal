@@ -945,7 +945,13 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_5715_ABILITY_EFFECT_134 =
         "Der Wichtel schützt einen Verbündeten mit einem Schild, der Gegnern innerhalb von 5 Metern 60 Sekunden lang alle 3 Sekunden Feuerschaden zufügt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5714 = "Loro ist einer von sechs Wächtern der Atal'ai auf den Balkonen, deren vereinte Magie Jammal'an den Propheten schützt. Loro kämpft mit einem Schild und verstärkt seine Verteidigung gegen Eindringlinge."
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_3639 = "Verbessertes Blocken"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_3639 =
+        "Erhöht die Blockchance 6 Sekunden lang um 85%."
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_NAME_8242 = "Schildschlag"
+    IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_8242 =
+        "Fügt einem Ziel körperlichen Schaden zu und betäubt es 2 Sekunden lang."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an der Prophet"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
         "Jammal'an ist der derzeitige Anführer der Atal'ai, der extremistischen Sekte von Priestern, die Hakkar fanatisch verehren. Während er tief meditierte, erhielt Jammal'an Anweisungen, wie er Hakkar mithilfe des Blutes seiner drakonischen Feinde, des grünen Drachenschwarms, wiederbeleben kann. Jammal'an und sein untoter Leibwächter Ogom der Elende sind bereit, sich jedem entgegenzustellen, der Hakkars Rückkehr verhindern möchte, obwohl die Taten des Propheten möglicherweise eine noch schrecklichere Macht auf Azeroth entfesseln: den Smaragdgrünen Albtraum."
