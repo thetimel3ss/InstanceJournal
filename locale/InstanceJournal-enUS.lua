@@ -1239,7 +1239,13 @@ IJ_DB_DUNGEON_ST_BOSS_5722_ABILITY_EFFECT_12882 =
     "Knocks back enemies in a frontal cone.\n\nStay behind the dragon unless you are tanking it."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Shade of Eranikus"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
-    "Eranikus, former consort to Ysera the Dreamer, was sent to guard the ruins of Atal'Hakkar and prevent Hakkar's emergence. Once within the temple, he and his retinue were corrupted by its dark forces, and he became a shade, pulled between the realms of the Emerald Dream and the physical plane. Despite his corruption, Eranikus may still call upon his powers as a green dragon to spew corrosive acid at his enemies or trap them in a deep slumber."
+    "Eranikus, former consort to Ysera the Dreamer, was sent to guard the ruins of Atal'Hakkar and prevent Hakkar's emergence. Once within the temple, he and his retinue were corrupted by its dark forces, and he became a shade, pulled between the realms of the Emerald Dream and the physical plane. Despite his corruption, Eranikus may still call upon his powers as a green dragon to spew corrosive acid at his enemies or trap them in a deep slumber.\n\nEven the essence font in his lair has been tainted. When a fragment of his spirit is placed within it in the hope of purification, the corrupted magic instead tears at his essence and deepens his torment."
+IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_11876 = "War Stomp"
+IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_11876 =
+    "Deals Physical damage to enemies within 5 yards and stuns them for 5 seconds."
+IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_12890 = "Deep Slumber"
+IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_12890 =
+    "Puts a player to sleep for up to 15 seconds, preventing them from acting and making them immune to damage."
 IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_NAME_avatarsummoning = "Summoning"
 IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_EFFECT_avatarsummoning =
     "Use the Egg of Hakkar in the Sanctum of the Fallen God to begin the ritual. Defeat the Hakkari Bloodkeepers, collect their Hakkari Blood, and use it to extinguish all four eternal flames to summon the Avatar of Hakkar."

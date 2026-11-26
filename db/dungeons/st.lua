@@ -546,7 +546,7 @@ ST.Bosses = {
             [10] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [14] = { -- NOTE: Missing abilities
+    [14] = {
         Id = "5709",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "eranikus" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "eranikus" .. IMPF,
@@ -554,6 +554,20 @@ ST.Bosses = {
         Story = IJ_DB_DUNGEON_ST_BOSS_STORY_5709,
         MapCoordinateX = 66.5,
         MapCoordinateY = 87.7,
+        Abilities = {
+            [1] = {
+                Id = "11876",
+                Icon = "Ability_BullRush",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_11876,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_11876
+            },
+            [2] = {
+                Id = "12890",
+                Icon = "Spell_Shadow_Cripple",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_12890,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_12890
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10454], DropChance = 100},
             [2] = {IJDB.I[10828], DropChance = 17},

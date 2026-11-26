@@ -1016,7 +1016,13 @@ if GetLocale() == "deDE" then
         "Stößt Gegner in einem kegelförmigen Bereich vor dem Drachen zurück.\n\nBleibt hinter dem Drachen, sofern ihr ihn nicht tankt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Schatten von Eranikus"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
-        "Eranikus, ehemaliger Gemahl von Ysera der Träumerin, wurde geschickt, um die Ruinen von Atal'Hakkar zu bewachen und Hakkars Auftauchen zu verhindern. Sobald er sich im Tempel befand, wurden er und sein Gefolge von seinen dunklen Mächten verdorben und er wurde zu einem Schatten, der zwischen den Bereichen des Smaragdgrünen Traums und der physischen Ebene hin- und hergerissen wurde. Trotz seiner Verderbtheit kann Eranikus immer noch auf seine Kräfte als grüner Drache zurückgreifen, um ätzende Säure auf seine Feinde zu spucken oder sie in einen tiefen Schlaf zu versetzen."
+        "Eranikus, ehemaliger Gemahl von Ysera der Träumerin, wurde geschickt, um die Ruinen von Atal'Hakkar zu bewachen und Hakkars Auftauchen zu verhindern. Sobald er sich im Tempel befand, wurden er und sein Gefolge von seinen dunklen Mächten verdorben und er wurde zu einem Schatten, der zwischen den Bereichen des Smaragdgrünen Traums und der physischen Ebene hin- und hergerissen wurde. Trotz seiner Verderbtheit kann Eranikus immer noch auf seine Kräfte als grüner Drache zurückgreifen, um ätzende Säure auf seine Feinde zu spucken oder sie in einen tiefen Schlaf zu versetzen.\n\nSelbst der Essenzborn in seinem Unterschlupf ist verderbt. Wird ein Fragment seines Geistes in der Hoffnung auf Läuterung hineingelegt, zerreißt die verderbte Magie stattdessen seine Essenz und vertieft seine Qualen."
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_11876 = "Kriegsdonner"
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_11876 =
+        "Fügt Gegnern im Umkreis von 5 Metern körperlichen Schaden zu und betäubt sie 5 Sekunden lang."
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_12890 = "Tiefer Schlummer"
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_12890 =
+        "Versetzt einen Spieler bis zu 15 Sekunden lang in Schlaf, sodass er nicht handeln kann und gegen Schaden immun ist."
     IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_NAME_avatarsummoning = "Beschwörung"
     IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_EFFECT_avatarsummoning =
         "Benutzt das Ei von Hakkar im Sanktum des gefallenen Gottes, um das Ritual zu beginnen. Besiegt die Blutbewahrer der Hakkari, sammelt ihr Hakkariblut und löscht damit alle vier ewigen Flammen, um den Avatar von Hakkar zu beschwören."

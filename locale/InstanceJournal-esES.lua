@@ -1014,7 +1014,13 @@ if GetLocale() == "esES" then
         "Repele a los enemigos en un cono frontal.\n\nQuedaos detrás del dragón salvo que lo estéis tanqueando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Sombra de Eranikus"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
-        "Eranikus, ex consorte de Ysera la Soñadora, fue enviado a proteger las ruinas de Atal'Hakkar y evitar la aparición de Hakkar. Una vez dentro del templo, él y su séquito fueron corrompidos por las fuerzas oscuras y se convirtió en una sombra, arrastrada entre los reinos del Sueño Esmeralda y el plano físico. A pesar de su corrupción, Eranikus aún puede recurrir a sus poderes de dragón verde para arrojar ácido corrosivo a sus enemigos o atraparlos en un sueño profundo."
+        "Eranikus, ex consorte de Ysera la Soñadora, fue enviado a proteger las ruinas de Atal'Hakkar y evitar la aparición de Hakkar. Una vez dentro del templo, él y su séquito fueron corrompidos por las fuerzas oscuras y se convirtió en una sombra, arrastrada entre los reinos del Sueño Esmeralda y el plano físico. A pesar de su corrupción, Eranikus aún puede recurrir a sus poderes de dragón verde para arrojar ácido corrosivo a sus enemigos o atraparlos en un sueño profundo.\n\nIncluso la fuente de esencia de su guarida ha sido corrompida. Cuando un fragmento de su espíritu se coloca en ella con la esperanza de purificarlo, la magia corrupta desgarra su esencia y agrava su tormento."
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_11876 = "Pisotón de guerra"
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_11876 =
+        "Inflige daño Físico a los enemigos en un radio de 5 metros y los aturde durante 5 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_12890 = "Sueño profundo"
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_12890 =
+        "Duerme a un jugador durante un máximo de 15 segundos, impidiéndole actuar y haciéndolo inmune al daño."
     IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_NAME_avatarsummoning = "Invocación"
     IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_EFFECT_avatarsummoning =
         "Usad el Huevo de Hakkar en el Sagrario del Dios Caído para iniciar el ritual. Derrotad a los Guardianes de sangre Hakkari, recoged su Sangre Hakkari y usadla para apagar las cuatro llamas eternas e invocar al Avatar de Hakkar."

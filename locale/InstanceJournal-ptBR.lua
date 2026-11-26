@@ -1012,7 +1012,13 @@ if GetLocale() == "ptBR" then
         "Repele os inimigos em um cone frontal.\n\nFique atrás do dragão, a menos que esteja tankando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Sombra de Eranikus"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
-        "Eranikus, ex-consorte de Ysera, a Sonhadora, foi enviado para proteger as ruínas de Atal'Hakkar e impedir o surgimento de Hakkar. Uma vez dentro do templo, ele e sua comitiva foram corrompidos pelas forças das trevas, e ele se tornou uma sombra, puxado entre os reinos do Sonho Esmeralda e o plano físico. Apesar de sua corrupção, Eranikus ainda pode invocar seus poderes como dragão verde para vomitar ácido corrosivo em seus inimigos ou prendê-los em um sono profundo."
+        "Eranikus, ex-consorte de Ysera, a Sonhadora, foi enviado para proteger as ruínas de Atal'Hakkar e impedir o surgimento de Hakkar. Uma vez dentro do templo, ele e sua comitiva foram corrompidos pelas forças das trevas, e ele se tornou uma sombra, puxado entre os reinos do Sonho Esmeralda e o plano físico. Apesar de sua corrupção, Eranikus ainda pode invocar seus poderes como dragão verde para vomitar ácido corrosivo em seus inimigos ou prendê-los em um sono profundo.\n\nAté a fonte de essência em seu covil foi maculada. Quando um fragmento de seu espírito é colocado nela na esperança de purificação, a magia corrompida acaba dilacerando sua essência e aprofundando seu tormento."
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_11876 = "Pisada de Guerra"
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_11876 =
+        "Causa dano Físico aos inimigos em até 5 metros e os atordoa por 5 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_12890 = "Sono Profundo"
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_12890 =
+        "Faz um jogador dormir por até 15 segundos, impedindo-o de agir e tornando-o imune a dano."
     IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_NAME_avatarsummoning = "Invocação"
     IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_EFFECT_avatarsummoning =
         "Use o Ovo de Hakkar no Santuário do Deus Caído para iniciar o ritual. Derrote os Guardiões Sangrentos Hakkari, recolha o Sangue Hakkari e use-o para apagar as quatro chamas eternas e invocar o Avatar de Hakkar."

@@ -1014,7 +1014,13 @@ if GetLocale() == "frFR" then
         "Repousse les ennemis dans un cône frontal.\n\nRestez derrière le dragon, sauf si vous le tankez."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Ombre d'Eranikus"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5709 =
-        "Eranikus, ancienne épouse d'Ysera la Rêveuse, fut envoyée pour garder les ruines d'Atal'Hakkar et empêcher l'émergence de Hakkar. Une fois à l'intérieur du temple, lui et sa suite furent corrompus par ses forces obscures, et il devint une ombre, tiré entre les royaumes du Rêve d'Émeraude et le plan physique. Malgré sa corruption, Eranikus peut toujours faire appel à ses pouvoirs de dragon vert pour cracher de l'acide corrosif sur ses ennemis ou les piéger dans un profond sommeil."
+        "Eranikus, ancienne épouse d'Ysera la Rêveuse, fut envoyée pour garder les ruines d'Atal'Hakkar et empêcher l'émergence de Hakkar. Une fois à l'intérieur du temple, lui et sa suite furent corrompus par ses forces obscures, et il devint une ombre, tiré entre les royaumes du Rêve d'Émeraude et le plan physique. Malgré sa corruption, Eranikus peut toujours faire appel à ses pouvoirs de dragon vert pour cracher de l'acide corrosif sur ses ennemis ou les piéger dans un profond sommeil.\n\nMême le réceptacle d'essence de son antre a été souillé. Lorsqu'un fragment de son esprit y est déposé dans l'espoir de le purifier, la magie corrompue déchire son essence et aggrave son tourment."
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_11876 = "Choc martial"
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_11876 =
+        "Inflige des dégâts physiques aux ennemis dans un rayon de 5 mètres et les étourdit pendant 5 secondes."
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_NAME_12890 = "Sommeil profond"
+    IJ_DB_DUNGEON_ST_BOSS_5709_ABILITY_EFFECT_12890 =
+        "Endort un joueur pendant un maximum de 15 secondes, l’empêchant d’agir et le rendant insensible aux dégâts."
     IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_NAME_avatarsummoning = "Invocation"
     IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_EFFECT_avatarsummoning =
         "Utilisez l’Œuf d’Hakkar dans le sanctuaire du Dieu déchu pour commencer le rituel. Vainquez les Gardiens du sang hakkari, récupérez leur Sang hakkari et utilisez-le pour éteindre les quatre flammes éternelles et invoquer l’Avatar d’Hakkar."
