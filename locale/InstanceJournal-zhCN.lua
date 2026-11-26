@@ -1310,7 +1310,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12882 =
         "击退正面锥形区域内的敌人。\n\n除坦克外，其他玩家应站在巨龙身后。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "德拉维沃尔"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "梦想家伊兰尼库斯直接麾下的四龙之一。他们监视着他，防止任何潜在的入侵者把他从睡梦中吵醒。"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "德拉维沃尔是伊兰尼库斯麾下被腐化的绿龙之一。从这位堕落守卫身上取得的沉睡者碎片，能够向梦境的守卫隐藏旅人的踪迹，因此对寻求进入那个领域的人十分珍贵。"
+    IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12884 = "酸性吐息"
+    IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12884 =
+        "对正面锥形区域内的敌人造成自然伤害，随后每5秒造成额外自然伤害，持续45秒。\n\n使巨龙背对队伍。"
+    IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12882 = "拍翼"
+    IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
+        "击退正面锥形区域内的敌人。\n\n除坦克外，其他玩家应站在巨龙身后。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "摩弗拉斯"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "梦想家伊兰尼库斯直接麾下的四龙之一。他们监视着他，防止任何潜在的入侵者把他从睡梦中吵醒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "哈扎斯"

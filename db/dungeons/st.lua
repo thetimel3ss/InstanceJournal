@@ -441,7 +441,7 @@ ST.Bosses = {
             [10] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [11] = { -- NOTE: Missing abilities
+    [11] = {
         Id = "5720",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "weaver" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "weaver" .. IMPF,
@@ -449,6 +449,20 @@ ST.Bosses = {
         Story = IJ_DB_DUNGEON_ST_BOSS_STORY_5720,
         MapCoordinateX = 56.0,
         MapCoordinateY = 51.4,
+        Abilities = {
+            [1] = {
+                Id = "12884",
+                Icon = "Spell_Nature_Acid_01",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12884,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12884
+            },
+            [2] = {
+                Id = "12882",
+                Icon = "Spell_Nature_EarthBind",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12882,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10795], DropChance = 5},
             [2] = {IJDB.I[10796], DropChance = 5},

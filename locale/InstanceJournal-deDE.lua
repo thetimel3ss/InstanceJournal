@@ -991,7 +991,13 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12882 =
         "Stößt Gegner in einem kegelförmigen Bereich vor dem Drachen zurück.\n\nBleibt hinter dem Drachen, sofern ihr ihn nicht tankt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Weber"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "Einer der vier Drachen unter dem direkten Kommando von Eranikus, dem Träumer. Sie wachen über ihn und verhindern, dass ein potenzieller Eindringling ihn aus seinem Schlaf weckt."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "Weber ist einer von Eranikus' verderbten grünen Drachen. Ein Schlummernder Splitter dieses gefallenen Verteidigers kann die Anwesenheit eines Reisenden vor den Wächtern des Traums verbergen und ist daher für jene wertvoll, die Zugang zu diesem Reich suchen."
+    IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12884 = "Säureatem"
+    IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12884 =
+        "Verursacht Naturschaden in einem kegelförmigen Bereich vor dem Drachen und anschließend 45 Sekunden lang alle 5 Sekunden zusätzlichen Naturschaden.\n\nHaltet den Drachen von der Gruppe abgewandt."
+    IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12882 = "Flügelschlag"
+    IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
+        "Stößt Gegner in einem kegelförmigen Bereich vor dem Drachen zurück.\n\nBleibt hinter dem Drachen, sofern ihr ihn nicht tankt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morphaz"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Einer der vier Drachen unter dem direkten Kommando von Eranikus, dem Träumer. Sie wachen über ihn und verhindern, dass ein potenzieller Eindringling ihn aus seinem Schlaf weckt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "Hazzas"

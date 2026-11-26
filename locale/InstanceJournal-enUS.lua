@@ -1214,7 +1214,13 @@ IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_NAME_12882 = "Wing Flap"
 IJ_DB_DUNGEON_ST_BOSS_5721_ABILITY_EFFECT_12882 =
     "Knocks back enemies in a frontal cone.\n\nStay behind the dragon unless you are tanking it."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Weaver"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "One of the four drake under the direct command of Eranikus, the Dreamer. They are watching over him and prevent any potential intruder from waking him from his slumber."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5720 = "Weaver is one of Eranikus's corrupted green drakes. A Slumberer's Shard taken from this fallen defender can conceal a traveler's presence from the guardians of the Dream, making it valuable to those seeking passage into that realm."
+IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12884 = "Acid Breath"
+IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12884 =
+    "Deals Nature damage to enemies in a frontal cone, followed by additional Nature damage every 5 seconds for 45 seconds.\n\nKeep the dragon facing away from the group."
+IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12882 = "Wing Flap"
+IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
+    "Knocks back enemies in a frontal cone.\n\nStay behind the dragon unless you are tanking it."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morphaz"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "One of the four drake under the direct command of Eranikus, the Dreamer. They are watching over him and prevent any potential intruder from waking him from his slumber."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "Hazzas"
