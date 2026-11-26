@@ -6,6 +6,7 @@ All changes to this project will be documented in this file.
 
 ### Added
 
+- Added missing abilities to the bosses in `Maraudon`
 - Added missing abilities to the bosses in `The Temple of Atal'Hakkar`
 - Added `Net` to `Gelihast` in `Blackfathom Deeps`
 - Added missing abilities to the bosses in `Scarlet Monastery`
@@ -13,6 +14,7 @@ All changes to this project will be documented in this file.
 
 ### Changed
 
+- Expanded selected boss lore in `Maraudon`
 - Expanded boss lore in `The Temple of Atal'Hakkar`
 - Added Fear Ward prevention guidance for `Antnormi` in `Black Morass`
 - Updated boss abilities and expanded boss lore in `Windhorn Canyon`

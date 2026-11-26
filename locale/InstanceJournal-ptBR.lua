@@ -2444,7 +2444,16 @@ if GetLocale() == "ptBR" then
     -- MARA Bosses
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13282 = "Noxxion"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13282 =
-        "Noxxion é uma personificação viva da corrupção. Theradras ordenou que seu aliado Lord Vyletongue criasse este elemental pútrido para ser um servo poderoso e um animal de estimação leal para aliviar a solidão da princesa. Noxxion espalha sua essência tóxica em áreas de Maraudon que ainda não murcharam sob a influência maligna de Theradras."
+        "Noxxion é uma personificação viva da corrupção. Theradras ordenou que seu aliado Lord Vyletongue criasse este elemental pútrido para ser um servo poderoso e um animal de estimação leal para aliviar a solidão da princesa. Noxxion espalha sua essência tóxica em áreas de Maraudon que ainda não murcharam sob a influência maligna de Theradras.\n\nJunto com Lorde Vyletongue, Noxxion roubou as duas partes do cetro de Celebras."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21687 = "Salva Tóxica"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21687 =
+        "Causa dano de Natureza aos inimigos próximos e aplica um veneno que causa dano de Natureza adicional a cada 3 segundos por 15 segundos.\n\nRemova o veneno."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_22916 = "Uppercut"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_22916 =
+        "Causa dano Físico a um alvo e o repele."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21707 = "Invocar Crias de Noxxion"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21707 =
+        "Invoca cinco Crias de Noxxion durante a luta.\n\nLide com os elementais menores antes de voltar a atacar Noxxion."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Navalha"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "Razorlash foi feito para acompanhar Noxxion através de Maraudon. Com o tempo, esta nova criação tornou-se um dos servos mais queridos da princesa. Razorlash vagueia constantemente pelas cavernas ao lado de Noxxion, usando gavinhas espinhosas para destruir qualquer planta imaculada que encontrar."

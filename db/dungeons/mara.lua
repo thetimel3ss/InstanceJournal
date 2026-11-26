@@ -36,7 +36,7 @@ MARA.Entrances = {
     }
 }
 MARA.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "13282",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "noxxion" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "noxxion" .. IMPF,
@@ -44,6 +44,27 @@ MARA.Bosses = {
         Story = IJ_DB_DUNGEON_MARA_BOSS_STORY_13282,
         MapCoordinateX = 32.3,
         MapCoordinateY = 4.7,
+        Abilities = {
+            [1] = {
+                Id = "21687",
+                Icon = "Spell_Nature_CorrosiveBreath",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21687,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21687,
+                Flags = {IMAF.Poison}
+            },
+            [2] = {
+                Id = "22916",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_22916,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_22916
+            },
+            [3] = {
+                Id = "21707",
+                Icon = "Spell_Nature_AbolishMagic",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21707,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21707
+            }
+        },
         Loot = {
             [1] = {IJDB.I[17746], DropChance = 33}, 
             [2] = {IJDB.I[17745], DropChance = 33}, 

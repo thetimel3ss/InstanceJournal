@@ -3262,7 +3262,16 @@ IJ_DB_DUNGEON_MARA_STORY =
 -- MARA Bosses
 IJ_DB_DUNGEON_MARA_BOSS_NAME_13282 = "Noxxion"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_13282 =
-    "Noxxion is a living embodiment of corruption. Theradras ordered her ally Lord Vyletongue to create this putrid elemental to be a powerful servant and a loyal pet to ease the princess's loneliness. Noxxion spreads its toxic essence into areas of Maraudon that have not yet withered under Theradras's malign influence."
+    "Noxxion is a living embodiment of corruption. Theradras ordered her ally Lord Vyletongue to create this putrid elemental to be a powerful servant and a loyal pet to ease the princess's loneliness. Noxxion spreads its toxic essence into areas of Maraudon that have not yet withered under Theradras's malign influence.\n\nTogether with Lord Vyletongue, Noxxion stole the two halves of Celebras's scepter."
+IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21687 = "Toxic Volley"
+IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21687 =
+    "Deals Nature damage to nearby enemies and applies a poison that deals additional Nature damage every 3 seconds for 15 seconds.\n\nRemove the poison."
+IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_22916 = "Uppercut"
+IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_22916 =
+    "Deals Physical damage to a target and knocks it back."
+IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21707 = "Summon Noxxion's Spawns"
+IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21707 =
+    "Summons five Noxxion Spawns during the fight.\n\nDeal with the smaller elementals before resuming attacks on Noxxion."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Razorlash"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
     "Razorlash was made to accompany Noxxion through Maraudon. In time, this new creation became one of the princess's most cherished servants. Razorlash constantly wanders the caves alongside Noxxion, using thorny tendrils to shred any untainted plant life it can find."

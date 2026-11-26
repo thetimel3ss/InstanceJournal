@@ -2446,7 +2446,16 @@ if GetLocale() == "esES" then
     -- MARA Bosses
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13282 = "Noxxión"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13282 =
-        "Noxxion es una encarnación viva de la corrupción. Theradras ordenó a su aliado Lord Vyletongue que creara este elemental pútrido para que fuera un sirviente poderoso y una mascota leal para aliviar la soledad de la princesa. Noxxion esparce su esencia tóxica en áreas de Maraudon que aún no se han marchitado bajo la influencia maligna de Theradras."
+        "Noxxion es una encarnación viva de la corrupción. Theradras ordenó a su aliado Lord Vyletongue que creara este elemental pútrido para que fuera un sirviente poderoso y una mascota leal para aliviar la soledad de la princesa. Noxxion esparce su esencia tóxica en áreas de Maraudon que aún no se han marchitado bajo la influencia maligna de Theradras.\n\nJunto con el Señor Lengua Vyle, Noxxión robó las dos partes del cetro de Celebras."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21687 = "Salva tóxica"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21687 =
+        "Inflige daño de Naturaleza a los enemigos cercanos y aplica un veneno que inflige daño de Naturaleza adicional cada 3 segundos durante 15 segundos.\n\nEliminad el veneno."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_22916 = "Uppercut"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_22916 =
+        "Inflige daño físico a un objetivo y lo repele."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21707 = "Invocar engendros de Noxxion"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21707 =
+        "Invoca cinco engendros de Noxxion durante el combate.\n\nEncargaos de los elementales menores antes de volver a atacar a Noxxion."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Latigazo"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "Razorlash fue creado para acompañar a Noxxion a través de Maraudon. Con el tiempo, esta nueva creación se convirtió en uno de los sirvientes más queridos de la princesa. Razorlash deambula constantemente por las cuevas junto a Noxxion, usando zarcillos espinosos para triturar cualquier planta intacta que pueda encontrar."

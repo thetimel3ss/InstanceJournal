@@ -2446,7 +2446,16 @@ if GetLocale() == "frFR" then
     -- MARA Bosses
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13282 = "Noxion"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13282 =
-        "Noxxion est une incarnation vivante de la corruption. Theradras a ordonné à son allié Lord Vyletongue de créer cet élémentaire putride pour en faire un puissant serviteur et un animal de compagnie fidèle pour soulager la solitude de la princesse. Noxxion répand son essence toxique dans les zones de Maraudon qui ne se sont pas encore flétries sous l'influence maléfique de Theradras."
+        "Noxxion est une incarnation vivante de la corruption. Theradras a ordonné à son allié Lord Vyletongue de créer cet élémentaire putride pour en faire un puissant serviteur et un animal de compagnie fidèle pour soulager la solitude de la princesse. Noxxion répand son essence toxique dans les zones de Maraudon qui ne se sont pas encore flétries sous l'influence maléfique de Theradras.\n\nAvec le seigneur Vylelangue, Noxion a dérobé les deux parties du sceptre de Celebras."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21687 = "Salve toxique"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21687 =
+        "Inflige des dégâts de Nature aux ennemis proches et applique un poison qui inflige des dégâts de Nature supplémentaires toutes les 3 secondes pendant 15 secondes.\n\nDissipez le poison."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_22916 = "Uppercut"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_22916 =
+        "Inflige des dégâts physiques à une cible et la repousse."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21707 = "Invocation de rejetons de Noxxion"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21707 =
+        "Invoque cinq rejetons de Noxxion pendant le combat.\n\nOccupez-vous des petits élémentaires avant de reprendre les attaques contre Noxxion."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Coup de rasoir"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "Razorlash a été conçu pour accompagner Noxxion à travers Maraudon. Avec le temps, cette nouvelle création devint l’une des servantes les plus chères de la princesse. Razorlash erre constamment dans les grottes aux côtés de Noxxion, utilisant des vrilles épineuses pour déchiqueter toute vie végétale intacte qu'il peut trouver."

@@ -3355,7 +3355,16 @@ if GetLocale() == "zhCN" then
     -- MARA Bosses
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13282 = "诺克赛恩"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13282 =
-        "诺克森是腐败的活生生的化身。瑟莱德丝命令她的盟友维尔舌领主创造这个腐烂的元素，使其成为强大的仆人和忠诚的宠物，以缓解公主的孤独。诺克西恩将其有毒精华散布到玛拉顿地区，这些地区在瑟莱德丝的邪恶影响下尚未枯萎。"
+        "诺克森是腐败的活生生的化身。瑟莱德丝命令她的盟友维尔舌领主创造这个腐烂的元素，使其成为强大的仆人和忠诚的宠物，以缓解公主的孤独。诺克西恩将其有毒精华散布到玛拉顿地区，这些地区在瑟莱德丝的邪恶影响下尚未枯萎。\n\n诺克赛恩与维利塔恩一起偷走了塞雷布拉斯节杖的两个部件。"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21687 = "毒性箭雨"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21687 =
+        "对附近的敌人造成自然伤害并施加毒药，每3秒造成额外自然伤害，持续15秒。\n\n移除此毒药。"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_22916 = "上钩拳"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_22916 =
+        "对一个目标造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21707 = "召唤诺克赛恩的爪牙"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21707 =
+        "在战斗中召唤五个诺克赛恩的爪牙。\n\n先处理这些小型元素生物，再继续攻击诺克赛恩。"
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "锐刺鞭笞者"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "剃刀鞭是为了陪伴诺克西恩穿越玛拉顿。随着时间的推移，这个新创造的人成为了公主最珍惜的仆人之一。剃刀鞭不断地与诺克西恩一起在洞穴中游荡，用带刺的卷须撕碎它能找到的任何未受污染的植物。"

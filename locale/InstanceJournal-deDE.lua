@@ -2448,7 +2448,16 @@ if GetLocale() == "deDE" then
     -- MARA Bosses
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13282 = "Noxxion"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13282 =
-        "Noxxion ist eine lebendige Verkörperung der Korruption. Theradras befahl ihrem Verbündeten Lord Vyletongue, dieses faulige Elementarwesen zu einem mächtigen Diener und treuen Haustier zu erschaffen, um die Einsamkeit der Prinzessin zu lindern. Noxxion verbreitet seine giftige Essenz in Gebieten von Maraudon, die noch nicht unter dem bösartigen Einfluss von Theradras verdorrt sind."
+        "Noxxion ist eine lebendige Verkörperung der Korruption. Theradras befahl ihrem Verbündeten Lord Vyletongue, dieses faulige Elementarwesen zu einem mächtigen Diener und treuen Haustier zu erschaffen, um die Einsamkeit der Prinzessin zu lindern. Noxxion verbreitet seine giftige Essenz in Gebieten von Maraudon, die noch nicht unter dem bösartigen Einfluss von Theradras verdorrt sind.\n\nGemeinsam mit Lord Vyletongue stahl Noxxion die beiden Hälften von Celebras' Zepter."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21687 = "Toxische Salve"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21687 =
+        "Verursacht Naturschaden bei Gegnern in der Nähe und vergiftet sie, wodurch sie 15 Sekunden lang alle 3 Sekunden zusätzlichen Naturschaden erleiden.\n\nEntfernt das Gift."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_22916 = "Uppercut"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_22916 =
+        "Fügt einem Ziel körperlichen Schaden zu und stößt es zurück."
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_NAME_21707 = "Noxxions Brut beschwören"
+    IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21707 =
+        "Beschwört im Kampf fünf Noxxionsbrutlinge.\n\nKümmert euch um die kleineren Elementare, bevor ihr Noxxion wieder angreift."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Razorlash"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "Razorlash sollte Noxxion durch Maraudon begleiten. Mit der Zeit wurde diese neue Schöpfung zu einem der am meisten geschätzten Diener der Prinzessin. Razorlash wandert ständig an der Seite von Noxxion durch die Höhlen und zerfetzt mit dornigen Ranken alle unberührten Pflanzen, die er finden kann."
