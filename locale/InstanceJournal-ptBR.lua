@@ -2532,6 +2532,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "Princesa Theradras"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
         "A elemental da terra Theradras, filha única de Therazane, a Mãe da Pedra, reside no santuário interno de Maraudon. Influenciada pelos Deuses Antigos, a princesa transformou sua casa em um covil de corrupção e sofrimento. Alguns acreditam que seus poderes imundos estão ligados ao espírito de seu amante morto, Zaetar. Nesse caso, libertar o guardião caído do bosque pode ser a única esperança de purificar Maraudon."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_3391 = "Surra"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_3391 =
+        "Concede dois ataques adicionais."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21832 = "Pedregulho"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21832 =
+        "Arremessa um pedregulho em um alvo, causando dano Físico, interrompendo sua conjuração e atordoando-o por 2 segundos."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21869 = "Olhar Repulsivo"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21869 =
+        "Faz os inimigos próximos fugirem de medo por 8 segundos."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21909 = "Campo de Poeira"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21909 =
+        "Envolve a Princesa Theradras em poeira por 8 segundos, causando dano de Natureza e repelindo os inimigos em um raio de 20 metros a cada segundo.\n\nAfaste-se enquanto o Campo de Poeira estiver ativo."
 
     -- RFD
     IJ_DB_DUNGEON_RFD_NAME = "Colinas Razorfen"

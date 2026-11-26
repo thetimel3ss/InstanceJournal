@@ -3350,6 +3350,18 @@ IJ_DB_DUNGEON_MARA_BOSS_13596_ABILITY_EFFECT_15976 =
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "Princess Theradras"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
     "The earth elemental Theradras, Therazane the Stonemother's sole daughter, resides in Maraudon's inner sanctum. Influenced by the Old Gods, the princess transformed her home into a den of corruption and suffering. Some believe that her foul powers are tied to the spirit of her dead lover, Zaetar. If so, liberating the fallen keeper of the grove might be the only hope of cleansing Maraudon."
+IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_3391 = "Thrash"
+IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_3391 =
+    "Grants two extra attacks."
+IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21832 = "Boulder"
+IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21832 =
+    "Throws a boulder at a target, dealing Physical damage, interrupting its spellcast, and stunning it for 2 seconds."
+IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21869 = "Repulsive Gaze"
+IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21869 =
+    "Causes nearby enemies to flee in fear for 8 seconds."
+IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21909 = "Dust Field"
+IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21909 =
+    "Surrounds Princess Theradras with dust for 8 seconds, dealing Nature damage and knocking back enemies within 20 yards every second.\n\nMove away while Dust Field is active."
 
 -- MARA Loot
 IJ_LOOT_NAME_17746 = "Noxxion's Shackles"

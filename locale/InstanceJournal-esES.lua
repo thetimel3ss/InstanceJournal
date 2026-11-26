@@ -2534,6 +2534,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "Princesa Theradras"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
         "El elemental de tierra Theradras, la única hija de Therazane la Madre Pétrea, reside en el santuario interior de Maraudon. Influenciada por los dioses antiguos, la princesa transformó su hogar en una guarida de corrupción y sufrimiento. Algunos creen que sus poderes inmundos están ligados al espíritu de su amante muerto, Zaetar. Si es así, liberar al guardián caído de la arboleda podría ser la única esperanza de limpiar a Maraudon."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_3391 = "Vapulear"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_3391 =
+        "Otorga dos ataques adicionales."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21832 = "Roca"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21832 =
+        "Lanza una roca a un objetivo, infligiéndole daño físico, interrumpiendo su lanzamiento y aturdiéndolo durante 2 segundos."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21869 = "Mirada repulsiva"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21869 =
+        "Hace que los enemigos cercanos huyan aterrorizados durante 8 segundos."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21909 = "Campo de polvo"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21909 =
+        "Envuelve a la princesa Theradras en polvo durante 8 segundos, infligiendo daño de Naturaleza y repeliendo a los enemigos en un radio de 20 metros cada segundo.\n\nAlejaos mientras el Campo de polvo esté activo."
 
     -- RFD
     IJ_DB_DUNGEON_RFD_NAME = "Bajadas de Razorfen"

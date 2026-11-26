@@ -2534,6 +2534,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "Princesse Theradras"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
         "L'élémentaire terrestre Theradras, la fille unique de Therazane la Mère de Pierre, réside dans le sanctuaire intérieur de Maraudon. Influencée par les Dieux très anciens, la princesse transforma sa maison en un repaire de corruption et de souffrance. Certains pensent que ses pouvoirs répugnants sont liés à l'esprit de son amant décédé, Zaetar. Si tel est le cas, libérer le gardien du bosquet déchu pourrait être le seul espoir de purifier Maraudon."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_3391 = "Rosser"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_3391 =
+        "Accorde deux attaques supplémentaires."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21832 = "Rocher"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21832 =
+        "Lance un rocher sur une cible, lui infligeant des dégâts physiques, interrompant son incantation et l’étourdissant pendant 2 secondes."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21869 = "Regard repoussant"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21869 =
+        "Fait fuir de peur les ennemis proches pendant 8 secondes."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21909 = "Nuage de poussière"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21909 =
+        "Entoure la princesse Theradras de poussière pendant 8 secondes, infligeant des dégâts de Nature et repoussant les ennemis à moins de 20 mètres toutes les secondes.\n\nÉloignez-vous tant que le Nuage de poussière est actif."
 
     -- RFD
     IJ_DB_DUNGEON_RFD_NAME = "Vallées de Tranchebauge"

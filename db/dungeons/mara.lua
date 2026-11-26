@@ -303,7 +303,7 @@ MARA.Bosses = {
             [3] = {IJDB.I[17732], DropChance = 33}
         }
     },
-    [9] = { -- NOTE: Missing abilities
+    [9] = {
         Id = "12201",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "princess" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "princess" .. IMPF,
@@ -311,6 +311,32 @@ MARA.Bosses = {
         Story = IJ_DB_DUNGEON_MARA_BOSS_STORY_12201,
         MapCoordinateX = 20.2,
         MapCoordinateY = 83.1,
+        Abilities = {
+            [1] = {
+                Id = "3391",
+                Icon = "Ability_GhoulFrenzy",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_3391,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_3391
+            },
+            [2] = {
+                Id = "21832",
+                Icon = "Ability_Throw",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21832,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21832
+            },
+            [3] = {
+                Id = "21869",
+                Icon = "Ability_GolemThunderClap",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21869,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21869
+            },
+            [4] = {
+                Id = "21909",
+                Icon = "Spell_Nature_Cyclone",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21909,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21909
+            }
+        },
         Loot = {
             [1] = {IJDB.I[17707], DropChance = 14},
             [2] = {IJDB.I[17710], DropChance = 14},

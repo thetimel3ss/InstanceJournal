@@ -2536,6 +2536,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "Prinzessin Theradras"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
         "Der Erdelementar Theradras, die einzige Tochter der Steinmutter Therazane, wohnt im Allerheiligsten von Maraudon. Unter dem Einfluss der Alten Götter verwandelte die Prinzessin ihr Zuhause in eine Höhle der Korruption und des Leids. Einige glauben, dass ihre bösen Kräfte mit dem Geist ihres toten Liebhabers Zaetar zusammenhängen. Wenn ja, könnte die Befreiung des gefallenen Hüters des Hains die einzige Hoffnung sein, Maraudon zu reinigen."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_3391 = "Hauen"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_3391 =
+        "Gewährt zwei zusätzliche Angriffe."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21832 = "Felsbrocken"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21832 =
+        "Wirft einen Felsbrocken auf ein Ziel, verursacht körperlichen Schaden, unterbricht dessen Zauber und betäubt es für 2 Sekunden."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21869 = "Abstoßender Blick"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21869 =
+        "Versetzt Gegner in der Nähe für 8 Sekunden in Furcht."
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21909 = "Staubfeld"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21909 =
+        "Umhüllt Prinzessin Theradras 8 Sekunden lang mit Staub, der Gegnern innerhalb von 20 Metern jede Sekunde Naturschaden zufügt und sie zurückstößt.\n\nEntfernt euch, solange das Staubfeld aktiv ist."
 
     -- RFD
     IJ_DB_DUNGEON_RFD_NAME = "Razorfen Downs"

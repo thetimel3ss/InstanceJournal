@@ -3443,6 +3443,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12201 = "瑟莱德丝公主"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12201 =
         "土元素瑟莱德丝是石母瑟拉赞恩的唯一女儿，居住在玛拉顿的内部圣所中。受到上古之神的影响，公主将她的家变成了腐败和痛苦的巢穴。有些人认为她的邪恶力量与她死去的爱人扎尔塔的灵魂有关。如果是这样，释放倒下的树林守护者可能是净化玛拉顿的唯一希望。"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_3391 = "痛击"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_3391 =
+        "获得两次额外攻击。"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21832 = "投石"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21832 =
+        "向一个目标投掷巨石，造成物理伤害，打断其施法并使其昏迷2秒。"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21869 = "恐惧凝视"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21869 =
+        "使附近的敌人因恐惧而逃跑，持续8秒。"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_NAME_21909 = "尘埃力场"
+    IJ_DB_DUNGEON_MARA_BOSS_12201_ABILITY_EFFECT_21909 =
+        "用尘埃包围瑟莱德丝公主8秒，每秒对20码内的敌人造成自然伤害并将其击退。\n\n尘埃力场持续期间远离公主。"
 
     -- MARA Loot
     IJ_LOOT_NAME_17746 = "诺克赛恩的镣铐"
