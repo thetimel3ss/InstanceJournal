@@ -1209,7 +1209,10 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
         "每2秒对一个目标造成自然伤害，持续60秒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "加什尔"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "六名巨魔保护者之一，让做梦者保持睡眠......"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "加什尔是六名阿塔莱露台守卫之一，他们合力维持魔法屏障，保护预言者迦玛兰。加什尔以直接的近战攻击迎战入侵者。"
+    IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_NAME_15580 = "打击"
+    IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
+        "对一个目标造成物理伤害。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "米杉"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "六名巨魔保护者之一，让做梦者保持睡眠......"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "祖罗"

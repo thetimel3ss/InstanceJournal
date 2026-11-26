@@ -90,7 +90,7 @@ ST.Bosses = {
             [2] = {IJDB.I[10802], DropChance = 26}
         }
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "5713",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "gasher" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "gasher" .. IMPF,
@@ -98,6 +98,14 @@ ST.Bosses = {
         Story = IJ_DB_DUNGEON_ST_BOSS_STORY_5713,
         MapCoordinateX = 55.1,
         MapCoordinateY = 32.6,
+        Abilities = {
+            [1] = {
+                Id = "15580",
+                Icon = "Ability_Rogue_Ambush",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_NAME_15580,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10783], DropChance = 7},
             [2] = {IJDB.I[10784], DropChance = 7},

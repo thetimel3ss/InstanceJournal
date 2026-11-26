@@ -886,7 +886,10 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
         "Causa dano de Natureza a um alvo a cada 2 segundos por 60 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Gasher é um dos seis guardiões Atal'ai nas sacadas cuja magia conjunta protege Jammal'an, o Profeta. Gasher enfrenta intrusos com ataques corpo a corpo diretos."
+    IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_NAME_15580 = "Batida"
+    IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
+        "Causa dano Físico a um alvo."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"

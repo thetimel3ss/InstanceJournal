@@ -890,7 +890,10 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
         "Fügt einem Ziel 60 Sekunden lang alle 2 Sekunden Naturschaden zu."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Gasher ist einer von sechs Wächtern der Atal'ai auf den Balkonen, deren vereinte Magie Jammal'an den Propheten schützt. Gasher begegnet Eindringlingen mit direkten Nahkampfangriffen."
+    IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_NAME_15580 = "Schlagen"
+    IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
+        "Fügt einem Ziel körperlichen Schaden zu."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"

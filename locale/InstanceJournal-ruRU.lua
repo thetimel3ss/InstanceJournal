@@ -899,7 +899,10 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
         "Наносит цели урон от сил природы каждые 2 сек. в течение 60 сек."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Гашер"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Один из шести троллей-защитников, не дающих сновидцу спать..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Гашер — один из шести стражей Атал'ай на балконах, чья общая магия защищает Джаммал'ана Пророка. Гашер встречает незваных гостей прямыми атаками ближнего боя."
+    IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_NAME_15580 = "Ударять"
+    IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
+        "Наносит цели физический урон."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Мижан"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Один из шести троллей-защитников, не дающих сновидцу спать..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Золо"

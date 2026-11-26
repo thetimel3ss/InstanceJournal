@@ -1113,7 +1113,10 @@ IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_NAME_12280 = "Acid of Hakkar"
 IJ_DB_DUNGEON_ST_BOSS_5708_ABILITY_EFFECT_12280 =
     "Deals Nature damage to a target every 2 seconds for 60 seconds."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "One of the six trolls protectors, keeping the dreamer asleep..."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5713 = "Gasher is one of six Atal'ai balcony guardians whose combined magic shields Jammal'an the Prophet. Gasher confronts intruders with direct melee attacks."
+IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_NAME_15580 = "Strike"
+IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
+    "Deals Physical damage to a target."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "One of the six trolls protectors, keeping the dreamer asleep..."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
