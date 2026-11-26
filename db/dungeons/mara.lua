@@ -71,7 +71,7 @@ MARA.Bosses = {
             [3] = {IJDB.I[17744], DropChance = 33}
         }
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "12258",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "razorlash" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "razorlash" .. IMPF,
@@ -79,6 +79,26 @@ MARA.Bosses = {
         Story = IJ_DB_DUNGEON_MARA_BOSS_STORY_12258,
         MapCoordinateX = 23.1,
         MapCoordinateY = 15.5,
+        Abilities = {
+            [1] = {
+                Id = "15584",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15584,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15584
+            },
+            [2] = {
+                Id = "15976",
+                Icon = "Ability_Gouge",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15976,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15976
+            },
+            [3] = {
+                Id = "3391",
+                Icon = "Ability_GhoulFrenzy",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_3391,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_3391
+            }
+        },
         Loot = {
             [1] = {IJDB.I[17748], DropChance = 25},
             [2] = {IJDB.I[17749], DropChance = 25},

@@ -2461,6 +2461,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Razorlash"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "Razorlash sollte Noxxion durch Maraudon begleiten. Mit der Zeit wurde diese neue Schöpfung zu einem der am meisten geschätzten Diener der Prinzessin. Razorlash wandert ständig an der Seite von Noxxion durch die Höhlen und zerfetzt mit dornigen Ranken alle unberührten Pflanzen, die er finden kann."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15584 = "Spalten"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15584 =
+        "Verursacht körperlichen Schaden bei einem Ziel und Verbündeten in dessen Nähe und trifft bis zu drei Ziele.\n\nHaltet Razorlash von der Gruppe abgewandt."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15976 = "Durchbohren"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15976 =
+        "Lässt ein Ziel bluten und fügt ihm 10 Sekunden lang alle 2 Sekunden körperlichen Schaden zu."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_3391 = "Hauen"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_3391 =
+        "Gewährt zwei zusätzliche Angriffe."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok der Ernter"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
         "Ein schwer fassbares Moortier, das unter den Bewohnern von Maraudon selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihnen nur überhaupt begegnen könnten ..."

@@ -3275,6 +3275,15 @@ IJ_DB_DUNGEON_MARA_BOSS_13282_ABILITY_EFFECT_21707 =
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Razorlash"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
     "Razorlash was made to accompany Noxxion through Maraudon. In time, this new creation became one of the princess's most cherished servants. Razorlash constantly wanders the caves alongside Noxxion, using thorny tendrils to shred any untainted plant life it can find."
+IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15584 = "Cleave"
+IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15584 =
+    "Deals Physical damage to a target and nearby allies, affecting up to three targets.\n\nKeep Razorlash facing away from the group."
+IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15976 = "Puncture"
+IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15976 =
+    "Causes a target to bleed, dealing Physical damage every 2 seconds for 10 seconds."
+IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_3391 = "Thrash"
+IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_3391 =
+    "Grants two extra attacks."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok the Harvester"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
     "An elusive bog beast, rarely seen among the denizens of Maraudon. It is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter it in the first place..."

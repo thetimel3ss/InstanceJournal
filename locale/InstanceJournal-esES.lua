@@ -2459,6 +2459,15 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Latigazo"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "Razorlash fue creado para acompañar a Noxxion a través de Maraudon. Con el tiempo, esta nueva creación se convirtió en uno de los sirvientes más queridos de la princesa. Razorlash deambula constantemente por las cuevas junto a Noxxion, usando zarcillos espinosos para triturar cualquier planta intacta que pueda encontrar."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15584 = "Adherirse"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15584 =
+        "Inflige daño físico a un objetivo y a sus aliados cercanos, afectando a un máximo de tres objetivos.\n\nMantened a Latigazo de espaldas al grupo."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15976 = "Perforación"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15976 =
+        "Hace sangrar a un objetivo, infligiéndole daño físico cada 2 segundos durante 10 segundos."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_3391 = "Vapulear"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_3391 =
+        "Otorga dos ataques adicionales."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok el Cosechador"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
         "Una esquiva bestia del pantano, rara vez vista entre los habitantes de Maraudon. Se dice que posee muchos artículos codiciados que muchos desearían poder conseguir, si tan solo pudieran encontrarlos en primer lugar..."

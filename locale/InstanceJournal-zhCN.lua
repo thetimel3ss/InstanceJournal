@@ -3368,6 +3368,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "锐刺鞭笞者"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "剃刀鞭是为了陪伴诺克西恩穿越玛拉顿。随着时间的推移，这个新创造的人成为了公主最珍惜的仆人之一。剃刀鞭不断地与诺克西恩一起在洞穴中游荡，用带刺的卷须撕碎它能找到的任何未受污染的植物。"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15584 = "顺劈斩"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15584 =
+        "对一个目标及其附近的盟友造成物理伤害，最多影响三个目标。\n\n使锐刺鞭笞者背对队伍。"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15976 = "穿刺"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15976 =
+        "使一个目标流血，每2秒造成物理伤害，持续10秒。"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_3391 = "痛击"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_3391 =
+        "获得两次额外攻击。"
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "收割者麦什洛克"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
         "一种难以捉摸的沼泽野兽，在玛拉顿的居民中很少见到。据说它拥有许多令人垂涎的物品，很多人都希望能亲手得到它们，如果他们能一开始就遇到它就好了……"

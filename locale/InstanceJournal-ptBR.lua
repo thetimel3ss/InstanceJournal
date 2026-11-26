@@ -2457,6 +2457,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Navalha"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "Razorlash foi feito para acompanhar Noxxion através de Maraudon. Com o tempo, esta nova criação tornou-se um dos servos mais queridos da princesa. Razorlash vagueia constantemente pelas cavernas ao lado de Noxxion, usando gavinhas espinhosas para destruir qualquer planta imaculada que encontrar."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15584 = "Dividir"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15584 =
+        "Causa dano Físico a um alvo e aos aliados próximos, atingindo até três alvos.\n\nMantenha Navalha de costas para o grupo."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15976 = "Perfuração"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15976 =
+        "Faz um alvo sangrar, causando dano Físico a cada 2 segundos por 10 segundos."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_3391 = "Surra"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_3391 =
+        "Concede dois ataques adicionais."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok, o Colhedor"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
         "Uma fera esquiva do pântano, raramente vista entre os habitantes de Maraudon. Diz-se que possui muitos itens cobiçados que muitos gostariam de poder colocar as mãos, se ao menos pudessem encontrá-los em primeiro lugar..."

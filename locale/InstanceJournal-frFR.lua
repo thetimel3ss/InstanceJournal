@@ -2459,6 +2459,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12258 = "Coup de rasoir"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12258 =
         "Razorlash a été conçu pour accompagner Noxxion à travers Maraudon. Avec le temps, cette nouvelle création devint l’une des servantes les plus chères de la princesse. Razorlash erre constamment dans les grottes aux côtés de Noxxion, utilisant des vrilles épineuses pour déchiqueter toute vie végétale intacte qu'il peut trouver."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15584 = "Fendre"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15584 =
+        "Inflige des dégâts physiques à une cible et à ses alliés proches, touchant jusqu’à trois cibles.\n\nGardez Coup de rasoir dos au groupe."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_15976 = "Perforation"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_15976 =
+        "Fait saigner une cible, lui infligeant des dégâts physiques toutes les 2 secondes pendant 10 secondes."
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_NAME_3391 = "Rosser"
+    IJ_DB_DUNGEON_MARA_BOSS_12258_ABILITY_EFFECT_3391 =
+        "Accorde deux attaques supplémentaires."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12237 = "Meshlok le moissonneur"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12237 =
         "Une bête des tourbières insaisissable, rarement vue parmi les habitants de Maraudon. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient les trouver en premier lieu..."
