@@ -1222,7 +1222,13 @@ IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_NAME_12882 = "Wing Flap"
 IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
     "Knocks back enemies in a frontal cone.\n\nStay behind the dragon unless you are tanking it."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morphaz"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "One of the four drake under the direct command of Eranikus, the Dreamer. They are watching over him and prevent any potential intruder from waking him from his slumber."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Morphaz is one of the green drakes guarding the Sunken Temple under Eranikus. The Cenarion Circle seeks his blood for a cure to help restore Felwood, citing his reputed immunity to poisons and diseases."
+IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12884 = "Acid Breath"
+IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12884 =
+    "Deals Nature damage to enemies in a frontal cone, followed by additional Nature damage every 5 seconds for 45 seconds.\n\nKeep the dragon facing away from the group."
+IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12882 = "Wing Flap"
+IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
+    "Knocks back enemies in a frontal cone.\n\nStay behind the dragon unless you are tanking it."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "Hazzas"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "One of the four drake under the direct command of Eranikus, the Dreamer. They are watching over him and prevent any potential intruder from waking him from his slumber."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Shade of Eranikus"

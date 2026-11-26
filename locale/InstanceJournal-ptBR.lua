@@ -995,7 +995,13 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
         "Repele os inimigos em um cone frontal.\n\nFique atrás do dragão, a menos que esteja tankando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morfaz"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Um dos quatro drakes sob o comando direto de Eranikus, o Dreamer. Eles estão cuidando dele e evitando que qualquer intruso em potencial o acorde de seu sono."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Morfaz é um dos dragonetes verdes que guardam o Templo Submerso sob o comando de Eranikus. O Círculo Cenariano busca seu sangue para uma cura que ajude a restaurar Selva Maleva, citando sua suposta imunidade a venenos e doenças."
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12884 = "Sopro Ácido"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12884 =
+        "Causa dano de Natureza aos inimigos em um cone frontal, seguido de dano de Natureza adicional a cada 5 segundos por 45 segundos.\n\nMantenha o dragão de costas para o grupo."
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12882 = "Bater de Asas"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
+        "Repele os inimigos em um cone frontal.\n\nFique atrás do dragão, a menos que esteja tankando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "Hazzas"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "Um dos quatro drakes sob o comando direto de Eranikus, o Dreamer. Eles estão cuidando dele e evitando que qualquer intruso em potencial o acorde de seu sono."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Sombra de Eranikus"

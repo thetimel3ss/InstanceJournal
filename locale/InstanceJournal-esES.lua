@@ -997,7 +997,13 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
         "Repele a los enemigos en un cono frontal.\n\nQuedaos detrás del dragón salvo que lo estéis tanqueando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "morfaz"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Uno de los cuatro dracos bajo el mando directo de Eranikus, el Soñador. Lo vigilan y evitan que cualquier posible intruso lo despierte de su letargo."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Morfaz es uno de los dracos verdes que custodian el Templo Sumergido bajo el mando de Eranikus. El Círculo Cenarion busca su sangre para una cura que ayude a restaurar Frondavil, citando su supuesta inmunidad a venenos y enfermedades."
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12884 = "Aliento ácido"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12884 =
+        "Inflige daño de Naturaleza a los enemigos en un cono frontal y después daño de Naturaleza adicional cada 5 segundos durante 45 segundos.\n\nMantened al dragón de espaldas al grupo."
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12882 = "Aleteo"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
+        "Repele a los enemigos en un cono frontal.\n\nQuedaos detrás del dragón salvo que lo estéis tanqueando."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "hazzas"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "Uno de los cuatro dracos bajo el mando directo de Eranikus, el Soñador. Lo vigilan y evitan que cualquier posible intruso lo despierte de su letargo."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Sombra de Eranikus"

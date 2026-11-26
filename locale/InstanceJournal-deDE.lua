@@ -999,7 +999,13 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
         "Stößt Gegner in einem kegelförmigen Bereich vor dem Drachen zurück.\n\nBleibt hinter dem Drachen, sofern ihr ihn nicht tankt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morphaz"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Einer der vier Drachen unter dem direkten Kommando von Eranikus, dem Träumer. Sie wachen über ihn und verhindern, dass ein potenzieller Eindringling ihn aus seinem Schlaf weckt."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Morphaz ist einer der grünen Drachen, die unter Eranikus den Versunkenen Tempel bewachen. Der Zirkel des Cenarius sucht sein Blut für ein Heilmittel zur Wiederherstellung des Teufelswalds und beruft sich dabei auf seine angebliche Immunität gegen Gifte und Krankheiten."
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12884 = "Säureatem"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12884 =
+        "Verursacht Naturschaden in einem kegelförmigen Bereich vor dem Drachen und anschließend 45 Sekunden lang alle 5 Sekunden zusätzlichen Naturschaden.\n\nHaltet den Drachen von der Gruppe abgewandt."
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12882 = "Flügelschlag"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
+        "Stößt Gegner in einem kegelförmigen Bereich vor dem Drachen zurück.\n\nBleibt hinter dem Drachen, sofern ihr ihn nicht tankt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "Hazzas"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "Einer der vier Drachen unter dem direkten Kommando von Eranikus, dem Träumer. Sie wachen über ihn und verhindern, dass ein potenzieller Eindringling ihn aus seinem Schlaf weckt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Schatten von Eranikus"

@@ -997,7 +997,13 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
         "Repousse les ennemis dans un cône frontal.\n\nRestez derrière le dragon, sauf si vous le tankez."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "Morphaz"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "L'un des quatre drakes sous le commandement direct d'Eranikus, le Rêveur. Ils veillent sur lui et empêchent tout intrus potentiel de le réveiller de son sommeil."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "Morphaz est l'un des drakes verts qui gardent le Temple englouti sous les ordres d'Eranikus. Le Cercle cénarien recherche son sang pour un remède qui aiderait à restaurer Gangrebois, invoquant sa supposée immunité aux poisons et aux maladies."
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12884 = "Souffle d’acide"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12884 =
+        "Inflige des dégâts de Nature aux ennemis dans un cône frontal, puis des dégâts de Nature supplémentaires toutes les 5 secondes pendant 45 secondes.\n\nGardez le dragon dos au groupe."
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12882 = "Battement d’ailes"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
+        "Repousse les ennemis dans un cône frontal.\n\nRestez derrière le dragon, sauf si vous le tankez."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "Hazzas"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "L'un des quatre drakes sous le commandement direct d'Eranikus, le Rêveur. Ils veillent sur lui et empêchent tout intrus potentiel de le réveiller de son sommeil."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "Ombre d'Eranikus"

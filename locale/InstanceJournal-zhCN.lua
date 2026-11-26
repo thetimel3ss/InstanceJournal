@@ -1318,7 +1318,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5720_ABILITY_EFFECT_12882 =
         "击退正面锥形区域内的敌人。\n\n除坦克外，其他玩家应站在巨龙身后。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5719 = "摩弗拉斯"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "梦想家伊兰尼库斯直接麾下的四龙之一。他们监视着他，防止任何潜在的入侵者把他从睡梦中吵醒。"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5719 = "摩弗拉斯是伊兰尼库斯麾下守卫沉没的神庙的绿龙之一。塞纳里奥议会希望用他的血液制作帮助费伍德森林恢复生机的药剂，因为据说他能免疫毒药和疾病。"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12884 = "酸性吐息"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12884 =
+        "对正面锥形区域内的敌人造成自然伤害，随后每5秒造成额外自然伤害，持续45秒。\n\n使巨龙背对队伍。"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_NAME_12882 = "拍翼"
+    IJ_DB_DUNGEON_ST_BOSS_5719_ABILITY_EFFECT_12882 =
+        "击退正面锥形区域内的敌人。\n\n除坦克外，其他玩家应站在巨龙身后。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5722 = "哈扎斯"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5722 = "梦想家伊兰尼库斯直接麾下的四龙之一。他们监视着他，防止任何潜在的入侵者把他从睡梦中吵醒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5709 = "伊兰尼库斯的阴影"
