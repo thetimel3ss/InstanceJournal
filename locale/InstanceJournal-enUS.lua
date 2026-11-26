@@ -1118,7 +1118,19 @@ IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_NAME_15580 = "Strike"
 IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
     "Deals Physical damage to a target."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "One of the six trolls protectors, keeping the dreamer asleep..."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Mijan is one of six Atal'ai balcony guardians whose combined magic shields Jammal'an the Prophet. Mijan supports the defenders with healing magic and protective totems."
+IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8362 = "Renew"
+IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8362 =
+    "Heals an ally every 3 seconds for 20 seconds.\n\nRemove this magic effect."
+IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_12492 = "Healing Wave"
+IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_12492 =
+    "Heals an ally after a 3-second cast."
+IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_11899 = "Healing Ward"
+IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_11899 =
+    "Summons a Healing Ward that periodically heals nearby allies.\n\nDestroy the ward."
+IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148 = "Thorns Aura"
+IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
+    "Surrounds nearby allies with thorns, dealing Nature damage to attackers who strike them."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "One of the six trolls protectors, keeping the dreamer asleep..."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"

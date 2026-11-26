@@ -895,7 +895,19 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
         "Fügt einem Ziel körperlichen Schaden zu."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Mijan ist einer von sechs Wächtern der Atal'ai auf den Balkonen, deren vereinte Magie Jammal'an den Propheten schützt. Mijan unterstützt die Verteidiger mit Heilmagie und schützenden Totems."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8362 = "Erneuerung"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8362 =
+        "Heilt einen Verbündeten 20 Sekunden lang alle 3 Sekunden.\n\nEntfernt diesen magischen Effekt."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_12492 = "Welle der Heilung"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_12492 =
+        "Heilt einen Verbündeten nach 3 Sekunden Zauberzeit."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_11899 = "Heilungszauberschutz"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_11899 =
+        "Beschwört einen Heilungszauberschutz, der regelmäßig Verbündete in der Nähe heilt.\n\nZerstört das Totem."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148 = "Dornenaura"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
+        "Umhüllt Verbündete in der Nähe mit Dornen, die Angreifern bei Treffern Naturschaden zufügen."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"

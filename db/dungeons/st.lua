@@ -116,7 +116,7 @@ ST.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "5717",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "mijan" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "mijan" .. IMPF,
@@ -124,6 +124,34 @@ ST.Bosses = {
         Story = IJ_DB_DUNGEON_ST_BOSS_STORY_5717,
         MapCoordinateX = 60.4,
         MapCoordinateY = 45.9,
+        Abilities = {
+            [1] = {
+                Id = "8362",
+                Icon = "Spell_Holy_Renew",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8362,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8362,
+                Flags = {IMAF.Magic, IMAF.Interruptible}
+            },
+            [2] = {
+                Id = "12492",
+                Icon = "Spell_Nature_MagicImmunity",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_12492,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_12492
+            },
+            [3] = {
+                Id = "11899",
+                Icon = "Spell_Holy_LayOnHands",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_11899,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_11899,
+                Flags = {IMAF.Interruptible}
+            },
+            [4] = {
+                Id = "8148",
+                Icon = "Spell_Nature_Thorns",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10783], DropChance = 7},
             [2] = {IJDB.I[10784], DropChance = 7},

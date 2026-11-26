@@ -1214,7 +1214,19 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
         "对一个目标造成物理伤害。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "米杉"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "六名巨魔保护者之一，让做梦者保持睡眠......"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "米杉是六名阿塔莱露台守卫之一，他们合力维持魔法屏障，保护预言者迦玛兰。米杉以治疗魔法和防护图腾支援守卫。"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8362 = "恢复"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8362 =
+        "每3秒治疗一名盟友，持续20秒。\n\n驱散此魔法效果。"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_12492 = "治疗波"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_12492 =
+        "施法3秒后治疗一名盟友。"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_11899 = "治疗结界"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_11899 =
+        "召唤一个治疗结界，周期性治疗附近的盟友。\n\n摧毁结界。"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148 = "荆棘光环"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
+        "使附近盟友被荆棘环绕，对击中他们的攻击者造成自然伤害。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "祖罗"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "六名巨魔保护者之一，让做梦者保持睡眠......"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "祖罗尔"

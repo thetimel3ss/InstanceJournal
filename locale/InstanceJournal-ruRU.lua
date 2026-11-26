@@ -904,7 +904,19 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
         "Наносит цели физический урон."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Мижан"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Один из шести троллей-защитников, не дающих сновидцу спать..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Мижан — один из шести стражей Атал'ай на балконах, чья общая магия защищает Джаммал'ана Пророка. Мижан поддерживает защитников исцеляющей магией и защитными тотемами."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8362 = "Обновление"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8362 =
+        "Исцеляет союзника каждые 3 сек. в течение 20 сек.\n\nСнимайте этот магический эффект."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_12492 = "Волна исцеления"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_12492 =
+        "Исцеляет союзника после произнесения заклинания в течение 3 сек."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_11899 = "Исцеляющий идол"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_11899 =
+        "Призывает Исцеляющий идол, периодически исцеляющий ближайших союзников.\n\nУничтожайте идол."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148 = "Аура шипов"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
+        "Окружает ближайших союзников шипами, наносящими урон от сил природы тем, кто их атакует."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Золо"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Один из шести троллей-защитников, не дающих сновидцу спать..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Зул'Лор"

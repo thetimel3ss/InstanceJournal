@@ -893,7 +893,19 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
         "Inflige daño Físico a un objetivo."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Miján"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Uno de los seis trolls protectores, manteniendo dormido al soñador..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Miján es uno de los seis guardianes Atal'ai de los balcones cuya magia conjunta protege a Jammal'an el Profeta. Miján ayuda a los defensores con magia de sanación y tótems protectores."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8362 = "Renovar"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8362 =
+        "Sana a un aliado cada 3 segundos durante 20 segundos.\n\nEliminad este efecto mágico."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_12492 = "Ola de sanación"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_12492 =
+        "Sana a un aliado tras un lanzamiento de 3 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_11899 = "Resguardo de sanación"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_11899 =
+        "Invoca un Resguardo de sanación que sana periódicamente a los aliados cercanos.\n\nDestruid el resguardo."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148 = "Aura de espinas"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
+        "Rodea de espinas a los aliados cercanos e inflige daño de Naturaleza a quienes los golpean."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Uno de los seis trolls protectores, manteniendo dormido al soñador..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"

@@ -893,7 +893,19 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
         "Inflige des dégâts physiques à une cible."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "L'un des six trolls protecteurs, gardant le rêveur endormi..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Mijan est l'un des six gardiens atal'ai des balcons dont la magie combinée protège Jammal'an le Prophète. Mijan soutient les défenseurs avec des soins magiques et des totems protecteurs."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8362 = "Rénovation"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8362 =
+        "Soigne un allié toutes les 3 secondes pendant 20 secondes.\n\nDissipez cet effet magique."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_12492 = "Vague de soins"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_12492 =
+        "Soigne un allié après 3 secondes d’incantation."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_11899 = "Gardien guérisseur"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_11899 =
+        "Invoque un Gardien guérisseur qui soigne périodiquement les alliés proches.\n\nDétruisez le gardien."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148 = "Aura d’épines"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
+        "Entoure les alliés proches d’épines qui infligent des dégâts de Nature aux attaquants qui les frappent."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "L'un des six trolls protecteurs, gardant le rêveur endormi..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"

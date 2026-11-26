@@ -891,7 +891,19 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_5713_ABILITY_EFFECT_15580 =
         "Causa dano Físico a um alvo."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5717 = "Mijan"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5717 = "Mijan é um dos seis guardiões Atal'ai nas sacadas cuja magia conjunta protege Jammal'an, o Profeta. Mijan auxilia os defensores com magia de cura e totens protetores."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8362 = "Renovar"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8362 =
+        "Cura um aliado a cada 3 segundos por 20 segundos.\n\nRemova esse efeito mágico."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_12492 = "Onda Curativa"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_12492 =
+        "Cura um aliado após uma conjuração de 3 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_11899 = "Totem de Cura"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_11899 =
+        "Invoca um Totem de Cura que cura periodicamente os aliados próximos.\n\nDestrua o totem."
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148 = "Aura de Espinhos"
+    IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
+        "Envolve os aliados próximos em espinhos, causando dano de Natureza aos atacantes que os atingem."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"
