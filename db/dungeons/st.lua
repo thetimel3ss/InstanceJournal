@@ -162,7 +162,7 @@ ST.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [5] = { -- NOTE: Missing abilities
+    [5] = {
         Id = "5712",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "zolo" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "zolo" .. IMPF,
@@ -170,6 +170,21 @@ ST.Bosses = {
         Story = IJ_DB_DUNGEON_ST_BOSS_STORY_5712,
         MapCoordinateX = 55.3,
         MapCoordinateY = 59.2,
+        Abilities = {
+            [1] = {
+                Id = "12058",
+                Icon = "Spell_Nature_ChainLightning",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12058,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12058,
+                Flags = {IMAF.Interruptible}
+            },
+            [2] = {
+                Id = "12506",
+                Icon = "Spell_Shadow_RaiseDead",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12506,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12506
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10783], DropChance = 7},
             [2] = {IJDB.I[10784], DropChance = 7},

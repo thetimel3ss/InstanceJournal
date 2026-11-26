@@ -909,7 +909,13 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
         "Umhüllt Verbündete in der Nähe mit Dornen, die Angreifern bei Treffern Naturschaden zufügen."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Zolo ist einer von sechs Wächtern der Atal'ai auf den Balkonen, deren vereinte Magie Jammal'an den Propheten schützt. Zolo beherrscht Blitze und beschwört mit einem Totem der Atal'ai Skelettdiener."
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12058 = "Kettenblitz"
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12058 =
+        "Verursacht Naturschaden, der zwischen bis zu drei nahen Gegnern überspringt."
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12506 = "Skeletttotem der Atal'ai"
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12506 =
+        "Beschwört ein Totem, das regelmäßig Skelette der Atal'ai erweckt.\n\nZerstört das Totem, um weitere Beschwörungen zu verhindern."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "Einer der sechs Beschützer der Trolle, der den Träumer im Schlaf hält ..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"

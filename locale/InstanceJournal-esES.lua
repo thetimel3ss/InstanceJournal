@@ -907,7 +907,13 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
         "Rodea de espinas a los aliados cercanos e inflige daño de Naturaleza a quienes los golpean."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Uno de los seis trolls protectores, manteniendo dormido al soñador..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Zolo es uno de los seis guardianes Atal'ai de los balcones cuya magia conjunta protege a Jammal'an el Profeta. Zolo domina los rayos e invoca sirvientes esqueléticos mediante un tótem Atal'ai."
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12058 = "Cadena de relámpagos"
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12058 =
+        "Inflige daño de Naturaleza que salta entre un máximo de tres enemigos cercanos."
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12506 = "Tótem de esqueletos Atal'ai"
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12506 =
+        "Invoca un tótem que alza periódicamente esqueletos Atal'ai.\n\nDestruid el tótem para impedir nuevas invocaciones."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "Uno de los seis trolls protectores, manteniendo dormido al soñador..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"

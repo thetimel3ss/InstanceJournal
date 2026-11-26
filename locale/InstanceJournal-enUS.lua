@@ -1132,7 +1132,13 @@ IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_NAME_8148 = "Thorns Aura"
 IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
     "Surrounds nearby allies with thorns, dealing Nature damage to attackers who strike them."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "Zolo"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "One of the six trolls protectors, keeping the dreamer asleep..."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "Zolo is one of six Atal'ai balcony guardians whose combined magic shields Jammal'an the Prophet. Zolo wields lightning and summons skeletal servants through an Atal'ai totem."
+IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12058 = "Chain Lightning"
+IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12058 =
+    "Deals Nature damage that jumps between up to three nearby enemies."
+IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12506 = "Atal'ai Skeleton Totem"
+IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12506 =
+    "Summons a totem that periodically raises Atal'ai Skeletons.\n\nDestroy the totem to stop further summons."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "One of the six trolls protectors, keeping the dreamer asleep..."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"

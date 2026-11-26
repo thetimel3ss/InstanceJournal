@@ -1228,7 +1228,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5717_ABILITY_EFFECT_8148 =
         "使附近盟友被荆棘环绕，对击中他们的攻击者造成自然伤害。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5712 = "祖罗"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "六名巨魔保护者之一，让做梦者保持睡眠......"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5712 = "祖罗是六名阿塔莱露台守卫之一，他们合力维持魔法屏障，保护预言者迦玛兰。祖罗运用闪电，并通过阿塔莱图腾召唤骷髅仆从。"
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12058 = "闪电链"
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12058 =
+        "造成自然伤害，并在最多三名附近敌人之间跳跃。"
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12506 = "阿塔莱骷髅图腾"
+    IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12506 =
+        "召唤一个图腾，周期性唤起阿塔莱骷髅。\n\n摧毁图腾以阻止继续召唤。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "祖罗尔"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "六名巨魔保护者之一，让做梦者保持睡眠......"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "胡库"
