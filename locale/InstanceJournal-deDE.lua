@@ -877,7 +877,13 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_atalalarionsummoning =
         "Aktiviert die sechs Schlangenstatuen in dieser Reihenfolge: Süden, Norden, Südwesten, Südosten, Nordwesten, Nordosten. Atal’alarion erscheint in der Grube darunter."
     IJ_DB_DUNGEON_ST_BOSS_NAME_8580 = "Atal'alarion"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion ist der geschworene Beschützer des Idols, das sich auf der untersten Ebene des Tempels befindet."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion ist ein Monstertroll, der geschworen hat, das Götzenbild von Hakkar in den tiefsten Gewölben des Versunkenen Tempels zu verteidigen. Er bewacht das heilige Götzenbild und den darin verborgenen Schatz der Atal'ai."
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_12887 = "Weitreichender Schlag"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_12887 =
+        "Verursacht körperlichen Schaden bei Gegnern vor Atal'alarion und stößt sie zurück."
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_6524 = "Bodenbeben"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
+        "Betäubt Gegner im Umkreis von 20 Metern für 2 Sekunden."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Brut von Hakkar"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Eine der vielen Bruten von Hakkar, die durch die Hallen des versunkenen Tempels wandert ..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"

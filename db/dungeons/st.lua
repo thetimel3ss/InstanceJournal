@@ -30,7 +30,7 @@ ST.Entrances = {
     }
 }
 ST.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "8580",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "atalalarion" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "atalalarion" .. IMPF,
@@ -46,6 +46,18 @@ ST.Bosses = {
                 Icon = "INV_Misc_Statue_01",
                 Name = IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_atalalarionsummoning,
                 Effect = IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_atalalarionsummoning
+            },
+            [2] = {
+                Id = "12887",
+                Icon = "Ability_Devour",
+                Name = IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_12887,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_12887
+            },
+            [3] = {
+                Id = "6524",
+                Icon = "Spell_Nature_Earthquake",
+                Name = IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_6524,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524
             }
         },
         Loot = {

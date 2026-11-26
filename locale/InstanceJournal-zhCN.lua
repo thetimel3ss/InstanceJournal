@@ -1196,7 +1196,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_atalalarionsummoning =
         "按以下顺序激活六座蛇形雕像：南、北、西南、东南、西北、东北。阿塔拉利恩随后会出现在下方的深坑中。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_8580 = "阿塔拉利恩"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "阿塔拉里昂是神殿最底层神像的宣誓保护者。"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "阿塔拉利恩是一名巨型巨魔，誓死守护沉没的神庙最深处的哈卡神像。他看守着这座神圣的雕像，以及藏在其中的阿塔莱宝藏。"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_12887 = "横扫猛击"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_12887 =
+        "对阿塔拉利恩前方的敌人造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_6524 = "大地震颤"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
+        "使20码范围内的敌人昏迷2秒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "哈卡的后代"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "哈卡的众多重生之一，在沉没神庙的大厅里徘徊……"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "加什尔"

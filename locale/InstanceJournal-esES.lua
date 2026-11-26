@@ -875,7 +875,13 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_atalalarionsummoning =
         "Activad las seis estatuas de serpiente en este orden: sur, norte, suroeste, sureste, noroeste y noreste. Atal’alarion aparece en el foso inferior."
     IJ_DB_DUNGEON_ST_BOSS_NAME_8580 = "Atal'alarion"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion es el protector jurado del ídolo que se encuentra en el nivel más bajo del templo."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion es un trol temible que ha jurado defender el Ídolo de Hakkar en las profundidades del Templo Sumergido. Custodia el ídolo sagrado y el tesoro Atal'ai oculto en su interior."
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_12887 = "Embate de barrido"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_12887 =
+        "Inflige daño físico a los enemigos frente a Atal'alarion y los repele."
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_6524 = "Temblor de tierra"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
+        "Aturde a los enemigos en un radio de 20 metros durante 2 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Engendro de Hakkar"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Uno de los muchos engendros de Hakkar, deambulando por los pasillos del templo hundido..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"

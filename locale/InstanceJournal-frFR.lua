@@ -875,7 +875,13 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_atalalarionsummoning =
         "Activez les six statues de serpent dans cet ordre : sud, nord, sud-ouest, sud-est, nord-ouest, nord-est. Atal’alarion apparaît dans la fosse en contrebas."
     IJ_DB_DUNGEON_ST_BOSS_NAME_8580 = "Atal’alarion"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion est le protecteur juré de l'idole trouvée au niveau le plus bas du temple."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion est un troll redoutable qui a juré de défendre l'Idole d'Hakkar dans les profondeurs du Temple englouti. Il garde l'idole sacrée et le trésor atal'ai dissimulé à l'intérieur."
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_12887 = "Frappe balayante"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_12887 =
+        "Inflige des dégâts physiques aux ennemis devant Atal'alarion et les repousse."
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_6524 = "Tremblement de terre"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
+        "Étourdit les ennemis dans un rayon de 20 mètres pendant 2 secondes."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Apparition d'Hakkar"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "L'un des nombreux rejetons d'Hakkar, errant dans les couloirs du temple englouti..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"

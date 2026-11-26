@@ -873,7 +873,13 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_atalalarionsummoning =
         "Ative as seis estátuas de serpente nesta ordem: sul, norte, sudoeste, sudeste, noroeste e nordeste. Atal’alarion aparece no fosso abaixo."
     IJ_DB_DUNGEON_ST_BOSS_NAME_8580 = "Atal'alarion"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion é o protetor juramentado do ídolo encontrado no nível mais baixo do templo."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion é um troll colossal que jurou defender o Ídolo de Hakkar nas profundezas do Templo Submerso. Ele guarda o ídolo sagrado e o tesouro Atal'ai oculto em seu interior."
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_12887 = "Pancada Abrangente"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_12887 =
+        "Causa dano Físico aos inimigos à frente de Atal'alarion e os repele."
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_6524 = "Tremor de solo"
+    IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
+        "Atordoa inimigos em um raio de 20 jardas por 2 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Cria de Hakkar"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "Uma das muitas crias de Hakkar, vagando pelos corredores do templo submerso..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"

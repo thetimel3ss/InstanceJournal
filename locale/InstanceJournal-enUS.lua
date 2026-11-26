@@ -1100,7 +1100,13 @@ IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_atalalarionsummoning = "Summoning"
 IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_atalalarionsummoning =
     "Activate the six serpent statues in this order: south, north, southwest, southeast, northwest, northeast. Atal’alarion appears in the pit below."
 IJ_DB_DUNGEON_ST_BOSS_NAME_8580 = "Atal'alarion"
-IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion is the sworn protector of the idol found on the lowest level of the temple."
+IJ_DB_DUNGEON_ST_BOSS_STORY_8580 = "Atal'alarion is a dire troll sworn to defend the Idol of Hakkar in the lowest depths of the Sunken Temple. He guards the sacred idol and the Atal'ai treasure concealed within it."
+IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_12887 = "Sweeping Slam"
+IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_12887 =
+    "Deals Physical damage to enemies in front of Atal'alarion and knocks them back."
+IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_NAME_6524 = "Ground Tremor"
+IJ_DB_DUNGEON_ST_BOSS_8580_ABILITY_EFFECT_6524 =
+    "Stuns enemies within 20 yards for 2 seconds."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5708 = "Spawn of Hakkar"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5708 = "One of the many spawns of Hakkar, wandering through the halls of the sunken temple..."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5713 = "Gasher"
