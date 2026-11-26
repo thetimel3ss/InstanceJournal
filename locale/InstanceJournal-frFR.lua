@@ -1026,7 +1026,7 @@ if GetLocale() == "frFR" then
         "Utilisez l’Œuf d’Hakkar dans le sanctuaire du Dieu déchu pour commencer le rituel. Vainquez les Gardiens du sang hakkari, récupérez leur Sang hakkari et utilisez-le pour éteindre les quatre flammes éternelles et invoquer l’Avatar d’Hakkar."
     IJ_DB_DUNGEON_ST_BOSS_NAME_8443 = "Avatar d'Hakkar"
     IJ_DB_DUNGEON_ST_BOSS_STORY_8443 =
-        "Hakkar était connu pour exiger des sacrifices de la part de ses partisans. Il y a plusieurs millénaires, il ordonna aux Atal'ai d'apporter cet avatar, en utilisant le sang rituellement drainé de victimes vivantes pour le nourrir. Les prêtres Atal'ai cherchent désormais à élever l'avatar de Hakkar avec une version modifiée de ce rituel, qui implique le sacrifice de dragons verts. Si les Atal'ai réussissent, la réémergence de l'avatar de Hakkar pourrait sonner le glas d'Azeroth."
+        "Hakkar était connu pour exiger des sacrifices de la part de ses partisans. Il y a plusieurs millénaires, il ordonna aux Atal'ai d'apporter cet avatar, en utilisant le sang rituellement drainé de victimes vivantes pour le nourrir. Les prêtres Atal'ai cherchent désormais à élever l'avatar de Hakkar avec une version modifiée de ce rituel, qui implique le sacrifice de dragons verts. Si les Atal'ai réussissent, la réémergence de l'avatar de Hakkar pourrait sonner le glas d'Azeroth.\n\nCet avatar est une manifestation d'Hakkar amenée dans le monde par des rites de sang. Son essence peut être capturée dans l'Œuf d'Hakkar."
 
     -- BFD
     IJ_DB_DUNGEON_BFD_NAME = "Profondeurs de Fondnoire"

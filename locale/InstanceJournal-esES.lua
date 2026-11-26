@@ -1026,7 +1026,7 @@ if GetLocale() == "esES" then
         "Usad el Huevo de Hakkar en el Sagrario del Dios Caído para iniciar el ritual. Derrotad a los Guardianes de sangre Hakkari, recoged su Sangre Hakkari y usadla para apagar las cuatro llamas eternas e invocar al Avatar de Hakkar."
     IJ_DB_DUNGEON_ST_BOSS_NAME_8443 = "Avatar de Hakkar"
     IJ_DB_DUNGEON_ST_BOSS_STORY_8443 =
-        "Hakkar era conocido por exigir sacrificios a sus seguidores. Hace muchos milenios, ordenó a los Atal'ai que trajeran para este avatar, utilizando sangre extraída ritualmente de víctimas vivas para alimentarlo. Los sacerdotes Atal'ai ahora buscan resucitar el avatar de Hakkar con una versión modificada de este ritual, que implica sacrificar dragones verdes. Si los Atal'ai tienen éxito, el resurgimiento del avatar de Hakkar podría significar la perdición para Azeroth."
+        "Hakkar era conocido por exigir sacrificios a sus seguidores. Hace muchos milenios, ordenó a los Atal'ai que trajeran para este avatar, utilizando sangre extraída ritualmente de víctimas vivas para alimentarlo. Los sacerdotes Atal'ai ahora buscan resucitar el avatar de Hakkar con una versión modificada de este ritual, que implica sacrificar dragones verdes. Si los Atal'ai tienen éxito, el resurgimiento del avatar de Hakkar podría significar la perdición para Azeroth.\n\nEste avatar es una manifestación de Hakkar traída al mundo mediante ritos de sangre. Su esencia puede capturarse en el Huevo de Hakkar."
 
     -- BFD
     IJ_DB_DUNGEON_BFD_NAME = "Profundidades de Brazanegra"

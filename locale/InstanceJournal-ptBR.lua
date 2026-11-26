@@ -1024,7 +1024,7 @@ if GetLocale() == "ptBR" then
         "Use o Ovo de Hakkar no Santuário do Deus Caído para iniciar o ritual. Derrote os Guardiões Sangrentos Hakkari, recolha o Sangue Hakkari e use-o para apagar as quatro chamas eternas e invocar o Avatar de Hakkar."
     IJ_DB_DUNGEON_ST_BOSS_NAME_8443 = "Avatar de Hakkar"
     IJ_DB_DUNGEON_ST_BOSS_STORY_8443 =
-        "Hakkar era famoso por exigir sacrifícios de seus seguidores. Muitos milênios atrás, ele instruiu os Atal'ai a trazer esse avatar, usando sangue drenado ritualmente de vítimas vivas para alimentá-lo. Os sacerdotes Atal'ai agora procuram criar o avatar de Hakkar com uma versão modificada deste ritual, que envolve o sacrifício de dragões verdes. Se os Atal'ai tiverem sucesso, o ressurgimento do avatar de Hakkar poderá significar a ruína para Azeroth."
+        "Hakkar era famoso por exigir sacrifícios de seus seguidores. Muitos milênios atrás, ele instruiu os Atal'ai a trazer esse avatar, usando sangue drenado ritualmente de vítimas vivas para alimentá-lo. Os sacerdotes Atal'ai agora procuram criar o avatar de Hakkar com uma versão modificada deste ritual, que envolve o sacrifício de dragões verdes. Se os Atal'ai tiverem sucesso, o ressurgimento do avatar de Hakkar poderá significar a ruína para Azeroth.\n\nEste avatar é uma manifestação de Hakkar trazida ao mundo por meio de ritos de sangue. Sua essência pode ser capturada dentro do Ovo de Hakkar."
 
     -- BFD
     IJ_DB_DUNGEON_BFD_NAME = "Profundezas Negras"

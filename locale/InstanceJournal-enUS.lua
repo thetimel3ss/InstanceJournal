@@ -1251,7 +1251,7 @@ IJ_DB_DUNGEON_ST_BOSS_8443_ABILITY_EFFECT_avatarsummoning =
     "Use the Egg of Hakkar in the Sanctum of the Fallen God to begin the ritual. Defeat the Hakkari Bloodkeepers, collect their Hakkari Blood, and use it to extinguish all four eternal flames to summon the Avatar of Hakkar."
 IJ_DB_DUNGEON_ST_BOSS_NAME_8443 = "Avatar of Hakkar"
 IJ_DB_DUNGEON_ST_BOSS_STORY_8443 =
-    "Hakkar was notorious for demanding sacrifices from his followers. Many millennia ago, he instructed the Atal'ai to bring for this avatar, using blood ritually drained from living victims to feed him. The Atal'ai priests now seek to raise Hakkar's avatar with a modified version of this ritual, one that involves sacrificing green dragons. If the Atal'ai succeed, the re-emergence of Hakkar's avatar could spell doom for Azeroth."
+    "Hakkar was notorious for demanding sacrifices from his followers. Many millennia ago, he instructed the Atal'ai to bring for this avatar, using blood ritually drained from living victims to feed him. The Atal'ai priests now seek to raise Hakkar's avatar with a modified version of this ritual, one that involves sacrificing green dragons. If the Atal'ai succeed, the re-emergence of Hakkar's avatar could spell doom for Azeroth.\n\nThis avatar is a manifestation of Hakkar brought into the world through blood rites. Its essence can be captured within the Egg of Hakkar."
 
 -- ST Loot
 IJ_LOOT_NAME_10798 = "Atal'alarion's Tusk Ring"

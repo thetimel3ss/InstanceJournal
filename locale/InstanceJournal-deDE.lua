@@ -1028,7 +1028,7 @@ if GetLocale() == "deDE" then
         "Benutzt das Ei von Hakkar im Sanktum des gefallenen Gottes, um das Ritual zu beginnen. Besiegt die Blutbewahrer der Hakkari, sammelt ihr Hakkariblut und löscht damit alle vier ewigen Flammen, um den Avatar von Hakkar zu beschwören."
     IJ_DB_DUNGEON_ST_BOSS_NAME_8443 = "Avatar von Hakkar"
     IJ_DB_DUNGEON_ST_BOSS_STORY_8443 =
-        "Hakkar war dafür berüchtigt, von seinen Anhängern Opfer zu verlangen. Vor vielen Jahrtausenden wies er die Atal'ai an, diesen Avatar herbeizuholen, indem er ihn mit rituell entnommenem Blut lebender Opfer ernährte. Die Atal'ai-Priester versuchen nun, Hakkars Avatar mit einer modifizierten Version dieses Rituals zu erwecken, bei der grüne Drachen geopfert werden. Sollten die Atal'ai erfolgreich sein, könnte das Wiederauftauchen von Hakkars Avatar den Untergang für Azeroth bedeuten."
+        "Hakkar war dafür berüchtigt, von seinen Anhängern Opfer zu verlangen. Vor vielen Jahrtausenden wies er die Atal'ai an, diesen Avatar herbeizuholen, indem er ihn mit rituell entnommenem Blut lebender Opfer ernährte. Die Atal'ai-Priester versuchen nun, Hakkars Avatar mit einer modifizierten Version dieses Rituals zu erwecken, bei der grüne Drachen geopfert werden. Sollten die Atal'ai erfolgreich sein, könnte das Wiederauftauchen von Hakkars Avatar den Untergang für Azeroth bedeuten.\n\nDieser Avatar ist eine Manifestation Hakkars, die durch Blutrituale in die Welt gebracht wurde. Seine Essenz kann im Ei von Hakkar eingefangen werden."
 
     -- BFD
     IJ_DB_DUNGEON_BFD_NAME = "Blackfathom Deeps"
