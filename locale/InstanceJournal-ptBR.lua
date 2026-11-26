@@ -913,7 +913,10 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12506 =
         "Invoca um totem que ergue Esqueletos Atal'ai periodicamente.\n\nDestrua o totem para impedir novas invocações."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "Zul'Lor é um dos seis guardiões Atal'ai nas sacadas cuja magia conjunta protege Jammal'an, o Profeta. Zul'Lor enfraquece os intrusos com magia debilitante."
+    IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_NAME_12530 = "Fragilidade"
+    IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
+        "Reduz todos os atributos dos inimigos em um raio de 10 metros por 60 segundos.\n\nDissipe esse efeito mágico."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "Um dos seis protetores dos trolls, mantendo o sonhador dormindo..."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"

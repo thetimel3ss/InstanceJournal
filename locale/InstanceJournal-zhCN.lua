@@ -1236,7 +1236,10 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12506 =
         "召唤一个图腾，周期性唤起阿塔莱骷髅。\n\n摧毁图腾以阻止继续召唤。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "祖罗尔"
-    IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "六名巨魔保护者之一，让做梦者保持睡眠......"
+    IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "祖罗尔是六名阿塔莱露台守卫之一，他们合力维持魔法屏障，保护预言者迦玛兰。祖罗尔以衰弱魔法削弱入侵者。"
+    IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_NAME_12530 = "虚弱"
+    IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
+        "降低10码内敌人的所有属性，持续60秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "胡库"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "六名巨魔保护者之一，让做梦者保持睡眠......"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "洛若尔"

@@ -1140,7 +1140,10 @@ IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_NAME_12506 = "Atal'ai Skeleton Totem"
 IJ_DB_DUNGEON_ST_BOSS_5712_ABILITY_EFFECT_12506 =
     "Summons a totem that periodically raises Atal'ai Skeletons.\n\nDestroy the totem to stop further summons."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5716 = "Zul'Lor"
-IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "One of the six trolls protectors, keeping the dreamer asleep..."
+IJ_DB_DUNGEON_ST_BOSS_STORY_5716 = "Zul'Lor is one of six Atal'ai balcony guardians whose combined magic shields Jammal'an the Prophet. Zul'Lor weakens intruders with debilitating magic."
+IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_NAME_12530 = "Frailty"
+IJ_DB_DUNGEON_ST_BOSS_5716_ABILITY_EFFECT_12530 =
+    "Reduces all attributes of enemies within 10 yards for 60 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5715 = "Hukku"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5715 = "One of the six trolls protectors, keeping the dreamer asleep..."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5714 = "Loro"
