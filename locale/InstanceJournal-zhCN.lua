@@ -1273,7 +1273,34 @@ if GetLocale() == "zhCN" then
         "对一个目标造成物理伤害，并使其昏迷2秒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "预言者迦玛兰"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
-        "贾玛兰是阿塔莱派的现任领袖，阿塔莱派是一个由狂热崇拜哈卡的祭司组成的极端教派。在深度冥想中，迦玛兰收到了如何使用他的龙族敌人绿龙军团的鲜血复活哈卡的指示。迦玛兰和他的亡灵保镖悲惨者奥戈姆随时准备对抗任何阻止哈卡回归的人，尽管先知的行为可能会向艾泽拉斯释放出更可怕的力量：翡翠梦魇。"
+        "贾玛兰是阿塔莱派的现任领袖，阿塔莱派是一个由狂热崇拜哈卡的祭司组成的极端教派。在深度冥想中，迦玛兰收到了如何使用他的龙族敌人绿龙军团的鲜血复活哈卡的指示。迦玛兰和他的亡灵保镖悲惨者奥戈姆随时准备对抗任何阻止哈卡回归的人，尽管先知的行为可能会向艾泽拉斯释放出更可怕的力量：翡翠梦魇。\n\n迦玛兰相信哈卡归来将赐予阿塔莱永生。一名曾质疑这则预言的流放者如今寻求杀死预言者，希望让部族摆脱他的影响。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12468 = "烈焰风暴"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12468 =
+        "对选定区域造成火焰伤害，随后每2秒造成额外火焰伤害，持续8秒。\n\n离开受影响区域。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12492 = "治疗波"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12492 =
+        "施法3秒后治疗一名盟友。\n\n打断施法。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12479 = "迦玛兰的妖术"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12479 =
+        "标记一名玩家，10秒后使其变形。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12480 = "迦玛兰的妖术"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12480 =
+        "使被标记的玩家变形，大幅提高其物理伤害，并使其攻击盟友，最多持续15秒。\n\n移除此诅咒。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8376 = "陷地图腾"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8376 =
+        "召唤一个陷地图腾，最多持续30秒。\n\n摧毁图腾。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8377 = "陷地"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8377 =
+        "周期性使10码内的敌人无法移动，持续4秒。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_5711 = "悲惨者奥戈姆"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_5711 =
+        "与迦玛兰一同作战。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12471 = "暗影箭"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12471 =
+        "对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_11639 = "暗言术：痛"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
+        "每3秒对一个目标造成暗影伤害，持续18秒。\n\n驱散此魔法效果。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "德姆塞卡尔"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "梦想家伊兰尼库斯直接麾下的四龙之一。他们监视着他，防止任何潜在的入侵者把他从睡梦中吵醒。"
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "德拉维沃尔"

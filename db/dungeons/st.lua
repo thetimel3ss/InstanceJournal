@@ -321,7 +321,7 @@ ST.Bosses = {
             [7] = {IJDB.I[70226], DropChance = 2}
         }
     },
-    [9] = { -- NOTE: Missing abilities
+    [9] = {
         Id = "5710",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "jammalan" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "jammalan" .. IMPF,
@@ -329,6 +329,72 @@ ST.Bosses = {
         Story = IJ_DB_DUNGEON_ST_BOSS_STORY_5710,
         MapCoordinateX = 76.0,
         MapCoordinateY = 45.5,
+        Abilities = {
+            [1] = {
+                Id = "12468",
+                Icon = "Spell_Fire_SelfDestruct",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12468,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12468
+            },
+            [2] = {
+                Id = "12492",
+                Icon = "Spell_Nature_MagicImmunity",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12492,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12492,
+                Flags = {IMAF.Interruptible}
+            },
+            [3] = {
+                Id = "12479",
+                Icon = "Spell_Totem_WardOfDraining",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12479,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12479,
+                SubAbilities = {
+                    [1] = {
+                        Id = "12480",
+                        Icon = "Spell_Shadow_AntiShadow",
+                        Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12480,
+                        Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12480,
+                        Flags = {IMAF.Curse}
+                    }
+                }
+            },
+            [4] = {
+                Id = "8376",
+                Icon = "Spell_Nature_NatureTouchDecay",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8376,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8376,
+                SubAbilities = {
+                    [1] = {
+                        Id = "8377",
+                        Icon = "Spell_Nature_NatureTouchDecay",
+                        Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8377,
+                        Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8377
+                    }
+                }
+            },
+            [5] = {
+                Id = "5711",
+                Icon = "Spell_Shadow_RaiseDead",
+                Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_5711,
+                Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_5711,
+                SubAbilities = {
+                    [1] = {
+                        Id = "12471",
+                        Icon = "Spell_Shadow_ShadowBolt",
+                        Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12471,
+                        Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12471,
+                        Flags = {IMAF.Interruptible}
+                    },
+                    [2] = {
+                        Id = "11639",
+                        Icon = "Spell_Shadow_ShadowWordPain",
+                        Name = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_11639,
+                        Effect = IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639,
+                        Flags = {IMAF.Magic}
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[10806], DropChance = 33},
             [2] = {IJDB.I[10807], DropChance = 33},

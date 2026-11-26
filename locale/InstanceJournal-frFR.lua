@@ -952,7 +952,34 @@ if GetLocale() == "frFR" then
         "Inflige des dégâts physiques à une cible et l’étourdit pendant 2 secondes."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an le Prophète"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
-        "Jammal'an est l'actuel chef des Atal'ai, la secte extrémiste de prêtres qui vénèrent fanatiquement le Hakkar. Alors qu'il était en profonde méditation, Jammal'an reçut des instructions sur la façon de ressusciter Hakkar en utilisant le sang de ses ennemis draconiques, le Vol draconique vert. Jammal'an et son garde du corps mort-vivant Ogom le Misérable se tiennent prêts à s'opposer à quiconque voudrait empêcher le retour d'Hakkar, même si les actions du prophète pourraient déclencher sur Azeroth une force encore plus terrible : le Cauchemar d'Émeraude."
+        "Jammal'an est l'actuel chef des Atal'ai, la secte extrémiste de prêtres qui vénèrent fanatiquement le Hakkar. Alors qu'il était en profonde méditation, Jammal'an reçut des instructions sur la façon de ressusciter Hakkar en utilisant le sang de ses ennemis draconiques, le Vol draconique vert. Jammal'an et son garde du corps mort-vivant Ogom le Misérable se tiennent prêts à s'opposer à quiconque voudrait empêcher le retour d'Hakkar, même si les actions du prophète pourraient déclencher sur Azeroth une force encore plus terrible : le Cauchemar d'Émeraude.\n\nJammal'an croit que le retour d'Hakkar accordera l'immortalité aux Atal'ai. Un exilé qui a remis cette prophétie en question cherche désormais à tuer le prophète, dans l'espoir de libérer la tribu de son influence."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12468 = "Choc de flammes"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12468 =
+        "Inflige des dégâts de Feu dans une zone ciblée, puis des dégâts de Feu supplémentaires toutes les 2 secondes pendant 8 secondes.\n\nSortez de la zone affectée."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12492 = "Vague de soins"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12492 =
+        "Soigne un allié après 3 secondes d’incantation.\n\nInterrompez l’incantation."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12479 = "Maléfice de Jammal'an"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12479 =
+        "Marque un joueur pendant 10 secondes avant de le transformer."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12480 = "Maléfice de Jammal'an"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12480 =
+        "Transforme le joueur marqué, augmente fortement ses dégâts physiques et le pousse à attaquer ses alliés pendant un maximum de 15 secondes.\n\nDissipez cette malédiction."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8376 = "Totem de poigne de terre"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8376 =
+        "Invoque un Totem de poigne de terre qui dure jusqu’à 30 secondes.\n\nDétruisez le totem."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8377 = "Emprise de la terre"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8377 =
+        "Immobilise périodiquement les ennemis à moins de 10 mètres pendant 4 secondes."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_5711 = "Ogom le Misérable"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_5711 =
+        "Accompagne Jammal'an au combat."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12471 = "Trait de l’ombre"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12471 =
+        "Inflige des dégâts d'Ombre à une cible."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_11639 = "Mot de l’ombre : Douleur"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
+        "Inflige des dégâts d’Ombre à une cible toutes les 3 secondes pendant 18 secondes.\n\nDissipez cet effet magique."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "Faux de rêve"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "L'un des quatre drakes sous le commandement direct d'Eranikus, le Rêveur. Ils veillent sur lui et empêchent tout intrus potentiel de le réveiller de son sommeil."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Tisserand"

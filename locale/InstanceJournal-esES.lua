@@ -952,7 +952,34 @@ if GetLocale() == "esES" then
         "Inflige daño físico a un objetivo y lo aturde durante 2 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an el Profeta"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
-        "Jammal'an es el actual líder de los Atal'ai, la secta extremista de sacerdotes que adoran fanáticamente a Hakkar. Mientras estaba en profunda meditación, Jammal'an recibió instrucciones sobre cómo resucitar a Hakkar usando la sangre de sus enemigos dracónicos, el Vuelo Verde. Jammal'an y su guardaespaldas no-muerto Ogom el Desdichado están listos para oponerse a cualquiera que impida el regreso de Hakkar, aunque las acciones del profeta pueden desatar sobre Azeroth una fuerza aún más terrible: la Pesadilla Esmeralda."
+        "Jammal'an es el actual líder de los Atal'ai, la secta extremista de sacerdotes que adoran fanáticamente a Hakkar. Mientras estaba en profunda meditación, Jammal'an recibió instrucciones sobre cómo resucitar a Hakkar usando la sangre de sus enemigos dracónicos, el Vuelo Verde. Jammal'an y su guardaespaldas no-muerto Ogom el Desdichado están listos para oponerse a cualquiera que impida el regreso de Hakkar, aunque las acciones del profeta pueden desatar sobre Azeroth una fuerza aún más terrible: la Pesadilla Esmeralda.\n\nJammal'an cree que el regreso de Hakkar concederá la inmortalidad a los Atal'ai. Un exiliado que cuestionó esta profecía busca ahora la muerte del profeta, con la esperanza de liberar a la tribu de su influencia."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12468 = "Fogonazo"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12468 =
+        "Inflige daño de Fuego en un área seleccionada y después daño de Fuego adicional cada 2 segundos durante 8 segundos.\n\nSalid del área afectada."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12492 = "Ola de sanación"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12492 =
+        "Sana a un aliado tras un lanzamiento de 3 segundos.\n\nInterrumpid el lanzamiento."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12479 = "Maleficio de Jammal'an"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12479 =
+        "Marca a un jugador durante 10 segundos antes de transformarlo."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12480 = "Maleficio de Jammal'an"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12480 =
+        "Transforma al jugador marcado, aumenta considerablemente su daño físico y hace que ataque a sus aliados durante un máximo de 15 segundos.\n\nEliminad esta maldición."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8376 = "Tótem Pillaterra"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8376 =
+        "Invoca un Tótem Pillaterra que dura hasta 30 segundos.\n\nDestruid el tótem."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8377 = "Agarre de tierra"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8377 =
+        "Inmoviliza periódicamente a los enemigos en un radio de 10 metros durante 4 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_5711 = "Ogom el Desdichado"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_5711 =
+        "Acompaña a Jammal'an en combate."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12471 = "Descarga de las Sombras"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12471 =
+        "Inflige daño de las Sombras a un objetivo."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_11639 = "Palabra de las Sombras: dolor"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
+        "Inflige daño de las Sombras a un objetivo cada 3 segundos durante 18 segundos.\n\nDisipad este efecto mágico."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "guadaña de sueños"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Uno de los cuatro dracos bajo el mando directo de Eranikus, el Soñador. Lo vigilan y evitan que cualquier posible intruso lo despierte de su letargo."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Tejedor"

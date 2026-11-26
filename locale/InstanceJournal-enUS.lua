@@ -1177,7 +1177,34 @@ IJ_DB_DUNGEON_ST_BOSS_5714_ABILITY_EFFECT_8242 =
     "Deals Physical damage to a target and stuns it for 2 seconds."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an the Prophet"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
-    "Jammal'an is the current leader of the Atal'ai, the extremist sect of priests who fanatically worship Hakkar. While in deep meditation, Jammal'an received instructions on how to resurrect Hakkar by using the blood of his draconic foes, the green dragonflight. Jammal'an and his undead bodyguard Ogom the Wretched stand ready to oppose any who would prevent Hakkar's return, though the prophet's actions may unleash upon Azeroth an even more terrible force: the Emerald Nightmare."
+    "Jammal'an is the current leader of the Atal'ai, the extremist sect of priests who fanatically worship Hakkar. While in deep meditation, Jammal'an received instructions on how to resurrect Hakkar by using the blood of his draconic foes, the green dragonflight. Jammal'an and his undead bodyguard Ogom the Wretched stand ready to oppose any who would prevent Hakkar's return, though the prophet's actions may unleash upon Azeroth an even more terrible force: the Emerald Nightmare.\n\nJammal'an believes that Hakkar's return will grant immortality to the Atal'ai. An exile who questioned this prophecy now seeks the prophet's death, hoping to free the tribe from his influence."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12468 = "Flamestrike"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12468 =
+    "Deals Fire damage in a selected area, followed by additional Fire damage every 2 seconds for 8 seconds. Move out of the affected area."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12492 = "Healing Wave"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12492 =
+    "Heals an ally after a 3-second cast.\n\nInterrupt the cast."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12479 = "Hex of Jammal'an"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12479 =
+    "Marks a player for 10 seconds before transforming them."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12480 = "Hex of Jammal'an"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12480 =
+    "Transforms the marked player, greatly increasing their Physical damage and turning them against their allies for up to 15 seconds.\n\nRemove this curse."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8376 = "Earthgrab Totem"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8376 =
+    "Summons an Earthgrab Totem that lasts up to 30 seconds.\n\nDestroy the totem."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8377 = "Earthgrab"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8377 =
+    "Periodically immobilizes enemies within 10 yards for 4 seconds."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_5711 = "Ogom the Wretched"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_5711 =
+    "Accompanies Jammal'an in battle."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12471 = "Shadow Bolt"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12471 =
+    "Deals Shadow damage to a target."
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_11639 = "Shadow Word: Pain"
+IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
+    "Deals Shadow damage to a target every 3 seconds for 18 seconds.\n\nDispel this magic effect."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "Dreamscythe"
 IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "One of the four drake under the direct command of Eranikus, the Dreamer. They are watching over him and prevent any potential intruder from waking him from his slumber."
 IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Weaver"

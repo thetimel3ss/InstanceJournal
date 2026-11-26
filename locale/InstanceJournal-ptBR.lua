@@ -950,7 +950,34 @@ if GetLocale() == "ptBR" then
         "Causa dano Físico a um alvo e o atordoa por 2 segundos."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an, o Profeta"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
-        "Jammal'an é o atual líder dos Atal'ai, a seita extremista de sacerdotes que adoram Hakkar fanaticamente. Enquanto estava em meditação profunda, Jammal'an recebeu instruções sobre como ressuscitar Hakkar usando o sangue de seus inimigos dracônicos, a revoada dragônica verde. Jammal'an e seu guarda-costas morto-vivo Ogom, o Miserável, estão prontos para se opor a qualquer um que impeça o retorno de Hakkar, embora as ações do profeta possam desencadear em Azeroth uma força ainda mais terrível: o Pesadelo Esmeralda."
+        "Jammal'an é o atual líder dos Atal'ai, a seita extremista de sacerdotes que adoram Hakkar fanaticamente. Enquanto estava em meditação profunda, Jammal'an recebeu instruções sobre como ressuscitar Hakkar usando o sangue de seus inimigos dracônicos, a revoada dragônica verde. Jammal'an e seu guarda-costas morto-vivo Ogom, o Miserável, estão prontos para se opor a qualquer um que impeça o retorno de Hakkar, embora as ações do profeta possam desencadear em Azeroth uma força ainda mais terrível: o Pesadelo Esmeralda.\n\nJammal'an acredita que o retorno de Hakkar concederá imortalidade aos Atal'ai. Um exilado que questionou essa profecia agora busca a morte do profeta, na esperança de libertar a tribo de sua influência."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12468 = "Golpe Flamejante"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12468 =
+        "Causa dano de Fogo em uma área selecionada, seguido de dano de Fogo adicional a cada 2 segundos por 8 segundos.\n\nSaia da área afetada."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12492 = "Onda Curativa"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12492 =
+        "Cura um aliado após uma conjuração de 3 segundos.\n\nInterrompa a conjuração."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12479 = "Bagata de Jammal'an"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12479 =
+        "Marca um jogador por 10 segundos antes de transformá-lo."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12480 = "Bagata de Jammal'an"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12480 =
+        "Transforma o jogador marcado, aumentando muito seu dano Físico e fazendo-o atacar seus aliados por até 15 segundos.\n\nRemova essa maldição."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8376 = "Totem de Garra Terrena"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8376 =
+        "Invoca um Totem de Garra Terrena que dura até 30 segundos.\n\nDestrua o totem."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8377 = "Agarrar Terra"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8377 =
+        "Imobiliza periodicamente os inimigos em um raio de 10 metros por 4 segundos."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_5711 = "Ogom, o Miserável"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_5711 =
+        "Acompanha Jammal'an na batalha."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12471 = "Seta Sombria"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12471 =
+        "Causa dano de Sombra a um alvo."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_11639 = "Palavra Sombria: Dor"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
+        "Causa dano de Sombra a um alvo a cada 3 segundos por 18 segundos.\n\nDissipe esse efeito mágico."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "Foice dos Sonhos"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Um dos quatro drakes sob o comando direto de Eranikus, o Dreamer. Eles estão cuidando dele e evitando que qualquer intruso em potencial o acorde de seu sono."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Tecelão"

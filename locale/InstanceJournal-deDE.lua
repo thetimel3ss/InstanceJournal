@@ -954,7 +954,34 @@ if GetLocale() == "deDE" then
         "Fügt einem Ziel körperlichen Schaden zu und betäubt es 2 Sekunden lang."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5710 = "Jammal'an der Prophet"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5710 =
-        "Jammal'an ist der derzeitige Anführer der Atal'ai, der extremistischen Sekte von Priestern, die Hakkar fanatisch verehren. Während er tief meditierte, erhielt Jammal'an Anweisungen, wie er Hakkar mithilfe des Blutes seiner drakonischen Feinde, des grünen Drachenschwarms, wiederbeleben kann. Jammal'an und sein untoter Leibwächter Ogom der Elende sind bereit, sich jedem entgegenzustellen, der Hakkars Rückkehr verhindern möchte, obwohl die Taten des Propheten möglicherweise eine noch schrecklichere Macht auf Azeroth entfesseln: den Smaragdgrünen Albtraum."
+        "Jammal'an ist der derzeitige Anführer der Atal'ai, der extremistischen Sekte von Priestern, die Hakkar fanatisch verehren. Während er tief meditierte, erhielt Jammal'an Anweisungen, wie er Hakkar mithilfe des Blutes seiner drakonischen Feinde, des grünen Drachenschwarms, wiederbeleben kann. Jammal'an und sein untoter Leibwächter Ogom der Elende sind bereit, sich jedem entgegenzustellen, der Hakkars Rückkehr verhindern möchte, obwohl die Taten des Propheten möglicherweise eine noch schrecklichere Macht auf Azeroth entfesseln: den Smaragdgrünen Albtraum.\n\nJammal'an glaubt, dass Hakkars Rückkehr den Atal'ai Unsterblichkeit verleihen wird. Ein Verbannter, der diese Prophezeiung infrage stellte, trachtet nun nach dem Tod des Propheten, um den Stamm von seinem Einfluss zu befreien."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12468 = "Flammenstoß"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12468 =
+        "Verursacht Feuerschaden in einem ausgewählten Bereich und anschließend 8 Sekunden lang alle 2 Sekunden zusätzlichen Feuerschaden.\n\nVerlasst den betroffenen Bereich."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12492 = "Welle der Heilung"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12492 =
+        "Heilt einen Verbündeten nach 3 Sekunden Zauberzeit.\n\nUnterbrecht den Zauber."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12479 = "Verhexung von Jammal'an"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12479 =
+        "Markiert einen Spieler 10 Sekunden lang, bevor er verwandelt wird."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12480 = "Verhexung von Jammal'an"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12480 =
+        "Verwandelt den markierten Spieler, erhöht seinen körperlichen Schaden stark und lässt ihn bis zu 15 Sekunden lang seine Verbündeten angreifen.\n\nEntfernt diesen Fluch."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8376 = "Totem des Erdengriffs"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8376 =
+        "Beschwört ein Totem des Erdengriffs, das bis zu 30 Sekunden bestehen bleibt.\n\nZerstört das Totem."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_8377 = "Erdengriff"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_8377 =
+        "Macht Gegner innerhalb von 10 Metern regelmäßig 4 Sekunden lang bewegungsunfähig."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_5711 = "Ogom der Elende"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_5711 =
+        "Begleitet Jammal'an im Kampf."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_12471 = "Schattenblitz"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_12471 =
+        "Fügt einem Ziel Schattenschaden zu."
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_NAME_11639 = "Schattenwort: Schmerz"
+    IJ_DB_DUNGEON_ST_BOSS_5710_ABILITY_EFFECT_11639 =
+        "Fügt einem Ziel 18 Sekunden lang alle 3 Sekunden Schattenschaden zu.\n\nEntfernt diesen magischen Effekt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5721 = "Traumsense"
     IJ_DB_DUNGEON_ST_BOSS_STORY_5721 = "Einer der vier Drachen unter dem direkten Kommando von Eranikus, dem Träumer. Sie wachen über ihn und verhindern, dass ein potenzieller Eindringling ihn aus seinem Schlaf weckt."
     IJ_DB_DUNGEON_ST_BOSS_NAME_5720 = "Weber"
