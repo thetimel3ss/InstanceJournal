@@ -2515,7 +2515,16 @@ if GetLocale() == "esES" then
         "Hace que las bestias en un radio de 5 metros huyan aterrorizadas durante 10 segundos."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "Corrimiento de tierras"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
-        "Durante años, el antiguo gigante de las montañas conocido como Landslide cultivó brillantes jardines de cristal en Maraudon, pero Theradras cautivó al gigante cuando se instaló allí. Este gigante que alguna vez fue estoico ahora vive solo para servir a su nuevo y tiránico amo."
+        "Durante años, el antiguo gigante de las montañas conocido como Landslide cultivó brillantes jardines de cristal en Maraudon, pero Theradras cautivó al gigante cuando se instaló allí. Este gigante que alguna vez fue estoico ahora vive solo para servir a su nuevo y tiránico amo.\n\nSu cuerpo está hecho de mármol, y los artesanos buscan fragmentos de él para forjar armas poderosas."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_5568 = "Pisotear"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_5568 =
+        "Inflige daño Físico a los enemigos en un radio de 10 metros."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_18670 = "Repeler"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_18670 =
+        "Inflige daño físico a un objetivo y lo repele."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_21808 = "Invocar fragmentinos"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_21808 =
+        "Aturde a los enemigos cercanos durante 8 segundos e invoca fragmentinos Theradrim cada 2 segundos durante ese tiempo.\n\nEncargaos de los elementales invocados."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13596 = "Rotgrip"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13596 =
         "Se rumorea que Rotgrip ha habitado en las aguas subterráneas de Maraudon durante milenios. El famoso cazador enano Hemet Nesingwary proclamó una vez que no se podía encontrar a la bestia, y varios rastreadores aficionados aceptaron el desafío de buscar a la criatura legendaria. Ninguno de ellos regresó jamás."

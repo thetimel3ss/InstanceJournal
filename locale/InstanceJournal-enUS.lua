@@ -3331,7 +3331,16 @@ IJ_DB_DUNGEON_MARA_BOSS_13601_ABILITY_EFFECT_29419 =
     "Causes beasts in a 5-yard radius to flee in fear for 10 seconds."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "Landslide"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
-    "For years, the ancient mountain giant known as Landslide cultivated brilliant crystal gardens in Maraudon, but Theradras enthralled the behemoth when she took up residence there. This once-stoic giant now lives only to serve his tyrannical new master."
+    "For years, the ancient mountain giant known as Landslide cultivated brilliant crystal gardens in Maraudon, but Theradras enthralled the behemoth when she took up residence there. This once-stoic giant now lives only to serve his tyrannical new master.\n\nHis body is made of marble stone, and craftspeople seek pieces of it to forge powerful weapons."
+IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_5568 = "Trample"
+IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_5568 =
+    "Deals Physical damage to enemies within 10 yards."
+IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_18670 = "Knock Away"
+IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_18670 =
+    "Deals Physical damage to a target and knocks it back."
+IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_21808 = "Summon Shardlings"
+IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_21808 =
+    "Stuns nearby enemies for 8 seconds and summons Theradrim Shardlings every 2 seconds during that time.\n\nDeal with the summoned elementals."
 IJ_DB_DUNGEON_MARA_BOSS_NAME_13596 = "Rotgrip"
 IJ_DB_DUNGEON_MARA_BOSS_STORY_13596 =
     "Rumor has it that Rotgrip has dwelled in Maraudon's subterranean waters for millennia. The famed dwarven hunter Hemet Nesingwary once proclaimed that the beast could not be found, and a number of amateur trackers accepted the challenge of seeking out the legendary creature. None of them ever returned."

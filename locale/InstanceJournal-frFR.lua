@@ -2515,7 +2515,16 @@ if GetLocale() == "frFR" then
         "Fait fuir de peur les bêtes dans un rayon de 5 mètres pendant 10 secondes."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "Glissement de terrain"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
-        "Pendant des années, l'ancien géant des montagnes connu sous le nom de Landslide a cultivé de brillants jardins de cristal à Maraudon, mais Theradras a captivé le géant lorsqu'elle y a élu domicile. Ce géant autrefois stoïque ne vit désormais que pour servir son nouveau maître tyrannique."
+        "Pendant des années, l'ancien géant des montagnes connu sous le nom de Landslide a cultivé de brillants jardins de cristal à Maraudon, mais Theradras a captivé le géant lorsqu'elle y a élu domicile. Ce géant autrefois stoïque ne vit désormais que pour servir son nouveau maître tyrannique.\n\nSon corps est fait de marbre, dont les artisans recherchent des fragments pour forger de puissantes armes."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_5568 = "Piétinement"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_5568 =
+        "Inflige des dégâts physiques aux ennemis dans un rayon de 10 mètres."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_18670 = "Repousser"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_18670 =
+        "Inflige des dégâts physiques à une cible et la repousse."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_21808 = "Invocation d’éclats"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_21808 =
+        "Étourdit les ennemis proches pendant 8 secondes et invoque des éclats de Theradrim toutes les 2 secondes pendant ce temps.\n\nOccupez-vous des élémentaires invoqués."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13596 = "Rotgrip"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13596 =
         "La rumeur veut que Rotgrip habite les eaux souterraines de Maraudon depuis des millénaires. Le célèbre chasseur nain Hemet Nesingwary a un jour proclamé que la bête était introuvable, et un certain nombre de pisteurs amateurs ont accepté le défi de rechercher la créature légendaire. Aucun d’eux n’est jamais revenu."

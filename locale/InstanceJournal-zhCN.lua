@@ -3424,7 +3424,16 @@ if GetLocale() == "zhCN" then
         "使5码范围内的野兽因恐惧而逃跑，持续10秒。"
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "兰斯利德"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
-        "多年来，被称为“滑坡”的古老山地巨人在玛拉顿培育了辉煌的水晶花园，但当瑟莱德丝在那里定居时，她被这个庞然大物迷住了。这个曾经坚忍的巨人现在活着只是为了服务他暴虐的新主人。"
+        "多年来，被称为“滑坡”的古老山地巨人在玛拉顿培育了辉煌的水晶花园，但当瑟莱德丝在那里定居时，她被这个庞然大物迷住了。这个曾经坚忍的巨人现在活着只是为了服务他暴虐的新主人。\n\n他的身体由大理石构成，工匠们寻求取得其中的碎块，用来锻造强大的武器。"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_5568 = "践踏"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_5568 =
+        "对10码内的敌人造成物理伤害。"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_18670 = "击飞"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_18670 =
+        "对一个目标造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_21808 = "召唤碎片"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_21808 =
+        "使附近的敌人昏迷8秒，期间每2秒召唤一个瑟莱德丝碎片。\n\n处理召唤的元素生物。"
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13596 = "洛特格里普"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13596 =
         "有传言说，罗特格里普已经在玛拉顿的地下水中居住了数千年。著名的矮人猎人赫米特·奈辛瓦里曾宣称无法找到这种野兽，许多业余追踪者接受了寻找这种传奇生物的挑战。他们都没有回来。"

@@ -2517,7 +2517,16 @@ if GetLocale() == "deDE" then
         "Versetzt Wildtiere innerhalb eines Radius von 5 Metern 10 Sekunden lang in Furcht."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_12203 = "Erdrutsch"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_12203 =
-        "Jahrelang kultivierte der uralte Bergriese namens Erdslide leuchtende Kristallgärten in Maraudon, doch Theradras faszinierte den Giganten, als sie sich dort niederließ. Dieser einst stoische Riese lebt jetzt nur noch, um seinem tyrannischen neuen Herrn zu dienen."
+        "Jahrelang kultivierte der uralte Bergriese namens Erdslide leuchtende Kristallgärten in Maraudon, doch Theradras faszinierte den Giganten, als sie sich dort niederließ. Dieser einst stoische Riese lebt jetzt nur noch, um seinem tyrannischen neuen Herrn zu dienen.\n\nSein Körper besteht aus Marmor, und Handwerker suchen nach Stücken davon, um mächtige Waffen zu schmieden."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_5568 = "Trampeln"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_5568 =
+        "Fügt Gegnern im Umkreis von 10 Metern körperlichen Schaden zu."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_18670 = "Wegschlagen"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_18670 =
+        "Fügt einem Ziel körperlichen Schaden zu und stößt es zurück."
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_21808 = "Splitterlinge beschwören"
+    IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_21808 =
+        "Betäubt Gegner in der Nähe 8 Sekunden lang und beschwört währenddessen alle 2 Sekunden Theradrimsplitterlinge.\n\nKümmert euch um die beschworenen Elementare."
     IJ_DB_DUNGEON_MARA_BOSS_NAME_13596 = "Rotgrip"
     IJ_DB_DUNGEON_MARA_BOSS_STORY_13596 =
         "Gerüchten zufolge lebt Rotgrip seit Jahrtausenden in den unterirdischen Gewässern von Maraudon. Der berühmte Zwergenjäger Hemet Nesingwary verkündete einst, dass die Bestie nicht gefunden werden könne, und eine Reihe von Amateur-Fährtenlesern nahmen die Herausforderung an, die legendäre Kreatur aufzuspüren. Keiner von ihnen kehrte jemals zurück."

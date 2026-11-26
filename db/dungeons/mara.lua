@@ -246,7 +246,7 @@ MARA.Bosses = {
             [5] = {IJDB.I[51809], DropChance = 8}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "12203",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "landslide" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "landslide" .. IMPF,
@@ -254,6 +254,26 @@ MARA.Bosses = {
         Story = IJ_DB_DUNGEON_MARA_BOSS_STORY_12203,
         MapCoordinateX = 32.2,
         MapCoordinateY = 60.3,
+        Abilities = {
+            [1] = {
+                Id = "5568",
+                Icon = "Spell_Nature_NaturesWrath",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_5568,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_5568
+            },
+            [2] = {
+                Id = "18670",
+                Icon = "INV_Gauntlets_05",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_18670,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_18670
+            },
+            [3] = {
+                Id = "21808",
+                Icon = "Spell_Nature_Earthquake",
+                Name = IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_NAME_21808,
+                Effect = IJ_DB_DUNGEON_MARA_BOSS_12203_ABILITY_EFFECT_21808
+            }
+        },
         Loot = {
             [1] = {IJDB.I[17734], DropChance = 25}, 
             [2] = {IJDB.I[17736], DropChance = 25}, 
