@@ -3232,13 +3232,13 @@ if GetLocale() == "deDE" then
         "Als betrügerischer Schurke und eigennütziger Lakai dient Dustivan Blackcowl König Graumähne wie ein gehorsamer Hund. Kürzlich wurde er damit beauftragt, die Urkunde der Ebonmere-Farm zu stehlen. Er versteckte sich tief in den Eingeweiden der Stadt, um seine unrechtmäßig erworbenen Besitztümer vor denen zu schützen, die das Erstgeburtsrecht ihrer Familie zurückfordern wollten."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61423 = "Marschall Magnus Greystone"
     IJ_DB_DUNGEON_GC_BOSS_NAME_61605 = "Pferdemeister Levvin"
-    IJ_DB_DUNGEON_GC_BOSS_STORY_61605 = "Informationen über Reitermeister Levvin sind derzeit begrenzt, obwohl er als bestätigter Bewohner der stark befestigten Stadt Gilneas gilt."
+    IJ_DB_DUNGEON_GC_BOSS_STORY_61605 = "Reitermeister Levvin kümmert sich um die Ställe des Graumähnenturms in Gilneas."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61263 = "Familie Harlow"
     IJ_DB_DUNGEON_GC_BOSS_STORY_61263 =
-        "Regent-Lady Celia und Regent-Lord Mortimer Harlow sind die heimlichen Architekten des Verfalls des Königreichs. In Wahrheit handelt es sich um Drachenkin des Schwarzen Drachenschwarms, der seit langem den Stolz von Gilneas manipuliert, um Bürgerkrieg und Konflikte zu schüren. Ihre bösen Machenschaften sind die Wurzel des drakonischen Einflusses, der rückgängig gemacht werden muss, um das Land zu retten."
+        "Regent-Lady Celia und Regent-Lord Mortimer Harlow sind die heimlichen Architekten des Verfalls des Königreichs. In Wahrheit handelt es sich um Drachenkin des Schwarzen Drachenschwarms, der seit langem den Stolz von Gilneas manipuliert, um Bürgerkrieg und Konflikte zu schüren. Ihre bösen Machenschaften sind die Wurzel des drakonischen Einflusses, der rückgängig gemacht werden muss, um das Land zu retten.\n\nDie Harlows verschworen sich auch mit Vater Lycan, einem Worgenblutmagier, dessen dunkle Praktiken sie duldeten, solange diese ihren Ambitionen dienten. Celias Tagebuch liefert einen Hinweis auf seine Machenschaften."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61418 = "Genn Graumähne"
     IJ_DB_DUNGEON_GC_BOSS_STORY_61418 =
-        "Der hartnäckige und stolze König von Gilneas war einst eine legendäre Macht innerhalb der Allianz, aber jetzt herrscht er über ein zerfallendes Königreich. Im Graumähneturm bewacht er den Splitter der Mitternacht – ein verderbendes Artefakt, das ihm Lord Prestor verliehen hat. Obwohl er die Nation nicht mehr im Griff hat, machen ihn seine Macht und sein Stolz zu einer gefährlichen Beute für jeden, der seine Herrschaft beenden will."
+        "Der hartnäckige und stolze König von Gilneas war einst eine legendäre Macht innerhalb der Allianz, aber jetzt herrscht er über ein zerfallendes Königreich. Im Graumähneturm bewacht er den Splitter der Mitternacht – ein verderbendes Artefakt, das ihm Lord Prestor verliehen hat. Obwohl er die Nation nicht mehr im Griff hat, machen ihn seine Macht und sein Stolz zu einer gefährlichen Beute für jeden, der seine Herrschaft beenden will.\n\nDer Kampf um seine Krone hat gegnerische Mächte in die Stadt gelockt. Gilnearische Rebellen wollen Liam Graumähne zum König ernennen, während Agenten der Verlassenen ausgesandt werden, um Genns Kopf zu holen und seine erneute Machtübernahme zu verhindern."
 
     -- CG
     IJ_DB_DUNGEON_CG_NAME = "Crescent Grove"

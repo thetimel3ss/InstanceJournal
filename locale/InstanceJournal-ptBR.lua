@@ -3227,13 +3227,13 @@ if GetLocale() == "ptBR" then
         "Um trapaceiro vigarista e lacaio egoísta, Dustivan Blackcowl serve o Rei Greymane como um cão obediente. Ele foi recentemente contratado para roubar a escritura da Fazenda Ebonmere, escondendo-se nas entranhas da cidade para proteger seus ganhos ilícitos daqueles que buscam recuperar o direito de nascença de sua família."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61423 = "Marechal Magnus Greystone"
     IJ_DB_DUNGEON_GC_BOSS_NAME_61605 = "Cavaleiro Levvin"
-    IJ_DB_DUNGEON_GC_BOSS_STORY_61605 = "As informações sobre o Horsemaster Levvin são atualmente limitadas, embora ele seja reconhecido como um morador confirmado da fortemente fortificada cidade de Guilnéas."
+    IJ_DB_DUNGEON_GC_BOSS_STORY_61605 = "O mestre dos cavalos Levvin cuida das cavalariças da Torre Greymane, na cidade de Guilnéas."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61263 = "Família Harlow"
     IJ_DB_DUNGEON_GC_BOSS_STORY_61263 =
-        "A Regente-Lady Celia e o Regente-Lorde Mortimer Harlow são os arquitetos secretos da decadência do reino. Na verdade, eles são Dragonkin da Revoada Negra que há muito manipulam o orgulho de Guilnéas para atiçar a guerra civil e o conflito. Suas maquinações malignas são a raiz da influência dracônica que deve ser desfeita para salvar a terra."
+        "A Regente-Lady Celia e o Regente-Lorde Mortimer Harlow são os arquitetos secretos da decadência do reino. Na verdade, eles são Dragonkin da Revoada Negra que há muito manipulam o orgulho de Guilnéas para atiçar a guerra civil e o conflito. Suas maquinações malignas são a raiz da influência dracônica que deve ser desfeita para salvar a terra.\n\nOs Harlows também conspiraram com Padre Lycan, um mago de sangue Worgen cujas práticas sombrias toleravam quando elas atendiam às suas ambições. O diário de Celia oferece uma pista sobre suas atividades."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61418 = "Genn Greymane"
     IJ_DB_DUNGEON_GC_BOSS_STORY_61418 =
-        "O teimoso e orgulhoso Rei de Guilnéas já foi uma força lendária dentro da Aliança, mas agora preside um reino em ruínas. Dentro da Torre Greymane, ele guarda o Fragmento da Meia-Noite – um artefato corruptor concedido a ele por Lord Prestor. Embora seu controle sobre a nação tenha diminuído, seu poder e orgulho fazem dele uma presa perigosa para qualquer um que queira acabar com seu reinado."
+        "O teimoso e orgulhoso Rei de Guilnéas já foi uma força lendária dentro da Aliança, mas agora preside um reino em ruínas. Dentro da Torre Greymane, ele guarda o Fragmento da Meia-Noite – um artefato corruptor concedido a ele por Lord Prestor. Embora seu controle sobre a nação tenha diminuído, seu poder e orgulho fazem dele uma presa perigosa para qualquer um que queira acabar com seu reinado.\n\nA disputa por sua coroa atraiu forças rivais para a cidade. Os rebeldes gilneanos pretendem coroar Liam Greymane, enquanto agentes dos Renegados são enviados para obter a cabeça de Genn e impedir que ele recupere o controle."
 
     -- CG
     IJ_DB_DUNGEON_CG_NAME = "Bosque Crescente"
@@ -5018,7 +5018,7 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DME_BOSS_STORY_11492 =
         "Alzzin, o Moldador Selvagem, nem sempre foi a criatura que agora apodrece dentro do Grão-Malo. Outrora um druida de Hyjal e portador do mesmo título que ainda reivindica, ele se tornou uma zombaria distorcida dos ideais que uma vez defendeu. Agora contado entre os sátiros, Alzzin busca nada menos que a corrupção total de Feralas. Dentro do Santuário de Eldretharr, ele vinculou espíritos antigos à sua vontade, recorrendo à vitalidade da floresta para moldá-la e controlá-la como quiser. Onde antes ele alimentava a vida, agora ele a perverte, transformando a natureza selvagem em uma extensão de sua própria corrupção."
     IJ_DB_DUNGEON_GC_BOSS_STORY_61419 =
-        "Enquanto isso, após o surto de Worgen, Holtz e seu destacamento impuseram um bloqueio rigoroso no distrito de entrada da cidade depois que ele foi invadido, isolando-o em uma tentativa desesperada de conter o caos. Embora pouco se saiba sobre o próprio homem, o seu papel naquelas horas frenéticas permanece como um testemunho das medidas sombrias tomadas para preservar o que restou de Guilnéas."
+        "Após o surto de Worgen, Holtz e seu destacamento impuseram um bloqueio rigoroso no distrito de entrada da cidade depois que ele foi invadido, isolando-o em uma tentativa desesperada de conter o caos. Embora pouco se saiba sobre o próprio homem, o seu papel naquelas horas frenéticas permanece como um testemunho das medidas sombrias tomadas para preservar o que restou de Guilnéas."
     IJ_DB_DUNGEON_GC_BOSS_STORY_61420 =
         "Como líder da matilha Darkpelt, ele liderou o ataque worgen que invadiu a entrada da cidade, transformando ruas antes vigiadas em campos de caça. A sua ferocidade forçou os soldados da coroa a selar o distrito sob estrito confinamento, despachando destacamentos monarquistas para conter a propagação e abater os animais lá dentro."
     IJ_DB_DUNGEON_GC_BOSS_STORY_61423 =

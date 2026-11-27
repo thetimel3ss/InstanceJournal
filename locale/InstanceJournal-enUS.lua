@@ -4403,7 +4403,7 @@ IJ_DB_DUNGEON_GC_STORY =
 -- GC Bosses
 IJ_DB_DUNGEON_GC_BOSS_NAME_61419 = "Matthias Holtz"
 IJ_DB_DUNGEON_GC_BOSS_STORY_61419 =
-    "WhiIn the wake of the worgen outbreak, Holtz and his detachment enforced a strict lockdown over the city’s entrance district after it was overrun, sealing it off in a desperate attempt to contain the chaos. Though little is known of the man himself, his role in those frantic hours endures as a testament to the grim measures taken to preserve what remained of Gilneas."
+    "In the wake of the worgen outbreak, Holtz and his detachment enforced a strict lockdown over the city’s entrance district after it was overrun, sealing it off in a desperate attempt to contain the chaos. Though little is known of the man himself, his role in those frantic hours endures as a testament to the grim measures taken to preserve what remained of Gilneas."
 IJ_DB_DUNGEON_GC_BOSS_NAME_61420 = "Packmaster Ragetooth"
 IJ_DB_DUNGEON_GC_BOSS_STORY_61420 =
     "As leader of the Darkpelt pack, he spearheaded the worgen assault that overran the city’s entrance, turning once-guarded streets into hunting grounds. His ferocity forced the crown’s soldiers to seal the district under strict lockdown, dispatching royalist detachments to contain the spread and cull the beasts within."
@@ -4417,13 +4417,13 @@ IJ_DB_DUNGEON_GC_BOSS_NAME_61423 = "Marshal Magnus Greystone"
 IJ_DB_DUNGEON_GC_BOSS_STORY_61423 =
     "The history of Marshal Magnus Greystone remains largely unwritten, yet what little is known speaks of a life spent in constant war. A veteran of the Second War, he served as Marshal throughout the orcish incursions, standing as a steadfast defender of Gilneas in its darkest hours. Years later, as civil war consumed the kingdom, Greystone commanded the defenses of Gilneas City, holding the line not only against invaders, but against the very people he once fought to protect. Even so, his deeds were never fully recorded, leaving behind only the memory of a soldier who never abandoned his post."
 IJ_DB_DUNGEON_GC_BOSS_NAME_61605 = "Horsemaster Levvin"
-IJ_DB_DUNGEON_GC_BOSS_STORY_61605 = "Information on Horsemaster Levvin is currently limited, though he is recognized as a confirmed dweller of the heavily fortified Gilneas City."
+IJ_DB_DUNGEON_GC_BOSS_STORY_61605 = "Horsemaster Levvin tends the stables of Greymane Tower in Gilneas City."
 IJ_DB_DUNGEON_GC_BOSS_NAME_61263 = "Harlow Family"
 IJ_DB_DUNGEON_GC_BOSS_STORY_61263 =
-    "Regent-Lady Celia and Regent-Lord Mortimer Harlow are the secret architects of the kingdom's decay. In truth, they are Dragonkin of the Black Dragonflight who have long manipulated the pride of Gilneas to stoke civil war and conflict. Their evil machinations are the root of the draconic influence that must be undone to save the land."
+    "Regent-Lady Celia and Regent-Lord Mortimer Harlow are the secret architects of the kingdom's decay. In truth, they are Dragonkin of the Black Dragonflight who have long manipulated the pride of Gilneas to stoke civil war and conflict. Their evil machinations are the root of the draconic influence that must be undone to save the land.\n\nThe Harlows also conspired with Father Lycan, a worgen bloodmage whose dark practices they tolerated when these served their ambitions. Celia's journal offers a clue to his activities."
 IJ_DB_DUNGEON_GC_BOSS_NAME_61418 = "Genn Greymane"
 IJ_DB_DUNGEON_GC_BOSS_STORY_61418 =
-    "The stubborn and proud King of Gilneas was once a legendary force within the Alliance, but he now presides over a crumbling kingdom. Within the Greymane Tower, he guards the Shard of Midnight-a corrupting artifact bestowed upon him by Lord Prestor. Though his grip on the nation has slipped, his power and pride make him a dangerous quarry for any who seek to end his reign."
+    "The stubborn and proud King of Gilneas was once a legendary force within the Alliance, but he now presides over a crumbling kingdom. Within the Greymane Tower, he guards the Shard of Midnight-a corrupting artifact bestowed upon him by Lord Prestor. Though his grip on the nation has slipped, his power and pride make him a dangerous quarry for any who seek to end his reign.\n\nThe struggle for his crown has drawn opposing powers into the city. Gilnean rebels seek to name Liam Greymane king, while agents of the Forsaken are sent to take Genn's head and prevent him from regaining control."
 
 -- GC Loot
 IJ_LOOT_NAME_61305 = "Darkwatch Pants"

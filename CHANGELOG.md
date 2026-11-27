@@ -14,6 +14,7 @@ All changes to this project will be documented in this file.
 
 ### Changed
 
+- Updated selected boss lore in `Gilneas City`
 - Expanded selected boss lore in `Maraudon`
 - Expanded boss lore in `The Temple of Atal'Hakkar`
 - Added Fear Ward prevention guidance for `Antnormi` in `Black Morass`

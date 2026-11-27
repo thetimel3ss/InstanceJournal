@@ -3230,13 +3230,13 @@ if GetLocale() == "frFR" then
         "Voleur escroc et laquais égoïste, Dustivan Blackcowl sert le roi Grisetête comme un chien obéissant. Il a récemment été employé pour voler le titre de propriété de la ferme d'Ébonmere, se cachant au plus profond des entrailles de la ville pour protéger ses biens mal acquis de ceux qui cherchaient à récupérer leur droit de naissance familial."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61423 = "Maréchal Magnus Greystone"
     IJ_DB_DUNGEON_GC_BOSS_NAME_61605 = "Maître des chevaux Levvin"
-    IJ_DB_DUNGEON_GC_BOSS_STORY_61605 = "Les informations sur le maître des chevaux Levvin sont actuellement limitées, bien qu'il soit reconnu comme un habitant confirmé de la ville fortement fortifiée de Gilnéas."
+    IJ_DB_DUNGEON_GC_BOSS_STORY_61605 = "Le maître des chevaux Levvin s’occupe des écuries de la tour Grisetête, dans la cité de Gilnéas."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61263 = "Famille Harlow"
     IJ_DB_DUNGEON_GC_BOSS_STORY_61263 =
-        "La régente Lady Celia et le régent Lord Mortimer Harlow sont les architectes secrets de la décadence du royaume. En vérité, ce sont des Dragonkins du Vol draconique noir qui ont longtemps manipulé la fierté de Gilnéas pour attiser la guerre civile et les conflits. Leurs machinations maléfiques sont à l’origine de l’influence draconique qui doit être défait pour sauver la terre."
+        "La régente Lady Celia et le régent Lord Mortimer Harlow sont les architectes secrets de la décadence du royaume. En vérité, ce sont des Dragonkins du Vol draconique noir qui ont longtemps manipulé la fierté de Gilnéas pour attiser la guerre civile et les conflits. Leurs machinations maléfiques sont à l’origine de l’influence draconique qui doit être défait pour sauver la terre.\n\nLes Harlow ont également conspiré avec le Père Lycan, un mage de sang worgen dont ils toléraient les sombres pratiques lorsqu’elles servaient leurs ambitions. Le journal de Celia offre un indice sur ses activités."
     IJ_DB_DUNGEON_GC_BOSS_NAME_61418 = "Genn Grisetête"
     IJ_DB_DUNGEON_GC_BOSS_STORY_61418 =
-        "Le roi têtu et fier de Gilnéas était autrefois une force légendaire au sein de l'Alliance, mais il préside désormais un royaume en ruine. Dans la Tour Grisetête, il garde l'Éclat de Minuit, un artefact corrupteur qui lui a été offert par Lord Prestor. Bien que son emprise sur la nation ait diminué, son pouvoir et sa fierté en font une proie dangereuse pour quiconque cherche à mettre fin à son règne."
+        "Le roi têtu et fier de Gilnéas était autrefois une force légendaire au sein de l'Alliance, mais il préside désormais un royaume en ruine. Dans la Tour Grisetête, il garde l'Éclat de Minuit, un artefact corrupteur qui lui a été offert par Lord Prestor. Bien que son emprise sur la nation ait diminué, son pouvoir et sa fierté en font une proie dangereuse pour quiconque cherche à mettre fin à son règne.\n\nLa lutte pour sa couronne a attiré des forces rivales dans la cité. Les rebelles gilnéens cherchent à faire de Liam Grisetête leur roi, tandis que des agents des Réprouvés sont envoyés pour rapporter la tête de Genn et l’empêcher de reprendre le contrôle."
 
     -- CG
     IJ_DB_DUNGEON_CG_NAME = "Croissant Grove"
