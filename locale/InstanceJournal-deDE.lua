@@ -1046,6 +1046,12 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
         "Verringert die Nahkampfangriffskraft von Gegnern innerhalb von 10 Metern für 30 Sekunden."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10081 = "Karaburan"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10081 =
+        "Karaburan ist ein selten anzutreffender Sandtroll in Zul'Farrak. Er trägt den Wüstenläuferstock bei sich.\n\nSichtungen wurden in der Nähe von Zum'rahs Friedhof, bei den Hütten unterhalb der Pyramide und an Gahz'rillas Teich gemeldet. Die Kartenmarkierung verwendet den Friedhof als Orientierungspunkt."
+
+    IJ_LOOT_NAME_12471 = "Wüstenläuferstock"
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "Der Tempel von Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

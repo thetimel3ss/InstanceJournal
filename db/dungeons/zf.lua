@@ -582,6 +582,20 @@ ZF.Bosses = {
         Loot = {
             [1] = {IJDB.I[9243], DropChance = 2.12}
         }
+    },
+    [12] = {
+        Id = "10081",
+        Portrait = IMP .. IMPD .. instanceMediaAcronym .. "dustwraith" .. IMPP,
+        Frame = IMP .. IMPD .. instanceMediaAcronym .. "dustwraith" .. IMPF,
+        Name = IJ_DB_DUNGEON_ZF_BOSS_NAME_10081,
+        Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_10081,
+        MapCoordinateX = 46.7,
+        MapCoordinateY = 17.5,
+        IsRare = true,
+        Loot = {
+            [1] = {IJDB.I[12471], DropChance = 18.55},
+            [2] = {IJDB.I[9243], DropChance = 0.42}
+        }
     }
 }
 ZF.Quests = {IJDB.Q[2991], IJDB.Q[2936], IJDB.Q[3042], IJDB.Q[2865], IJDB.Q[2846], IJDB.Q[3527], IJDB.Q[2768], IJDB.Q[2770], IJDB.Q[40519], IJDB.Q[41811], IJDB.Q[40527]}

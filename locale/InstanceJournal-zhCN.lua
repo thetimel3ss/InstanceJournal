@@ -1334,8 +1334,13 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
         "降低10码内敌人的近战攻击强度，持续30秒。"
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10081 = "灰尘怨灵"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10081 =
+        "灰尘怨灵是祖尔法拉克中一名罕见的沙地巨魔。他携带着沙漠行者藤杖。\n\n据玩家报告，他曾出现在祖穆拉恩的墓地附近、金字塔下方的小屋旁以及加兹瑞拉的水池附近。地图标记以墓地作为参考位置。"
+
     -- ZF Loot
     IJ_LOOT_NAME_12470 = "沙行者护足"
+    IJ_LOOT_NAME_12471 = "沙漠行者藤杖"
     IJ_LOOT_NAME_9379 = "反击者桑萨斯"
     IJ_LOOT_NAME_9639 = "安图苏尔之手"
     IJ_LOOT_NAME_9640 = "虎钳夹口"

@@ -1238,8 +1238,13 @@ IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_13730 = "Demoralizing Shout"
 IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
     "Reduces the melee attack power of enemies within 10 yards for 30 seconds."
 
+IJ_DB_DUNGEON_ZF_BOSS_NAME_10081 = "Dustwraith"
+IJ_DB_DUNGEON_ZF_BOSS_STORY_10081 =
+    "Dustwraith is a rarely encountered sand troll within Zul'Farrak. He carries the Desertwalker Cane.\n\nReported sightings place him near Zum'rah's graveyard, the huts below the pyramid, and Gahz'rilla's pool. The map marker uses the graveyard as a reference."
+
 -- ZF Loot
 IJ_LOOT_NAME_12470 = "Sandstalker Ankleguards"
+IJ_LOOT_NAME_12471 = "Desertwalker Cane"
 IJ_LOOT_NAME_9379 = "Sang'thraze the Deflector"
 IJ_LOOT_NAME_9639 = "The Hand of Antu'sul"
 IJ_LOOT_NAME_9640 = "Vice Grips"

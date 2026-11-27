@@ -3194,6 +3194,7 @@ I[33045] = {Id = "33045", Icon = "ability_smash", Name = IJ_LOOT_NAME_33045, Qua
 I[42277] = {Id = "42277", Icon = "INV_Helmet_04", Name = IJ_LOOT_NAME_42277, Quality = IQ.Epic, ItemSlot = IS.Head, ItemType = IT.Leather, LevelRequirement = 26}
 
 I[12470] = {Id = "12470", Icon = "inv_bracer_04", Name = IJ_LOOT_NAME_12470, Quality = IQ.Rare, ItemSlot = IS.Feet, ItemType = IT.Leather, LevelRequirement = 42}
+I[12471] = {Id = "12471", Icon = "inv_staff_21", Name = IJ_LOOT_NAME_12471, Quality = IQ.Rare, ItemSlot = IS.HeldInOffHand, LevelRequirement = 42}
 
 I[9379] = {Id = "9379", Icon = "inv_sword_45", Name = IJ_LOOT_NAME_9379, Quality = IQ.Rare, ItemSlot = IS.OneHand, ItemType = IT.Sword, LevelRequirement = 44}
 

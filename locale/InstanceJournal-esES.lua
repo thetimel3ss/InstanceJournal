@@ -1044,6 +1044,12 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
         "Reduce el poder de ataque cuerpo a cuerpo de los enemigos en un radio de 10 metros durante 30 segundos."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10081 = "Suciespectro"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10081 =
+        "Suciespectro es un trol de arena poco común en Zul'Farrak. Lleva el Bastón del caminante del desierto.\n\nSe han comunicado avistamientos cerca del cementerio de Zum'rah, en las cabañas al pie de la pirámide y junto a la poza de Gahz'rilla. El marcador del mapa utiliza el cementerio como referencia."
+
+    IJ_LOOT_NAME_12471 = "Bastón del caminante del desierto"
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "El templo de Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

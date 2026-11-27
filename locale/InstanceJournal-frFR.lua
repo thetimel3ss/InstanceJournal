@@ -1044,6 +1044,12 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
         "Réduit la puissance d’attaque en mêlée des ennemis à moins de 10 mètres pendant 30 secondes."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10081 = "Âme en peine poudreuse"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10081 =
+        "L’Âme en peine poudreuse est un troll des sables rarement rencontré à Zul'Farrak. Il porte la Canne du marcheur du désert.\n\nDes observations le situent près du cimetière de Zum'rah, dans les huttes au pied de la pyramide et près du bassin de Gahz'rilla. Le marqueur de la carte utilise le cimetière comme point de repère."
+
+    IJ_LOOT_NAME_12471 = "Canne du marcheur du désert"
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "Le temple d'Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

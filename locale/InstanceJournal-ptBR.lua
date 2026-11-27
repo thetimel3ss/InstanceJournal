@@ -1042,6 +1042,12 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
         "Reduz o poder de ataque corpo a corpo dos inimigos em um raio de 10 metros por 30 segundos."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10081 = "Assombração de Poeira"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10081 =
+        "A Assombração de Poeira é um troll da areia raramente encontrado em Zul'Farrak. Ele carrega a Bengala do Andarilho do Deserto.\n\nHá relatos de avistamentos perto do cemitério de Zum'rah, nas cabanas abaixo da pirâmide e na piscina de Gahz'rilla. O marcador do mapa usa o cemitério como referência."
+
+    IJ_LOOT_NAME_12471 = "Bengala do Andarilho do Deserto"
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "O Templo de Atal’Hakkar"
     IJ_DB_DUNGEON_ST_STORY =
