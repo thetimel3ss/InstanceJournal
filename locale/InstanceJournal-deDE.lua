@@ -1510,6 +1510,11 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DMN_BOSS_11501_ABILITY_EFFECT_tribute =
         "Um die Belohnung des Gordoktributs zu maximieren, umgeht die anderen Bosse und besiegt König Gordok, während Cho’Rush am Leben bleibt.\n\nNach dem Tod des Königs erkennen die Gordok die Gruppe als ihre neuen Herrscher an. Verschonte Wachen können Stärkungseffekte gewähren."
 
+    IJ_LOOT_NAME_18490 = "Erkenntnisreiche Kapuze"
+    IJ_LOOT_NAME_18483 = "Zauberstab der Manakanalisierung"
+    IJ_LOOT_NAME_18485 = "Schild des Beobachters"
+    IJ_LOOT_NAME_18484 = "Cho'Rushs Klinge"
+
     -- DMW
     IJ_DB_DUNGEON_DMW_NAME = "Dire Maul West"
     IJ_DB_DUNGEON_DMW_STORY =

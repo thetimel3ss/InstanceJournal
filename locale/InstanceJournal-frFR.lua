@@ -1508,6 +1508,11 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DMN_BOSS_11501_ABILITY_EFFECT_tribute =
         "Pour maximiser la récompense du tribut des Gordok, évitez les autres boss et vainquez le roi Gordok en gardant Cho’Rush en vie.\n\nAprès la chute du roi, les Gordok reconnaissent le groupe comme leurs nouveaux souverains. Les gardes épargnés peuvent accorder des améliorations."
 
+    IJ_LOOT_NAME_18490 = "Chaperon de perspicacité"
+    IJ_LOOT_NAME_18483 = "Baguette de canalisation de mana"
+    IJ_LOOT_NAME_18485 = "Bouclier de l'Observateur"
+    IJ_LOOT_NAME_18484 = "Lame de Cho'Rush"
+
     -- DMW
     IJ_DB_DUNGEON_DMW_NAME = "Dire Maul Ouest"
     IJ_DB_DUNGEON_DMW_STORY =

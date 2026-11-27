@@ -1506,6 +1506,11 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DMN_BOSS_11501_ABILITY_EFFECT_tribute =
         "Para maximizar a recompensa do Gordok Tribute, evite os outros bosses e derrote King Gordok mantendo Cho’Rush vivo.\n\nApós a queda do rei, os Gordok reconhecem o grupo como seus novos governantes. Os guardas poupados podem conceder buffs."
 
+    IJ_LOOT_NAME_18490 = "Capucho Perspicaz"
+    IJ_LOOT_NAME_18483 = "Varinha de Canalização de Mana"
+    IJ_LOOT_NAME_18485 = "Escudo do Observador"
+    IJ_LOOT_NAME_18484 = "Lâmina de Cho'Rush"
+
     -- DMW
     IJ_DB_DUNGEON_DMW_NAME = "Mau Mau Oeste"
     IJ_DB_DUNGEON_DMW_STORY =

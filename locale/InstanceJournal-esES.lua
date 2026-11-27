@@ -1508,6 +1508,11 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_DMN_BOSS_11501_ABILITY_EFFECT_tribute =
         "Para maximizar la recompensa del Tributo de Gordok, evita a los demás jefes y derrota al Rey Gordok manteniendo con vida a Cho’Rush.\n\nTras la caída del rey, los Gordok reconocen al grupo como sus nuevos gobernantes. Los guardias que sobrevivan pueden otorgar beneficios."
 
+    IJ_LOOT_NAME_18490 = "Capucha Perspicaz"
+    IJ_LOOT_NAME_18483 = "Varita de Canalización de Maná"
+    IJ_LOOT_NAME_18485 = "Escudo de Observador"
+    IJ_LOOT_NAME_18484 = "Hoja de Cho'Rush"
+
     -- DMW
     IJ_DB_DUNGEON_DMW_NAME = "La Masacre Terrible Oeste"
     IJ_DB_DUNGEON_DMW_STORY =

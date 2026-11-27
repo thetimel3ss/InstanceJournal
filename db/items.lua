@@ -924,6 +924,14 @@ I[18493] = {Id = "18493", Icon = "inv_shoulder_26", Name = IJ_LOOT_NAME_18493, Q
 
 I[18494] = {Id = "18494", Icon = "inv_shoulder_15", Name = IJ_LOOT_NAME_18494, Quality = IQ.Rare, ItemSlot = IS.Shoulder, ItemType = IT.Mail, LevelRequirement = 55}
 
+I[18490] = {Id = "18490", Icon = "INV_Helmet_41", Name = IJ_LOOT_NAME_18490, Quality = IQ.Rare, ItemSlot = IS.Head, ItemType = IT.Leather, LevelRequirement = 56}
+
+I[18483] = {Id = "18483", Icon = "INV_Wand_05", Name = IJ_LOOT_NAME_18483, Quality = IQ.Rare, ItemSlot = IS.Ranged, ItemType = IT.Wand, LevelRequirement = 56}
+
+I[18485] = {Id = "18485", Icon = "INV_Shield_13", Name = IJ_LOOT_NAME_18485, Quality = IQ.Rare, ItemSlot = IS.OffHand, ItemType = IT.Shield, LevelRequirement = 56}
+
+I[18484] = {Id = "18484", Icon = "INV_Weapon_ShortBlade_04", Name = IJ_LOOT_NAME_18484, Quality = IQ.Rare, ItemSlot = IS.OneHand, ItemType = IT.Sword, LevelRequirement = 56}
+
 I[18496] = {Id = "18496", Icon = "inv_misc_cape_02", Name = IJ_LOOT_NAME_18496, Quality = IQ.Rare, ItemSlot = IS.Back, ItemType = IT.Cloth, LevelRequirement = 55}
 
 I[18497] = {Id = "18497", Icon = "inv_bracer_13", Name = IJ_LOOT_NAME_18497, Quality = IQ.Rare, ItemSlot = IS.Wrist, ItemType = IT.Cloth, LevelRequirement = 55}

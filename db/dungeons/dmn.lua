@@ -478,7 +478,11 @@ DMN.Bosses = {
             [41] = {IJDB.I[18495], DropChance = 25, Note = IJ_NOTES_TRIBUTE},
             [42] = {IJDB.I[18529], DropChance = 33, Note = IJ_NOTES_TRIBUTE},
             [43] = {IJDB.I[18528], DropChance = 33, Note = IJ_NOTES_TRIBUTE},
-            [44] = {IJDB.I[18500], DropChance = 33, Note = IJ_NOTES_TRIBUTE}
+            [44] = {IJDB.I[18500], DropChance = 33, Note = IJ_NOTES_TRIBUTE},
+            [45] = {IJDB.I[18490], DropChance = 25},
+            [46] = {IJDB.I[18483], DropChance = 25},
+            [47] = {IJDB.I[18485], DropChance = 25},
+            [48] = {IJDB.I[18484], DropChance = 25}
         }
     }
 }
