@@ -155,7 +155,8 @@ STOCKADES.Bosses = {
         Loot = {
             [1] = {IJDB.I[80729], DropChance = 35}, 
             [2] = {IJDB.I[80730], DropChance = 35}, 
-            [3] = {IJDB.I[80731], DropChance = 30}
+            [3] = {IJDB.I[80731], DropChance = 30},
+            [4] = {IJDB.I[51217], DropChance = 1}
         }
     },
     [5] = {
