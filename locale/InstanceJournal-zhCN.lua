@@ -689,6 +689,8 @@ if GetLocale() == "zhCN" then
     IJ_LOOT_NAME_5195 = "金斑手套"
     IJ_LOOT_NAME_80707 = "操作者靴子"
     IJ_LOOT_NAME_5194 = "工头战斧"
+    IJ_LOOT_NAME_1937 = "电锯"
+    IJ_LOOT_NAME_2169 = "蜂鸣之刃"
     IJ_LOOT_NAME_5199 = "铁匠短裤"
     IJ_LOOT_NAME_1156 = "豪华珠宝戒指"
     IJ_LOOT_NAME_55380 = "工匠皮裤"

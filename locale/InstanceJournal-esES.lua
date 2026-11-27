@@ -538,6 +538,9 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
         "Restaura la salud del taumaturgo."
 
+    IJ_LOOT_NAME_1937 = "Sierra Circular"
+    IJ_LOOT_NAME_2169 = "Hoja de Zumbido"
+
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "El pantano negro"
     IJ_DB_DUNGEON_BM_STORY =

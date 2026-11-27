@@ -537,6 +537,9 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
         "Rend des points de vie au lanceur."
 
+    IJ_LOOT_NAME_1937 = "Coutelas trancheur"
+    IJ_LOOT_NAME_2169 = "Lame sifflante"
+
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "Le marécage noir"
     IJ_DB_DUNGEON_BM_STORY =

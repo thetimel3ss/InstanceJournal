@@ -539,6 +539,9 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
         "Stellt Gesundheit des Zaubernden wieder her."
 
+    IJ_LOOT_NAME_1937 = "Kreissäge"
+    IJ_LOOT_NAME_2169 = "Sauserklinge"
+
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "Der schwarze Morast"
     IJ_DB_DUNGEON_BM_STORY =

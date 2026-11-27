@@ -768,6 +768,10 @@ I[80707] = {Id = "80707", Icon = "INV_Boots_03", Name = IJ_LOOT_NAME_80707, Qual
 
 I[5194] = {Id = "5194", Icon = "INV_ThrowingAxe_06", Name = IJ_LOOT_NAME_5194, Quality = IQ.Rare, ItemSlot = IS.TwoHand, ItemType = IT.TwoHandedAxe, LevelRequirement = 18}
 
+I[1937] = {Id = "1937", Icon = "INV_Sword_24", Name = IJ_LOOT_NAME_1937, Quality = IQ.Uncommon, ItemSlot = IS.OneHand, ItemType = IT.Sword, LevelRequirement = 16}
+
+I[2169] = {Id = "2169", Icon = "INV_Weapon_ShortBlade_05", Name = IJ_LOOT_NAME_2169, Quality = IQ.Common, ItemSlot = IS.OneHand, ItemType = IT.Dagger, LevelRequirement = 16}
+
 I[5199] = {Id = "5199", Icon = "INV_Pants_02", Name = IJ_LOOT_NAME_5199, Quality = IQ.Uncommon, ItemSlot = IS.Legs, ItemType = IT.Leather, LevelRequirement = 16}
 
 I[1156] = {Id = "1156", Icon = "INV_Jewelry_Ring_09", Name = IJ_LOOT_NAME_1156, Quality = IQ.Rare, ItemSlot = IS.Finger, LevelRequirement = 17}

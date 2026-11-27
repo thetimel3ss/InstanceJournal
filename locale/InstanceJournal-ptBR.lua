@@ -536,6 +536,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
         "Restaura a vida do lançador."
 
+    IJ_LOOT_NAME_1937 = "Serra Circular"
+    IJ_LOOT_NAME_2169 = "Lâmina Zumbidora"
+
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "O pântano negro"
     IJ_DB_DUNGEON_BM_STORY =

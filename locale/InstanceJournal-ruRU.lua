@@ -546,6 +546,9 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_DEADMINES_BOSS_645_ABILITY_EFFECT_5174 =
         "Восстанавливает здоровье заклинателя."
 
+    IJ_LOOT_NAME_1937 = "Свисторез"
+    IJ_LOOT_NAME_2169 = "Шип-клинок"
+
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "Черная трясина"
     IJ_DB_DUNGEON_BM_STORY =
