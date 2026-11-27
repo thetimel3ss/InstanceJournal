@@ -1143,6 +1143,15 @@ IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_gahzrillasummoning =
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7273 = "Gahz'rilla"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7273 =
     "Legend has it that Gahz'rilla was an adored pet of the Old Gods, or even a demigod in her own right. Whatever the truth is, the Sandfury trolls have worshiped this monstrous hydra for thousands of years. Ever wary of the beast's icy wrath, the trolls will only rouse Gahz'rilla when they have plentiful sacrifices to sate the ravenous creature's appetite."
+IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11836 = "Freeze Solid"
+IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11836 =
+    "Stuns a target for 10 seconds, dealing Frost damage every 3 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11902 = "Gahz'rilla Slam"
+IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11902 =
+    "Deals Physical damage to nearby enemies and knocks them back."
+IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11131 = "Icicle"
+IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11131 =
+    "Deals Frost damage to a target and reduces its movement speed by 50% for 10 seconds."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "Zel'jeb the Ancient"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
     "While Chief Ukorz Sandscalp was once a promising leader whose mind was eventually warped by dark magics, Zel'jeb represents the older, lingering shadows of the Sandfury tribe. This ancient troll serves as a grim reminder of the magic that began the corruption of the city's leadership, helping to fuel the brutal and cold nature that now defines the chief's inner sanctum. As the sands of Zul'Farrak shift, Zel'jeb stands alongside the tribe's most fanatical warriors, ensuring that the legacy of their warped power does not simply drift away like sand on the dunes."

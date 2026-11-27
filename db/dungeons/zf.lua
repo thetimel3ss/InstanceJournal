@@ -320,7 +320,7 @@ ZF.Bosses = {
             [7] = {IJDB.I[51217], DropChance = 5}
         }
     },
-    [7] = { -- NOTE: Missing abilities
+    [7] = {
         Id = "7273",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "gahzrilla" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "gahzrilla" .. IMPF,
@@ -335,6 +335,25 @@ ZF.Bosses = {
                 Icon = "INV_Hammer_19",
                 Name = IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_gahzrillasummoning,
                 Effect = IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_gahzrillasummoning
+            },
+            [2] = {
+                Id = "11836",
+                Icon = "Spell_Frost_Glacier",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11836,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11836,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "11902",
+                Icon = "Ability_Devour",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11902,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11902
+            },
+            [4] = {
+                Id = "11131",
+                Icon = "Spell_Frost_FrostBolt02",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11131,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11131
             }
         },
         Loot = {

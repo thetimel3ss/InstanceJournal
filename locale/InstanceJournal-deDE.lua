@@ -951,6 +951,15 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7273 = "Gahz'rilla"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7273 =
         "Der Legende nach war Gahz'rilla ein verehrtes Haustier der Alten Götter oder sogar selbst ein Halbgott. Was auch immer die Wahrheit ist, die Sandfury-Trolle verehren diese monströse Hydra seit Tausenden von Jahren. Die Trolle sind stets auf der Hut vor dem eisigen Zorn der Bestie und wecken Gahz'rilla nur, wenn sie reichlich Opfer bringen, um den Appetit der gefräßigen Kreatur zu stillen."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11836 = "Völlig gefrieren"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11836 =
+        "Betäubt ein Ziel 10 Sekunden lang und fügt ihm alle 3 Sekunden Frostschaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11902 = "Gahz'rillas Schmettern"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11902 =
+        "Fügt Gegnern in der Nähe körperlichen Schaden zu und stößt sie zurück."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11131 = "Eiszapfen"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11131 =
+        "Fügt einem Ziel Frostschaden zu und verringert dessen Bewegungstempo 10 Sekunden lang um 50%."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "Zel'jeb der Alte"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
         "Während Häuptling Ukorz Sandskalp einst ein vielversprechender Anführer war, dessen Geist schließlich durch dunkle Magie verzerrt wurde, repräsentiert Zel'jeb die älteren, verbliebenen Schatten des Sandfury-Stammes. Dieser uralte Troll dient als düstere Erinnerung an die Magie, die die Korruption der Führung der Stadt in Gang setzte, und trägt dazu bei, die brutale und kalte Natur zu befeuern, die jetzt das Allerheiligste des Häuptlings prägt. Während sich der Sand von Zul'Farrak verschiebt, steht Zel'jeb an der Seite der fanatischsten Krieger des Stammes und stellt sicher, dass das Erbe ihrer verzerrten Macht nicht einfach wie Sand auf den Dünen davontreibt."

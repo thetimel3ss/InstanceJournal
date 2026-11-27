@@ -949,6 +949,15 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7273 = "Gahz'rilla"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7273 =
         "La légende raconte que Gahz'rilla était un animal de compagnie adoré des Dieux très anciens, ou même un demi-dieu à part entière. Quelle que soit la vérité, les trolls Furie des Sables vénèrent cette hydre monstrueuse depuis des milliers d'années. Toujours méfiants face à la colère glaciale de la bête, les trolls ne réveilleront Gahz'rilla que lorsqu'ils auront de nombreux sacrifices pour assouvir l'appétit de la créature vorace."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11836 = "Gel solide"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11836 =
+        "Étourdit une cible pendant 10 secondes et lui inflige des dégâts de Givre toutes les 3 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11902 = "Heurt de Gahz’rilla"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11902 =
+        "Inflige des dégâts physiques aux ennemis proches et les repousse."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11131 = "Glaçon"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11131 =
+        "Inflige des dégâts de Givre à une cible et réduit sa vitesse de déplacement de 50% pendant 10 secondes."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "Zel’jeb l’Ancien"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
         "Alors que le chef Ukorz Scalp-sable était autrefois un leader prometteur dont l'esprit a finalement été déformé par la magie noire, Zel'jeb représente les ombres plus anciennes et persistantes de la tribu des Furies des sables. Cet ancien troll est un sombre rappel de la magie qui a déclenché la corruption des dirigeants de la ville, contribuant à alimenter la nature brutale et froide qui définit désormais le sanctuaire intérieur du chef. Alors que les sables de Zul'Farrak se déplacent, Zel'jeb se tient aux côtés des guerriers les plus fanatiques de la tribu, veillant à ce que l'héritage de leur pouvoir déformé ne s'éloigne pas simplement comme le sable sur les dunes."

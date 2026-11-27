@@ -1239,6 +1239,15 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7273 = "加兹瑞拉"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7273 =
         "传说加兹里拉是上古之神的宠爱宠物，甚至本身就是半神。不管真相是什么，沙怒巨魔几千年来一直崇拜这种可怕的九头蛇。巨魔们时刻警惕着这头野兽冰冷的愤怒，只有当他们有足够的祭品来满足这个贪婪生物的胃口时，他们才会唤醒加兹里拉。"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11836 = "冰冻"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11836 =
+        "使一个目标昏迷10秒，每3秒造成冰霜伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11902 = "加兹瑞拉猛击"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11902 =
+        "对附近的敌人造成物理伤害，并将其击退。"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11131 = "冰锥"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11131 =
+        "对一个目标造成冰霜伤害，使其移动速度降低50%，持续10秒。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "年迈的泽尔杰布"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
         "虽然酋长乌科兹·沙卡普曾经是一位很有前途的领导者，但他的思想最终被黑魔法扭曲了，而泽尔杰布则代表了沙怒部落古老而挥之不去的阴影。这个古老的巨魔残酷地提醒人们，是魔法开始了城市领导层的腐败，助长了如今酋长内部密室的残酷和冷酷本性。当祖尔法拉克的沙子移动时，泽尔杰布与部落最狂热的战士并肩作战，确保他们留下的扭曲力量不会像沙丘上的沙子一样随风飘散。"

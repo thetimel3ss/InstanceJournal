@@ -947,6 +947,15 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7273 = "Gahz'rilla"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7273 =
         "Diz a lenda que Gahz'rilla era um animal de estimação adorado pelos Deuses Antigos, ou mesmo um semideus por direito próprio. Seja qual for a verdade, os trolls Sandfury adoram esta monstruosa hidra há milhares de anos. Sempre cautelosos com a ira gelada da fera, os trolls só despertarão Gahz'rilla quando fizerem sacrifícios abundantes para saciar o apetite da criatura voraz."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11836 = "Congelamento Sólido"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11836 =
+        "Atordoa um alvo por 10 segundos, causando dano de Gelo a cada 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11902 = "Impacto de Gahz'rilla"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11902 =
+        "Causa dano Físico aos inimigos próximos e os repele."
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_11131 = "Estilhaço de Gelo"
+    IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11131 =
+        "Causa dano de Gelo a um alvo e reduz sua velocidade de movimento em 50% por 10 segundos."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "Zel'jeb, o Ancião"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
         "Embora o Chefe Ukorz Sandscalp já tenha sido um líder promissor cuja mente acabou sendo distorcida por magia negra, Zel'jeb representa as sombras mais antigas e persistentes da tribo Sandfury. Este antigo troll serve como um lembrete sombrio da magia que deu início à corrupção da liderança da cidade, ajudando a alimentar a natureza brutal e fria que agora define o santuário interno do chefe. À medida que as areias de Zul'Farrak mudam, Zel'jeb fica ao lado dos guerreiros mais fanáticos da tribo, garantindo que o legado de seu poder distorcido não simplesmente se esvai como a areia nas dunas."
