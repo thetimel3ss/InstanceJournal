@@ -886,6 +886,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Féticheur Zum'rah"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "Le puissant loa Bwonsamdi veille sur les esprits des trolls Sombrelances, mais de nombreux membres tombés au combat de la tribu des Furies des Sables ne bénéficient d'aucune protection de ce type après leur mort. Ces esprits torturés obéissent à Zum'rah, un sorcier cruel qui utilise sa magie noire pour forcer les morts de la ville à un service sans fin."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12739 = "Trait de l’ombre"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12739 =
+        "Inflige des dégâts d’Ombre à une cible après 3 secondes d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_15245 = "Salve de Traits de l'ombre"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_15245 =
+        "Inflige des dégâts d’Ombre aux ennemis à moins de 30 mètres après 3 secondes d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12491 = "Vague de soins"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12491 =
+        "Soigne un allié après 3 secondes d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_11086 = "Gardien de Zum’rah"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_11086 =
+        "Invoque un gardien qui crée périodiquement des serviteurs squelettiques.\n\nDétruisez le gardien."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Prêtre Ombre Sezz'ziz"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "Nekrum Gutchewer a mystérieusement vécu bien au-delà de sa vie naturelle, mais son corps en décomposition reste suffisamment fort pour aider Sezz'ziz. Ensemble, ces deux trolls ont rassemblé des sacrifices pour la bête mythique Gahz'rilla, qui sommeille au cœur de la ville. De nombreux adeptes des trolls attendent avec impatience le réveil de la terrifiante créature, et ils feront tout pour mener à bien le rituel."

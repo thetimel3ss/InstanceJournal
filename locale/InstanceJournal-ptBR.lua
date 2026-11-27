@@ -884,6 +884,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Feiticeiro Zum'rah"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "O poderoso loa Bwonsamdi zela pelos espíritos dos trolls Darkspear, mas muitos dos membros caídos da tribo Sandfury não recebem tal proteção após a morte. Esses espíritos torturados obedecem a Zum'rah, um feiticeiro cruel que usa sua magia negra para forçar os mortos da cidade a um serviço interminável."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12739 = "Seta Sombria"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12739 =
+        "Causa dano de Sombra a um alvo após uma conjuração de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_15245 = "Salva de Setas Sombrias"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_15245 =
+        "Causa dano de Sombra aos inimigos em um raio de 30 metros após uma conjuração de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12491 = "Onda Curativa"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12491 =
+        "Cura um aliado após uma conjuração de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_11086 = "Proteção de Zum'rah"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_11086 =
+        "Invoca uma proteção que cria servos esqueléticos periodicamente.\n\nDestrua a proteção."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Sacerdote das Sombras Sezz'ziz"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "Nekrum Gutchewer viveu misteriosamente muito além de sua vida natural, mas seu corpo em decomposição permanece forte o suficiente para ajudar Sezz'ziz. Juntos, esses dois trolls reuniram sacrifícios para a fera mítica Gahz'rilla, que dorme no coração da cidade. Muitos seguidores trolls aguardam ansiosamente o despertar da terrível criatura e farão qualquer coisa para cumprir o ritual."

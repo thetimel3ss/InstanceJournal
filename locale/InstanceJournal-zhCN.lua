@@ -1176,6 +1176,18 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "巫医祖穆拉恩"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "强大的神灵邦桑迪守护着暗矛巨魔的灵魂，但许多沙怒部落的阵亡成员死后并没有得到这样的庇护。这些饱受折磨的灵魂服从祖穆拉恩的命令。祖穆拉恩是一位残酷的巫医，他用黑暗魔法逼迫这座城市的死者永无休止地服役。"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12739 = "暗影箭"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12739 =
+        "施法3秒后对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_15245 = "暗影箭雨"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_15245 =
+        "施法3秒后对30码内的敌人造成暗影伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12491 = "治疗波"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12491 =
+        "施法3秒后治疗一个盟友。"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_11086 = "祖穆拉恩的结界"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_11086 =
+        "召唤一个结界，周期性地制造骷髅仆从。\n\n摧毁结界。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "暗影祭司塞瑟斯"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "耐克鲁姆神秘地活过了他的自然寿命，但他腐烂的身体仍然强大到足以协助塞瑟斯。这两个巨魔一起为沉睡在城市中心的神话野兽加兹瑞拉收集祭品。许多巨魔追随者热切地等待着这个可怕生物的苏醒，他们会不惜一切代价完成仪式。"

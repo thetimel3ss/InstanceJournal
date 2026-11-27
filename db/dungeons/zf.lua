@@ -150,7 +150,7 @@ ZF.Bosses = {
             [6] = {IJDB.I[9243], DropChance = 2}
         }
     },
-    [4] = { -- NOTE: Missing abilities
+    [4] = {
         Id = "7271",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "zumrah" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "zumrah" .. IMPF,
@@ -158,6 +158,34 @@ ZF.Bosses = {
         Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_7271,
         MapCoordinateX = 44.2,
         MapCoordinateY = 17.5,
+        Abilities = {
+            [1] = {
+                Id = "12739",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12739,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12739,
+                Flags = {IMAF.Interruptible}
+            },
+            [2] = {
+                Id = "15245",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_15245,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_15245
+            },
+            [3] = {
+                Id = "12491",
+                Icon = "Spell_Nature_MagicImmunity",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12491,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12491,
+                Flags = {IMAF.Interruptible}
+            },
+            [4] = {
+                Id = "11086",
+                Icon = "Spell_Totem_WardOfDraining",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_11086,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_11086
+            }
+        },
         Loot = {
             [1] = {IJDB.I[18082], DropChance = 50}, 
             [2] = {IJDB.I[18083], DropChance = 50}, 

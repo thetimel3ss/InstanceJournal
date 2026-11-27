@@ -888,6 +888,18 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Hexendoktor Zum'rah"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "Der mächtige Loa Bwonsamdi wacht über die Geister der Dunkelspeer-Trolle, aber vielen der gefallenen Mitglieder des Sandfury-Stammes wird nach dem Tod kein solcher Schutz geboten. Diese gequälten Geister gehorchen Zum'rah, einem grausamen Hexendoktor, der seine dunkle Magie einsetzt, um die Toten der Stadt in endlosen Dienst zu zwingen."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12739 = "Schattenblitz"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12739 =
+        "Fügt einem Ziel nach 3 Sekunden Zauberzeit Schattenschaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_15245 = "Schattenblitzsalve"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_15245 =
+        "Fügt Gegnern innerhalb von 30 Metern nach 3 Sekunden Zauberzeit Schattenschaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12491 = "Welle der Heilung"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12491 =
+        "Heilt einen Verbündeten nach 3 Sekunden Zauberzeit."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_11086 = "Zum'rahs Schutzzauber"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_11086 =
+        "Beschwört einen Schutzzauber, der regelmäßig Skelettdiener erschafft.\n\nZerstört ihn."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Schattenpriester Sezz'ziz"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "Nekrum Gutchewer hat sein natürliches Leben auf mysteriöse Weise weit hinter sich gelassen, aber sein verfallender Körper bleibt stark genug, um Sezz'ziz zu helfen. Gemeinsam haben diese beiden Trolle Opfer für das mythische Tier Gahz'rilla gesammelt, das im Herzen der Stadt schlummert. Viele Trollanhänger warten sehnsüchtig auf das Erwachen der schrecklichen Kreatur und werden alles tun, um das Ritual durchzuhalten."

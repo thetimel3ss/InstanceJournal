@@ -1080,6 +1080,18 @@ IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11899 =
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Witch Doctor Zum'rah"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
     "The powerful loa Bwonsamdi watches over the spirits of the Darkspear trolls, but many of the Sandfury tribe's fallen members are offered no such protection after death. These tortured spirits obey Zum'rah, a cruel witch doctor who uses his dark magic to force the city's dead into unending service."
+IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12739 = "Shadow Bolt"
+IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12739 =
+    "Deals Shadow damage to a target after a 3-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_15245 = "Shadow Bolt Volley"
+IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_15245 =
+    "Deals Shadow damage to enemies within 30 yards after a 3-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12491 = "Healing Wave"
+IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12491 =
+    "Heals an ally after a 3-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_11086 = "Ward of Zum'rah"
+IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_11086 =
+    "Summons a ward that periodically creates skeletal servants.\n\nDestroy the ward."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Shadowpriest Sezz'ziz"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
     "Nekrum Gutchewer has mysteriously lived well past his natural life, but his decaying body remains strong enough to aid Sezz'ziz. Together, these two trolls have gathered sacrifices to the mythic beast Gahz'rilla, who slumbers at the city's heart. Many troll followers eagerly await the terrifying creature's awakening, and they will do anything to see the ritual through."

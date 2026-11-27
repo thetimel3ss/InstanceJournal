@@ -886,6 +886,18 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Médico brujo Zum'rah"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "El poderoso loa Bwonsamdi vela por los espíritus de los trolls Lanza Negra, pero a muchos de los miembros caídos de la tribu Furia de Arena no se les ofrece esa protección después de la muerte. Estos espíritus torturados obedecen a Zum'rah, un cruel hechicero que utiliza su magia oscura para obligar a los muertos de la ciudad a prestar un servicio interminable."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12739 = "Descarga de las Sombras"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12739 =
+        "Inflige daño de las Sombras a un objetivo tras un lanzamiento de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_15245 = "Salva de descarga de las Sombras"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_15245 =
+        "Inflige daño de las Sombras a los enemigos en un radio de 30 metros tras un lanzamiento de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_12491 = "Ola de sanación"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_12491 =
+        "Sana a un aliado tras un lanzamiento de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_NAME_11086 = "Resguardo de Zum'rah"
+    IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_11086 =
+        "Invoca un resguardo que crea sirvientes esqueléticos periódicamente.\n\nDestruid el resguardo."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Sacerdote de las Sombras Sezz'ziz"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "Nekrum Gutchewer misteriosamente ha vivido mucho más allá de su vida natural, pero su cuerpo en descomposición sigue siendo lo suficientemente fuerte como para ayudar a Sezz'ziz. Juntos, estos dos trolls han reunido sacrificios para la bestia mítica Gahz'rilla, que duerme en el corazón de la ciudad. Muchos seguidores de los trolls esperan ansiosamente el despertar de la aterradora criatura y harán cualquier cosa para llevar a cabo el ritual."
