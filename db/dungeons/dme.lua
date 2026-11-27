@@ -301,7 +301,8 @@ DME.Bosses = {
             [13] = {IJDB.I[18362], DropChance = 1},
             [14] = {IJDB.I[18363], DropChance = 1},
             [15] = {IJDB.I[18364], DropChance = 1},
-            [16] = {IJDB.I[18401], DropChance = 1}
+            [16] = {IJDB.I[18401], DropChance = 1},
+            [17] = {IJDB.I[18354], DropChance = 14}
         }
     },
     [5] = {

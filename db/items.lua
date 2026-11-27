@@ -874,6 +874,8 @@ I[18302] = {Id = "18302", Icon = "inv_jewelry_ring_20", Name = IJ_LOOT_NAME_1830
 
 I[18311] = {Id = "18311", Icon = "inv_staff_14", Name = IJ_LOOT_NAME_18311, Quality = IQ.Rare, ItemSlot = IS.TwoHand, ItemType = IT.Staff, LevelRequirement = 53}
 
+I[18354] = {Id = "18354", Icon = "INV_Jewelry_Amulet_05", Name = IJ_LOOT_NAME_18354, Quality = IQ.Rare, ItemSlot = IS.Trinket, LevelRequirement = 55, ClassRestriction = {IMCL.Warlock}}
+
 I[18325] = {Id = "18325", Icon = "inv_helmet_31", Name = IJ_LOOT_NAME_18325, Quality = IQ.Rare, ItemSlot = IS.Head, ItemType = IT.Leather, LevelRequirement = 53}
 
 I[18309] = {Id = "18309", Icon = "inv_gauntlets_20", Name = IJ_LOOT_NAME_18309, Quality = IQ.Rare, ItemSlot = IS.Hands, ItemType = IT.Leather, LevelRequirement = 54}

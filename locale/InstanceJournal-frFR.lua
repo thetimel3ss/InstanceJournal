@@ -1767,6 +1767,8 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_DME_BOSS_11492_ABILITY_EFFECT_MINIONS =
         "Les serviteurs d’Alzzin rejoignent le combat et attaquent le groupe. Préparez-vous à les récupérer."
 
+    IJ_LOOT_NAME_18354 = "Collier de Pimgib"
+
     -- Isalien
     IJ_DB_DUNGEON_DME_BOSS_NAME_16097 = "Isalien"
     IJ_DB_DUNGEON_DME_BOSS_STORY_16097 =

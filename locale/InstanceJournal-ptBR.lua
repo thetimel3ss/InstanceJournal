@@ -1765,6 +1765,8 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_DME_BOSS_11492_ABILITY_EFFECT_MINIONS =
         "Lacaios de Alzzin entram na luta e atacam o grupo. Prepare-se para segurá-los."
 
+    IJ_LOOT_NAME_18354 = "Coleira de Pimgib"
+
     -- Isalien
     IJ_DB_DUNGEON_DME_BOSS_NAME_16097 = "Isalien"
     IJ_DB_DUNGEON_DME_BOSS_STORY_16097 =

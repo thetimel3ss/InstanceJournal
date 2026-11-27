@@ -1767,6 +1767,8 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_DME_BOSS_11492_ABILITY_EFFECT_MINIONS =
         "Los esbirros de Alzzin se unen al combate y atacan al grupo. Preparaos para recogerlos."
 
+    IJ_LOOT_NAME_18354 = "Collar de Pimgib"
+
     -- Isalien
     IJ_DB_DUNGEON_DME_BOSS_NAME_16097 = "Isalien"
     IJ_DB_DUNGEON_DME_BOSS_STORY_16097 =

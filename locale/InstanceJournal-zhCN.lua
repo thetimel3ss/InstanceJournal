@@ -2370,6 +2370,7 @@ if GetLocale() == "zhCN" then
     IJ_LOOT_NAME_18301 = "蕾瑟塔蒂丝的魔杖"
     IJ_LOOT_NAME_18302 = "活力指环"
     IJ_LOOT_NAME_18311 = "奎尔多雷导能魔杖"
+    IJ_LOOT_NAME_18354 = "匹姆吉布的项圈"
     IJ_LOOT_NAME_18325 = "魔皮软帽"
     IJ_LOOT_NAME_18309 = "恢复手套"
     IJ_LOOT_NAME_18310 = "恶魔弯刀"

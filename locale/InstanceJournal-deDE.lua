@@ -1769,6 +1769,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_DME_BOSS_11492_ABILITY_EFFECT_MINIONS =
         "Alzzins Diener greifen in den Kampf ein und attackieren die Gruppe. Seid bereit, sie abzufangen."
 
+    IJ_LOOT_NAME_18354 = "Pimgibs Halsband"
+
     -- Isalien
     IJ_DB_DUNGEON_DME_BOSS_NAME_16097 = "Isalien"
     IJ_DB_DUNGEON_DME_BOSS_STORY_16097 =

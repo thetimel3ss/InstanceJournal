@@ -1782,6 +1782,8 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_DME_BOSS_11492_ABILITY_EFFECT_MINIONS =
         "Прислужники Алззина вступают в бой и атакуют группу. Будьте готовы перехватить их."
 
+    IJ_LOOT_NAME_18354 = "Ошейник Пимгиба"
+
     -- Isalien
     IJ_DB_DUNGEON_DME_BOSS_NAME_16097 = "Исалиен"
     IJ_DB_DUNGEON_DME_BOSS_STORY_16097 =
