@@ -899,6 +899,24 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Sacerdote das Sombras Sezz'ziz"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "Nekrum Gutchewer viveu misteriosamente muito além de sua vida natural, mas seu corpo em decomposição permanece forte o suficiente para ajudar Sezz'ziz. Juntos, esses dois trolls reuniram sacrifícios para a fera mítica Gahz'rilla, que dorme no coração da cidade. Muitos seguidores trolls aguardam ansiosamente o despertar da terrível criatura e farão qualquer coisa para cumprir o ritual."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_15537 = "Seta Sombria"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_15537 =
+        "Causa dano de Sombra a um alvo após uma conjuração de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_12039 = "Curar"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_12039 =
+        "Cura um aliado após uma conjuração de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8362 = "Renovar"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8362 =
+        "Cura um aliado a cada 3 segundos por 20 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_13704 = "Grito Psíquico"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_13704 =
+        "Faz até cinco inimigos próximos fugirem de medo por 6 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_7796 = "Nekrum Cometripas"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_7796 =
+        "Luta ao lado dos outros combatentes deste encontro."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8600 = "Peste Febril"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8600 =
+        "Causa dano de Natureza a um alvo, seguido de dano de Natureza adicional a cada 5 segundos por 180 segundos."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Chefe Ukorz Sandscalp"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
         "O chefe Ukorz Sandscalp está obcecado em restaurar a antiga glória de sua tribo. Ele foi criado ouvindo histórias de uma época em que os trolls dominavam suas antigas terras sem a interferência de goblins, gnomos, piratas, ogros e outros intrusos estrangeiros. Sandscalp convocou seu fiel camarada Ruuzlu para ajudá-lo a iniciar um novo capítulo na história de Sandfury da única maneira que sua tribo conhece: com violência rápida e cegante."

@@ -901,6 +901,24 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Prêtre Ombre Sezz'ziz"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "Nekrum Gutchewer a mystérieusement vécu bien au-delà de sa vie naturelle, mais son corps en décomposition reste suffisamment fort pour aider Sezz'ziz. Ensemble, ces deux trolls ont rassemblé des sacrifices pour la bête mythique Gahz'rilla, qui sommeille au cœur de la ville. De nombreux adeptes des trolls attendent avec impatience le réveil de la terrifiante créature, et ils feront tout pour mener à bien le rituel."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_15537 = "Trait de l’ombre"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_15537 =
+        "Inflige des dégâts d’Ombre à une cible après 3 secondes d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_12039 = "Soins"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_12039 =
+        "Soigne un allié après 3 secondes d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8362 = "Rénovation"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8362 =
+        "Soigne un allié toutes les 3 secondes pendant 20 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_13704 = "Cri psychique"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_13704 =
+        "Fait fuir de peur jusqu’à cinq ennemis proches pendant 6 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_7796 = "Nekrum Mâchetripes"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_7796 =
+        "Combat aux côtés des autres adversaires de cette rencontre."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8600 = "Peste fiévreuse"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8600 =
+        "Inflige des dégâts de Nature à une cible, puis des dégâts de Nature supplémentaires toutes les 5 secondes pendant 180 secondes."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Chef Ukorz Sandscalp"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
         "Le chef Ukorz Sandscalp est obsédé par l'idée de redonner à sa tribu son ancienne gloire. Il a été élevé dans les histoires d'une époque où les trolls régnaient sur leurs anciennes terres sans l'interférence des gobelins, des gnomes, des pirates, des ogres et d'autres intrus étrangers. Scalp-sable a fait appel à son fidèle camarade Ruuzlu pour l'aider à ouvrir un nouveau chapitre de l'histoire des Furies-des-sables de la seule manière que leur tribu connaît : avec une violence rapide et aveuglante."

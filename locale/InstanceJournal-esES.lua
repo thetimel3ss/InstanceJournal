@@ -901,6 +901,24 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Sacerdote de las Sombras Sezz'ziz"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "Nekrum Gutchewer misteriosamente ha vivido mucho más allá de su vida natural, pero su cuerpo en descomposición sigue siendo lo suficientemente fuerte como para ayudar a Sezz'ziz. Juntos, estos dos trolls han reunido sacrificios para la bestia mítica Gahz'rilla, que duerme en el corazón de la ciudad. Muchos seguidores de los trolls esperan ansiosamente el despertar de la aterradora criatura y harán cualquier cosa para llevar a cabo el ritual."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_15537 = "Descarga de las Sombras"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_15537 =
+        "Inflige daño de las Sombras a un objetivo tras un lanzamiento de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_12039 = "Sanar"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_12039 =
+        "Sana a un aliado tras un lanzamiento de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8362 = "Renovar"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8362 =
+        "Sana a un aliado cada 3 segundos durante 20 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_13704 = "Alarido psíquico"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_13704 =
+        "Hace que hasta cinco enemigos cercanos huyan aterrorizados durante 6 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_7796 = "Nekrum Cometripas"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_7796 =
+        "Lucha junto a los demás combatientes de este encuentro."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8600 = "Peste febril"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8600 =
+        "Inflige daño de Naturaleza a un objetivo, seguido de daño de Naturaleza adicional cada 5 segundos durante 180 segundos."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Jefe Ukorz Piel de Arena"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
         "El jefe Ukorz Sandscalp está obsesionado con devolverle a su tribu su antigua gloria. Se crió con historias de una época en la que los trolls dominaban sus antiguas tierras sin la interferencia de duendes, gnomos, piratas, ogros y otros intrusos extranjeros. Sandscalp ha pedido a su camarada de confianza Ruuzlu que le ayude a comenzar un nuevo capítulo en la historia de Sandfury de la única manera que su tribu sabe: con una violencia rápida y cegadora."

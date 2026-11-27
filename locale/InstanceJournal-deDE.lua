@@ -903,6 +903,24 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Schattenpriester Sezz'ziz"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "Nekrum Gutchewer hat sein natürliches Leben auf mysteriöse Weise weit hinter sich gelassen, aber sein verfallender Körper bleibt stark genug, um Sezz'ziz zu helfen. Gemeinsam haben diese beiden Trolle Opfer für das mythische Tier Gahz'rilla gesammelt, das im Herzen der Stadt schlummert. Viele Trollanhänger warten sehnsüchtig auf das Erwachen der schrecklichen Kreatur und werden alles tun, um das Ritual durchzuhalten."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_15537 = "Schattenblitz"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_15537 =
+        "Fügt einem Ziel nach 3 Sekunden Zauberzeit Schattenschaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_12039 = "Heilen"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_12039 =
+        "Heilt einen Verbündeten nach 3 Sekunden Zauberzeit."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8362 = "Erneuerung"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8362 =
+        "Heilt einen Verbündeten 20 Sekunden lang alle 3 Sekunden."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_13704 = "Psychischer Schrei"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_13704 =
+        "Versetzt bis zu fünf Gegner in der Nähe 6 Sekunden lang in Furcht."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_7796 = "Nekrum der Ausweider"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_7796 =
+        "Kämpft an der Seite der anderen Gegner in diesem Kampf."
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8600 = "Fiebrige Seuche"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8600 =
+        "Fügt einem Ziel Naturschaden und anschließend 180 Sekunden lang alle 5 Sekunden zusätzlichen Naturschaden zu."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Häuptling Ukorz Sandskalp"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
         "Häuptling Ukorz Sandskalp ist besessen davon, seinem Stamm wieder zu seinem früheren Glanz zu verhelfen. Er wuchs mit Geschichten aus einer Zeit auf, als Trolle über ihre alten Länder herrschten, ohne dass Kobolde, Gnome, Piraten, Oger und andere ausländische Eindringlinge eingreifen konnten. Sandscalp hat seinen treuen Kameraden Ruuzlu gebeten, ihm dabei zu helfen, ein neues Kapitel in der Geschichte der Sandfury zu beginnen, und zwar auf die einzige Art und Weise, die ihr Stamm kann: mit schneller und blendender Gewalt."

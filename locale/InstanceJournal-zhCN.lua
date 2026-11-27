@@ -1191,6 +1191,24 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "暗影祭司塞瑟斯"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
         "耐克鲁姆神秘地活过了他的自然寿命，但他腐烂的身体仍然强大到足以协助塞瑟斯。这两个巨魔一起为沉睡在城市中心的神话野兽加兹瑞拉收集祭品。许多巨魔追随者热切地等待着这个可怕生物的苏醒，他们会不惜一切代价完成仪式。"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_15537 = "暗影箭"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_15537 =
+        "施法3秒后对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_12039 = "治疗术"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_12039 =
+        "施法3秒后治疗一个盟友。"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8362 = "恢复"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8362 =
+        "每3秒治疗一个盟友，持续20秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_13704 = "心灵尖啸"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_13704 =
+        "使附近最多五个敌人因恐惧而逃跑，持续6秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_7796 = "耐克鲁姆"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_7796 =
+        "与此战斗中的其他敌人并肩作战。"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8600 = "热疫"
+    IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8600 =
+        "对一个目标造成自然伤害，之后每5秒造成额外自然伤害，持续180秒。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "乌克兹·沙顶"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
         "酋长乌科兹·沙卡普一心想让他的部落恢复昔日的辉煌。他从小就听着这样的故事长大：巨魔统治着他们古老的土地，不受妖精、侏儒、海盗、食人魔和其他外来入侵者的干扰。沙顶呼吁他信任的战友鲁兹鲁帮助他以他们部落所知道的唯一方式开启沙怒历史的新篇章：迅速而致盲的暴力。"

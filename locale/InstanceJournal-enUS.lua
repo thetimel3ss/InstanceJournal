@@ -1095,6 +1095,24 @@ IJ_DB_DUNGEON_ZF_BOSS_7271_ABILITY_EFFECT_11086 =
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7275 = "Shadowpriest Sezz'ziz"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7275 =
     "Nekrum Gutchewer has mysteriously lived well past his natural life, but his decaying body remains strong enough to aid Sezz'ziz. Together, these two trolls have gathered sacrifices to the mythic beast Gahz'rilla, who slumbers at the city's heart. Many troll followers eagerly await the terrifying creature's awakening, and they will do anything to see the ritual through."
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_15537 = "Shadow Bolt"
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_15537 =
+    "Deals Shadow damage to a target after a 3-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_12039 = "Heal"
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_12039 =
+    "Heals an ally after a 3-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8362 = "Renew"
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8362 =
+    "Heals an ally every 3 seconds for 20 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_13704 = "Psychic Scream"
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_13704 =
+    "Causes up to five nearby enemies to flee in fear for 6 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_7796 = "Nekrum Gutchewer"
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_7796 =
+    "Fights alongside the other combatants in this encounter."
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8600 = "Fevered Plague"
+IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8600 =
+    "Deals Nature damage to a target, followed by additional Nature damage every 5 seconds for 180 seconds."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Chief Ukorz Sandscalp"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
     "Chief Ukorz Sandscalp is obsessed with restoring his tribe to its former glory. He was raised on stories of a time when trolls lorded over their ancient lands without interference from goblins, gnomes, pirates, ogres, and other foreign interlopers. Sandscalp has called on his trusted comrade Ruuzlu to help him begin a new chapter in Sandfury history in the only way their tribe knows how: with swift and blinding violence."

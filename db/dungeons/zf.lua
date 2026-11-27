@@ -194,7 +194,7 @@ ZF.Bosses = {
             [5] = {IJDB.I[51217], DropChance = 1}
         }
     },
-    [5] = { -- NOTE: Missing abilities
+    [5] = {
         Id = "7275",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "sezzziz" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "sezzziz" .. IMPF,
@@ -202,6 +202,50 @@ ZF.Bosses = {
         Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_7275,
         MapCoordinateX = 29.4,
         MapCoordinateY = 16.8,
+        Abilities = {
+            [1] = {
+                Id = "15537",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_15537,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_15537,
+                Flags = {IMAF.Interruptible}
+            },
+            [2] = {
+                Id = "12039",
+                Icon = "Spell_Holy_Heal",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_12039,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_12039,
+                Flags = {IMAF.Interruptible}
+            },
+            [3] = {
+                Id = "8362",
+                Icon = "Spell_Holy_Renew",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8362,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8362,
+                Flags = {IMAF.Magic}
+            },
+            [4] = {
+                Id = "13704",
+                Icon = "Spell_Shadow_PsychicScream",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_13704,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_13704
+            },
+            [5] = {
+                Id = "7796",
+                Icon = "Ability_Racial_Berserk",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_7796,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_7796,
+                SubAbilities = {
+                    [1] = {
+                        Id = "8600",
+                        Icon = "Spell_Nature_NullifyDisease",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_NAME_8600,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8600,
+                        Flags = {IMAF.Interruptible, IMAF.Disease}
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[9470], DropChance = 25},
             [2] = {IJDB.I[9473], DropChance = 25},
