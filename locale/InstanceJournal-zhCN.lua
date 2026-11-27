@@ -1127,7 +1127,16 @@ if GetLocale() == "zhCN" then
     -- ZF Bosses
     IJ_DB_DUNGEON_ZF_BOSS_NAME_10082 = "泽雷利斯"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_10082 =
-        "难以捉摸的巨魔，在祖尔法拉克城中很少见。据说他拥有许多令人垂涎的物品，许多人都希望能够亲手得到这些物品，如果他们能首先遇到他就好了……"
+        "泽雷利斯是一名罕见的沙地巨魔，在祖尔法拉克的街道上巡逻。他用网和冰霜射击困住入侵者，然后从远处发起攻击。"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_6533 = "投网"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_6533 =
+        "使一个目标定身10秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_12551 = "冰霜射击"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_12551 =
+        "射击一个目标，使其移动速度降低60%，持续10秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_15547 = "射击"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_15547 =
+        "射击一个目标，造成物理伤害。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "殉教者塞卡"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
         "很久以前，烈士塞卡在其拉虫族与巨魔之间的残酷战争中被杀。祖尔法拉克由于他的英勇牺牲而至今仍屹立不倒。即使在死后，他仍然对他心爱的城市守夜，据说杀死他的数十名昆虫战士被诅咒，成为无意识的圣甲虫，在烈士的身边疾驰。"

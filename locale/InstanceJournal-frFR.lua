@@ -837,7 +837,16 @@ if GetLocale() == "frFR" then
     -- ZF Bosses
     IJ_DB_DUNGEON_ZF_BOSS_NAME_10082 = "Zérillis"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_10082 =
-        "Un troll insaisissable, rarement vu dans la ville de Zul'Farrak. On dit qu'il possède de nombreux objets convoités sur lesquels beaucoup souhaiteraient pouvoir mettre la main, si seulement ils pouvaient le rencontrer en premier lieu..."
+        "Zerillis est un troll des sables rarement rencontré qui patrouille dans les rues de Zul'Farrak. Il piège les intrus à l’aide de filets et de tirs de givre avant de les attaquer à distance."
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_6533 = "Filet"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_6533 =
+        "Enracine une cible pendant 10 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_12551 = "Tir de givre"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_12551 =
+        "Tire sur une cible et réduit sa vitesse de déplacement de 60% pendant 10 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_15547 = "Tir"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_15547 =
+        "Tire sur une cible et lui inflige des dégâts physiques."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "Théka la martyre"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
         "Il y a bien longtemps, le martyr Theka fut tué dans la guerre brutale entre les qiraji et les trolls. Zul'Farrak est toujours debout grâce à son courageux sacrifice. Même mort, il veille sur sa ville bien-aimée, et on dit que les dizaines de guerriers insectoïdes qui l'ont tué ont été maudits pour vivre comme des scarabées stupides, se précipitant aux côtés du martyr."

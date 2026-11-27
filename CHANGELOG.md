@@ -6,6 +6,7 @@ All changes to this project will be documented in this file.
 
 ### Added
 
+- Added missing abilities to the bosses in `Zul'Farrak`
 - Added missing abilities to the bosses in `Maraudon`
 - Added missing abilities to the bosses in `The Temple of Atal'Hakkar`
 - Added `Net` to `Gelihast` in `Blackfathom Deeps`

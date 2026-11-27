@@ -1031,7 +1031,16 @@ IJ_DB_DUNGEON_ZF_STORY =
 -- ZF Bosses
 IJ_DB_DUNGEON_ZF_BOSS_NAME_10082 = "Zerillis"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_10082 =
-    "An elusive troll, rarely seen accross the city of Zul'Farrak. He is said to possess lots of coveted items that many wish they could lay their hands on, if only they could encounter him in the first place..."
+    "Zerillis is a rarely encountered sand troll who patrols the streets of Zul'Farrak. He snares intruders with nets and frost-tipped shots before attacking from range."
+IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_6533 = "Net"
+IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_6533 =
+    "Roots a target for 10 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_12551 = "Frost Shot"
+IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_12551 =
+    "Shoots a target and reduces its movement speed by 60% for 10 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_15547 = "Shoot"
+IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_15547 =
+    "Shoots at a target, dealing Physical damage."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "Theka the Martyr"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
     "Long ago, the martyr Theka was slain in the brutal war between the qiraji and the trolls. Zul'Farrak still stands because of his brave sacrifice. Even in death he maintains a vigil over his beloved city, and it is said that the dozens of insectoid warriors who killed him were cursed to live as mindless scarabs, scuttling at the martyr's side."

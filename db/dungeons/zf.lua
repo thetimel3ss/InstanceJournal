@@ -23,7 +23,7 @@ ZF.MinLevel = 42
 ZF.MaxLevel = 51
 ZF.Entrances = {[1] = {MapContinentId = IMI.Kalimdor, MapZoneId = IZI.Tanaris, MapCoordinateX = 39.2, MapCoordinateY = 20.1}}
 ZF.Bosses = {
-    [1] = { -- NOTE: Missing abilities
+    [1] = {
         Id = "10082",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "zerillis" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "zerillis" .. IMPF,
@@ -32,6 +32,27 @@ ZF.Bosses = {
         MapCoordinateX = 52.4,
         MapCoordinateY = 41.6,
         IsRare = true,
+        Abilities = {
+            [1] = {
+                Id = "6533",
+                Icon = "Ability_Ensnare",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_6533,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_6533
+            },
+            [2] = {
+                Id = "12551",
+                Icon = "Spell_Ice_MagicDamage",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_12551,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_12551,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "15547",
+                Icon = "Ability_Marksmanship",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_15547,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_15547
+            }
+        },
         Loot = {[1] = {IJDB.I[12470], DropChance = 19}}
     },
     [2] = { -- NOTE: Missing abilities

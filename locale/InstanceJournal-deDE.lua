@@ -839,7 +839,16 @@ if GetLocale() == "deDE" then
     -- ZF Bosses
     IJ_DB_DUNGEON_ZF_BOSS_NAME_10082 = "Zerillis"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_10082 =
-        "Ein schwer fassbarer Troll, der in der Stadt Zul'Farrak selten zu sehen ist. Es wird gesagt, dass er viele begehrte Gegenstände besitzt, von denen sich viele wünschen, sie könnten sie in die Hände bekommen, wenn sie ihm nur überhaupt begegnen könnten ..."
+        "Zerillis ist ein selten anzutreffender Sandtroll, der durch die Straßen von Zul'Farrak patrouilliert. Er hält Eindringlinge mit Netzen und Frostgeschossen auf, bevor er aus der Ferne angreift."
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_6533 = "Netz"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_6533 =
+        "Wurzelt ein Ziel 10 Sekunden lang fest."
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_12551 = "Frostschuss"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_12551 =
+        "Schießt auf ein Ziel und verringert dessen Bewegungstempo 10 Sekunden lang um 60%."
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_NAME_15547 = "Schießen"
+    IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_15547 =
+        "Schießt auf ein Ziel und verursacht körperlichen Schaden."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "Theka die Märtyrerin"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
         "Vor langer Zeit wurde die Märtyrerin Theka im brutalen Krieg zwischen den Qiraji und den Trollen getötet. Zul'Farrak steht aufgrund seines mutigen Opfers immer noch. Selbst im Tod wacht er über seine geliebte Stadt, und es heißt, dass die Dutzenden insektoiden Krieger, die ihn töteten, dazu verflucht waren, als gedankenlose Skarabäen an der Seite des Märtyrers zu leben."
