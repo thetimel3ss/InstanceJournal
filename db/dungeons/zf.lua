@@ -55,14 +55,29 @@ ZF.Bosses = {
         },
         Loot = {[1] = {IJDB.I[12470], DropChance = 19}}
     },
-    [2] = { -- NOTE: Missing abilities
+    [2] = {
         Id = "7272",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "theka" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "theka" .. IMPF,
         Name = IJ_DB_DUNGEON_ZF_BOSS_NAME_7272,
         Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_7272,
         MapCoordinateX = 52.9,
-        MapCoordinateY = 26.2
+        MapCoordinateY = 26.2,
+        Abilities = {
+            [1] = {
+                Id = "8600",
+                Icon = "Spell_Nature_NullifyDisease",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_8600,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_8600,
+                Flags = {IMAF.Interruptible, IMAF.Disease}
+            },
+            [2] = {
+                Id = "11089",
+                Icon = "Spell_Shadow_AntiShadow",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_11089,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_11089
+            }
+        }
         -- NOTE: No unique loot?
     },
     [3] = { -- NOTE: Missing abilities

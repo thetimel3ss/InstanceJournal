@@ -1043,7 +1043,13 @@ IJ_DB_DUNGEON_ZF_BOSS_10082_ABILITY_EFFECT_15547 =
     "Shoots at a target, dealing Physical damage."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "Theka the Martyr"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
-    "Long ago, the martyr Theka was slain in the brutal war between the qiraji and the trolls. Zul'Farrak still stands because of his brave sacrifice. Even in death he maintains a vigil over his beloved city, and it is said that the dozens of insectoid warriors who killed him were cursed to live as mindless scarabs, scuttling at the martyr's side."
+    "Long ago, the martyr Theka was slain in the brutal war between the qiraji and the trolls. Zul'Farrak still stands because of his brave sacrifice. Even in death he maintains a vigil over his beloved city, and it is said that the dozens of insectoid warriors who killed him were cursed to live as mindless scarabs, scuttling at the martyr's side.\n\nTheka guards one of the Mosh'aru tablets, whose prophecy describes how to contain Hakkar's essence. His tomb also holds an inscription revealing the true name of the Witherbark spider god, Elortha no Shadra."
+IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_8600 = "Fevered Plague"
+IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_8600 =
+    "Deals Nature damage to a target, followed by additional Nature damage every 5 seconds for 180 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_11089 = "Theka Transform"
+IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_11089 =
+    "Transforms into a scarab for 30 seconds, becoming immune to Physical and Shadow damage.\n\nUse other schools of magic while the transformation is active."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
     "Antu'sul prefers his sul'lithuz basilisks strong and ruthless. He treats these scaled beasts like family, and he is known to strike down anyone--even fellow trolls--who harm his precious children. Rather than give his opponents a proper burial, Antu'sul allows the basilisks to feast on whoever dares cross him."

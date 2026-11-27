@@ -851,7 +851,13 @@ if GetLocale() == "deDE" then
         "Schießt auf ein Ziel und verursacht körperlichen Schaden."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "Theka die Märtyrerin"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
-        "Vor langer Zeit wurde die Märtyrerin Theka im brutalen Krieg zwischen den Qiraji und den Trollen getötet. Zul'Farrak steht aufgrund seines mutigen Opfers immer noch. Selbst im Tod wacht er über seine geliebte Stadt, und es heißt, dass die Dutzenden insektoiden Krieger, die ihn töteten, dazu verflucht waren, als gedankenlose Skarabäen an der Seite des Märtyrers zu leben."
+        "Vor langer Zeit wurde die Märtyrerin Theka im brutalen Krieg zwischen den Qiraji und den Trollen getötet. Zul'Farrak steht aufgrund seines mutigen Opfers immer noch. Selbst im Tod wacht er über seine geliebte Stadt, und es heißt, dass die Dutzenden insektoiden Krieger, die ihn töteten, dazu verflucht waren, als gedankenlose Skarabäen an der Seite des Märtyrers zu leben.\n\nTheka bewacht eine der Mosh'aru-Schrifttafeln, deren Prophezeiung beschreibt, wie Hakkars Essenz gebannt werden kann. Sein Grab enthält auch eine Inschrift, die den wahren Namen des Spinnengottes der Bleichborken offenbart: Elortha no Shadra."
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_8600 = "Fiebrige Seuche"
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_8600 =
+        "Fügt einem Ziel Naturschaden und anschließend 180 Sekunden lang alle 5 Sekunden zusätzlichen Naturschaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_11089 = "Thekas Verwandlung"
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_11089 =
+        "Verwandelt sich 30 Sekunden lang in einen Skarabäus und wird immun gegen körperlichen Schaden und Schattenschaden.\n\nVerwendet während der Verwandlung andere Magieschulen."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "Antu'sul bevorzugt starke und rücksichtslose Sul'lithuz-Basilisken. Er behandelt diese Schuppentiere wie Familienmitglieder und ist dafür bekannt, jeden niederzuschlagen – sogar seine Trollkollegen –, der seinen kostbaren Kindern Schaden zufügt. Anstatt seinen Gegnern ein ordentliches Begräbnis zu geben, erlaubt Antu'sul den Basilisken, sich an jedem zu erfreuen, der es wagt, ihm in die Quere zu kommen."

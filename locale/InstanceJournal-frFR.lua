@@ -849,7 +849,13 @@ if GetLocale() == "frFR" then
         "Tire sur une cible et lui inflige des dégâts physiques."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "Théka la martyre"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
-        "Il y a bien longtemps, le martyr Theka fut tué dans la guerre brutale entre les qiraji et les trolls. Zul'Farrak est toujours debout grâce à son courageux sacrifice. Même mort, il veille sur sa ville bien-aimée, et on dit que les dizaines de guerriers insectoïdes qui l'ont tué ont été maudits pour vivre comme des scarabées stupides, se précipitant aux côtés du martyr."
+        "Il y a bien longtemps, le martyr Theka fut tué dans la guerre brutale entre les qiraji et les trolls. Zul'Farrak est toujours debout grâce à son courageux sacrifice. Même mort, il veille sur sa ville bien-aimée, et on dit que les dizaines de guerriers insectoïdes qui l'ont tué ont été maudits pour vivre comme des scarabées stupides, se précipitant aux côtés du martyr.\n\nTheka garde l’une des tablettes de Mosh'aru, dont la prophétie décrit comment contenir l’essence d’Hakkar. Sa tombe renferme également une inscription révélant le véritable nom du dieu araignée des Fânécorce, Elortha no Shadra."
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_8600 = "Peste fiévreuse"
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_8600 =
+        "Inflige des dégâts de Nature à une cible, puis des dégâts de Nature supplémentaires toutes les 5 secondes pendant 180 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_11089 = "Transformation de Theka"
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_11089 =
+        "Se transforme en scarabée pendant 30 secondes et devient insensible aux dégâts physiques et d’Ombre.\n\nUtilisez d’autres écoles de magie pendant la transformation."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "Antu'sul préfère ses basilics sul'lithuz forts et impitoyables. Il traite ces bêtes à écailles comme un membre de sa famille, et il est connu pour abattre quiconque, même les autres trolls, qui fait du mal à ses précieux enfants. Plutôt que de donner à ses adversaires un enterrement digne de ce nom, Antu'sul permet aux basilics de se régaler de quiconque ose le contrarier."

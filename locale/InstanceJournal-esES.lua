@@ -849,7 +849,13 @@ if GetLocale() == "esES" then
         "Dispara a un objetivo y le inflige daño físico."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "Theka la mártir"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
-        "Hace mucho tiempo, el mártir Theka fue asesinado en la brutal guerra entre los qiraji y los trolls. Zul'Farrak sigue en pie gracias a su valiente sacrificio. Incluso muerto, mantiene una vigilia sobre su amada ciudad, y se dice que las docenas de guerreros insectoides que lo mataron fueron maldecidos a vivir como escarabajos sin sentido, escabulléndose al lado del mártir."
+        "Hace mucho tiempo, el mártir Theka fue asesinado en la brutal guerra entre los qiraji y los trolls. Zul'Farrak sigue en pie gracias a su valiente sacrificio. Incluso muerto, mantiene una vigilia sobre su amada ciudad, y se dice que las docenas de guerreros insectoides que lo mataron fueron maldecidos a vivir como escarabajos sin sentido, escabulléndose al lado del mártir.\n\nTheka custodia una de las tablillas de Mosh'aru, cuya profecía describe cómo contener la esencia de Hakkar. Su tumba también alberga una inscripción que revela el verdadero nombre del dios araña de los Secacorteza, Elortha no Shadra."
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_8600 = "Peste febril"
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_8600 =
+        "Inflige daño de Naturaleza a un objetivo, seguido de daño de Naturaleza adicional cada 5 segundos durante 180 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_11089 = "Transformación de Theka"
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_11089 =
+        "Se transforma en un escarabajo durante 30 segundos y se vuelve inmune al daño físico y de las Sombras.\n\nUtilizad otras escuelas de magia durante la transformación."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "Antu'sul prefiere a sus basiliscos sul'lithuz fuertes y despiadados. Trata a estas bestias escamosas como si fueran de su familia, y es conocido por matar a cualquiera, incluso a sus compañeros trolls, que dañen a sus preciosos hijos. En lugar de dar a sus oponentes un entierro adecuado, Antu'sul permite que los basiliscos se den un festín con quien se atreva a contrariarlo."

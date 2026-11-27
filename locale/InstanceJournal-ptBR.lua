@@ -847,7 +847,13 @@ if GetLocale() == "ptBR" then
         "Dispara contra um alvo, causando dano Físico."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7272 = "Theka, a Mártir"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7272 =
-        "Há muito tempo, a mártir Theka foi morta na guerra brutal entre os qiraji e os trolls. Zul'Farrak ainda está de pé por causa de seu corajoso sacrifício. Mesmo na morte, ele mantém vigília sobre sua amada cidade, e diz-se que as dezenas de guerreiros insectóides que o mataram foram amaldiçoados a viver como escaravelhos estúpidos, correndo ao lado do mártir."
+        "Há muito tempo, a mártir Theka foi morta na guerra brutal entre os qiraji e os trolls. Zul'Farrak ainda está de pé por causa de seu corajoso sacrifício. Mesmo na morte, ele mantém vigília sobre sua amada cidade, e diz-se que as dezenas de guerreiros insectóides que o mataram foram amaldiçoados a viver como escaravelhos estúpidos, correndo ao lado do mártir.\n\nTheka guarda uma das tábuas de Mosh'aru, cuja profecia descreve como conter a essência de Hakkar. Seu túmulo também contém uma inscrição que revela o verdadeiro nome do deus-aranha dos Cascassecas, Elortha no Shadra."
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_8600 = "Peste Febril"
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_8600 =
+        "Causa dano de Natureza a um alvo, seguido de dano de Natureza adicional a cada 5 segundos por 180 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_NAME_11089 = "Transformação de Theka"
+    IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_11089 =
+        "Transforma-se em um escaravelho por 30 segundos, tornando-se imune a dano Físico e de Sombra.\n\nUse outras escolas de magia durante a transformação."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "Antu'sul prefere seus basiliscos sul'lithuz fortes e implacáveis. Ele trata essas feras com escamas como se fossem da família e é conhecido por matar qualquer um – até mesmo seus companheiros trolls – que machuquem seus preciosos filhos. Em vez de dar aos seus oponentes um enterro adequado, Antu'sul permite que os basiliscos festejem com quem ousar contrariá-lo."
