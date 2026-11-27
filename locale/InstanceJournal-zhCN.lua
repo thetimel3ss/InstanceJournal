@@ -2805,6 +2805,7 @@ if GetLocale() == "zhCN" then
     IJ_LOOT_NAME_22256 = "法术塑能裹手"
     IJ_LOOT_NAME_22205 = "黑钢护腕"
     IJ_LOOT_NAME_22254 = "永恒光明指环"
+    IJ_LOOT_NAME_22255 = "岩浆指环"
     IJ_LOOT_NAME_11839 = "大石匠的眼镜"
     IJ_LOOT_NAME_11841 = "高级设计师的长裤"
     IJ_LOOT_NAME_11842 = "首席测量员的衬肩"

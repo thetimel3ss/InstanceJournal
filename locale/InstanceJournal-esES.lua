@@ -2185,6 +2185,8 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_BRD_BOSS_STORY_9019 =
         "El emperador Dagran Thaurissan gobierna junto a la princesa Moira del clan rival Barbabronce. Se debate si el emperador hechizó a su novia o si ella se unió voluntariamente a él. Cualquiera que sea la verdad, la presencia continua de Thaurissan es un mal augurio para el futuro de su clan. Mientras viva, los Hierro Negro seguirán siendo peones de Ragnaros y una terrible amenaza para los reinos de Azeroth."
 
+    IJ_LOOT_NAME_22255 = "Banda Forjada de Magma"
+
     -- LBRS
     IJ_DB_DUNGEON_LBRS_NAME = "Aguja de Roca Negra inferior"
     IJ_DB_DUNGEON_LBRS_STORY =

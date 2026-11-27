@@ -2185,6 +2185,8 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_BRD_BOSS_STORY_9019 =
         "L'empereur Dagran Thaurissan règne aux côtés de la princesse Moira du clan rival Barbe de Bronze. Le débat fait rage pour savoir si l'empereur a ensorcelé son épouse ou si elle l'a volontairement rejoint. Quelle que soit la vérité, la présence continue de Thaurissan est de mauvais augure pour l'avenir de son clan. Tant qu'il vivra, les Sombrefers resteront des pions de Ragnaros et une terrible menace pour les royaumes d'Azeroth."
 
+    IJ_LOOT_NAME_22255 = "Anneau forgé dans le magma"
+
     -- LBRS
     IJ_DB_DUNGEON_LBRS_NAME = "Flèche inférieure de Rochenoire"
     IJ_DB_DUNGEON_LBRS_STORY =

@@ -2183,6 +2183,8 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_BRD_BOSS_STORY_9019 =
         "O Imperador Dagran Thaurissan governa ao lado da Princesa Moira do clã rival Bronzebeard. Há um debate intenso sobre se o imperador enfeitiçou sua noiva ou se ela se juntou a ele voluntariamente. Seja qual for a verdade, a presença contínua de Thaurissan é um mau presságio para o futuro de seu clã. Enquanto ele viver, os Dark Irons continuarão sendo peões de Ragnaros e uma terrível ameaça aos reinos de Azeroth."
 
+    IJ_LOOT_NAME_22255 = "Anel Forjado de Magma"
+
     -- LBRS
     IJ_DB_DUNGEON_LBRS_NAME = "Pináculo da Rocha Negra Inferior"
     IJ_DB_DUNGEON_LBRS_STORY =

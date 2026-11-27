@@ -2187,6 +2187,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_BRD_BOSS_STORY_9019 =
         "Kaiser Dagran Thaurissan regiert an der Seite von Prinzessin Moira vom rivalisierenden Bronzebeard-Clan. Es tobt eine Debatte darüber, ob der Kaiser seine Braut verzauberte oder ob sie sich ihm freiwillig anschloss. Was auch immer die Wahrheit sein mag, Thaurissans anhaltende Anwesenheit verheißt nichts Gutes für die Zukunft seines Clans. Solange er lebt, werden die Dunkeleisenzwerge die Handlanger von Ragnaros bleiben und eine große Bedrohung für die Königreiche in ganz Azeroth darstellen."
 
+    IJ_LOOT_NAME_22255 = "Magmageschmiedetes Band"
+
     -- LBRS
     IJ_DB_DUNGEON_LBRS_NAME = "Untere Schwarzfelsspitze"
     IJ_DB_DUNGEON_LBRS_STORY =

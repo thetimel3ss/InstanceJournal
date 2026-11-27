@@ -546,6 +546,8 @@ I[22205] = {Id = "22205", Icon = "inv_bracer_14", Name = IJ_LOOT_NAME_22205, Qua
 
 I[22254] = {Id = "22254", Icon = "inv_wand_02", Name = IJ_LOOT_NAME_22254, Quality = IQ.Rare, ItemSlot = IS.Ranged, ItemType = IT.Wand, LevelRequirement = 52}
 
+I[22255] = {Id = "22255", Icon = "INV_Jewelry_Ring_04", Name = IJ_LOOT_NAME_22255, Quality = IQ.Rare, ItemSlot = IS.Finger, LevelRequirement = 52}
+
 I[11839] = {Id = "11839", Icon = "inv_helmet_44", Name = IJ_LOOT_NAME_11839, Quality = IQ.Rare, ItemSlot = IS.Head, ItemType = IT.Cloth, LevelRequirement = 50}
 
 I[11841] = {Id = "11841", Icon = "inv_pants_09", Name = IJ_LOOT_NAME_11841, Quality = IQ.Rare, ItemSlot = IS.Legs, ItemType = IT.Cloth, LevelRequirement = 50}

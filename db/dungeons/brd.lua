@@ -349,7 +349,8 @@ BRD.Bosses = {
         Loot = {
             [1] = {IJDB.I[22256], DropChance = 2}, 
             [2] = {IJDB.I[22205], DropChance = 2}, 
-            [3] = {IJDB.I[22254], DropChance = 1}
+            [3] = {IJDB.I[22254], DropChance = 1},
+            [4] = {IJDB.I[22255], DropChance = 25}
         }
     },
     [9] = {
