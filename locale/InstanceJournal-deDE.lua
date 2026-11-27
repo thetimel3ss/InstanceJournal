@@ -3124,6 +3124,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
         "Drei oder vier Auferstandene Wachen erwarten den teleportierten Spieler.\n\nBesiegt die Wachen und kehrt zur Gruppe zurück."
 
+    IJ_LOOT_NAME_13950 = "Festschnürungsgurt"
+
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Burg Schattenfang"
     IJ_DB_DUNGEON_SFK_STORY =

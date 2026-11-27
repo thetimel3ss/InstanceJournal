@@ -2123,6 +2123,8 @@ I[13944] = {Id = "13944", Icon = "inv_chest_chain_17", Name = IJ_LOOT_NAME_13944
 
 I[13951] = {Id = "13951", Icon = "inv_bracer_18", Name = IJ_LOOT_NAME_13951, Quality = IQ.Rare, ItemSlot = IS.Wrist, ItemType = IT.Plate, LevelRequirement = 57}
 
+I[13950] = {Id = "13950", Icon = "INV_Belt_09", Name = IJ_LOOT_NAME_13950, Quality = IQ.Rare, ItemSlot = IS.Waist, ItemType = IT.Mail, LevelRequirement = 57}
+
 I[13953] = {Id = "13953", Icon = "inv_sword_41", Name = IJ_LOOT_NAME_13953, Quality = IQ.Rare, ItemSlot = IS.MainHand, ItemType = IT.Sword, LevelRequirement = 57}
 
 I[13964] = {Id = "13964", Icon = "inv_weapon_shortblade_25", Name = IJ_LOOT_NAME_13964, Quality = IQ.Rare, ItemSlot = IS.OneHand, ItemType = IT.Dagger, LevelRequirement = 57}

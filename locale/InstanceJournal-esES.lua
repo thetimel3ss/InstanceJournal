@@ -3123,6 +3123,8 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
         "Tres o cuatro Guardias resucitados esperan al jugador teletransportado.\n\nDerrotad a los guardias y volved con el grupo."
 
+    IJ_LOOT_NAME_13950 = "Correa de Detención"
+
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Fortaleza de Colmillo Oscuro"
     IJ_DB_DUNGEON_SFK_STORY =

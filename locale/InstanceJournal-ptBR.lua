@@ -3120,6 +3120,8 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
         "Três ou quatro Guardas Reanimados aguardam o jogador teleportado.\n\nDerrote os guardas e retorne ao grupo."
 
+    IJ_LOOT_NAME_13950 = "Correia de Detenção"
+
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Fortaleza Presa Negra"
     IJ_DB_DUNGEON_SFK_STORY =

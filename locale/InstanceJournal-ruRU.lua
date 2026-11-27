@@ -3142,6 +3142,8 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
         "Телепортированного игрока ожидают три или четыре Восставших стража.\n\nУбейте стражей и вернитесь к группе."
 
+    IJ_LOOT_NAME_13950 = "Цепь арестанта"
+
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Крепость Темного Клыка"
     IJ_DB_DUNGEON_SFK_STORY =

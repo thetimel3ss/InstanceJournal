@@ -4204,6 +4204,7 @@ if GetLocale() == "zhCN" then
     IJ_LOOT_NAME_13938 = "噬骨铁针"
     IJ_LOOT_NAME_13944 = "墓碑胸甲"
     IJ_LOOT_NAME_13951 = "活钢臂甲"
+    IJ_LOOT_NAME_13950 = "拘禁束带"
     IJ_LOOT_NAME_13953 = "沉默之牙"
     IJ_LOOT_NAME_13964 = "女巫之刃"
     IJ_LOOT_NAME_22433 = "莫里希奥的统御指环"

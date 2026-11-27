@@ -855,7 +855,8 @@ SCHOLO.Bosses = {
             [21] = {IJDB.I[47415], DropChance = 10},
             [22] = {IJDB.I[14514], DropChance = 7},
             [23] = {IJDB.I[70226], DropChance = 3},
-            [24] = {IJDB.I[13937], DropChance = 1}
+            [24] = {IJDB.I[13937], DropChance = 1},
+            [25] = {IJDB.I[13950], DropChance = 14}
         }
     }
 }

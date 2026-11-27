@@ -3122,6 +3122,8 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_SCHOLO_BOSS_1853_ABILITY_EFFECT_30002 =
         "Trois ou quatre Gardes ressuscités attendent le joueur téléporté.\n\nÉliminez les gardes et rejoignez le groupe."
 
+    IJ_LOOT_NAME_13950 = "Lanière de détention"
+
     -- SFK
     IJ_DB_DUNGEON_SFK_NAME = "Donjon d'Ombrecroc"
     IJ_DB_DUNGEON_SFK_STORY =
