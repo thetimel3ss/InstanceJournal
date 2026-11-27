@@ -18,6 +18,7 @@ All changes to this project will be documented in this file.
 
 ### Changed
 
+- Arranged loot indicators side by side when multiple requirements or notes are present
 - Corrected `Level One Lunatic` item quality, challenge tags, and loot references; hid the legacy `Fractured Sword` entry
 - Updated selected boss lore in `Zul'Farrak`
 - Adjusted map markers for summoned encounters in `Dire Maul`, `Stratholme`, and `Blackrock Depths`

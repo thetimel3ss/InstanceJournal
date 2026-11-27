@@ -1,6 +1,30 @@
 local IJ_CacheTooltip = CreateFrame("GameTooltip", "IJ_CacheTooltip", UIParent, "GameTooltipTemplate")
 local IJ_CachedItems = {}
 
+local function IJ_PositionLootIndicators(row)
+    local anchor = row.chanceFrame
+    local extraWidth = 0
+
+    for _, indicator in ipairs({row.hardModeFrame, row.challengeFrame, row.noteFrame}) do
+        if indicator:IsShown() then
+            indicator:ClearAllPoints()
+            indicator:SetFrameLevel(row.itemHitBox:GetFrameLevel() + 1)
+
+            if anchor == row.chanceFrame then
+                local offset = indicator == row.noteFrame and -2 or 3
+                indicator:SetPoint("RIGHT", anchor, "LEFT", offset, 1)
+            else
+                indicator:SetPoint("RIGHT", anchor, "LEFT", -2, 0)
+                extraWidth = extraWidth + indicator:GetWidth() + 2
+            end
+
+            anchor = indicator
+        end
+    end
+
+    row.nameText:SetWidth(math.max(0, IJ_INFO_W - 100 - extraWidth))
+end
+
 function IJ_PopulateLoot(data, isInstance)
     local child = IJ_LootChild
 
@@ -580,6 +604,8 @@ function IJ_PopulateLoot(data, isInstance)
         else
             row.noteFrame:Hide()
         end
+
+        IJ_PositionLootIndicators(row)
 
         local origin = IJ_GUI_BOSS .. ": " .. (item.DropOrigin or "")
         row.originText:SetText(origin)
