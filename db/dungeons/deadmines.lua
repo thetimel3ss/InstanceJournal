@@ -329,7 +329,8 @@ DEADMINES.Bosses = {
             [3] = {IJDB.I[5202], DropChance = 30},
             [4] = {IJDB.I[5191], DropChance = 20},
             [5] = {IJDB.I[10399], DropChance = 20},
-            [6] = {IJDB.I[81005], DropChance = 8}
+            [6] = {IJDB.I[81005], DropChance = 8},
+            [7] = {IJDB.I[51217], DropChance = 1}
         }
     },
     [10] = {
