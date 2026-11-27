@@ -857,6 +857,30 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "Antu'sul prefere seus basiliscos sul'lithuz fortes e implacáveis. Ele trata essas feras com escamas como se fossem da família e é conhecido por matar qualquer um – até mesmo seus companheiros trolls – que machuquem seus preciosos filhos. Em vez de dar aos seus oponentes um enterro adequado, Antu'sul permite que os basiliscos festejem com quem ousar contrariá-lo."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10413 = "Choque Terreno"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10413 =
+        "Causa dano de Natureza a um alvo, interrompe sua conjuração e impede feitiços dessa escola por 2 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11314 = "Totem de Nova de Fogo"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11314 =
+        "Invoca um totem que explode após um breve intervalo, causando dano de Fogo aos inimigos em um raio de 10 metros.\n\nDestrua o totem antes que exploda."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_8376 = "Totem de Garra Terrena"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_8376 =
+        "Invoca um totem que periodicamente enraíza os inimigos em um raio de 10 metros por 4 segundos.\n\nDestrua o totem."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11894 = "Lacaio de Antu'sul"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11894 =
+        "Invoca um Servo de Antu'sul para ajudá-lo em combate."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11020 = "Petrificar"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11020 =
+        "Atordoa um alvo por 8 segundos, mas aumenta sua armadura em 30%."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10915 = "Cura Célere"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10915 =
+        "Cura um alvo aliado após uma conjuração de 1,5 segundo."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11895 = "Onda Curativa de Antu'sul"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11895 =
+        "Cura um alvo após uma conjuração de 1 segundo."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11899 = "Totem de Cura"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11899 =
+        "Invoca uma proteção que cura periodicamente os aliados próximos.\n\nDestrua a proteção."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Feiticeiro Zum'rah"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "O poderoso loa Bwonsamdi zela pelos espíritos dos trolls Darkspear, mas muitos dos membros caídos da tribo Sandfury não recebem tal proteção após a morte. Esses espíritos torturados obedecem a Zum'rah, um feiticeiro cruel que usa sua magia negra para forçar os mortos da cidade a um serviço interminável."

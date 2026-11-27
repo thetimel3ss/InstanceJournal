@@ -859,6 +859,30 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "Antu'sul prefiere a sus basiliscos sul'lithuz fuertes y despiadados. Trata a estas bestias escamosas como si fueran de su familia, y es conocido por matar a cualquiera, incluso a sus compañeros trolls, que dañen a sus preciosos hijos. En lugar de dar a sus oponentes un entierro adecuado, Antu'sul permite que los basiliscos se den un festín con quien se atreva a contrariarlo."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10413 = "Choque de tierra"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10413 =
+        "Inflige daño de Naturaleza a un objetivo, interrumpe su lanzamiento e impide los hechizos de esa escuela durante 2 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11314 = "Tótem Nova de Fuego"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11314 =
+        "Invoca un tótem que explota tras un breve intervalo e inflige daño de Fuego a los enemigos en un radio de 10 metros.\n\nDestruid el tótem antes de que explote."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_8376 = "Tótem Pillaterra"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_8376 =
+        "Invoca un tótem que enraíza periódicamente a los enemigos en un radio de 10 metros durante 4 segundos.\n\nDestruid el tótem."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11894 = "Esbirro de Antu'sul"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11894 =
+        "Invoca un sirviente de Antu'sul para que lo ayude en combate."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11020 = "Petrificar"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11020 =
+        "Aturde a un objetivo durante 8 segundos, pero aumenta su armadura un 30%."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10915 = "Sanación relámpago"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10915 =
+        "Sana a un objetivo amistoso tras un lanzamiento de 1,5 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11895 = "Ola de sanación de Antu'sul"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11895 =
+        "Sana a un objetivo tras un lanzamiento de 1 segundo."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11899 = "Resguardo de sanación"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11899 =
+        "Invoca un resguardo que sana periódicamente a los aliados cercanos.\n\nDestruid el resguardo."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Médico brujo Zum'rah"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "El poderoso loa Bwonsamdi vela por los espíritus de los trolls Lanza Negra, pero a muchos de los miembros caídos de la tribu Furia de Arena no se les ofrece esa protección después de la muerte. Estos espíritus torturados obedecen a Zum'rah, un cruel hechicero que utiliza su magia oscura para obligar a los muertos de la ciudad a prestar un servicio interminable."

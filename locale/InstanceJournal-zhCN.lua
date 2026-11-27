@@ -1149,6 +1149,30 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "安图苏尔"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "安图苏尔更喜欢他的苏利兹石化蜥蜴，它们强大而无情。他对待这些有鳞的野兽就像家人一样，众所周知，他会击杀任何伤害他宝贝孩子的人，甚至是巨魔同伴。安图苏尔并没有给他的对手一个适当的埋葬，而是让石化蜥蜴吃掉任何胆敢侵犯他的人。"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10413 = "地震术"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10413 =
+        "对一个目标造成自然伤害，打断其施法，并使其在2秒内无法施放该学派的法术。"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11314 = "火焰新星图腾"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11314 =
+        "召唤一个图腾，短暂延迟后爆炸，对10码内的敌人造成火焰伤害。\n\n在图腾爆炸前将其摧毁。"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_8376 = "陷地图腾"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_8376 =
+        "召唤一个图腾，周期性地使10码内的敌人定身4秒。\n\n摧毁图腾。"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11894 = "安图苏尔的爪牙"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11894 =
+        "召唤一个安图苏尔的仆从协助战斗。"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11020 = "石化"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11020 =
+        "使一个目标昏迷8秒，但其护甲提高30%。"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10915 = "快速治疗"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10915 =
+        "施法1.5秒后治疗一个友方目标。"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11895 = "安图苏尔的治疗波"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11895 =
+        "施法1秒后治疗一个目标。"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11899 = "治疗结界"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11899 =
+        "召唤一个结界，周期性地治疗附近的盟友。\n\n摧毁结界。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "巫医祖穆拉恩"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "强大的神灵邦桑迪守护着暗矛巨魔的灵魂，但许多沙怒部落的阵亡成员死后并没有得到这样的庇护。这些饱受折磨的灵魂服从祖穆拉恩的命令。祖穆拉恩是一位残酷的巫医，他用黑暗魔法逼迫这座城市的死者永无休止地服役。"

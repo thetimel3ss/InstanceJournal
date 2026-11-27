@@ -859,6 +859,30 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "Antu'sul préfère ses basilics sul'lithuz forts et impitoyables. Il traite ces bêtes à écailles comme un membre de sa famille, et il est connu pour abattre quiconque, même les autres trolls, qui fait du mal à ses précieux enfants. Plutôt que de donner à ses adversaires un enterrement digne de ce nom, Antu'sul permet aux basilics de se régaler de quiconque ose le contrarier."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10413 = "Horion de terre"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10413 =
+        "Inflige des dégâts de Nature à une cible, interrompt son incantation et empêche les sorts de cette école pendant 2 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11314 = "Totem Nova de feu"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11314 =
+        "Invoque un totem qui explose après un court délai, infligeant des dégâts de Feu aux ennemis à moins de 10 mètres.\n\nDétruisez le totem avant son explosion."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_8376 = "Totem de poigne de terre"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_8376 =
+        "Invoque un totem qui enracine périodiquement les ennemis à moins de 10 mètres pendant 4 secondes.\n\nDétruisez le totem."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11894 = "Serviteur d’Antu’sul"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11894 =
+        "Invoque un serviteur d’Antu’sul pour l’aider au combat."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11020 = "Pétrification"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11020 =
+        "Étourdit une cible pendant 8 secondes, mais augmente son armure de 30%."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10915 = "Soins rapides"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10915 =
+        "Soigne une cible alliée après 1,5 seconde d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11895 = "Vague de soins d’Antu’sul"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11895 =
+        "Soigne une cible après 1 seconde d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11899 = "Gardien guérisseur"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11899 =
+        "Invoque un gardien qui soigne périodiquement les alliés proches.\n\nDétruisez le gardien."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Féticheur Zum'rah"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "Le puissant loa Bwonsamdi veille sur les esprits des trolls Sombrelances, mais de nombreux membres tombés au combat de la tribu des Furies des Sables ne bénéficient d'aucune protection de ce type après leur mort. Ces esprits torturés obéissent à Zum'rah, un sorcier cruel qui utilise sa magie noire pour forcer les morts de la ville à un service sans fin."

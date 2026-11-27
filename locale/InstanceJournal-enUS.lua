@@ -1053,6 +1053,30 @@ IJ_DB_DUNGEON_ZF_BOSS_7272_ABILITY_EFFECT_11089 =
 IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
     "Antu'sul prefers his sul'lithuz basilisks strong and ruthless. He treats these scaled beasts like family, and he is known to strike down anyone--even fellow trolls--who harm his precious children. Rather than give his opponents a proper burial, Antu'sul allows the basilisks to feast on whoever dares cross him."
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10413 = "Earth Shock"
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10413 =
+    "Deals Nature damage to a target, interrupts its spellcast, and prevents spells from that school for 2 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11314 = "Fire Nova Totem"
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11314 =
+    "Summons a totem that explodes after a short delay, dealing Fire damage to enemies within 10 yards.\n\nDestroy the totem before it explodes."
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_8376 = "Earthgrab Totem"
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_8376 =
+    "Summons a totem that periodically roots enemies within 10 yards for 4 seconds.\n\nDestroy the totem."
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11894 = "Antu'sul's Minion"
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11894 =
+    "Summons a Servant of Antu'sul to aid him in battle."
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11020 = "Petrify"
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11020 =
+    "Stuns a target for 8 seconds but increases its armor by 30%."
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10915 = "Flash Heal"
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10915 =
+    "Heals a friendly target after a 1.5-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11895 = "Healing Wave of Antu'sul"
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11895 =
+    "Heals a target after a 1-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11899 = "Healing Ward"
+IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11899 =
+    "Summons a ward that periodically heals nearby allies.\n\nDestroy the ward."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Witch Doctor Zum'rah"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
     "The powerful loa Bwonsamdi watches over the spirits of the Darkspear trolls, but many of the Sandfury tribe's fallen members are offered no such protection after death. These tortured spirits obey Zum'rah, a cruel witch doctor who uses his dark magic to force the city's dead into unending service."

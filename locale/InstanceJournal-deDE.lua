@@ -861,6 +861,30 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ZF_BOSS_NAME_8127 = "Antu'sul"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_8127 =
         "Antu'sul bevorzugt starke und rücksichtslose Sul'lithuz-Basilisken. Er behandelt diese Schuppentiere wie Familienmitglieder und ist dafür bekannt, jeden niederzuschlagen – sogar seine Trollkollegen –, der seinen kostbaren Kindern Schaden zufügt. Anstatt seinen Gegnern ein ordentliches Begräbnis zu geben, erlaubt Antu'sul den Basilisken, sich an jedem zu erfreuen, der es wagt, ihm in die Quere zu kommen."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10413 = "Erdschock"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10413 =
+        "Fügt einem Ziel Naturschaden zu, unterbricht dessen Zauber und verhindert 2 Sekunden lang Zauber derselben Schule."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11314 = "Totem der Feuernova"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11314 =
+        "Beschwört ein Totem, das nach kurzer Verzögerung explodiert und Gegnern innerhalb von 10 Metern Feuerschaden zufügt.\n\nZerstört das Totem, bevor es explodiert."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_8376 = "Totem des Erdengriffs"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_8376 =
+        "Beschwört ein Totem, das Gegner innerhalb von 10 Metern regelmäßig für 4 Sekunden festwurzelt.\n\nZerstört das Totem."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11894 = "Antu'suls Diener"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11894 =
+        "Beschwört einen Diener von Antu'sul zur Unterstützung im Kampf."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11020 = "Versteinern"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11020 =
+        "Betäubt ein Ziel 8 Sekunden lang, erhöht aber dessen Rüstung um 30%."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10915 = "Blitzheilung"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10915 =
+        "Heilt ein befreundetes Ziel nach 1,5 Sekunden Zauberzeit."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11895 = "Antu'suls Welle der Heilung"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11895 =
+        "Heilt ein Ziel nach 1 Sekunde Zauberzeit."
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11899 = "Heilungszauberschutz"
+    IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11899 =
+        "Beschwört einen Schutzzauber, der Verbündete in der Nähe regelmäßig heilt.\n\nZerstört ihn."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7271 = "Hexendoktor Zum'rah"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7271 =
         "Der mächtige Loa Bwonsamdi wacht über die Geister der Dunkelspeer-Trolle, aber vielen der gefallenen Mitglieder des Sandfury-Stammes wird nach dem Tod kein solcher Schutz geboten. Diese gequälten Geister gehorchen Zum'rah, einem grausamen Hexendoktor, der seine dunkle Magie einsetzt, um die Toten der Stadt in endlosen Dienst zu zwingen."

@@ -80,7 +80,7 @@ ZF.Bosses = {
         }
         -- NOTE: No unique loot?
     },
-    [3] = { -- NOTE: Missing abilities
+    [3] = {
         Id = "8127",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "antusul" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "antusul" .. IMPF,
@@ -88,6 +88,59 @@ ZF.Bosses = {
         Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_8127,
         MapCoordinateX = 64.4,
         MapCoordinateY = 27.6,
+        Abilities = {
+            [1] = {
+                Id = "10413",
+                Icon = "Spell_Nature_EarthShock",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10413,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10413
+            },
+            [2] = {
+                Id = "11314",
+                Icon = "Spell_Fire_SealOfFire",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11314,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11314
+            },
+            [3] = {
+                Id = "8376",
+                Icon = "Spell_Nature_NatureTouchDecay",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_8376,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_8376
+            },
+            [4] = {
+                Id = "11894",
+                Icon = "Temp",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11894,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11894,
+                SubAbilities = {
+                    [1] = {
+                        Id = "11020",
+                        Icon = "Ability_GolemThunderClap",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11020,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11020,
+                        Flags = {IMAF.Magic}
+                    }
+                }
+            },
+            [5] = {
+                Id = "10915",
+                Icon = "Spell_Holy_FlashHeal",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_10915,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_10915
+            },
+            [6] = {
+                Id = "11895",
+                Icon = "Spell_Holy_Heal02",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11895,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11895
+            },
+            [7] = {
+                Id = "11899",
+                Icon = "Spell_Holy_LayOnHands",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_NAME_11899,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_8127_ABILITY_EFFECT_11899
+            }
+        },
         Loot = {
             [1] = {IJDB.I[9379], DropChance = 25},
             [2] = {IJDB.I[9639], DropChance = 25},
