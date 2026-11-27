@@ -1015,6 +1015,22 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
         "Canaliza daño de Fuego a sí mismo y a los enemigos cercanos cada segundo durante un máximo de 15 segundos."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_7795 = "Hidromántica Velratha"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_7795 =
+        "La hidromántica Velratha habita junto a la poza sagrada de Gahz'rilla y custodia la segunda tablilla de Mosh'aru. Codiciando el poder de la Tiara de las Profundidades de Tabetha, envió ladrones para robarla de la casa de la maga."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12491 = "Ola de sanación"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12491 =
+        "Sana a un aliado tras un lanzamiento de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12739 = "Descarga de las Sombras"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12739 =
+        "Inflige daño de las Sombras a un objetivo tras un lanzamiento de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_11086 = "Resguardo de Zum'rah"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_11086 =
+        "Invoca un resguardo que crea sirvientes esqueléticos periódicamente.\n\nDestruid el resguardo."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_15245 = "Salva de descarga de las Sombras"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
+        "Inflige daño de las Sombras a los enemigos en un radio de 30 metros tras un lanzamiento de 3 segundos."
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "El templo de Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

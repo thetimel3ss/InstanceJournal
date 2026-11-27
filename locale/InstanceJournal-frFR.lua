@@ -1015,6 +1015,22 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
         "Canalise des dégâts de Feu sur lui-même et les ennemis proches toutes les secondes pendant un maximum de 15 secondes."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_7795 = "Hydromancienne Velratha"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_7795 =
+        "L’hydromancienne Velratha vit près du bassin sacré de Gahz'rilla et détient la seconde tablette de Mosh'aru. Convoitant le pouvoir de la Tiare des profondeurs de Tabetha, elle a envoyé des voleurs la dérober dans la demeure de la mage."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12491 = "Vague de soins"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12491 =
+        "Soigne un allié après 3 secondes d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12739 = "Trait de l’ombre"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12739 =
+        "Inflige des dégâts d’Ombre à une cible après 3 secondes d’incantation."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_11086 = "Gardien de Zum’rah"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_11086 =
+        "Invoque un gardien qui crée périodiquement des serviteurs squelettiques.\n\nDétruisez le gardien."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_15245 = "Salve de Traits de l'ombre"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
+        "Inflige des dégâts d’Ombre aux ennemis à moins de 30 mètres après 3 secondes d’incantation."
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "Le temple d'Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

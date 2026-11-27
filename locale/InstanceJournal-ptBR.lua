@@ -1013,6 +1013,22 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
         "Canaliza dano de Fogo a si mesmo e aos inimigos próximos a cada segundo por até 15 segundos."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_7795 = "Hidromante Velratha"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_7795 =
+        "A Hidromante Velratha vive junto à piscina sagrada de Gahz'rilla e guarda a segunda tábua de Mosh'aru. Cobiçando o poder da Tiara das Profundezas de Tabetha, ela enviou ladrões para roubá-la da casa da maga."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12491 = "Onda Curativa"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12491 =
+        "Cura um aliado após uma conjuração de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12739 = "Seta Sombria"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12739 =
+        "Causa dano de Sombra a um alvo após uma conjuração de 3 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_11086 = "Proteção de Zum'rah"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_11086 =
+        "Invoca uma proteção que cria servos esqueléticos periodicamente.\n\nDestrua a proteção."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_15245 = "Salva de Setas Sombrias"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
+        "Causa dano de Sombra aos inimigos em um raio de 30 metros após uma conjuração de 3 segundos."
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "O Templo de Atal’Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

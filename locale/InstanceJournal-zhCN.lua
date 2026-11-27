@@ -1305,6 +1305,22 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
         "引导法术，每秒对自身及附近的敌人造成火焰伤害，最多持续15秒。"
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_7795 = "水占师维蕾萨"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_7795 =
+        "水占师维蕾萨居住在加兹瑞拉的圣池旁，持有第二块摩沙鲁石板。她觊觎塔贝萨的深渊皇冠所蕴含的力量，派遣盗贼从这位法师的家中偷走了它。"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12491 = "治疗波"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12491 =
+        "施法3秒后治疗一个盟友。"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12739 = "暗影箭"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12739 =
+        "施法3秒后对一个目标造成暗影伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_11086 = "祖穆拉恩的结界"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_11086 =
+        "召唤一个结界，周期性地制造骷髅仆从。\n\n摧毁结界。"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_15245 = "暗影箭雨"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
+        "施法3秒后对30码内的敌人造成暗影伤害。"
+
     -- ZF Loot
     IJ_LOOT_NAME_12470 = "沙行者护足"
     IJ_LOOT_NAME_9379 = "反击者桑萨斯"

@@ -1017,6 +1017,22 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
         "Kanalisiert bis zu 15 Sekunden lang jede Sekunde Feuerschaden gegen sich selbst und Gegner in der Nähe."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_7795 = "Hydromantin Velratha"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_7795 =
+        "Hydromantin Velratha lebt am heiligen Teich von Gahz'rilla und besitzt die zweite Mosh'aru-Schrifttafel. Aus Begierde nach der Macht von Tabethas Tiara der Tiefen schickte sie Diebe, um sie aus dem Haus der Magierin zu stehlen."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12491 = "Welle der Heilung"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12491 =
+        "Heilt einen Verbündeten nach 3 Sekunden Zauberzeit."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12739 = "Schattenblitz"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12739 =
+        "Fügt einem Ziel nach 3 Sekunden Zauberzeit Schattenschaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_11086 = "Zum'rahs Schutzzauber"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_11086 =
+        "Beschwört einen Schutzzauber, der regelmäßig Skelettdiener erschafft.\n\nZerstört ihn."
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_15245 = "Schattenblitzsalve"
+    IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
+        "Fügt Gegnern innerhalb von 30 Metern nach 3 Sekunden Zauberzeit Schattenschaden zu."
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "Der Tempel von Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

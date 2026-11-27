@@ -508,6 +508,47 @@ ZF.Bosses = {
             [3] = {IJDB.I[58094], DropChance = 25}, 
             [4] = {IJDB.I[58095], DropChance = 25}
         }
+    },
+    [10] = {
+        Id = "7795",
+        Portrait = IMP .. IMPD .. instanceMediaAcronym .. "velratha" .. IMPP,
+        Frame = IMP .. IMPD .. instanceMediaAcronym .. "velratha" .. IMPF,
+        Name = IJ_DB_DUNGEON_ZF_BOSS_NAME_7795,
+        Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_7795,
+        MapCoordinateX = 34.0,
+        MapCoordinateY = 41.3,
+        Abilities = {
+            [1] = {
+                Id = "12491",
+                Icon = "Spell_Nature_MagicImmunity",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12491,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12491,
+                Flags = {IMAF.Interruptible}
+            },
+            [2] = {
+                Id = "12739",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12739,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12739,
+                Flags = {IMAF.Interruptible}
+            },
+            [3] = {
+                Id = "11086",
+                Icon = "Spell_Totem_WardOfDraining",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_11086,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_11086
+            },
+            [4] = {
+                Id = "15245",
+                Icon = "Spell_Shadow_ShadowBolt",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_15245,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245,
+                Flags = {IMAF.Interruptible}
+            }
+        },
+        Loot = {
+            [1] = {IJDB.I[9243], DropChance = 0.7}
+        }
     }
 }
 ZF.Quests = {IJDB.Q[2991], IJDB.Q[2936], IJDB.Q[3042], IJDB.Q[2865], IJDB.Q[2846], IJDB.Q[3527], IJDB.Q[2768], IJDB.Q[2770], IJDB.Q[40519], IJDB.Q[41811], IJDB.Q[40527]}

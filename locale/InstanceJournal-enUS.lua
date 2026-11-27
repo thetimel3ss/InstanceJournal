@@ -1209,6 +1209,22 @@ IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_11684 = "Hellfire"
 IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
     "Channels Fire damage to himself and nearby enemies every second for up to 15 seconds."
 
+IJ_DB_DUNGEON_ZF_BOSS_NAME_7795 = "Hydromancer Velratha"
+IJ_DB_DUNGEON_ZF_BOSS_STORY_7795 =
+    "Hydromancer Velratha dwells beside the sacred pool of Gahz'rilla and holds the second Mosh'aru tablet. Coveting the power of Tabetha's Tiara of the Deep, she sent thieves to steal it from the mage's home."
+IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12491 = "Healing Wave"
+IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12491 =
+    "Heals an ally after a 3-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_12739 = "Shadow Bolt"
+IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_12739 =
+    "Deals Shadow damage to a target after a 3-second cast."
+IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_11086 = "Ward of Zum'rah"
+IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_11086 =
+    "Summons a ward that periodically creates skeletal servants.\n\nDestroy the ward."
+IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_15245 = "Shadow Bolt Volley"
+IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
+    "Deals Shadow damage to enemies within 30 yards after a 3-second cast."
+
 -- ZF Loot
 IJ_LOOT_NAME_12470 = "Sandstalker Ankleguards"
 IJ_LOOT_NAME_9379 = "Sang'thraze the Deflector"
