@@ -141,7 +141,8 @@ RFC.Bosses = {
             [1] = {IJDB.I[80703], DropChance = 30}, 
             [2] = {IJDB.I[80704], DropChance = 30}, 
             [3] = {IJDB.I[80705], DropChance = 30}, 
-            [4] = {IJDB.I[5235], DropChance = 100}
+            [4] = {IJDB.I[5235], DropChance = 100},
+            [5] = {IJDB.I[51217], DropChance = 1}
         }
     }
 }

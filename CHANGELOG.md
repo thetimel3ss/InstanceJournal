@@ -6,6 +6,7 @@ All changes to this project will be documented in this file.
 
 ### Added
 
+- Added missing loot to selected dungeon and raid encounters
 - Added missing abilities to the bosses in `Zul'Farrak`
 - Added `Hydromancer Velratha`, `Sandarr Dunereaver`, and `Dustwraith` to `Zul'Farrak`
 - Added missing abilities to the bosses in `Maraudon`
