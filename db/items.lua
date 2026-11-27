@@ -4158,6 +4158,8 @@ I[61219] = {Id = "61219", Icon = "INV_Misc_Note_01", Name = IJ_LOOT_NAME_61219, 
 
 I[61739] = {Id = "61739", Icon = "INV_Misc_Note_01", Name = IJ_LOOT_NAME_61739, Quality = IQ.Rare, ItemSlot = IS.Profession, ItemType = IT.Enchanting}
 
+I[61674] = {Id = "61674", Icon = "INV_Misc_Gem_Diamond_03", Name = IJ_LOOT_NAME_61674, Quality = IQ.Rare, ItemSlot = IS.Reagent, LevelRequirement = 58}
+
 I[70001] = {Id = "70001", Icon = "INV_Misc_Note_01", Name = IJ_LOOT_NAME_70001, Quality = IQ.Rare, ItemSlot = IS.Profession, ItemType = IT.Enchanting}
 
 I[37011] = {Id = "37011", Icon = "INV_Misc_MonsterSpiderCarapace_01", Name = IJ_LOOT_NAME_37011, Quality = IQ.Uncommon, ItemSlot = IS.Pet}

@@ -4826,6 +4826,8 @@ if GetLocale() == "ptBR" then
     IJ_DB_RAID_KARA10_BOSS_STORY_61225 =
         "O castelão amaldiçoado e morto-vivo de Karazhan, Moroes continua seus deveres como se o mestre ainda estivesse na residência. Ele é um protetor astuto e feroz do funcionamento interno da torre, guardando especificamente a Chave das Câmaras Superiores. Embora ele pareça um simples servo, sua habilidade em combate e sua recusa em permitir que olhares indiscretos entrem nas seções proibidas da torre fazem dele um dos obstáculos mais formidáveis ​​em Lower Karazhan."
 
+    IJ_LOOT_NAME_61674 = "Energia Ley Sobrecarregada"
+
     -- Naxx
     IJ_DB_RAID_NAXX_NAME = "Naxxramas"
     IJ_DB_RAID_NAXX_STORY =

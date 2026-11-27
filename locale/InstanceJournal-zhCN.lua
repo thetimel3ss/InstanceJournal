@@ -7465,6 +7465,7 @@ if GetLocale() == "zhCN" then
     IJ_LOOT_NAME_61192 = "图样：魔符雕刻护腕"
     IJ_LOOT_NAME_61219 = "公式：附魔靴子-卓越耐力"
     IJ_LOOT_NAME_61739 = "公式：附魔鞋子-吸血"
+    IJ_LOOT_NAME_61674 = "过载魔法能量"
     IJ_LOOT_NAME_70001 = "公式：附魔手套-奥术能量"
     IJ_LOOT_NAME_61256 = "雾境沼泽护腿"
     IJ_LOOT_NAME_61257 = "盘云腕甲"

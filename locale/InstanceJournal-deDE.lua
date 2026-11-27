@@ -4836,6 +4836,8 @@ if GetLocale() == "deDE" then
     IJ_DB_RAID_KARA10_BOSS_STORY_61225 =
         "Moroes, der verfluchte und untote Kastellan von Karazhan, führt seine Pflichten fort, als ob der Meister noch zu Hause wäre. Er ist ein gerissener und erbitterter Beschützer des Innenlebens des Turms und bewacht insbesondere den Schlüssel zu den oberen Kammern. Obwohl er als einfacher Diener erscheint, ist er aufgrund seiner Kampfkraft und seiner Weigerung, neugierige Blicke in die verbotenen Bereiche des Turms zu lassen, eines der größten Hindernisse in Unter-Karazhan."
 
+    IJ_LOOT_NAME_61674 = "Überladene Leyenergie"
+
     -- Naxx
     IJ_DB_RAID_NAXX_NAME = "Naxxramas"
     IJ_DB_RAID_NAXX_STORY =

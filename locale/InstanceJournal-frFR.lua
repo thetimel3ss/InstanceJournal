@@ -4835,6 +4835,8 @@ if GetLocale() == "frFR" then
     IJ_DB_RAID_KARA10_BOSS_STORY_61225 =
         "Château maudit et mort-vivant de Karazhan, Moroes continue ses fonctions comme si le maître était toujours en résidence. Il est un protecteur rusé et féroce du fonctionnement interne de la tour, gardant spécifiquement la clé des chambres hautes. Bien qu'il apparaît comme un simple serviteur, ses prouesses au combat et son refus de laisser les regards indiscrets pénétrer dans les sections interdites de la tour font de lui l'un des obstacles les plus redoutables du Bas Karazhan."
 
+    IJ_LOOT_NAME_61674 = "Énergie tellurique surchargée"
+
     -- Naxx
     IJ_DB_RAID_NAXX_NAME = "Naxxramas"
     IJ_DB_RAID_NAXX_STORY =

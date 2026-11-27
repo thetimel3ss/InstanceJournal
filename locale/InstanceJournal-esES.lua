@@ -4835,6 +4835,8 @@ if GetLocale() == "esES" then
     IJ_DB_RAID_KARA10_BOSS_STORY_61225 =
         "Moroes, el castellano maldito y no-muerto de Karazhan, continúa con sus deberes como si el maestro todavía estuviera en su residencia. Es un protector astuto y feroz del funcionamiento interno de la torre, específicamente custodiando la Llave de las Cámaras Superiores. Si bien parece un simple sirviente, su destreza en combate y su negativa a permitir que miradas indiscretas entren en las secciones prohibidas de la torre lo convierten en uno de los obstáculos más formidables del Bajo Karazhan."
 
+    IJ_LOOT_NAME_61674 = "Energía ley sobrecargada"
+
     -- Naxx
     IJ_DB_RAID_NAXX_NAME = "Naxxramas"
     IJ_DB_RAID_NAXX_STORY =

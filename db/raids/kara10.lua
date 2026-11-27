@@ -413,7 +413,8 @@ KARA10.Bosses = {
             [22] = {IJDB.I[61299], DropChance = 10},
             [23] = {IJDB.I[61453], DropChance = 10},
             [24] = {IJDB.I[61454], DropChance = 10},
-            [25] = {IJDB.I[70102], DropChance = 2}
+            [25] = {IJDB.I[70102], DropChance = 2},
+            [26] = {IJDB.I[61674], DropChance = 70}
         }
     }
 }
