@@ -3180,6 +3180,8 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
         "Se teletransporta a otra ubicación."
 
+    IJ_LOOT_NAME_5254 = "Hombreras Rugosas"
+
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "estratholme"
     IJ_DB_DUNGEON_STRAT_STORY =

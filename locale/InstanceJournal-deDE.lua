@@ -3182,6 +3182,8 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
         "Teleportiert sich an einen anderen Ort."
 
+    IJ_LOOT_NAME_5254 = "Unverwüstliche Schiftung"
+
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "Stratholme"
     IJ_DB_DUNGEON_STRAT_STORY =

@@ -4326,6 +4326,7 @@ if GetLocale() == "zhCN" then
     IJ_LOOT_NAME_9607 = "暴风壁垒"
     IJ_LOOT_NAME_80713 = "保护守卫软甲"
     IJ_LOOT_NAME_80714 = "束缚之链"
+    IJ_LOOT_NAME_5254 = "皱褶肩甲"
     IJ_LOOT_NAME_1292 = "屠夫的切肉刀"
     IJ_LOOT_NAME_6226 = "鲜血围裙"
     IJ_LOOT_NAME_6633 = "屠夫的剔骨刀"

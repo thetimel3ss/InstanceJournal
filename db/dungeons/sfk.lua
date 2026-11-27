@@ -50,7 +50,8 @@ SFK.Bosses = {
         },
         Loot = {
             [1] = {IJDB.I[80713], DropChance = 35}, 
-            [2] = {IJDB.I[80714], DropChance = 35}
+            [2] = {IJDB.I[80714], DropChance = 35},
+            [3] = {IJDB.I[5254], DropChance = 100}
         }
     },
     [2] = {

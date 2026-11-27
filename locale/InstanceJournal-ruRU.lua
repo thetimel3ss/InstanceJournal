@@ -3201,6 +3201,8 @@ if GetLocale() == "ruRU" then
     IJ_DB_DUNGEON_SFK_BOSS_4275_ABILITY_EFFECT_7586 =
         "Телепортируется в другое место."
 
+    IJ_LOOT_NAME_5254 = "Рваный наплеч"
+
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "Стратхольм"
     IJ_DB_DUNGEON_STRAT_STORY =
