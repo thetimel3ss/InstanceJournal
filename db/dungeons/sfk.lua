@@ -51,7 +51,8 @@ SFK.Bosses = {
         Loot = {
             [1] = {IJDB.I[80713], DropChance = 35}, 
             [2] = {IJDB.I[80714], DropChance = 35},
-            [3] = {IJDB.I[5254], DropChance = 100}
+            [3] = {IJDB.I[5254], DropChance = 100},
+            [4] = {IJDB.I[910081], DropChance = 100}
         }
     },
     [2] = {
@@ -73,7 +74,8 @@ SFK.Bosses = {
         Loot = {
             [1] = {IJDB.I[1292], DropChance = 33}, 
             [2] = {IJDB.I[6226], DropChance = 33}, 
-            [3] = {IJDB.I[6633], DropChance = 33}
+            [3] = {IJDB.I[6633], DropChance = 33},
+            [4] = {IJDB.I[910083], DropChance = 100}
         }
     },
     [3] = {
@@ -96,7 +98,8 @@ SFK.Bosses = {
         Loot = {
             [1] = {IJDB.I[6321], DropChance = 50}, 
             [2] = {IJDB.I[6323], DropChance = 50}, 
-            [3] = {IJDB.I[80715], DropChance = 35}
+            [3] = {IJDB.I[80715], DropChance = 35},
+            [4] = {IJDB.I[910084], DropChance = 100}
         }
     },
     [4] = {
@@ -133,7 +136,9 @@ SFK.Bosses = {
             [1] = {IJDB.I[55382], DropChance = 25}, 
             [2] = {IJDB.I[55383], DropChance = 25}, 
             [3] = {IJDB.I[55384], DropChance = 25}, 
-            [4] = {IJDB.I[55385], DropChance = 25}
+            [4] = {IJDB.I[55385], DropChance = 25},
+            [5] = {IJDB.I[910013], DropChance = 33.33},
+            [6] = {IJDB.I[910015], DropChance = 33.33}
         }
     },
     [5] = {
@@ -182,7 +187,8 @@ SFK.Bosses = {
         },
         Loot = {
             [1] = {IJDB.I[6318], DropChance = 50}, 
-            [2] = {IJDB.I[6319], DropChance = 50}
+            [2] = {IJDB.I[6319], DropChance = 50},
+            [3] = {IJDB.I[910101], DropChance = 50}
         }
     },
     [7] = {

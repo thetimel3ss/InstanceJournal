@@ -6,6 +6,7 @@ All changes to this project will be documented in this file.
 
 ### Added
 
+- Added missing `Level One Lunatic` loot to `Ragefire Chasm`, `The Deadmines`, `Wailing Caverns`, `Shadowfang Keep`, and `Gnomeregan`
 - Added missing loot to selected dungeon and raid encounters
 - Added missing abilities to the bosses in `Zul'Farrak`
 - Added `Hydromancer Velratha`, `Sandarr Dunereaver`, and `Dustwraith` to `Zul'Farrak`
@@ -17,6 +18,7 @@ All changes to this project will be documented in this file.
 
 ### Changed
 
+- Corrected `Level One Lunatic` item quality, challenge tags, and loot references; hid the legacy `Fractured Sword` entry
 - Updated selected boss lore in `Zul'Farrak`
 - Adjusted map markers for summoned encounters in `Dire Maul`, `Stratholme`, and `Blackrock Depths`
 - Updated selected boss lore in `Gilneas City`

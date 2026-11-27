@@ -116,7 +116,8 @@ DEADMINES.Bosses = {
         },
         Loot = {
             [1] = {IJDB.I[5444], DropChance = 65}, 
-            [2] = {IJDB.I[5443], DropChance = 35}
+            [2] = {IJDB.I[5443], DropChance = 35},
+            [3] = {IJDB.I[910021], DropChance = 100}
         }
     },
     [4] = {
@@ -170,12 +171,11 @@ DEADMINES.Bosses = {
             }
         },
         Loot = {
-            [1] = {IJDB.I[50256], DropChance = 100}, 
-            [2] = {IJDB.I[5195], DropChance = 65}, 
-            [3] = {IJDB.I[80707], DropChance = 60}, 
-            [4] = {IJDB.I[5194], DropChance = 35},
-            [5] = {IJDB.I[1937], DropChance = 10},
-            [6] = {IJDB.I[2169], DropChance = 90}
+            [1] = {IJDB.I[5195], DropChance = 65},
+            [2] = {IJDB.I[80707], DropChance = 60},
+            [3] = {IJDB.I[5194], DropChance = 35},
+            [4] = {IJDB.I[1937], DropChance = 10},
+            [5] = {IJDB.I[2169], DropChance = 90}
         }
     },
     [5] = {
@@ -260,7 +260,8 @@ DEADMINES.Bosses = {
             [1] = {IJDB.I[5192], DropChance = 30}, 
             [2] = {IJDB.I[5196], DropChance = 30}, 
             [3] = {IJDB.I[81007], DropChance = 20}, 
-            [4] = {IJDB.I[7230], DropChance = 20}
+            [4] = {IJDB.I[7230], DropChance = 20},
+            [5] = {IJDB.I[910010], DropChance = 100}
         }
     },
     [8] = {

@@ -140,6 +140,7 @@ if GetLocale() == "ptBR" then
     IJ_NOTES_YAUJ = "Princesa Yauj tem que morrer por última."
     IJ_NOTES_EMP = "Imperador Dagran Thaurissan tem que morrer por último."
     IJ_NOTES_TRIBUTE = "Apenas cai em uma corrida de tributo."
+    IJ_NOTES_BURNINGBLADEGRIMOIRE = "Cai dos Bruxos da Lâmina Ardente dentro do Fosso Ígneo."
 
     -- Challenges
     IJ_CHALLENGES_LEVELONELUNATIC = "Lunático de Nível Um"
@@ -300,6 +301,9 @@ if GetLocale() == "ptBR" then
         "Causa dano de Natureza a cada 3 s por 30 s.\n\nRemova este efeito de veneno."
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_14873 = "Ataque Sinistro"
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_14873 = "Bazzalan ataca um inimigo, causando dano físico."
+
+    IJ_LOOT_NAME_17041 = "A Frigideira Flamejante"
+    IJ_LOOT_NAME_12862 = "Grimório da Lâmina Ardente"
 
     -- Stockades
     IJ_DB_DUNGEON_STOCKADES_NAME = "A paliçada"
@@ -538,6 +542,9 @@ if GetLocale() == "ptBR" then
 
     IJ_LOOT_NAME_1937 = "Serra Circular"
     IJ_LOOT_NAME_2169 = "Lâmina Zumbidora"
+
+    IJ_LOOT_NAME_910010 = "Vara de Pescar Poderosa do Smite"
+    IJ_LOOT_NAME_910021 = "Broquel Negro de Fuligem"
 
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "O pântano negro"
@@ -1307,6 +1314,18 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_GNOMEREGAN_BOSS_NAME_7800 = "Termoplug Mekgineer"
     IJ_DB_DUNGEON_GNOMEREGAN_BOSS_STORY_7800 =
         "Assassino, traidor e autoproclamado rei dos gnomos, o mekgineer Sicco Thermaplugg governa os salões radioativos de Gnomeregan com um punho de ferro defeituoso. Seus súditos são numerosos, cruéis e insanos o suficiente para defender seu rei enlouquecido contra qualquer intrusão do mundo superior. É a loucura do Thermaplugg que o torna tão perigoso; ele possui a astúcia de destruir tudo ao seu redor, sem pensar na própria vida. Há uma razão pela qual até os monstros de Gnomeregan o temem."
+
+    IJ_LOOT_NAME_910011 = "Pequeno Espancador"
+    IJ_LOOT_NAME_910089 = "Porrete do Chomper"
+    IJ_LOOT_NAME_910090 = "Detonador de Basiliscos"
+    IJ_LOOT_NAME_910092 = "Atiçador Tóxico"
+    IJ_LOOT_NAME_910093 = "Braço do Eletrocutor"
+    IJ_LOOT_NAME_910094 = "Olho de Grubbis no Palito"
+    IJ_LOOT_NAME_910097 = "Disparador do Emissário"
+    IJ_LOOT_NAME_910099 = "Núcleo Inferior Esquerdo de Termaplugue"
+    IJ_LOOT_NAME_910103 = "Gemas do Hidromante"
+    IJ_LOOT_NAME_910117 = "Servo Carregado"
+    IJ_LOOT_NAME_910118 = "Cartão Perfurado do Bate-gente Manual"
 
     -- Uldaman
     IJ_DB_DUNGEON_ULDA_NAME = "Uldamã"
@@ -2624,6 +2643,13 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7967 =
         "Faz um inimigo dormir por até 15 s. Ações hostis despertam o alvo. Dissipe este efeito mágico."
 
+    IJ_LOOT_NAME_910027 = "Plastrão de Kresh"
+    IJ_LOOT_NAME_910029 = "Cajado do Devorador"
+    IJ_LOOT_NAME_910036 = "Lótus Sempre-vivo"
+    IJ_LOOT_NAME_910040 = "Anel das Águas Rasas"
+    IJ_LOOT_NAME_2190 = "Veste do Enxame de Serpentes"
+    IJ_LOOT_NAME_2189 = "Manto de Escamas de Serpente"
+
     -- MARA
     IJ_DB_DUNGEON_MARA_NAME = "Maraudon"
     IJ_DB_DUNGEON_MARA_STORY =
@@ -3178,6 +3204,12 @@ if GetLocale() == "ptBR" then
         "Teleporta-se para outro local."
 
     IJ_LOOT_NAME_5254 = "Espaldares Rugosos"
+    IJ_LOOT_NAME_910013 = "Escritura dos Sermões Ancestrais"
+    IJ_LOOT_NAME_910015 = "Textos Sagrados do Prelado"
+    IJ_LOOT_NAME_910081 = "Manto Robusto"
+    IJ_LOOT_NAME_910083 = "Anel do Açougueiro"
+    IJ_LOOT_NAME_910084 = "Joia da Família Silverlaine"
+    IJ_LOOT_NAME_910101 = "Remorso de Odo"
 
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "Stratholme"

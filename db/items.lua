@@ -750,6 +750,10 @@ I[55376] = {Id = "55376", Icon = "INV_Weapon_ShortBlade_02", Name = IJ_LOOT_NAME
 
 I[9496] = {Id = "9496", Icon = "INV_Misc_Cape_12", Name = IJ_LOOT_NAME_9496, Quality = IQ.Uncommon, ItemSlot = IS.Back, ItemType = IT.Cloth, ChallengeRestriction = {IC.LevelOneLunatic}}
 
+I[910010] = {Id = "910010", Icon = "INV_Fishingpole_02", Name = IJ_LOOT_NAME_910010, Quality = IQ.Uncommon, ItemSlot = IS.TwoHand, ItemType = IT.FishingPole, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910021] = {Id = "910021", Icon = "INV_Shield_10", Name = IJ_LOOT_NAME_910021, Quality = IQ.Uncommon, ItemSlot = IS.OffHand, ItemType = IT.Shield, ChallengeRestriction = {IC.LevelOneLunatic}}
+
 I[872] = {Id = "872", Icon = "INV_ThrowingAxe_01", Name = IJ_LOOT_NAME_872, Quality = IQ.Rare, ItemSlot = IS.TwoHand, ItemType = IT.TwoHandedAxe, LevelRequirement = 16}
 
 I[5187] = {Id = "5187", Icon = "INV_Hammer_09", Name = IJ_LOOT_NAME_5187, Quality = IQ.Uncommon, ItemSlot = IS.TwoHand, ItemType = IT.TwoHandedMace, LevelRequirement = 16}
@@ -760,6 +764,8 @@ I[5444] = {Id = "5444", Icon = "INV_Misc_Cape_11", Name = IJ_LOOT_NAME_5444, Qua
 
 I[5443] = {Id = "5443", Icon = "INV_Shield_02", Name = IJ_LOOT_NAME_5443, Quality = IQ.Rare, ItemSlot = IS.OffHand, ItemType = IT.Shield, LevelRequirement = 15}
 
+-- Legacy Turtle WoW item for the Level One Lunatic challenge.
+-- It is unknown whether OctoWoW will add it.
 I[50256] = {Id = "50256", Icon = "INV_Sword_06", Name = IJ_LOOT_NAME_50256, Quality = IQ.Common, ItemSlot = IS.TwoHand, ItemType = IT.TwoHandedSword, ChallengeRestriction = {IC.LevelOneLunatic}}
 
 I[5195] = {Id = "5195", Icon = "INV_Gauntlets_23", Name = IJ_LOOT_NAME_5195, Quality = IQ.Uncommon, ItemSlot = IS.Hands, ItemType = IT.Cloth, LevelRequirement = 17}
@@ -796,7 +802,7 @@ I[5200] = {Id = "5200", Icon = "INV_Spear_07", Name = IJ_LOOT_NAME_5200, Quality
 
 I[10403] = {Id = "10403", Icon = "INV_Belt_26", Name = IJ_LOOT_NAME_10403, Quality = IQ.Uncommon, ItemSlot = IS.Waist, ItemType = IT.Leather, LevelRequirement = 17}
 
-I[29980] = {Id = "29980", Icon = "INV_Jewelry_Ring_22", Name = IJ_LOOT_NAME_29980, Quality = IQ.Uncommon, ItemSlot = IS.Finger}
+I[29980] = {Id = "29980", Icon = "INV_Jewelry_Ring_22", Name = IJ_LOOT_NAME_29980, Quality = IQ.Uncommon, ItemSlot = IS.Finger, ChallengeRestriction = {IC.LevelOneLunatic}}
 
 I[5193] = {Id = "5193", Icon = "INV_Misc_Cape_08", Name = IJ_LOOT_NAME_5193, Quality = IQ.Rare, ItemSlot = IS.Back, ItemType = IT.Cloth, LevelRequirement = 20}
 
@@ -808,7 +814,7 @@ I[10399] = {Id = "10399", Icon = "INV_Chest_Leather_08", Name = IJ_LOOT_NAME_103
 
 I[81005] = {Id = "81005", Icon = "INV_shoulder_11", Name = IJ_LOOT_NAME_81005, Quality = IQ.Rare, ItemSlot = IS.Shoulder, ItemType = IT.Mail, LevelRequirement = 20}
 
-I[9338] = {Id = "9338", Icon = "INV_Misc_Eye_01", Name = IJ_LOOT_NAME_9338, Quality = IQ.Common, ItemSlot = IS.Neck, ChallengeRestriction = {IC.LevelOneLunatic}}
+I[9338] = {Id = "9338", Icon = "INV_Misc_Eye_01", Name = IJ_LOOT_NAME_9338, Quality = IQ.Uncommon, ItemSlot = IS.Neck, ChallengeRestriction = {IC.LevelOneLunatic}}
 
 I[5197] = {Id = "5197", Icon = "INV_Fabric_Silk_02", Name = IJ_LOOT_NAME_5197, Quality = IQ.Uncommon, ItemSlot = IS.OneHand, ItemType = IT.Mace, LevelRequirement = 16}
 
@@ -1326,6 +1332,28 @@ I[9461] = {Id = "9461", Icon = "inv_misc_gear_01", Name = IJ_LOOT_NAME_9461, Qua
 
 I[9492] = {Id = "9492", Icon = "inv_gizmo_01", Name = IJ_LOOT_NAME_9492, Quality = IQ.Rare, ItemSlot = IS.Head, ItemType = IT.Cloth, LevelRequirement = 32}
 
+I[910011] = {Id = "910011", Icon = "INV_Mace_07", Name = IJ_LOOT_NAME_910011, Quality = IQ.Epic, ItemSlot = IS.TwoHand, ItemType = IT.TwoHandedMace, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910089] = {Id = "910089", Icon = "INV_Gizmo_02", Name = IJ_LOOT_NAME_910089, Quality = IQ.Epic, ItemSlot = IS.TwoHand, ItemType = IT.TwoHandedMace, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910090] = {Id = "910090", Icon = "INV_Weapon_Rifle_03", Name = IJ_LOOT_NAME_910090, Quality = IQ.Epic, ItemSlot = IS.Ranged, ItemType = IT.Gun, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910092] = {Id = "910092", Icon = "INV_Sword_13", Name = IJ_LOOT_NAME_910092, Quality = IQ.Epic, ItemSlot = IS.OneHand, ItemType = IT.Dagger, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910093] = {Id = "910093", Icon = "INV_Sword_30", Name = IJ_LOOT_NAME_910093, Quality = IQ.Epic, ItemSlot = IS.OneHand, ItemType = IT.Sword, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910094] = {Id = "910094", Icon = "INV_Wand_03", Name = IJ_LOOT_NAME_910094, Quality = IQ.Rare, ItemSlot = IS.Ability, ClassRestriction = {IMCL.Hunter}, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910097] = {Id = "910097", Icon = "INV_Wand_09", Name = IJ_LOOT_NAME_910097, Quality = IQ.Rare, ItemSlot = IS.Ranged, ItemType = IT.Wand, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910099] = {Id = "910099", Icon = "Spell_Arcane_PortalDarnassus", Name = IJ_LOOT_NAME_910099, Quality = IQ.Epic, ItemSlot = IS.OffHand, ItemType = IT.Shield, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910103] = {Id = "910103", Icon = "INV_Misc_Gem_Sapphire_03", Name = IJ_LOOT_NAME_910103, Quality = IQ.Rare, ItemSlot = IS.Ability, ClassRestriction = {IMCL.Warlock}, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910117] = {Id = "910117", Icon = "INV_Jewelry_Talisman_02", Name = IJ_LOOT_NAME_910117, Quality = IQ.Rare, ItemSlot = IS.Ability, ClassRestriction = {IMCL.Warrior}, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910118] = {Id = "910118", Icon = "INV_Ingot_01", Name = IJ_LOOT_NAME_910118, Quality = IQ.Rare, ItemSlot = IS.Ability, ClassRestriction = {IMCL.Paladin}, ChallengeRestriction = {IC.LevelOneLunatic}}
+
 I[40084] = {Id = "40084", Icon = "inv_scroll_03", Name = IJ_LOOT_NAME_40084, Quality = IQ.Uncommon, ItemSlot = IS.Profession, ItemType = IT.Engineering}
 
 I[4411] = {Id = "4411", Icon = "inv_scroll_03", Name = IJ_LOOT_NAME_4411, Quality = IQ.Uncommon, ItemSlot = IS.Profession, ItemType = IT.Engineering}
@@ -1768,7 +1796,7 @@ I[80701] = {Id = "80701", Icon = "INV_Pants_02", Name = IJ_LOOT_NAME_80701, Qual
 
 I[80702] = {Id = "80702", Icon = "INV_Shirt_05", Name = IJ_LOOT_NAME_80702, Quality = IQ.Uncommon, ItemSlot = IS.Chest, ItemType = IT.Cloth, LevelRequirement = 13}
 
-I[17041] = {Id = "17041", Icon = "INV_Mace_01", Name = IJ_LOOT_NAME_17041, Quality = IQ.Common, ItemSlot = IS.OneHand, ItemType = IT.Mace, LevelRequirement = 13, ChallengeRestriction = {IC.LevelOneLunatic}}
+I[17041] = {Id = "17041", Icon = "INV_Mace_01", Name = IJ_LOOT_NAME_17041, Quality = IQ.Common, ItemSlot = IS.OneHand, ItemType = IT.Mace, ChallengeRestriction = {IC.LevelOneLunatic}}
 
 I[14145] = {Id = "14145", Icon = "INV_Weapon_ShortBlade_12", Name = IJ_LOOT_NAME_14145, Quality = IQ.Uncommon, ItemSlot = IS.MainHand, ItemType = IT.Sword, LevelRequirement = 13}
 
@@ -1784,7 +1812,7 @@ I[14150] = {Id = "14150", Icon = "INV_Chest_Cloth_24", Name = IJ_LOOT_NAME_14150
 
 I[14151] = {Id = "14151", Icon = "INV_Weapon_ShortBlade_25", Name = IJ_LOOT_NAME_14151, Quality = IQ.Uncommon, ItemSlot = IS.OneHand, ItemType = IT.Dagger, LevelRequirement = 13}
 
-I[80111] = {Id = "80111", Icon = "INV_Shirt_07", Name = IJ_LOOT_NAME_80111, Quality = IQ.Common, ItemSlot = IS.Chest, ItemType = IT.Cloth, ChallengeRestriction = {IC.LevelOneLunatic}}
+I[80111] = {Id = "80111", Icon = "INV_Shirt_07", Name = IJ_LOOT_NAME_80111, Quality = IQ.Uncommon, ItemSlot = IS.Chest, ItemType = IT.Cloth, ChallengeRestriction = {IC.LevelOneLunatic}}
 
 I[55004] = {Id = "55004", Icon = "INV_Jewelry_Talisman_01", Name = IJ_LOOT_NAME_55004, Quality = IQ.Poor, ItemSlot = IS.Neck, ChallengeRestriction = {IC.LevelOneLunatic}}
 
@@ -1795,6 +1823,8 @@ I[80704] = {Id = "80704", Icon = "INV_Chest_Chain", Name = IJ_LOOT_NAME_80704, Q
 I[80705] = {Id = "80705", Icon = "INV_Spear_08", Name = IJ_LOOT_NAME_80705, Quality = IQ.Uncommon, ItemSlot = IS.TwoHand, ItemType = IT.Polearm, LevelRequirement = 13}
 
 I[5235] = {Id = "5235", Icon = "INV_Staff_02", Name = IJ_LOOT_NAME_5235, Quality = IQ.Common, ItemSlot = IS.Ranged, ItemType = IT.Wand, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[12862] = {Id = "12862", Icon = "INV_Misc_Book_09", Name = IJ_LOOT_NAME_12862, Quality = IQ.Uncommon, ItemSlot = IS.HeldInOffHand, ChallengeRestriction = {IC.LevelOneLunatic}}
 
 I[10760] = {Id = "10760", Icon = "inv_gauntlets_23", Name = IJ_LOOT_NAME_10760, Quality = IQ.Rare, ItemSlot = IS.Hands, ItemType = IT.Leather, LevelRequirement = 35}
 
@@ -2116,6 +2146,18 @@ I[80713] = {Id = "80713", Icon = "inv_chest_leather_07", Name = IJ_LOOT_NAME_807
 I[80714] = {Id = "80714", Icon = "inv_belt_20", Name = IJ_LOOT_NAME_80714, Quality = IQ.Rare, ItemSlot = IS.Waist, ItemType = IT.Mail, LevelRequirement = 18}
 
 I[5254] = {Id = "5254", Icon = "INV_Shoulder_08", Name = IJ_LOOT_NAME_5254, Quality = IQ.Common, ItemSlot = IS.Shoulder, ItemType = IT.Leather, LevelRequirement = 15}
+
+I[910013] = {Id = "910013", Icon = "INV_Misc_Note_03", Name = IJ_LOOT_NAME_910013, Quality = IQ.Rare, ItemSlot = IS.Ability, ClassRestriction = {IMCL.Shaman}, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910015] = {Id = "910015", Icon = "INV_Misc_Book_07", Name = IJ_LOOT_NAME_910015, Quality = IQ.Rare, ItemSlot = IS.Ability, ClassRestriction = {IMCL.Priest}, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910081] = {Id = "910081", Icon = "INV_Misc_Cape_10", Name = IJ_LOOT_NAME_910081, Quality = IQ.Rare, ItemSlot = IS.Back, ItemType = IT.Cloth, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910083] = {Id = "910083", Icon = "Spell_Shadow_LifeDrain", Name = IJ_LOOT_NAME_910083, Quality = IQ.Rare, ItemSlot = IS.Finger, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910084] = {Id = "910084", Icon = "INV_Jewelry_Ring_42", Name = IJ_LOOT_NAME_910084, Quality = IQ.Rare, ItemSlot = IS.Finger, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910101] = {Id = "910101", Icon = "INV_Misc_Bone_03", Name = IJ_LOOT_NAME_910101, Quality = IQ.Uncommon, ItemSlot = IS.Ability, ClassRestriction = {IMCL.Druid}, ChallengeRestriction = {IC.LevelOneLunatic}}
 
 I[1292] = {Id = "1292", Icon = "inv_axe_23", Name = IJ_LOOT_NAME_1292, Quality = IQ.Rare, ItemSlot = IS.OneHand, ItemType = IT.Axe, LevelRequirement = 20}
 
@@ -3078,6 +3120,18 @@ I[6447] = {Id = "6447", Icon = "inv_shield_21", Name = IJ_LOOT_NAME_6447, Qualit
 I[6460] = {Id = "6460", Icon = "inv_belt_03", Name = IJ_LOOT_NAME_6460, Quality = IQ.Rare, ItemSlot = IS.Waist, ItemType = IT.Mail, LevelRequirement = 19}
 
 I[6465] = {Id = "6465", Icon = "inv_chest_cloth_36", Name = IJ_LOOT_NAME_6465, Quality = IQ.Uncommon, ItemSlot = IS.Chest, ItemType = IT.Cloth, LevelRequirement = 17}
+
+I[910027] = {Id = "910027", Icon = "INV_Shield_21", Name = IJ_LOOT_NAME_910027, Quality = IQ.Uncommon, ItemSlot = IS.OffHand, ItemType = IT.Shield, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910029] = {Id = "910029", Icon = "INV_Staff_Goldfeathered_01", Name = IJ_LOOT_NAME_910029, Quality = IQ.Epic, ItemSlot = IS.TwoHand, ItemType = IT.Staff, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910036] = {Id = "910036", Icon = "INV_Misc_Herb_BlackLotus", Name = IJ_LOOT_NAME_910036, Quality = IQ.Uncommon, ItemSlot = IS.Ability, ClassRestriction = {IMCL.Druid}, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[910040] = {Id = "910040", Icon = "INV_Jewelry_Ring_12", Name = IJ_LOOT_NAME_910040, Quality = IQ.Uncommon, ItemSlot = IS.Finger, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[2190] = {Id = "2190", Icon = "INV_Chest_Cloth_20", Name = IJ_LOOT_NAME_2190, Quality = IQ.Uncommon, ItemSlot = IS.Chest, ItemType = IT.Cloth, ChallengeRestriction = {IC.LevelOneLunatic}}
+
+I[2189] = {Id = "2189", Icon = "INV_Shirt_17", Name = IJ_LOOT_NAME_2189, Quality = IQ.Uncommon, ItemSlot = IS.Chest, ItemType = IT.Leather, ChallengeRestriction = {IC.LevelOneLunatic}}
 
 I[10410] = {Id = "10410", Icon = "inv_pants_11", Name = IJ_LOOT_NAME_10410, Quality = IQ.Rare, ItemSlot = IS.Legs, ItemType = IT.Leather, LevelRequirement = 18}
 

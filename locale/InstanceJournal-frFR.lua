@@ -140,6 +140,7 @@ if GetLocale() == "frFR" then
     IJ_NOTES_YAUJ = "Princesse Yauj doit mourir en dernier."
     IJ_NOTES_EMP = "L'empereur Dagran Thaurissan doit mourir en dernier."
     IJ_NOTES_TRIBUTE = "Tombe uniquement lors d'une exécution de tribut."
+    IJ_NOTES_BURNINGBLADEGRIMOIRE = "Butin des démonistes de la Lame brûlante dans le Gouffre de Ragefeu."
 
     -- Challenges
     IJ_CHALLENGES_LEVELONELUNATIC = "Fou de niveau un"
@@ -299,6 +300,9 @@ if GetLocale() == "frFR" then
         "Inflige des dégâts de Nature toutes les 3 s pendant 30 s.\n\nDissipez cet effet de poison."
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_NAME_14873 = "Frappe sinistre"
     IJ_DB_DUNGEON_RFC_BOSS_11519_ABILITY_EFFECT_14873 = "Bazzalan frappe un ennemi, lui infligeant des dégâts physiques."
+
+    IJ_LOOT_NAME_17041 = "La poêle ardente"
+    IJ_LOOT_NAME_12862 = "Grimoire de la Lame ardente"
 
     -- Stockades
     IJ_DB_DUNGEON_STOCKADES_NAME = "La palissade"
@@ -539,6 +543,9 @@ if GetLocale() == "frFR" then
 
     IJ_LOOT_NAME_1937 = "Coutelas trancheur"
     IJ_LOOT_NAME_2169 = "Lame sifflante"
+
+    IJ_LOOT_NAME_910010 = "Puissante canne à pêche de M. Châtiment"
+    IJ_LOOT_NAME_910021 = "Targe noircie de suie"
 
     -- BM
     IJ_DB_DUNGEON_BM_NAME = "Le marécage noir"
@@ -1309,6 +1316,18 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_GNOMEREGAN_BOSS_NAME_7800 = "Mekgineer Thermaplugg"
     IJ_DB_DUNGEON_GNOMEREGAN_BOSS_STORY_7800 =
         "Meurtrier, traître et roi autoproclamé des gnomes, le mekgingénieur Sicco Thermaplugg règne sur les salles radioactives de Gnomeregan d'une main de fer défectueuse. Ses sujets sont nombreux, vicieux et suffisamment fous pour défendre leur roi fou contre toute intrusion du monde supérieur. C'est la folie de Thermaplugg qui le rend si dangereux ; il possède la ruse de tout détruire autour de lui, sans penser à sa propre vie. Il y a une raison pour laquelle même les monstres de Gnomeregan le craignent."
+
+    IJ_LOOT_NAME_910011 = "Petit marteleur"
+    IJ_LOOT_NAME_910089 = "Massue de Mordeur"
+    IJ_LOOT_NAME_910090 = "Blaster de basilic"
+    IJ_LOOT_NAME_910092 = "Tisonnier toxique"
+    IJ_LOOT_NAME_910093 = "Bras de l’Électrocuteur"
+    IJ_LOOT_NAME_910094 = "Œil de Grubbis sur un bâton"
+    IJ_LOOT_NAME_910097 = "Baguette de l’émissaire"
+    IJ_LOOT_NAME_910099 = "Noyau inférieur gauche de Thermojoncteur"
+    IJ_LOOT_NAME_910103 = "Gemmes d’hydromancien"
+    IJ_LOOT_NAME_910117 = "Servomoteur chargé"
+    IJ_LOOT_NAME_910118 = "Carte perforée du marteleur de foule manuel"
 
     -- Uldaman
     IJ_DB_DUNGEON_ULDA_NAME = "Uldaman"
@@ -2626,6 +2645,13 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_WC_BOSS_3654_ABILITY_EFFECT_7967 =
         "Endort un ennemi pendant 15 s au maximum. Les actions hostiles réveillent la cible. Dissipez cet effet magique."
 
+    IJ_LOOT_NAME_910027 = "Plastron de Kresh"
+    IJ_LOOT_NAME_910029 = "Houlette du Dévoreur"
+    IJ_LOOT_NAME_910036 = "Lotus de l’Éternel"
+    IJ_LOOT_NAME_910040 = "Anneau des eaux peu profondes"
+    IJ_LOOT_NAME_2190 = "Robe de l’essaim de serpents"
+    IJ_LOOT_NAME_2189 = "Mantelet en écailles de serpent"
+
     -- MARA
     IJ_DB_DUNGEON_MARA_NAME = "Maraudon"
     IJ_DB_DUNGEON_MARA_STORY =
@@ -3181,6 +3207,12 @@ if GetLocale() == "frFR" then
         "Se téléporte à un autre endroit."
 
     IJ_LOOT_NAME_5254 = "Spallières robustes"
+    IJ_LOOT_NAME_910013 = "Écriture des sermons ancestraux"
+    IJ_LOOT_NAME_910015 = "Textes sacrés du prélat"
+    IJ_LOOT_NAME_910081 = "Drapé robuste"
+    IJ_LOOT_NAME_910083 = "Anneau du Boucher"
+    IJ_LOOT_NAME_910084 = "Joyau de famille d’Argelaine"
+    IJ_LOOT_NAME_910101 = "Remords d’Odo"
 
     -- STRAT
     IJ_DB_DUNGEON_STRAT_NAME = "Stratholme"

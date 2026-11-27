@@ -41,7 +41,8 @@ WC.Bosses = {
         Loot = {
             [1] = {IJDB.I[13245], DropChance = 33}, 
             [2] = {IJDB.I[80710], DropChance = 33}, 
-            [3] = {IJDB.I[6447], DropChance = 33}
+            [3] = {IJDB.I[6447], DropChance = 33},
+            [4] = {IJDB.I[910027], DropChance = 100}
         }
     },
     [2] = {
@@ -296,7 +297,9 @@ WC.Bosses = {
             [2] = {IJDB.I[6446], DropChance = 25}, 
             [3] = {IJDB.I[10412], DropChance = 25}, 
             [4] = {IJDB.I[80709], DropChance = 25}, 
-            [5] = {IJDB.I[23800], DropChance = 1}
+            [5] = {IJDB.I[23800], DropChance = 1},
+            [6] = {IJDB.I[2190], DropChance = 50},
+            [7] = {IJDB.I[2189], DropChance = 50}
         }
     },
     [10] = {
@@ -327,7 +330,8 @@ WC.Bosses = {
         Loot = {
             [1] = {IJDB.I[6629], DropChance = 33}, 
             [2] = {IJDB.I[6630], DropChance = 33}, 
-            [3] = {IJDB.I[6631], DropChance = 33}
+            [3] = {IJDB.I[6631], DropChance = 33},
+            [4] = {IJDB.I[910036], DropChance = 50}
         }
     },
     [11] = {
@@ -366,7 +370,9 @@ WC.Bosses = {
             [2] = {IJDB.I[6463], DropChance = 25}, 
             [3] = {IJDB.I[6627], DropChance = 25}, 
             [4] = {IJDB.I[81006], DropChance = 25}, 
-            [5] = {IJDB.I[51217], DropChance = 1}
+            [5] = {IJDB.I[51217], DropChance = 1},
+            [6] = {IJDB.I[910029], DropChance = 50},
+            [7] = {IJDB.I[910040], DropChance = 50}
         }
     }
 }

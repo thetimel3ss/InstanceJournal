@@ -79,7 +79,7 @@ RFC.Bosses = {
             [1] = {IJDB.I[14145], DropChance = 33}, 
             [2] = {IJDB.I[14148], DropChance = 33}, 
             [3] = {IJDB.I[14149], DropChance = 33}, 
-            [4] = {IJDB.I[64], DropChance = 25}
+            [4] = {IJDB.I[5235], DropChance = 100}
         }
     },
     [3] = {
@@ -141,8 +141,11 @@ RFC.Bosses = {
             [1] = {IJDB.I[80703], DropChance = 30}, 
             [2] = {IJDB.I[80704], DropChance = 30}, 
             [3] = {IJDB.I[80705], DropChance = 30}, 
-            [4] = {IJDB.I[5235], DropChance = 100},
-            [5] = {IJDB.I[51217], DropChance = 1}
+            [4] = {IJDB.I[64], DropChance = 25},
+            [5] = {IJDB.I[51217], DropChance = 1},
+            -- Drops from mobs within Ragefire Chasm; retained under Bazzalan
+            -- for the Level One Lunatic challenge.
+            [6] = {IJDB.I[12862], DropChance = 25, Note = IJ_NOTES_BURNINGBLADEGRIMOIRE}
         }
     }
 }

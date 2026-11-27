@@ -48,7 +48,10 @@ GNOMEREGAN.Bosses = {
             [1] = {IJDB.I[9445], DropChance = 25}, 
             [2] = {IJDB.I[80737], DropChance = 25}, 
             [3] = {IJDB.I[80738], DropChance = 25}, 
-            [4] = {IJDB.I[80739], DropChance = 25}
+            [4] = {IJDB.I[80739], DropChance = 25},
+            [5] = {IJDB.I[910089], DropChance = 50},
+            [6] = {IJDB.I[910090], DropChance = 50},
+            [7] = {IJDB.I[910094], DropChance = 100}
         }
     },
     [2] = { -- NOTE: Missing abilities
@@ -62,7 +65,9 @@ GNOMEREGAN.Bosses = {
         Loot = {
             [1] = {IJDB.I[9452], DropChance = 33}, 
             [2] = {IJDB.I[9453], DropChance = 33}, 
-            [3] = {IJDB.I[9454], DropChance = 33}
+            [3] = {IJDB.I[9454], DropChance = 33},
+            [4] = {IJDB.I[910092], DropChance = 50},
+            [5] = {IJDB.I[910103], DropChance = 100}
         }
     },
     [3] = { -- NOTE: Missing abilities
@@ -76,7 +81,9 @@ GNOMEREGAN.Bosses = {
         Loot = {
             [1] = {IJDB.I[9446], DropChance = 33}, 
             [2] = {IJDB.I[9447], DropChance = 33}, 
-            [3] = {IJDB.I[9448], DropChance = 33}
+            [3] = {IJDB.I[9448], DropChance = 33},
+            [4] = {IJDB.I[910093], DropChance = 50},
+            [5] = {IJDB.I[910117], DropChance = 100}
         }
     },
     [4] = { -- NOTE: Missing abilities
@@ -90,7 +97,9 @@ GNOMEREGAN.Bosses = {
         Loot = {
             [1] = {IJDB.I[9449], DropChance = 33}, 
             [2] = {IJDB.I[9450], DropChance = 33}, 
-            [3] = {IJDB.I[80740], DropChance = 33}
+            [3] = {IJDB.I[80740], DropChance = 33},
+            [4] = {IJDB.I[910011], DropChance = 50},
+            [5] = {IJDB.I[910118], DropChance = 100}
         }
     },
     [5] = { -- NOTE: Missing abilities
@@ -105,7 +114,8 @@ GNOMEREGAN.Bosses = {
         Loot = {
             [1] = {IJDB.I[9455], DropChance = 33}, 
             [2] = {IJDB.I[9456], DropChance = 33}, 
-            [3] = {IJDB.I[9457], DropChance = 33}
+            [3] = {IJDB.I[9457], DropChance = 33},
+            [4] = {IJDB.I[910097], DropChance = 50}
         }
     },
     [6] = { -- NOTE: Missing abilities
@@ -126,7 +136,8 @@ GNOMEREGAN.Bosses = {
             [7] = {IJDB.I[4413], DropChance = 2},
             [8] = {IJDB.I[4415], DropChance = 2},
             [9] = {IJDB.I[7742], DropChance = 2},
-            [10] = {IJDB.I[51217], DropChance = 1}
+            [10] = {IJDB.I[51217], DropChance = 1},
+            [11] = {IJDB.I[910099], DropChance = 33.33}
         }
     }
 }
