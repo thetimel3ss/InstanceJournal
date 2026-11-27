@@ -979,7 +979,43 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
         "Verflucht Gegner in der Nähe 60 Sekunden lang, verursacht regelmäßig Naturschaden und entzieht Mana."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "Farraki-Arena"
-    IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "Die Farraki-Arena ist ein angebliches Schlachtfeld, auf dem Trolle aus der ganzen Stadt Zul'Farrak zusammenkommen und in blutigen Todeskämpfen gegeneinander antreten."
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "In der Farraki-Arena tragen die Krieger von Zul'Farrak blutige Wettkämpfe aus. Herausforderer treten gegen Kath'zen den Brutalen und Juthza den Gerissenen sowie gegen den Champion der Stadt, Razjal den Schnellen, an."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62496 = "Kath'zen der Brutale"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62496 =
+        "Kämpft an der Seite der anderen Gegner in diesem Kampf."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_16095 = "Heimtückisches Verwunden"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_16095 =
+        "Lässt ein Ziel bluten und fügt ihm 15 Sekunden lang alle 3 Sekunden körperlichen Schaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_21553 = "Tödlicher Stoß"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_21553 =
+        "Fügt einem Ziel körperlichen Schaden zu und verringert seine erhaltene Heilung 10 Sekunden lang um 50%."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15716 = "Wütend"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15716 =
+        "Erhöht Angriffstempo und körperlichen Schaden."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62497 = "Juthza der Gerissene"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62497 =
+        "Kämpft an der Seite der anderen Gegner in diesem Kampf."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_6533 = "Netz"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_6533 =
+        "Wurzelt ein Ziel 10 Sekunden lang fest."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_12540 = "Solarplexus"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_12540 =
+        "Fügt einem Ziel körperlichen Schaden zu und macht es bis zu 4 Sekunden lang handlungsunfähig. Schaden bricht den Effekt."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15656 = "Giftiger Stich"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15656 =
+        "Vergiftet ein Ziel, fügt ihm alle 3 Sekunden Naturschaden zu und verringert sein Angriffs- und Bewegungstempo 15 Sekunden lang."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62498 = "Champion Razjal der Schnelle"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62498 =
+        "Kämpft an der Seite der anderen Gegner in diesem Kampf."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_22886 = "Berserkeransturm"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_22886 =
+        "Stürmt ein Ziel an, fügt ihm körperlichen Schaden zu und stößt es zurück."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_45 = "Kriegsdonner"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_45 =
+        "Stößt Gegner in der Nähe zurück."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_11684 = "Höllenfeuer"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
+        "Kanalisiert bis zu 15 Sekunden lang jede Sekunde Feuerschaden gegen sich selbst und Gegner in der Nähe."
 
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "Der Tempel von Atal'Hakkar"

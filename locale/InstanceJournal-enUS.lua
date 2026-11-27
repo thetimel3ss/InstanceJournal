@@ -1171,7 +1171,43 @@ IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52695 = "Curse of Years"
 IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
     "Curses nearby enemies for 60 seconds, periodically dealing Nature damage and draining mana."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "Farraki Arena"
-IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "The Farraki Arena is a reputed battleground where trolls from all accross the city of Zul'Farrak come and compete in bloody death matches."
+IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "The Farraki Arena hosts bloody contests between the warriors of Zul'Farrak. Challengers face Kath'zen the Brutal and Juthza the Cunning, as well as the city's champion, Razjal the Quick."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62496 = "Kath'zen the Brutal"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62496 =
+    "Fights alongside the other combatants in this encounter."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_16095 = "Vicious Rend"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_16095 =
+    "Causes a target to bleed, dealing Physical damage every 3 seconds for 15 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_21553 = "Mortal Strike"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_21553 =
+    "Deals Physical damage to a target and reduces healing received by 50% for 10 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15716 = "Enrage"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15716 =
+    "Increases attack speed and Physical damage."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62497 = "Juthza the Cunning"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62497 =
+    "Fights alongside the other combatants in this encounter."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_6533 = "Net"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_6533 =
+    "Roots a target for 10 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_12540 = "Gouge"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_12540 =
+    "Deals Physical damage and incapacitates a target for up to 4 seconds. Damage breaks the effect."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15656 = "Poisonous Stab"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15656 =
+    "Poisons a target, dealing Nature damage every 3 seconds and reducing attack and movement speed for 15 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62498 = "Champion Razjal the Quick"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62498 =
+    "Fights alongside the other combatants in this encounter."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_22886 = "Berserker Charge"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_22886 =
+    "Charges a target, dealing Physical damage and knocking it back."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_45 = "War Stomp"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_45 =
+    "Knocks back nearby enemies."
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_11684 = "Hellfire"
+IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
+    "Channels Fire damage to himself and nearby enemies every second for up to 15 seconds."
 
 -- ZF Loot
 IJ_LOOT_NAME_12470 = "Sandstalker Ankleguards"

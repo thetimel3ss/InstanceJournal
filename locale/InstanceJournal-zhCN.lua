@@ -1267,7 +1267,43 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
         "诅咒附近的敌人60秒，周期性地造成自然伤害并吸取法力值。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "法拉基竞技场"
-    IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "法拉基竞技场是一个著名的战场，来自祖尔法拉克市各地的巨魔都会来这里参加血腥的死亡比赛。"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "法拉基竞技场举办祖尔法拉克战士之间的血腥角斗。挑战者将面对残暴者卡兹恩、狡诈者尤萨，以及城市的勇士——迅捷的拉兹贾尔。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62496 = "残暴者卡兹恩"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62496 =
+        "与此战斗中的其他敌人并肩作战。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_16095 = "恶毒撕裂"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_16095 =
+        "使一个目标流血，每3秒造成物理伤害，持续15秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_21553 = "致死打击"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_21553 =
+        "对一个目标造成物理伤害，使其受到的治疗降低50%，持续10秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15716 = "狂怒"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15716 =
+        "提高攻击速度和物理伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62497 = "狡诈者尤萨"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62497 =
+        "与此战斗中的其他敌人并肩作战。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_6533 = "投网"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_6533 =
+        "使一个目标定身10秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_12540 = "凿击"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_12540 =
+        "造成物理伤害，并使一个目标瘫痪最多4秒。伤害会打破此效果。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15656 = "毒性刺伤"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15656 =
+        "使一个目标中毒，每3秒造成自然伤害，并降低其攻击和移动速度，持续15秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62498 = "迅捷的勇士拉兹贾尔"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62498 =
+        "与此战斗中的其他敌人并肩作战。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_22886 = "狂暴冲锋"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_22886 =
+        "向一个目标冲锋，造成物理伤害并将其击退。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_45 = "战争践踏"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_45 =
+        "击退附近的敌人。"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_11684 = "地狱烈焰"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
+        "引导法术，每秒对自身及附近的敌人造成火焰伤害，最多持续15秒。"
 
     -- ZF Loot
     IJ_LOOT_NAME_12470 = "沙行者护足"

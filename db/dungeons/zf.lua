@@ -413,7 +413,7 @@ ZF.Bosses = {
             [4] = {IJDB.I[58119], DropChance = 25}
         }
     },
-    [9] = { -- NOTE: Missing abilities
+    [9] = {
         Id = "62498",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "arena" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "arena" .. IMPF,
@@ -421,6 +421,87 @@ ZF.Bosses = {
         Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_62498,
         MapCoordinateX = 43.8,
         MapCoordinateY = 58.3,
+        Abilities = {
+            [1] = {
+                Id = "62496",
+                Icon = "Ability_Racial_Berserk",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62496,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62496,
+                SubAbilities = {
+                    [1] = {
+                        Id = "16095",
+                        Icon = "Ability_Gouge",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_16095,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_16095
+                    },
+                    [2] = {
+                        Id = "21553",
+                        Icon = "Ability_Warrior_SavageBlow",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_21553,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_21553
+                    },
+                    [3] = {
+                        Id = "15716",
+                        Icon = "Spell_Shadow_UnholyFrenzy",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15716,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15716
+                    }
+                }
+            },
+            [2] = {
+                Id = "62497",
+                Icon = "Ability_Racial_Berserk",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62497,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62497,
+                SubAbilities = {
+                    [1] = {
+                        Id = "6533",
+                        Icon = "Ability_Ensnare",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_6533,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_6533
+                    },
+                    [2] = {
+                        Id = "12540",
+                        Icon = "Ability_Gouge",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_12540,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_12540
+                    },
+                    [3] = {
+                        Id = "15656",
+                        Icon = "Spell_Nature_Regenerate",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15656,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15656,
+                        Flags = {IMAF.Poison}
+                    }
+                }
+            },
+            [3] = {
+                Id = "62498",
+                Icon = "Ability_Racial_Berserk",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62498,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62498,
+                SubAbilities = {
+                    [1] = {
+                        Id = "22886",
+                        Icon = "Ability_Warrior_Charge",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_22886,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_22886
+                    },
+                    [2] = {
+                        Id = "45",
+                        Icon = "Ability_BullRush",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_45,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_45
+                    },
+                    [3] = {
+                        Id = "11684",
+                        Icon = "Spell_Fire_Incinerate",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_11684,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[58092], DropChance = 25}, 
             [2] = {IJDB.I[58093], DropChance = 25}, 

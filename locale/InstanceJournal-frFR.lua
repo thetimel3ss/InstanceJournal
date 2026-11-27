@@ -977,7 +977,43 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
         "Maudit les ennemis proches pendant 60 secondes, leur infligeant périodiquement des dégâts de Nature et drainant leur mana."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "Arène Farraki"
-    IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "L'arène Farraki est un champ de bataille réputé où les trolls de toute la ville de Zul'Farrak viennent s'affronter dans des combats à mort sanglants."
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "L’arène Farraki accueille des combats sanglants entre les guerriers de Zul'Farrak. Les challengers affrontent Kath’zen le Brutal et Juthza le Rusé, ainsi que le champion de la cité, Razjal le Vif."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62496 = "Kath’zen le Brutal"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62496 =
+        "Combat aux côtés des autres adversaires de cette rencontre."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_16095 = "Pourfendre vicieux"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_16095 =
+        "Fait saigner une cible et lui inflige des dégâts physiques toutes les 3 secondes pendant 15 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_21553 = "Frappe mortelle"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_21553 =
+        "Inflige des dégâts physiques à une cible et réduit les soins reçus de 50% pendant 10 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15716 = "Enrager"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15716 =
+        "Augmente la vitesse d’attaque et les dégâts physiques."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62497 = "Juthza le Rusé"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62497 =
+        "Combat aux côtés des autres adversaires de cette rencontre."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_6533 = "Filet"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_6533 =
+        "Enracine une cible pendant 10 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_12540 = "Suriner"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_12540 =
+        "Inflige des dégâts physiques et stupéfie une cible pendant un maximum de 4 secondes. Les dégâts interrompent l’effet."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_15656 = "Attaque empoisonnée"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_15656 =
+        "Empoisonne une cible, lui infligeant des dégâts de Nature toutes les 3 secondes et réduisant ses vitesses d’attaque et de déplacement pendant 15 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_62498 = "Champion Razjal le Vif"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_62498 =
+        "Combat aux côtés des autres adversaires de cette rencontre."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_22886 = "Charge de berserker"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_22886 =
+        "Charge une cible, lui infligeant des dégâts physiques et la repoussant."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_45 = "Choc martial"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_45 =
+        "Repousse les ennemis proches."
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_NAME_11684 = "Flammes infernales"
+    IJ_DB_DUNGEON_ZF_BOSS_62498_ABILITY_EFFECT_11684 =
+        "Canalise des dégâts de Feu sur lui-même et les ennemis proches toutes les secondes pendant un maximum de 15 secondes."
 
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "Le temple d'Atal'Hakkar"
