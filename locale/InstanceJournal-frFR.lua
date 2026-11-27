@@ -960,7 +960,22 @@ if GetLocale() == "frFR" then
         "Inflige des dégâts de Givre à une cible et réduit sa vitesse de déplacement de 50% pendant 10 secondes."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "Zel’jeb l’Ancien"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
-        "Alors que le chef Ukorz Scalp-sable était autrefois un leader prometteur dont l'esprit a finalement été déformé par la magie noire, Zel'jeb représente les ombres plus anciennes et persistantes de la tribu des Furies des sables. Cet ancien troll est un sombre rappel de la magie qui a déclenché la corruption des dirigeants de la ville, contribuant à alimenter la nature brutale et froide qui définit désormais le sanctuaire intérieur du chef. Alors que les sables de Zul'Farrak se déplacent, Zel'jeb se tient aux côtés des guerriers les plus fanatiques de la tribu, veillant à ce que l'héritage de leur pouvoir déformé ne s'éloigne pas simplement comme le sable sur les dunes."
+        "Zel'jeb était l’un des seigneurs de guerre les plus vénérables des Farraki, ancien même selon les critères de son peuple. Renforcé par un sombre embaumement et une magie impie, il est revenu à Zul'Farrak. Sa présence souille les dunes de Tanaris et irrite les esprits, poussant Zalsu le Vagabond à chercher le repos de son âme tourmentée."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52694 = "Embaumement antique"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52694 =
+        "Réduit de 90% les dégâts subis des écoles autres que le Feu.\n\nInfligez des dégâts de Feu pour briser l’embaumement."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_8147 = "Coup de tonnerre"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_8147 =
+        "Inflige des dégâts de Nature aux ennemis proches et réduit leurs vitesses de déplacement et d’attaque pendant 10 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_11876 = "Choc martial"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_11876 =
+        "Inflige des dégâts physiques aux ennemis proches et les étourdit pendant 5 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_22678 = "Peur"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_22678 =
+        "Fait fuir une cible de peur pendant 6 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52695 = "Malédiction des années"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
+        "Maudit les ennemis proches pendant 60 secondes, leur infligeant périodiquement des dégâts de Nature et drainant leur mana."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "Arène Farraki"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "L'arène Farraki est un champ de bataille réputé où les trolls de toute la ville de Zul'Farrak viennent s'affronter dans des combats à mort sanglants."
 

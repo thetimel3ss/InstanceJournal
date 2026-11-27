@@ -1154,7 +1154,22 @@ IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_11131 =
     "Deals Frost damage to a target and reduces its movement speed by 50% for 10 seconds."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "Zel'jeb the Ancient"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
-    "While Chief Ukorz Sandscalp was once a promising leader whose mind was eventually warped by dark magics, Zel'jeb represents the older, lingering shadows of the Sandfury tribe. This ancient troll serves as a grim reminder of the magic that began the corruption of the city's leadership, helping to fuel the brutal and cold nature that now defines the chief's inner sanctum. As the sands of Zul'Farrak shift, Zel'jeb stands alongside the tribe's most fanatical warriors, ensuring that the legacy of their warped power does not simply drift away like sand on the dunes."
+    "Zel'jeb was one of the most venerable warlords of the Farraki, ancient even by the standards of his people. Empowered by dark embalming and foul magic, he has returned within Zul'Farrak. His presence taints the dunes of Tanaris and angers the spirits, leading Zalsu the Wanderer to seek an end to his restless soul."
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52694 = "Ancient Embalming"
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52694 =
+    "Reduces damage taken from schools other than Fire by 90%.\n\nDeal Fire damage to break the embalming."
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_8147 = "Thunderclap"
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_8147 =
+    "Deals Nature damage to nearby enemies, slows movement, and reduces attack speed for 10 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_11876 = "War Stomp"
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_11876 =
+    "Deals Physical damage to nearby enemies and stuns them for 5 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_22678 = "Fear"
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_22678 =
+    "Causes a target to flee in fear for 6 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52695 = "Curse of Years"
+IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
+    "Curses nearby enemies for 60 seconds, periodically dealing Nature damage and draining mana."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "Farraki Arena"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "The Farraki Arena is a reputed battleground where trolls from all accross the city of Zul'Farrak come and compete in bloody death matches."
 

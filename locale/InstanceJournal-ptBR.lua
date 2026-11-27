@@ -958,7 +958,22 @@ if GetLocale() == "ptBR" then
         "Causa dano de Gelo a um alvo e reduz sua velocidade de movimento em 50% por 10 segundos."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "Zel'jeb, o Ancião"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
-        "Embora o Chefe Ukorz Sandscalp já tenha sido um líder promissor cuja mente acabou sendo distorcida por magia negra, Zel'jeb representa as sombras mais antigas e persistentes da tribo Sandfury. Este antigo troll serve como um lembrete sombrio da magia que deu início à corrupção da liderança da cidade, ajudando a alimentar a natureza brutal e fria que agora define o santuário interno do chefe. À medida que as areias de Zul'Farrak mudam, Zel'jeb fica ao lado dos guerreiros mais fanáticos da tribo, garantindo que o legado de seu poder distorcido não simplesmente se esvai como a areia nas dunas."
+        "Zel'jeb foi um dos mais veneráveis senhores da guerra dos Farraki, antigo até mesmo para os padrões de seu povo. Fortalecido por embalsamamento sombrio e magia profana, ele retornou a Zul'Farrak. Sua presença corrompe as dunas de Tanaris e enfurece os espíritos, levando Zalsu, o Andarilho, a buscar um fim para sua alma inquieta."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52694 = "Embalsamamento Ancestral"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52694 =
+        "Reduz em 90% o dano recebido de escolas diferentes de Fogo.\n\nCause dano de Fogo para romper o embalsamamento."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_8147 = "Trovoada"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_8147 =
+        "Causa dano de Natureza aos inimigos próximos, reduzindo a velocidade de movimento e de ataque por 10 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_11876 = "Pisada de Guerra"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_11876 =
+        "Causa dano Físico aos inimigos próximos e os atordoa por 5 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_22678 = "Medo"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_22678 =
+        "Faz um alvo fugir de medo por 6 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52695 = "Maldição dos Anos"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
+        "Amaldiçoa os inimigos próximos por 60 segundos, causando dano de Natureza e drenando mana periodicamente."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "Arena Farraki"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "A Farraki Arena é um campo de batalha de renome onde trolls de toda a cidade de Zul'Farrak vêm e competem em sangrentas partidas mortais."
 

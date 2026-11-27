@@ -363,7 +363,7 @@ ZF.Bosses = {
             [4] = {IJDB.I[51217], DropChance = 1}
         }
     },
-    [8] = { -- NOTE: Missing abilities
+    [8] = {
         Id = "62495",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "zeljeb" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "zeljeb" .. IMPF,
@@ -371,6 +371,41 @@ ZF.Bosses = {
         Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_62495,
         MapCoordinateX = 14.1,
         MapCoordinateY = 32.0,
+        Abilities = {
+            [1] = {
+                Id = "52694",
+                Icon = "Spell_Shadow_AntiMagicShell",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52694,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52694
+            },
+            [2] = {
+                Id = "8147",
+                Icon = "Spell_Nature_ThunderClap",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_8147,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_8147,
+                Flags = {IMAF.Magic}
+            },
+            [3] = {
+                Id = "11876",
+                Icon = "Ability_BullRush",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_11876,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_11876
+            },
+            [4] = {
+                Id = "22678",
+                Icon = "Spell_Shadow_Possession",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_22678,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_22678,
+                Flags = {IMAF.Magic}
+            },
+            [5] = {
+                Id = "52695",
+                Icon = "Spell_Nature_Drowsy",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52695,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695,
+                Flags = {IMAF.Curse}
+            }
+        },
         Loot = {
             [1] = {IJDB.I[58116], DropChance = 25}, 
             [2] = {IJDB.I[58117], DropChance = 25}, 

@@ -962,7 +962,22 @@ if GetLocale() == "deDE" then
         "Fügt einem Ziel Frostschaden zu und verringert dessen Bewegungstempo 10 Sekunden lang um 50%."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "Zel'jeb der Alte"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
-        "Während Häuptling Ukorz Sandskalp einst ein vielversprechender Anführer war, dessen Geist schließlich durch dunkle Magie verzerrt wurde, repräsentiert Zel'jeb die älteren, verbliebenen Schatten des Sandfury-Stammes. Dieser uralte Troll dient als düstere Erinnerung an die Magie, die die Korruption der Führung der Stadt in Gang setzte, und trägt dazu bei, die brutale und kalte Natur zu befeuern, die jetzt das Allerheiligste des Häuptlings prägt. Während sich der Sand von Zul'Farrak verschiebt, steht Zel'jeb an der Seite der fanatischsten Krieger des Stammes und stellt sicher, dass das Erbe ihrer verzerrten Macht nicht einfach wie Sand auf den Dünen davontreibt."
+        "Zel'jeb war einer der ehrwürdigsten Kriegsherren der Farraki, selbst nach den Maßstäben seines Volkes uralt. Durch dunkle Einbalsamierung und unheilige Magie gestärkt, ist er nach Zul'Farrak zurückgekehrt. Seine Gegenwart verdirbt die Dünen von Tanaris und erzürnt die Geister, weshalb Zalsu der Wanderer seiner ruhelosen Seele ein Ende bereiten will."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52694 = "Uralte Einbalsamierung"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52694 =
+        "Verringert erlittenen Schaden aller Schulen außer Feuer um 90%.\n\nVerursacht Feuerschaden, um die Einbalsamierung zu brechen."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_8147 = "Donnerknall"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_8147 =
+        "Fügt Gegnern in der Nähe Naturschaden zu und verringert ihr Bewegungs- und Angriffstempo 10 Sekunden lang."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_11876 = "Kriegsdonner"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_11876 =
+        "Fügt Gegnern in der Nähe körperlichen Schaden zu und betäubt sie für 5 Sekunden."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_22678 = "Furcht"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_22678 =
+        "Versetzt ein Ziel 6 Sekunden lang in Furcht."
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52695 = "Fluch der Jahre"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
+        "Verflucht Gegner in der Nähe 60 Sekunden lang, verursacht regelmäßig Naturschaden und entzieht Mana."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "Farraki-Arena"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "Die Farraki-Arena ist ein angebliches Schlachtfeld, auf dem Trolle aus der ganzen Stadt Zul'Farrak zusammenkommen und in blutigen Todeskämpfen gegeneinander antreten."
 

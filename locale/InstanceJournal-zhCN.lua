@@ -1250,7 +1250,22 @@ if GetLocale() == "zhCN" then
         "对一个目标造成冰霜伤害，使其移动速度降低50%，持续10秒。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62495 = "年迈的泽尔杰布"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62495 =
-        "虽然酋长乌科兹·沙卡普曾经是一位很有前途的领导者，但他的思想最终被黑魔法扭曲了，而泽尔杰布则代表了沙怒部落古老而挥之不去的阴影。这个古老的巨魔残酷地提醒人们，是魔法开始了城市领导层的腐败，助长了如今酋长内部密室的残酷和冷酷本性。当祖尔法拉克的沙子移动时，泽尔杰布与部落最狂热的战士并肩作战，确保他们留下的扭曲力量不会像沙丘上的沙子一样随风飘散。"
+        "泽尔杰布曾是法拉基最德高望重的军阀之一，即使以族人的标准衡量也极为古老。他借助黑暗防腐术和邪恶魔法重返祖尔法拉克。他的存在污染了塔纳利斯的沙丘，激怒了灵魂，因此流浪者扎尔苏寻求让他不安的灵魂安息。"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52694 = "远古防腐术"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52694 =
+        "受到的除火焰以外的各学派伤害降低90%。\n\n造成火焰伤害以打破防腐效果。"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_8147 = "雷霆一击"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_8147 =
+        "对附近的敌人造成自然伤害，降低其移动和攻击速度，持续10秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_11876 = "战争践踏"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_11876 =
+        "对附近的敌人造成物理伤害，并使其昏迷5秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_22678 = "恐惧术"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_22678 =
+        "使一个目标因恐惧而逃跑，持续6秒。"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_NAME_52695 = "岁月诅咒"
+    IJ_DB_DUNGEON_ZF_BOSS_62495_ABILITY_EFFECT_52695 =
+        "诅咒附近的敌人60秒，周期性地造成自然伤害并吸取法力值。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_62498 = "法拉基竞技场"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_62498 = "法拉基竞技场是一个著名的战场，来自祖尔法拉克市各地的巨魔都会来这里参加血腥的死亡比赛。"
 
