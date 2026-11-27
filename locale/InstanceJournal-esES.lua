@@ -1031,6 +1031,19 @@ if GetLocale() == "esES" then
     IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
         "Inflige daño de las Sombras a los enemigos en un radio de 30 metros tras un lanzamiento de 3 segundos."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10080 = "Sandarr Asaltadunas"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10080 =
+        "Sandarr Asaltadunas es un trol de arena poco común en los pasajes occidentales de Zul'Farrak. Sus poderosos golpes y gritos intimidatorios obstaculizan a los intrusos que se cruzan en su camino."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_11976 = "Huelga"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_11976 =
+        "Inflige daño Físico a un objetivo."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_12555 = "Zurrar"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_12555 =
+        "Inflige daño físico a un objetivo, interrumpe su lanzamiento e impide los hechizos de esa escuela durante 5 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_13730 = "Grito desmoralizador"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
+        "Reduce el poder de ataque cuerpo a cuerpo de los enemigos en un radio de 10 metros durante 30 segundos."
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "El templo de Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

@@ -1033,6 +1033,19 @@ if GetLocale() == "deDE" then
     IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
         "Fügt Gegnern innerhalb von 30 Metern nach 3 Sekunden Zauberzeit Schattenschaden zu."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10080 = "Sandarr der Wüstenräuber"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10080 =
+        "Sandarr der Wüstenräuber ist ein selten anzutreffender Sandtroll in den westlichen Gängen von Zul'Farrak. Mit mächtigen Schlägen und einschüchternden Rufen behindert er Eindringlinge, die seinen Weg kreuzen."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_11976 = "Schlagen"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_11976 =
+        "Fügt einem Ziel körperlichen Schaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_12555 = "Zuschlagen"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_12555 =
+        "Fügt einem Ziel körperlichen Schaden zu, unterbricht dessen Zauber und verhindert 5 Sekunden lang Zauber derselben Schule."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_13730 = "Demoralisierender Ruf"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
+        "Verringert die Nahkampfangriffskraft von Gegnern innerhalb von 10 Metern für 30 Sekunden."
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "Der Tempel von Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

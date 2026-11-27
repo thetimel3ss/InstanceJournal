@@ -1225,6 +1225,19 @@ IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_NAME_15245 = "Shadow Bolt Volley"
 IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
     "Deals Shadow damage to enemies within 30 yards after a 3-second cast."
 
+IJ_DB_DUNGEON_ZF_BOSS_NAME_10080 = "Sandarr Dunereaver"
+IJ_DB_DUNGEON_ZF_BOSS_STORY_10080 =
+    "Sandarr Dunereaver is a rarely encountered sand troll in Zul'Farrak's western passages. His powerful strikes and intimidating shouts hinder intruders who cross his path."
+IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_11976 = "Strike"
+IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_11976 =
+    "Deals Physical damage to a target."
+IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_12555 = "Pummel"
+IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_12555 =
+    "Deals Physical damage to a target, interrupts its spellcast, and prevents spells from that school for 5 seconds."
+IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_13730 = "Demoralizing Shout"
+IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
+    "Reduces the melee attack power of enemies within 10 yards for 30 seconds."
+
 -- ZF Loot
 IJ_LOOT_NAME_12470 = "Sandstalker Ankleguards"
 IJ_LOOT_NAME_9379 = "Sang'thraze the Deflector"

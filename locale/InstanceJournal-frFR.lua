@@ -1031,6 +1031,19 @@ if GetLocale() == "frFR" then
     IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
         "Inflige des dégâts d’Ombre aux ennemis à moins de 30 mètres après 3 secondes d’incantation."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10080 = "Sandarr Ravadune"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10080 =
+        "Sandarr Ravadune est un troll des sables rarement rencontré dans les passages occidentaux de Zul'Farrak. Ses coups puissants et ses cris intimidants entravent les intrus qui croisent sa route."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_11976 = "Grève"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_11976 =
+        "Inflige des dégâts physiques à une cible."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_12555 = "Volée de coups"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_12555 =
+        "Inflige des dégâts physiques à une cible, interrompt son incantation et empêche les sorts de cette école pendant 5 secondes."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_13730 = "Cri démoralisant"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
+        "Réduit la puissance d’attaque en mêlée des ennemis à moins de 10 mètres pendant 30 secondes."
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "Le temple d'Atal'Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

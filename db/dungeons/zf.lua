@@ -549,6 +549,39 @@ ZF.Bosses = {
         Loot = {
             [1] = {IJDB.I[9243], DropChance = 0.7}
         }
+    },
+    [11] = {
+        Id = "10080",
+        Portrait = IMP .. IMPD .. instanceMediaAcronym .. "sandarr" .. IMPP,
+        Frame = IMP .. IMPD .. instanceMediaAcronym .. "sandarr" .. IMPF,
+        Name = IJ_DB_DUNGEON_ZF_BOSS_NAME_10080,
+        Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_10080,
+        MapCoordinateX = 44.0,
+        MapCoordinateY = 52.0,
+        IsRare = true,
+        Abilities = {
+            [1] = {
+                Id = "11976",
+                Icon = "Ability_Rogue_Ambush",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_11976,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_11976
+            },
+            [2] = {
+                Id = "12555",
+                Icon = "INV_Gauntlets_04",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_12555,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_12555
+            },
+            [3] = {
+                Id = "13730",
+                Icon = "Ability_Warrior_WarCry",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_13730,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730
+            }
+        },
+        Loot = {
+            [1] = {IJDB.I[9243], DropChance = 2.12}
+        }
     }
 }
 ZF.Quests = {IJDB.Q[2991], IJDB.Q[2936], IJDB.Q[3042], IJDB.Q[2865], IJDB.Q[2846], IJDB.Q[3527], IJDB.Q[2768], IJDB.Q[2770], IJDB.Q[40519], IJDB.Q[41811], IJDB.Q[40527]}

@@ -1029,6 +1029,19 @@ if GetLocale() == "ptBR" then
     IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
         "Causa dano de Sombra aos inimigos em um raio de 30 metros após uma conjuração de 3 segundos."
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10080 = "Sandarr Aniquiladunas"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10080 =
+        "Sandarr Aniquiladunas é um troll da areia raramente encontrado nas passagens ocidentais de Zul'Farrak. Seus golpes poderosos e gritos intimidadores dificultam o avanço dos intrusos que cruzam seu caminho."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_11976 = "Batida"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_11976 =
+        "Causa dano Físico a um alvo."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_12555 = "Murro"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_12555 =
+        "Causa dano Físico a um alvo, interrompe sua conjuração e impede feitiços dessa escola por 5 segundos."
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_13730 = "Brado Desmoralizador"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
+        "Reduz o poder de ataque corpo a corpo dos inimigos em um raio de 10 metros por 30 segundos."
+
     -- ST
     IJ_DB_DUNGEON_ST_NAME = "O Templo de Atal’Hakkar"
     IJ_DB_DUNGEON_ST_STORY =

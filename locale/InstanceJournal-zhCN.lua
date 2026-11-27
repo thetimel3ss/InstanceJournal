@@ -1321,6 +1321,19 @@ if GetLocale() == "zhCN" then
     IJ_DB_DUNGEON_ZF_BOSS_7795_ABILITY_EFFECT_15245 =
         "施法3秒后对30码内的敌人造成暗影伤害。"
 
+    IJ_DB_DUNGEON_ZF_BOSS_NAME_10080 = "杉达尔·沙掠者"
+    IJ_DB_DUNGEON_ZF_BOSS_STORY_10080 =
+        "杉达尔·沙掠者是一名罕见的沙地巨魔，出没于祖尔法拉克西侧的通道。他用强力打击和威慑怒吼阻碍闯入者。"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_11976 = "打击"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_11976 =
+        "对一个目标造成物理伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_12555 = "拳击"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_12555 =
+        "对一个目标造成物理伤害，打断其施法，并使其在5秒内无法施放该学派的法术。"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_NAME_13730 = "挫志怒吼"
+    IJ_DB_DUNGEON_ZF_BOSS_10080_ABILITY_EFFECT_13730 =
+        "降低10码内敌人的近战攻击强度，持续30秒。"
+
     -- ZF Loot
     IJ_LOOT_NAME_12470 = "沙行者护足"
     IJ_LOOT_NAME_9379 = "反击者桑萨斯"
