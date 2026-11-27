@@ -921,7 +921,28 @@ if GetLocale() == "frFR" then
         "Inflige des dégâts de Nature à une cible, puis des dégâts de Nature supplémentaires toutes les 5 secondes pendant 180 secondes."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Chef Ukorz Sandscalp"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
-        "Le chef Ukorz Sandscalp est obsédé par l'idée de redonner à sa tribu son ancienne gloire. Il a été élevé dans les histoires d'une époque où les trolls régnaient sur leurs anciennes terres sans l'interférence des gobelins, des gnomes, des pirates, des ogres et d'autres intrus étrangers. Scalp-sable a fait appel à son fidèle camarade Ruuzlu pour l'aider à ouvrir un nouveau chapitre de l'histoire des Furies-des-sables de la seule manière que leur tribu connaît : avec une violence rapide et aveuglante."
+        "Le chef Ukorz Sandscalp est obsédé par l'idée de redonner à sa tribu son ancienne gloire. Il a été élevé dans les histoires d'une époque où les trolls régnaient sur leurs anciennes terres sans l'interférence des gobelins, des gnomes, des pirates, des ogres et d'autres intrus étrangers. Scalp-sable a fait appel à son fidèle camarade Ruuzlu pour l'aider à ouvrir un nouveau chapitre de l'histoire des Furies-des-sables de la seule manière que leur tribu connaît : avec une violence rapide et aveuglante.\n\nUkorz était autrefois un chef prometteur, mais la magie qu’il pratiquait avec ses fidèles a déformé son esprit. Ceux qui souhaitent un avenir pour Zul'Farrak réclament désormais la mort du chef et de Ruuzlu."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_11837 = "Entaille ample"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_11837 =
+        "Inflige des dégâts physiques aux ennemis devant le chef Ukorz Scalpessable.\n\nGardez-le dos au groupe."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_15496 = "Fendre"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_15496 =
+        "Inflige des dégâts physiques à une cible et à son allié le plus proche."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7366 = "Posture berserker"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7366 =
+        "Adopte une posture agressive."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_8269 = "Enrager"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_8269 =
+        "Augmente la vitesse d’attaque et les dégâts physiques."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7268 = "Ruuzlu"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7268 =
+        "Combat aux côtés des autres adversaires de cette rencontre."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_3391 = "Rosser"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_3391 =
+        "Accorde deux attaques supplémentaires."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_13518 = "Poison"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_13518 =
+        "Empoisonne une cible et lui inflige des dégâts de Nature toutes les 3 secondes pendant 15 secondes."
     IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_gahzrillasummoning = "Invocation"
     IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_gahzrillasummoning =
         "Utilisez le Marteau de Zul’Farrak pour faire sonner le gong près du bassin de Gahz’rilla et l’invoquer."

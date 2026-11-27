@@ -921,7 +921,28 @@ if GetLocale() == "esES" then
         "Inflige daño de Naturaleza a un objetivo, seguido de daño de Naturaleza adicional cada 5 segundos durante 180 segundos."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Jefe Ukorz Piel de Arena"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
-        "El jefe Ukorz Sandscalp está obsesionado con devolverle a su tribu su antigua gloria. Se crió con historias de una época en la que los trolls dominaban sus antiguas tierras sin la interferencia de duendes, gnomos, piratas, ogros y otros intrusos extranjeros. Sandscalp ha pedido a su camarada de confianza Ruuzlu que le ayude a comenzar un nuevo capítulo en la historia de Sandfury de la única manera que su tribu sabe: con una violencia rápida y cegadora."
+        "El jefe Ukorz Sandscalp está obsesionado con devolverle a su tribu su antigua gloria. Se crió con historias de una época en la que los trolls dominaban sus antiguas tierras sin la interferencia de duendes, gnomos, piratas, ogros y otros intrusos extranjeros. Sandscalp ha pedido a su camarada de confianza Ruuzlu que le ayude a comenzar un nuevo capítulo en la historia de Sandfury de la única manera que su tribu sabe: con una violencia rápida y cegadora.\n\nUkorz fue un líder prometedor, pero la magia que practicaban él y sus seguidores trastornó su mente. Quienes buscan un futuro para Zul'Farrak ahora exigen la muerte tanto del jefe como de Ruuzlu."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_11837 = "Tajo amplio"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_11837 =
+        "Inflige daño físico a los enemigos frente al jefe Ukorz Cabellarena.\n\nMantenedlo de espaldas al grupo."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_15496 = "Adherirse"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_15496 =
+        "Inflige daño físico a un objetivo y a su aliado más cercano."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7366 = "Actitud rabiosa"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7366 =
+        "Adopta una actitud agresiva."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_8269 = "Enfurecer"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_8269 =
+        "Aumenta la velocidad de ataque y el daño físico."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7268 = "Ruuzlu"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7268 =
+        "Lucha junto a los demás combatientes de este encuentro."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_3391 = "Vapulear"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_3391 =
+        "Otorga dos ataques adicionales."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_13518 = "Veneno"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_13518 =
+        "Envenena a un objetivo e inflige daño de Naturaleza cada 3 segundos durante 15 segundos."
     IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_gahzrillasummoning = "Invocación"
     IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_gahzrillasummoning =
         "Usad la Marra de Zul’Farrak para tocar el gong junto al estanque de Gahz’rilla e invocarla."

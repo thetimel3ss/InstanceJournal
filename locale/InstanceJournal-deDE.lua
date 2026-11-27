@@ -923,7 +923,28 @@ if GetLocale() == "deDE" then
         "Fügt einem Ziel Naturschaden und anschließend 180 Sekunden lang alle 5 Sekunden zusätzlichen Naturschaden zu."
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Häuptling Ukorz Sandskalp"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
-        "Häuptling Ukorz Sandskalp ist besessen davon, seinem Stamm wieder zu seinem früheren Glanz zu verhelfen. Er wuchs mit Geschichten aus einer Zeit auf, als Trolle über ihre alten Länder herrschten, ohne dass Kobolde, Gnome, Piraten, Oger und andere ausländische Eindringlinge eingreifen konnten. Sandscalp hat seinen treuen Kameraden Ruuzlu gebeten, ihm dabei zu helfen, ein neues Kapitel in der Geschichte der Sandfury zu beginnen, und zwar auf die einzige Art und Weise, die ihr Stamm kann: mit schneller und blendender Gewalt."
+        "Häuptling Ukorz Sandskalp ist besessen davon, seinem Stamm wieder zu seinem früheren Glanz zu verhelfen. Er wuchs mit Geschichten aus einer Zeit auf, als Trolle über ihre alten Länder herrschten, ohne dass Kobolde, Gnome, Piraten, Oger und andere ausländische Eindringlinge eingreifen konnten. Sandscalp hat seinen treuen Kameraden Ruuzlu gebeten, ihm dabei zu helfen, ein neues Kapitel in der Geschichte der Sandfury zu beginnen, und zwar auf die einzige Art und Weise, die ihr Stamm kann: mit schneller und blendender Gewalt.\n\nUkorz war einst ein vielversprechender Anführer, doch die Magie, die er und seine Anhänger praktizierten, verdrehte seinen Geist. Wer eine Zukunft für Zul'Farrak sucht, fordert nun den Tod des Häuptlings und Ruuzlus."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_11837 = "Weiter Streich"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_11837 =
+        "Fügt Gegnern vor Häuptling Ukorz Sandskalp körperlichen Schaden zu.\n\nHaltet ihn von der Gruppe abgewandt."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_15496 = "Spalten"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_15496 =
+        "Fügt einem Ziel und dessen nächstem Verbündeten körperlichen Schaden zu."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7366 = "Berserkerhaltung"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7366 =
+        "Nimmt eine aggressive Haltung ein."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_8269 = "Wütend"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_8269 =
+        "Erhöht Angriffstempo und körperlichen Schaden."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7268 = "Ruuzlu"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7268 =
+        "Kämpft an der Seite der anderen Gegner in diesem Kampf."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_3391 = "Hauen"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_3391 =
+        "Gewährt zwei zusätzliche Angriffe."
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_13518 = "Gift"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_13518 =
+        "Vergiftet ein Ziel und fügt ihm 15 Sekunden lang alle 3 Sekunden Naturschaden zu."
     IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_gahzrillasummoning = "Beschwörung"
     IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_gahzrillasummoning =
         "Benutzt den Holzhammer von Zul’Farrak, um den Gong neben Gahz’rillas Becken zu schlagen und sie zu beschwören."

@@ -1211,7 +1211,28 @@ if GetLocale() == "zhCN" then
         "对一个目标造成自然伤害，之后每5秒造成额外自然伤害，持续180秒。"
     IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "乌克兹·沙顶"
     IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
-        "酋长乌科兹·沙卡普一心想让他的部落恢复昔日的辉煌。他从小就听着这样的故事长大：巨魔统治着他们古老的土地，不受妖精、侏儒、海盗、食人魔和其他外来入侵者的干扰。沙顶呼吁他信任的战友鲁兹鲁帮助他以他们部落所知道的唯一方式开启沙怒历史的新篇章：迅速而致盲的暴力。"
+        "酋长乌科兹·沙卡普一心想让他的部落恢复昔日的辉煌。他从小就听着这样的故事长大：巨魔统治着他们古老的土地，不受妖精、侏儒、海盗、食人魔和其他外来入侵者的干扰。沙顶呼吁他信任的战友鲁兹鲁帮助他以他们部落所知道的唯一方式开启沙怒历史的新篇章：迅速而致盲的暴力。\n\n乌克兹曾是一位前途光明的领袖，但他与追随者修习的魔法扭曲了他的心智。如今，为祖尔法拉克谋求未来的人们要求杀死这位酋长和卢兹鲁。"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_11837 = "横扫"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_11837 =
+        "对乌克兹·沙顶前方的敌人造成物理伤害。\n\n使其背对队伍。"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_15496 = "顺劈斩"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_15496 =
+        "对一个目标及其最近的盟友造成物理伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7366 = "狂暴姿态"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7366 =
+        "进入攻击性姿态。"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_8269 = "狂怒"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_8269 =
+        "提高攻击速度和物理伤害。"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7268 = "卢兹鲁"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7268 =
+        "与此战斗中的其他敌人并肩作战。"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_3391 = "痛击"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_3391 =
+        "获得两次额外攻击。"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_13518 = "毒药"
+    IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_13518 =
+        "使一个目标中毒，每3秒造成自然伤害，持续15秒。"
     IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_gahzrillasummoning = "召唤"
     IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_gahzrillasummoning =
         "使用祖尔法拉克之槌敲响加兹瑞拉水池旁的锣，以召唤她。"

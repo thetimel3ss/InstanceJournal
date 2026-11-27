@@ -255,7 +255,7 @@ ZF.Bosses = {
             [6] = {IJDB.I[51217], DropChance = 1}
         }
     },
-    [6] = { -- NOTE: Missing abilities
+    [6] = {
         Id = "7267",
         Portrait = IMP .. IMPD .. instanceMediaAcronym .. "ukorz" .. IMPP,
         Frame = IMP .. IMPD .. instanceMediaAcronym .. "ukorz" .. IMPF,
@@ -263,6 +263,53 @@ ZF.Bosses = {
         Story = IJ_DB_DUNGEON_ZF_BOSS_STORY_7267,
         MapCoordinateX = 42.3,
         MapCoordinateY = 33.7,
+        Abilities = {
+            [1] = {
+                Id = "11837",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_11837,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_11837
+            },
+            [2] = {
+                Id = "15496",
+                Icon = "Ability_Warrior_Cleave",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_15496,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_15496
+            },
+            [3] = {
+                Id = "7366",
+                Icon = "Ability_Racial_Avatar",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7366,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7366
+            },
+            [4] = {
+                Id = "8269",
+                Icon = "Spell_Shadow_UnholyFrenzy",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_8269,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_8269
+            },
+            [5] = {
+                Id = "7268",
+                Icon = "Ability_Racial_Berserk",
+                Name = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7268,
+                Effect = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7268,
+                SubAbilities = {
+                    [1] = {
+                        Id = "3391",
+                        Icon = "Ability_GhoulFrenzy",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_3391,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_3391
+                    },
+                    [2] = {
+                        Id = "13518",
+                        Icon = "Spell_Nature_CorrosiveBreath",
+                        Name = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_13518,
+                        Effect = IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_13518,
+                        Flags = {IMAF.Poison}
+                    }
+                }
+            }
+        },
         Loot = {
             [1] = {IJDB.I[9476], DropChance = 20},
             [2] = {IJDB.I[9477], DropChance = 20},

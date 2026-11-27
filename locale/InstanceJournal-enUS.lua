@@ -1115,7 +1115,28 @@ IJ_DB_DUNGEON_ZF_BOSS_7275_ABILITY_EFFECT_8600 =
     "Deals Nature damage to a target, followed by additional Nature damage every 5 seconds for 180 seconds."
 IJ_DB_DUNGEON_ZF_BOSS_NAME_7267 = "Chief Ukorz Sandscalp"
 IJ_DB_DUNGEON_ZF_BOSS_STORY_7267 =
-    "Chief Ukorz Sandscalp is obsessed with restoring his tribe to its former glory. He was raised on stories of a time when trolls lorded over their ancient lands without interference from goblins, gnomes, pirates, ogres, and other foreign interlopers. Sandscalp has called on his trusted comrade Ruuzlu to help him begin a new chapter in Sandfury history in the only way their tribe knows how: with swift and blinding violence."
+    "Chief Ukorz Sandscalp is obsessed with restoring his tribe to its former glory. He was raised on stories of a time when trolls lorded over their ancient lands without interference from goblins, gnomes, pirates, ogres, and other foreign interlopers. Sandscalp has called on his trusted comrade Ruuzlu to help him begin a new chapter in Sandfury history in the only way their tribe knows how: with swift and blinding violence.\n\nUkorz was once a promising leader, but the magic he and his followers practiced warped his mind. Those who seek a future for Zul'Farrak now call for the deaths of both the chief and Ruuzlu."
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_11837 = "Wide Slash"
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_11837 =
+    "Deals Physical damage to enemies in front of Chief Ukorz Sandscalp.\n\nKeep him facing away from the group."
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_15496 = "Cleave"
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_15496 =
+    "Deals Physical damage to a target and its nearest ally."
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7366 = "Berserker Stance"
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7366 =
+    "Assumes an aggressive stance."
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_8269 = "Enrage"
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_8269 =
+    "Increases attack speed and Physical damage."
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_7268 = "Ruuzlu"
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_7268 =
+    "Fights alongside the other combatants in this encounter."
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_3391 = "Thrash"
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_3391 =
+    "Grants two extra attacks."
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_NAME_13518 = "Poison"
+IJ_DB_DUNGEON_ZF_BOSS_7267_ABILITY_EFFECT_13518 =
+    "Poisons a target, dealing Nature damage every 3 seconds for 15 seconds."
 IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_NAME_gahzrillasummoning = "Summoning"
 IJ_DB_DUNGEON_ZF_BOSS_7273_ABILITY_EFFECT_gahzrillasummoning =
     "Use the Mallet of Zul’Farrak to ring the gong beside Gahz’rilla’s pool and summon her."
