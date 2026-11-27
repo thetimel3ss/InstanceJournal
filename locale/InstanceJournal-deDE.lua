@@ -4626,6 +4626,9 @@ if GetLocale() == "deDE" then
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_NAME_8355 = "Schwäche ausnutzen"
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_EFFECT_8355 = "Fügt einem nahen Ziel körperlichen Schaden zu."
 
+    IJ_LOOT_NAME_33090 = "Totem der fernen Beben"
+    IJ_LOOT_NAME_33097 = "Götze der Säure"
+
     -- ONY
     IJ_DB_RAID_ONY_NAME = "Onyxias Versteck"
     IJ_DB_RAID_ONY_STORY =

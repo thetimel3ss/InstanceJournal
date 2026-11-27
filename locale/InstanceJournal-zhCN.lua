@@ -6831,6 +6831,8 @@ if GetLocale() == "zhCN" then
     IJ_LOOT_NAME_33083 = "源质砥石"
     IJ_LOOT_NAME_33084 = "纯净的彩色龙鳞"
     IJ_LOOT_NAME_33085 = "超改透镜"
+    IJ_LOOT_NAME_33090 = "远震图腾"
+    IJ_LOOT_NAME_33097 = "酸蚀神像"
     IJ_LOOT_NAME_16904 = "怒风护腕"
     IJ_LOOT_NAME_16911 = "血牙护腕"
     IJ_LOOT_NAME_16918 = "灵风束腕"

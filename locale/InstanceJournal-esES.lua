@@ -4624,6 +4624,9 @@ if GetLocale() == "esES" then
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_NAME_8355 = "Explotar debilidad"
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_EFFECT_8355 = "Inflige daño físico a un objetivo cercano."
 
+    IJ_LOOT_NAME_33090 = "Tótem de temblores distantes"
+    IJ_LOOT_NAME_33097 = "Ídolo de acidez"
+
     -- ONY
     IJ_DB_RAID_ONY_NAME = "La guarida de Onyxia"
     IJ_DB_RAID_ONY_STORY =

@@ -4618,6 +4618,9 @@ if GetLocale() == "ptBR" then
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_NAME_8355 = "Explorar Fraqueza"
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_EFFECT_8355 = "Causa dano Físico a um alvo próximo."
 
+    IJ_LOOT_NAME_33090 = "Totem dos Tremores Distantes"
+    IJ_LOOT_NAME_33097 = "Ídolo da Acidez"
+
     -- ONY
     IJ_DB_RAID_ONY_NAME = "Covil de Onyxia"
     IJ_DB_RAID_ONY_STORY =

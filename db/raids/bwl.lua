@@ -563,7 +563,9 @@ BWL.Bosses = {
             [10] = {IJDB.I[33086], DropChance = 7},
             [11] = {IJDB.I[33083], DropChance = 7},
             [12] = {IJDB.I[33084], DropChance = 7},
-            [13] = {IJDB.I[33085], DropChance = 7}
+            [13] = {IJDB.I[33085], DropChance = 7},
+            [14] = {IJDB.I[33090], DropChance = 8},
+            [15] = {IJDB.I[33097], DropChance = 8}
         }
     },
     [6] = {

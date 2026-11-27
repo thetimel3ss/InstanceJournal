@@ -4665,6 +4665,9 @@ if GetLocale() == "ruRU" then
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_NAME_8355 = "Использование слабости"
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_EFFECT_8355 = "Наносит физический урон ближайшей цели."
 
+    IJ_LOOT_NAME_33090 = "Тотем далеких толчков"
+    IJ_LOOT_NAME_33097 = "Идол кислотности"
+
     -- ONY
     IJ_DB_RAID_ONY_NAME = "Логово Ониксии"
     IJ_DB_RAID_ONY_STORY =

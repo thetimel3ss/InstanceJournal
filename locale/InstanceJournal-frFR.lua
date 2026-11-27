@@ -4624,6 +4624,9 @@ if GetLocale() == "frFR" then
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_NAME_8355 = "Exploiter la faiblesse"
     IJ_DB_RAID_BWL_BOSS_11583_ABILITY_EFFECT_8355 = "Inflige des dégâts physiques à une cible proche."
 
+    IJ_LOOT_NAME_33090 = "Totem des tremblements lointains"
+    IJ_LOOT_NAME_33097 = "Idole d’acidité"
+
     -- ONY
     IJ_DB_RAID_ONY_NAME = "Le repaire d'Onyxia"
     IJ_DB_RAID_ONY_STORY =

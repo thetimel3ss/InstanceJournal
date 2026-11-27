@@ -3934,6 +3934,10 @@ I[33084] = {Id = "33084", Icon = "pristine_chromatic_scale_1", Name = IJ_LOOT_NA
 
 I[33085] = {Id = "33085", Icon = "over-tinkered_lens_3", Name = IJ_LOOT_NAME_33085, Quality = IQ.Epic, ItemSlot = IS.Enchantment, ItemType = IT.Engineering, LevelRequirement = 60}
 
+I[33090] = {Id = "33090", Icon = "INV_Misc_StoneTablet_06", Name = IJ_LOOT_NAME_33090, Quality = IQ.Epic, ItemSlot = IS.Relic, ItemType = IT.Totem, LevelRequirement = 60}
+
+I[33097] = {Id = "33097", Icon = "INV_Stone_05", Name = IJ_LOOT_NAME_33097, Quality = IQ.Epic, ItemSlot = IS.Relic, ItemType = IT.Idol, LevelRequirement = 60}
+
 I[19345] = {Id = "19345", Icon = "Spell_Holy_BlessingOfProtection", Name = IJ_LOOT_NAME_19345, Quality = IQ.Epic, ItemSlot = IS.Trinket, LevelRequirement = 60, ClassRestriction = {IMCL.Priest}}
 
 I[19368] = {Id = "19368", Icon = "INV_Weapon_Rifle_02", Name = IJ_LOOT_NAME_19368, Quality = IQ.Epic, ItemSlot = IS.Ranged, ItemType = IT.Gun, LevelRequirement = 60}
